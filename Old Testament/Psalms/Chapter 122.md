@@ -11,7 +11,7 @@ layout: default
 # Chapter 122
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/122.jpg" alt="Psalms Chapter 122" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/122.jpg" alt="Psalms Chapter 122" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 122</figcaption>
 </figure>
 1 I was happy when they told me, "Let's go to God's house."

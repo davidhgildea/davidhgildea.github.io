@@ -11,7 +11,7 @@ layout: default
 # Chapter 22
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Samuel/500/22.jpg" alt="1 Samuel Chapter 22" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/1 Samuel/500/22.jpg" alt="1 Samuel Chapter 22" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Samuel Chapter 22</figcaption>
 </figure>
 1 David left that place and went to the cave of Adullam. When his brothers and his father's family heard about it, they went down there to be with him.

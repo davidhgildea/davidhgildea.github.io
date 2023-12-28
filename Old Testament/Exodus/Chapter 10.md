@@ -11,7 +11,7 @@ layout: default
 # Chapter 10
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Exodus/500/10.jpg" alt="Exodus Chapter 10" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Exodus/500/10.jpg" alt="Exodus Chapter 10" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Exodus Chapter 10</figcaption>
 </figure>
 1 God said to Moses, "Go to the Pharaoh, because I have made his heart and his servants' hearts stubborn, so I can display my miracles to them."

@@ -11,7 +11,7 @@ layout: default
 # Chapter 3
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Jeremiah/500/3.jpg" alt="Jeremiah Chapter 3" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Jeremiah/500/3.jpg" alt="Jeremiah Chapter 3" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 3</figcaption>
 </figure>
 1 People ask, "If a man divorces his wife, and she leaves him to be with another man, can he take her back? Won't that make the land very unclean?" But you have been unfaithful with many partners; still, come back to me, says God.

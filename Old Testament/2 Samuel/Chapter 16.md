@@ -11,7 +11,7 @@ layout: default
 # Chapter 16
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Samuel/500/16.jpg" alt="2 Samuel Chapter 16" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/2 Samuel/500/16.jpg" alt="2 Samuel Chapter 16" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Samuel Chapter 16</figcaption>
 </figure>
 1 When David had just gone over the hilltop, Ziba, who worked for Mephibosheth, came to meet him. He had two saddled donkeys with him, as well as two hundred loaves of bread, one hundred bunches of raisins, one hundred summer fruits, and a bottle of wine.

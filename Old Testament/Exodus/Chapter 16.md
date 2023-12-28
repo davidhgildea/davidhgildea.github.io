@@ -11,7 +11,7 @@ layout: default
 # Chapter 16
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Exodus/500/16.jpg" alt="Exodus Chapter 16" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Exodus/500/16.jpg" alt="Exodus Chapter 16" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Exodus Chapter 16</figcaption>
 </figure>
 1 They left Elim, and all the Israelites reached the Sin desert, between Elim and Sinai, on the fifteenth day of the second month since leaving Egypt.

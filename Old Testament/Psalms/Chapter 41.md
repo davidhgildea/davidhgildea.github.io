@@ -11,7 +11,7 @@ layout: default
 # Chapter 41
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/41.jpg" alt="Psalms Chapter 41" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/41.jpg" alt="Psalms Chapter 41" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 41</figcaption>
 </figure>
 1 Happy is the one who thinks about the poor; God will save him when trouble comes.

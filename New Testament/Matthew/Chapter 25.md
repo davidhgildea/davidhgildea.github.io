@@ -11,7 +11,7 @@ layout: default
 # Chapter 25
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Matthew/500/25.jpg" alt="Matthew Chapter 25" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Matthew/500/25.jpg" alt="Matthew Chapter 25" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Matthew Chapter 25</figcaption>
 </figure>
 1 Then the kingdom of heaven will be like ten young women who took their lamps and went out to meet the groom.

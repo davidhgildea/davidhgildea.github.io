@@ -11,7 +11,7 @@ layout: default
 # Chapter 97
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/97.jpg" alt="Psalms Chapter 97" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/97.jpg" alt="Psalms Chapter 97" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 97</figcaption>
 </figure>
 1 God rules; let the earth be happy; let the many islands be joyful.

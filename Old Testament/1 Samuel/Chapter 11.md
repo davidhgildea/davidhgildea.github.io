@@ -11,7 +11,7 @@ layout: default
 # Chapter 11
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Samuel/500/11.jpg" alt="1 Samuel Chapter 11" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/1 Samuel/500/11.jpg" alt="1 Samuel Chapter 11" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Samuel Chapter 11</figcaption>
 </figure>
 1 Then Nahash the Ammonite arrived and camped against Jabeshgilead. All the men of Jabesh told Nahash, "Make an agreement with us, and we will serve you."

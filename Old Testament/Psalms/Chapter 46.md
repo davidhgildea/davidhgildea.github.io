@@ -11,7 +11,7 @@ layout: default
 # Chapter 46
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/46.jpg" alt="Psalms Chapter 46" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/46.jpg" alt="Psalms Chapter 46" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 46</figcaption>
 </figure>
 1 God is our safe place and power, always there to help in times of trouble.

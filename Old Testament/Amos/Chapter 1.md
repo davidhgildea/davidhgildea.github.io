@@ -11,7 +11,7 @@ layout: default
 # Chapter 1
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Amos/500/1.jpg" alt="Amos Chapter 1" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Amos/500/1.jpg" alt="Amos Chapter 1" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Amos Chapter 1</figcaption>
 </figure>
 1 These are the words of Amos, one of the shepherds from Tekoa. He had visions about Israel when Uzziah was king of Judah, and when Jeroboam, Joash's son, was king of Israel. This happened two years before the earthquake.

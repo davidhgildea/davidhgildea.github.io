@@ -11,7 +11,7 @@ layout: default
 # Chapter 33
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Chronicles/500/33.jpg" alt="2 Chronicles Chapter 33" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/2 Chronicles/500/33.jpg" alt="2 Chronicles Chapter 33" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Chronicles Chapter 33</figcaption>
 </figure>
 1 Manasseh was twelve years old when he became king, and he ruled for fifty-five years in Jerusalem.

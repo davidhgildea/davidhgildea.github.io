@@ -11,7 +11,7 @@ layout: default
 # Chapter 61
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/61.jpg" alt="Isaiah Chapter 61" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Isaiah/500/61.jpg" alt="Isaiah Chapter 61" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 61</figcaption>
 </figure>
 1 God's Spirit is with me; for God has chosen me to bring good news to the humble; He has sent me to heal those with broken hearts, to announce freedom for the captives, and to open the prison for those who are tied up.

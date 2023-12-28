@@ -11,7 +11,7 @@ layout: default
 # Chapter 115
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/115.jpg" alt="Psalms Chapter 115" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/115.jpg" alt="Psalms Chapter 115" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 115</figcaption>
 </figure>
 1 Not for us, God, not for us, but for your name give glory, because of your kindness and your truth.

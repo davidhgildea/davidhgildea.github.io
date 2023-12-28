@@ -11,7 +11,7 @@ layout: default
 # Chapter 9
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Corinthians/500/9.jpg" alt="1 Corinthians Chapter 9" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/1 Corinthians/500/9.jpg" alt="1 Corinthians Chapter 9" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Corinthians Chapter 9</figcaption>
 </figure>
 1 Am I not a messenger? Am I not free? Have I not seen Jesus Christ our Leader? Are you not my work in God?

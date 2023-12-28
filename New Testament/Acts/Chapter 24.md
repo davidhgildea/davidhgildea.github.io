@@ -11,7 +11,7 @@ layout: default
 # Chapter 24
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Acts/500/24.jpg" alt="Acts Chapter 24" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Acts/500/24.jpg" alt="Acts Chapter 24" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Acts Chapter 24</figcaption>
 </figure>
 1 Five days later, the high priest Ananias came down with some elders and a speaker named Tertullus, who accused Paul to the governor.

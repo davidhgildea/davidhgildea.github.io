@@ -11,7 +11,7 @@ layout: default
 # Chapter 72
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/72.jpg" alt="Psalms Chapter 72" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/72.jpg" alt="Psalms Chapter 72" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 72</figcaption>
 </figure>
 1 God, give the king your justice, and your righteousness to the king's son.

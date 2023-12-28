@@ -11,7 +11,7 @@ layout: default
 # Chapter 15
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Luke/500/15.jpg" alt="Luke Chapter 15" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Luke/500/15.jpg" alt="Luke Chapter 15" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Luke Chapter 15</figcaption>
 </figure>
 1 All the tax collectors and sinners came close to listen to him.

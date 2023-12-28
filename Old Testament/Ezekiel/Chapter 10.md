@@ -11,7 +11,7 @@ layout: default
 # Chapter 10
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ezekiel/500/10.jpg" alt="Ezekiel Chapter 10" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Ezekiel/500/10.jpg" alt="Ezekiel Chapter 10" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ezekiel Chapter 10</figcaption>
 </figure>
 1 I looked, and saw above the cherubim there was something like a blue sapphire stone above them, looking like a throne.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 46
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Jeremiah/500/46.jpg" alt="Jeremiah Chapter 46" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Jeremiah/500/46.jpg" alt="Jeremiah Chapter 46" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 46</figcaption>
 </figure>
 1 God's message that came to Jeremiah the prophet about the nations;

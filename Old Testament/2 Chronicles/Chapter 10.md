@@ -11,7 +11,7 @@ layout: default
 # Chapter 10
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Chronicles/500/10.jpg" alt="2 Chronicles Chapter 10" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/2 Chronicles/500/10.jpg" alt="2 Chronicles Chapter 10" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Chronicles Chapter 10</figcaption>
 </figure>
 1 Rehoboam went to Shechem because all the people of Israel had come there to make him king.

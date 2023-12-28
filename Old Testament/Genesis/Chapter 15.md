@@ -11,7 +11,7 @@ layout: default
 # Chapter 15
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Genesis/500/15.jpg" alt="Genesis Chapter 15" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Genesis/500/15.jpg" alt="Genesis Chapter 15" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 15</figcaption>
 </figure>
 1 After these events, God spoke to Abram in a vision, saying, "Do not be afraid, Abram: I am your protector and your very great reward."

@@ -11,7 +11,7 @@ layout: default
 # Chapter 13
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Revelation/500/13.jpg" alt="Revelation Chapter 13" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Revelation/500/13.jpg" alt="Revelation Chapter 13" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Revelation Chapter 13</figcaption>
 </figure>
 1 I stood on the sea's shore and saw a beast with seven heads and ten horns come up from the sea. It had ten crowns on its horns and names that insult God on its heads.

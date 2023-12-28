@@ -11,7 +11,7 @@ layout: default
 # Chapter 105
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/105.jpg" alt="Psalms Chapter 105" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/105.jpg" alt="Psalms Chapter 105" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 105</figcaption>
 </figure>
 1 Give thanks to God; call on his name; tell people about what he has done.

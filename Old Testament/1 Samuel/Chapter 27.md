@@ -11,7 +11,7 @@ layout: default
 # Chapter 27
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Samuel/500/27.jpg" alt="1 Samuel Chapter 27" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/1 Samuel/500/27.jpg" alt="1 Samuel Chapter 27" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Samuel Chapter 27</figcaption>
 </figure>
 1 David thought to himself, "I will one day die by Saul's hand. The best thing I can do is quickly run away to the Philistine territory; then Saul will give up looking for me in Israel, and I will be safe from him."

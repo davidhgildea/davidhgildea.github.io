@@ -11,7 +11,7 @@ layout: default
 # Chapter 7
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Deuteronomy/500/7.jpg" alt="Deuteronomy Chapter 7" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Deuteronomy/500/7.jpg" alt="Deuteronomy Chapter 7" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Deuteronomy Chapter 7</figcaption>
 </figure>
 1 When God brings you to the land you are going to take over, and has driven out many nations ahead of you—the Hittites, Girgashites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites—seven nations bigger and stronger than you;

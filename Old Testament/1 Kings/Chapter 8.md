@@ -11,7 +11,7 @@ layout: default
 # Chapter 8
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Kings/500/8.jpg" alt="1 Kings Chapter 8" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/1 Kings/500/8.jpg" alt="1 Kings Chapter 8" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Kings Chapter 8</figcaption>
 </figure>
 1 Solomon brought together Israel's elders, tribal leaders, and family heads in Jerusalem to move God's covenant chest from David's city, Zion, to King Solomon.

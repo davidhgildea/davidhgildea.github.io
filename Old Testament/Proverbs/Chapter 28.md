@@ -11,7 +11,7 @@ layout: default
 # Chapter 28
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Proverbs/500/28.jpg" alt="Proverbs Chapter 28" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Proverbs/500/28.jpg" alt="Proverbs Chapter 28" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Proverbs Chapter 28</figcaption>
 </figure>
 1 Bad people run away even when no one chases them, but good people are as brave as a lion.

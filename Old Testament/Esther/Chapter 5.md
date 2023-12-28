@@ -11,7 +11,7 @@ layout: default
 # Chapter 5
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Esther/500/5.jpg" alt="Esther Chapter 5" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Esther/500/5.jpg" alt="Esther Chapter 5" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Esther Chapter 5</figcaption>
 </figure>
 1 On the third day, Esther dressed in her royal clothes and stood in the inner part of the palace, across from the king's rooms. The king was seated on his royal throne in the palace, facing the entrance.

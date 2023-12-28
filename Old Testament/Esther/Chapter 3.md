@@ -11,7 +11,7 @@ layout: default
 # Chapter 3
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Esther/500/3.jpg" alt="Esther Chapter 3" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Esther/500/3.jpg" alt="Esther Chapter 3" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Esther Chapter 3</figcaption>
 </figure>
 1 After this, King Ahasuerus promoted Haman, son of Hammedatha the Agagite, raised his rank, and gave him a higher seat than all the other princes with him.

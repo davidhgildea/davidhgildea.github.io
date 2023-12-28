@@ -11,7 +11,7 @@ layout: default
 # Chapter 8
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Joshua/500/8.jpg" alt="Joshua Chapter 8" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Joshua/500/8.jpg" alt="Joshua Chapter 8" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Joshua Chapter 8</figcaption>
 </figure>
 1 God told Joshua, "Don't be afraid or discouraged. Take all your soldiers and go to Ai. I have given you the king of Ai, his people, his city, and his land."

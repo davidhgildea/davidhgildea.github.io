@@ -11,7 +11,7 @@ layout: default
 # Chapter 18
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Samuel/500/18.jpg" alt="2 Samuel Chapter 18" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/2 Samuel/500/18.jpg" alt="2 Samuel Chapter 18" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Samuel Chapter 18</figcaption>
 </figure>
 1 David counted the people with him and put leaders in charge of groups of a thousand and groups of a hundred.

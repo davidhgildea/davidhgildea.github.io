@@ -11,7 +11,7 @@ layout: default
 # Chapter 28
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Job/500/28.jpg" alt="Job Chapter 28" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Job/500/28.jpg" alt="Job Chapter 28" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Job Chapter 28</figcaption>
 </figure>
 1 Surely there is a source for silver and a place where gold is refined.

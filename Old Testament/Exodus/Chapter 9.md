@@ -11,7 +11,7 @@ layout: default
 # Chapter 9
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Exodus/500/9.jpg" alt="Exodus Chapter 9" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Exodus/500/9.jpg" alt="Exodus Chapter 9" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Exodus Chapter 9</figcaption>
 </figure>
 1 Then God told Moses, "Go to Pharaoh and say to him, 'God of the Hebrews says, let my people go so they can worship me.'"

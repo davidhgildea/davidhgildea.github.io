@@ -11,7 +11,7 @@ layout: default
 # Chapter 34
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Genesis/500/34.jpg" alt="Genesis Chapter 34" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Genesis/500/34.jpg" alt="Genesis Chapter 34" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 34</figcaption>
 </figure>
 1 Dinah, Leah's daughter whom she had with Jacob, went out to meet the local girls.

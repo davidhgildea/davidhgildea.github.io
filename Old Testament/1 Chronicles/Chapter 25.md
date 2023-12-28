@@ -11,7 +11,7 @@ layout: default
 # Chapter 25
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Chronicles/500/25.jpg" alt="1 Chronicles Chapter 25" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/1 Chronicles/500/25.jpg" alt="1 Chronicles Chapter 25" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Chronicles Chapter 25</figcaption>
 </figure>
 1 David and the leaders assigned the sons of Asaph, Heman, and Jeduthun to prophesy using harps, lyres, and cymbals. They counted how many people each job needed.

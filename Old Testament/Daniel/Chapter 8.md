@@ -11,7 +11,7 @@ layout: default
 # Chapter 8
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Daniel/500/8.jpg" alt="Daniel Chapter 8" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Daniel/500/8.jpg" alt="Daniel Chapter 8" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Daniel Chapter 8</figcaption>
 </figure>
 1 In the third year of King Belshazzar's rule, I, Daniel, had a vision, after my first one.

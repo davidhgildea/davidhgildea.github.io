@@ -11,7 +11,7 @@ layout: default
 # Chapter 2
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Leviticus/500/2.jpg" alt="Leviticus Chapter 2" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Leviticus/500/2.jpg" alt="Leviticus Chapter 2" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Leviticus Chapter 2</figcaption>
 </figure>
 1 When someone wants to give a grain offering to God, it must be of fine flour; they are to pour oil on it and add frankincense.

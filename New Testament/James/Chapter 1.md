@@ -11,7 +11,7 @@ layout: default
 # Chapter 1
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/James/500/1.jpg" alt="James Chapter 1" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/James/500/1.jpg" alt="James Chapter 1" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">James Chapter 1</figcaption>
 </figure>
 1 James, a servant of God and Jesus Christ, to the twelve tribes spread out, hello.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 18
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Samuel/500/18.jpg" alt="1 Samuel Chapter 18" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/1 Samuel/500/18.jpg" alt="1 Samuel Chapter 18" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Samuel Chapter 18</figcaption>
 </figure>
 1 When he finished talking to Saul, Jonathan felt very close to David and loved him as he loved himself.

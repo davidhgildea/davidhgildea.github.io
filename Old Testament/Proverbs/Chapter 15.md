@@ -11,7 +11,7 @@ layout: default
 # Chapter 15
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Proverbs/500/15.jpg" alt="Proverbs Chapter 15" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Proverbs/500/15.jpg" alt="Proverbs Chapter 15" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Proverbs Chapter 15</figcaption>
 </figure>
 1 A gentle reply calms anger, but harsh words cause tempers to rise.

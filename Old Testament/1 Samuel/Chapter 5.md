@@ -11,7 +11,7 @@ layout: default
 # Chapter 5
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Samuel/500/5.jpg" alt="1 Samuel Chapter 5" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/1 Samuel/500/5.jpg" alt="1 Samuel Chapter 5" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Samuel Chapter 5</figcaption>
 </figure>
 1 The Philistines captured God's chest and moved it from Ebenezer to Ashdod.

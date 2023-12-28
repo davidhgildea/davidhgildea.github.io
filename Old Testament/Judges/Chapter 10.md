@@ -11,7 +11,7 @@ layout: default
 # Chapter 10
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Judges/500/10.jpg" alt="Judges Chapter 10" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Judges/500/10.jpg" alt="Judges Chapter 10" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Judges Chapter 10</figcaption>
 </figure>
 1 After Abimelech, Tola son of Puah, Dodo's son from the tribe of Issachar, became a leader to protect Israel. He lived in Shamir in the Ephraim hills.

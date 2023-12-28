@@ -11,7 +11,7 @@ layout: default
 # Chapter 18
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Revelation/500/18.jpg" alt="Revelation Chapter 18" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Revelation/500/18.jpg" alt="Revelation Chapter 18" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Revelation Chapter 18</figcaption>
 </figure>
 1 After this I saw another angel coming down from heaven with great power, and the earth shone with his brightness.

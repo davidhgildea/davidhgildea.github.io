@@ -11,7 +11,7 @@ layout: default
 # Chapter 8
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ezekiel/500/8.jpg" alt="Ezekiel Chapter 8" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Ezekiel/500/8.jpg" alt="Ezekiel Chapter 8" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ezekiel Chapter 8</figcaption>
 </figure>
 1 In the sixth year, the sixth month, and on the fifth day, while I was sitting in my house and the leaders of Judah were sitting before me, the power of God came over me.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 103
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/103.jpg" alt="Psalms Chapter 103" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/103.jpg" alt="Psalms Chapter 103" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 103</figcaption>
 </figure>
 1 Praise God, O my soul, and everything in me, praise his holy name.

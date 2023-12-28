@@ -11,7 +11,7 @@ layout: default
 # Chapter 50
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/50.jpg" alt="Psalms Chapter 50" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/50.jpg" alt="Psalms Chapter 50" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 50</figcaption>
 </figure>
 1 The powerful God has spoken and called to the earth from where the sun rises to where it sets.

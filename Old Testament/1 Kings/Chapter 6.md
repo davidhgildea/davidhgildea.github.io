@@ -11,7 +11,7 @@ layout: default
 # Chapter 6
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Kings/500/6.jpg" alt="1 Kings Chapter 6" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/1 Kings/500/6.jpg" alt="1 Kings Chapter 6" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Kings Chapter 6</figcaption>
 </figure>
 1 In the year 480 after the Israelites left Egypt, during the fourth year of Solomon's rule over Israel in the month of Zif, which is the second month, he started to build God's house.

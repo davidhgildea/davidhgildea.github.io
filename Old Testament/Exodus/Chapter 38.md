@@ -11,7 +11,7 @@ layout: default
 # Chapter 38
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Exodus/500/38.jpg" alt="Exodus Chapter 38" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Exodus/500/38.jpg" alt="Exodus Chapter 38" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Exodus Chapter 38</figcaption>
 </figure>
 1 He made the altar for burnt offerings from acacia wood: it was five cubits long and five cubits wide, forming a square, and it was three cubits high.

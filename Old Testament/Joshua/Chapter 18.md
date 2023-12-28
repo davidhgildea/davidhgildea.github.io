@@ -11,7 +11,7 @@ layout: default
 # Chapter 18
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Joshua/500/18.jpg" alt="Joshua Chapter 18" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Joshua/500/18.jpg" alt="Joshua Chapter 18" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Joshua Chapter 18</figcaption>
 </figure>
 1 The whole group of Israel's people gathered at Shiloh and put the meeting tent there. The land was brought under their control.

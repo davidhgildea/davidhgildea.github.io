@@ -11,7 +11,7 @@ layout: default
 # Chapter 6
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/6.jpg" alt="Isaiah Chapter 6" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Isaiah/500/6.jpg" alt="Isaiah Chapter 6" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 6</figcaption>
 </figure>
 1 The year King Uzziah died, I saw God on a high and exalted throne, and his robe filled the temple.

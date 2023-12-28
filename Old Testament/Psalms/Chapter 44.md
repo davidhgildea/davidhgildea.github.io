@@ -11,7 +11,7 @@ layout: default
 # Chapter 44
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/44.jpg" alt="Psalms Chapter 44" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/44.jpg" alt="Psalms Chapter 44" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 44</figcaption>
 </figure>
 1 We have heard, O God, our ancestors told us what you did in their time, long ago.

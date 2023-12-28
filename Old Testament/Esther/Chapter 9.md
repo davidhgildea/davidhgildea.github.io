@@ -11,7 +11,7 @@ layout: default
 # Chapter 9
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Esther/500/9.jpg" alt="Esther Chapter 9" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Esther/500/9.jpg" alt="Esther Chapter 9" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Esther Chapter 9</figcaption>
 </figure>
 1 In the twelfth month, called Adar, on the thirteenth day, as the time for the king's command and law to be acted on came close, when the Jews' enemies hoped to control them, things changed so that the Jews gained power over those who hated them.

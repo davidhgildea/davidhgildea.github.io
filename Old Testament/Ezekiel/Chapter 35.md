@@ -11,7 +11,7 @@ layout: default
 # Chapter 35
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ezekiel/500/35.jpg" alt="Ezekiel Chapter 35" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Ezekiel/500/35.jpg" alt="Ezekiel Chapter 35" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ezekiel Chapter 35</figcaption>
 </figure>
 1 Additionally, God spoke to me, saying,

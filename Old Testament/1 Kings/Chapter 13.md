@@ -11,7 +11,7 @@ layout: default
 # Chapter 13
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Kings/500/13.jpg" alt="1 Kings Chapter 13" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/1 Kings/500/13.jpg" alt="1 Kings Chapter 13" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Kings Chapter 13</figcaption>
 </figure>
 1 A man of God came from Judah to Bethel because God told him to, and Jeroboam was by the altar burning incense.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 1
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Deuteronomy/500/1.jpg" alt="Deuteronomy Chapter 1" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Deuteronomy/500/1.jpg" alt="Deuteronomy Chapter 1" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Deuteronomy Chapter 1</figcaption>
 </figure>
 1 These are the words Moses said to all Israel in the desert east of Jordan, near the Red Sea, between Paran, Tophel, Laban, Hazeroth, and Dizahab.

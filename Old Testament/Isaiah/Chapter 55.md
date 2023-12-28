@@ -11,7 +11,7 @@ layout: default
 # Chapter 55
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/55.jpg" alt="Isaiah Chapter 55" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Isaiah/500/55.jpg" alt="Isaiah Chapter 55" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 55</figcaption>
 </figure>
 1 Everyone who is thirsty, come to the water. Even if you have no money, come, buy, and eat. Yes, come and get wine and milk for free, without paying.

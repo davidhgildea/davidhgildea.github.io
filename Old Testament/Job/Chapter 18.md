@@ -11,7 +11,7 @@ layout: default
 # Chapter 18
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Job/500/18.jpg" alt="Job Chapter 18" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Job/500/18.jpg" alt="Job Chapter 18" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Job Chapter 18</figcaption>
 </figure>
 1 Bildad the Shuhite replied and said,

@@ -11,7 +11,7 @@ layout: default
 # Chapter 11
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Matthew/500/11.jpg" alt="Matthew Chapter 11" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Matthew/500/11.jpg" alt="Matthew Chapter 11" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Matthew Chapter 11</figcaption>
 </figure>
 1 When Jesus finished giving instructions to his twelve disciples, he left to teach and spread his message in their towns.

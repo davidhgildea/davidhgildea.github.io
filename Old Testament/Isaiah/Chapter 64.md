@@ -11,7 +11,7 @@ layout: default
 # Chapter 64
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/64.jpg" alt="Isaiah Chapter 64" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Isaiah/500/64.jpg" alt="Isaiah Chapter 64" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 64</figcaption>
 </figure>
 1 I wish you would tear open the skies and come down, so that the mountains would melt before you.

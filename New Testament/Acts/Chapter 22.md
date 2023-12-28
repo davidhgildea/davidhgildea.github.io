@@ -11,7 +11,7 @@ layout: default
 # Chapter 22
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Acts/500/22.jpg" alt="Acts Chapter 22" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Acts/500/22.jpg" alt="Acts Chapter 22" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Acts Chapter 22</figcaption>
 </figure>
 1 Friends and fathers, listen to my defense that I am presenting to you now.

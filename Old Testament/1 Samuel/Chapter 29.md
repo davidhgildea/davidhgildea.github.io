@@ -11,7 +11,7 @@ layout: default
 # Chapter 29
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Samuel/500/29.jpg" alt="1 Samuel Chapter 29" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/1 Samuel/500/29.jpg" alt="1 Samuel Chapter 29" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Samuel Chapter 29</figcaption>
 </figure>
 1 The Philistines brought all their armies together at Aphek, while the Israelites set up camp by a spring in Jezreel.

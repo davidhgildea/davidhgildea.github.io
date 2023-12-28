@@ -11,7 +11,7 @@ layout: default
 # Chapter 14
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/14.jpg" alt="Psalms Chapter 14" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/14.jpg" alt="Psalms Chapter 14" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 14</figcaption>
 </figure>
 1 The fool thinks to himself, there is no God. They are bad, they do terrible things, no one does good.

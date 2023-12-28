@@ -11,7 +11,7 @@ layout: default
 # Chapter 19
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Revelation/500/19.jpg" alt="Revelation Chapter 19" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Revelation/500/19.jpg" alt="Revelation Chapter 19" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Revelation Chapter 19</figcaption>
 </figure>
 1 After this, I heard many people in heaven shouting loudly, "Hallelujah! Salvation, glory, honor, and power belong to our God."

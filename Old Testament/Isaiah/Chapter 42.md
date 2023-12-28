@@ -11,7 +11,7 @@ layout: default
 # Chapter 42
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/42.jpg" alt="Isaiah Chapter 42" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Isaiah/500/42.jpg" alt="Isaiah Chapter 42" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 42</figcaption>
 </figure>
 1 Look at my servant, who I support; my chosen one, who pleases me; I have given him my spirit: he will bring fair judgment to the nations.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 2
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/John/500/2.jpg" alt="John Chapter 2" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/John/500/2.jpg" alt="John Chapter 2" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">John Chapter 2</figcaption>
 </figure>
 1 On the third day, there was a wedding in Cana of Galilee, and Jesus' mother was there.

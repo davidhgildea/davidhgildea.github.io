@@ -11,7 +11,7 @@ layout: default
 # Chapter 128
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/128.jpg" alt="Psalms Chapter 128" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/128.jpg" alt="Psalms Chapter 128" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 128</figcaption>
 </figure>
 1 Happy is everyone who respects God and follows His paths.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 42
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Jeremiah/500/42.jpg" alt="Jeremiah Chapter 42" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Jeremiah/500/42.jpg" alt="Jeremiah Chapter 42" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 42</figcaption>
 </figure>
 1 Then all the army leaders, Johanan son of Kareah, Jezaniah son of Hoshaiah, and everyone, both small and great, came forward.

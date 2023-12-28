@@ -11,7 +11,7 @@ layout: default
 # Chapter 53
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/53.jpg" alt="Isaiah Chapter 53" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Isaiah/500/53.jpg" alt="Isaiah Chapter 53" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 53</figcaption>
 </figure>
 1 Who has believed what we said? And to whom has God shown his power?

@@ -11,7 +11,7 @@ layout: default
 # Chapter 44
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Genesis/500/44.jpg" alt="Genesis Chapter 44" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Genesis/500/44.jpg" alt="Genesis Chapter 44" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 44</figcaption>
 </figure>
 1 He told his house manager, "Put as much food as they can carry in the men's bags and return each man's money to his bag."

@@ -11,7 +11,7 @@ layout: default
 # Chapter 37
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Genesis/500/37.jpg" alt="Genesis Chapter 37" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Genesis/500/37.jpg" alt="Genesis Chapter 37" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 37</figcaption>
 </figure>
 1 Jacob lived in the land where his father had been a foreigner, in Canaan.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 10
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Chronicles/500/10.jpg" alt="1 Chronicles Chapter 10" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/1 Chronicles/500/10.jpg" alt="1 Chronicles Chapter 10" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Chronicles Chapter 10</figcaption>
 </figure>
 1 The Philistines battled Israel; Israel's men ran from the Philistines and were killed on Mount Gilboa.

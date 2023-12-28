@@ -11,7 +11,7 @@ layout: default
 # Chapter 27
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Proverbs/500/27.jpg" alt="Proverbs Chapter 27" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Proverbs/500/27.jpg" alt="Proverbs Chapter 27" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Proverbs Chapter 27</figcaption>
 </figure>
 1 Don't brag about tomorrow; you don't know what the day will bring.

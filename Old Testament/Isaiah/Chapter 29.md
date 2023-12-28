@@ -11,7 +11,7 @@ layout: default
 # Chapter 29
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/29.jpg" alt="Isaiah Chapter 29" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Isaiah/500/29.jpg" alt="Isaiah Chapter 29" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 29</figcaption>
 </figure>
 1 Sadness to Ariel, the city where David lived! Keep adding year after year; continue the sacrifices.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 2
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Kings/500/2.jpg" alt="2 Kings Chapter 2" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/2 Kings/500/2.jpg" alt="2 Kings Chapter 2" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Kings Chapter 2</figcaption>
 </figure>
 1 When God was about to take Elijah to heaven in a whirlwind, Elijah and Elisha left Gilgal together.

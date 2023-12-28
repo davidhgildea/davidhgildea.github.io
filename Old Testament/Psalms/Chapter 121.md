@@ -11,7 +11,7 @@ layout: default
 # Chapter 121
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/121.jpg" alt="Psalms Chapter 121" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/121.jpg" alt="Psalms Chapter 121" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 121</figcaption>
 </figure>
 1 I will look up to the hills, where my help comes from.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 9
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Daniel/500/9.jpg" alt="Daniel Chapter 9" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Daniel/500/9.jpg" alt="Daniel Chapter 9" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Daniel Chapter 9</figcaption>
 </figure>
 1 In the first year of Darius, son of Ahasuerus, from the Medes' family, who became king of the Chaldean land;

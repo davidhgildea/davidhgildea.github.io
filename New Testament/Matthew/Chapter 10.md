@@ -11,7 +11,7 @@ layout: default
 # Chapter 10
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Matthew/500/10.jpg" alt="Matthew Chapter 10" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Matthew/500/10.jpg" alt="Matthew Chapter 10" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Matthew Chapter 10</figcaption>
 </figure>
 1 When he gathered his twelve followers, he gave them authority over evil spirits, to drive them out, and to cure every kind of illness and disease.

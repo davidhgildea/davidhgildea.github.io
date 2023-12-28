@@ -11,7 +11,7 @@ layout: default
 # Chapter 2
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Hosea/500/2.jpg" alt="Hosea Chapter 2" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Hosea/500/2.jpg" alt="Hosea Chapter 2" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Hosea Chapter 2</figcaption>
 </figure>
 1 Tell your brothers, 'My People,' and your sisters, 'Loved One.'

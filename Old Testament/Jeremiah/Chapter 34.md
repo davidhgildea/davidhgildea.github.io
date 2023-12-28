@@ -11,7 +11,7 @@ layout: default
 # Chapter 34
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Jeremiah/500/34.jpg" alt="Jeremiah Chapter 34" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Jeremiah/500/34.jpg" alt="Jeremiah Chapter 34" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 34</figcaption>
 </figure>
 1 God gave a message to Jeremiah when Nebuchadnezzar, the king of Babylon, his army, and all the kingdoms he ruled, along with all their people, were fighting against Jerusalem and its cities. He said,

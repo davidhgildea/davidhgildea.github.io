@@ -11,7 +11,7 @@ layout: default
 # Chapter 1
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Lamentations/500/1.jpg" alt="Lamentations Chapter 1" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Lamentations/500/1.jpg" alt="Lamentations Chapter 1" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Lamentations Chapter 1</figcaption>
 </figure>
 1 How lonely sits the city that was once full of people! How has she become like a widow! She who was important among the nations, and a ruler among the regions, how has she become a servant!

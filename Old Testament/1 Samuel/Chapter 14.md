@@ -11,7 +11,7 @@ layout: default
 # Chapter 14
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Samuel/500/14.jpg" alt="1 Samuel Chapter 14" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/1 Samuel/500/14.jpg" alt="1 Samuel Chapter 14" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Samuel Chapter 14</figcaption>
 </figure>
 1 One day, Jonathan, Saul's son, told his armor-bearer, "Come, let's go to the Philistine camp on the other side." But he didn't tell his father.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 12
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Samuel/500/12.jpg" alt="2 Samuel Chapter 12" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/2 Samuel/500/12.jpg" alt="2 Samuel Chapter 12" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Samuel Chapter 12</figcaption>
 </figure>
 1 God sent Nathan to David. He went to him and said, "There were two men in the same city; one was rich and the other was poor."

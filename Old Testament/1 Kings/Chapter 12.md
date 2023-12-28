@@ -11,7 +11,7 @@ layout: default
 # Chapter 12
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Kings/500/12.jpg" alt="1 Kings Chapter 12" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/1 Kings/500/12.jpg" alt="1 Kings Chapter 12" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Kings Chapter 12</figcaption>
 </figure>
 1 Rehoboam went to Shechem because all Israel had gathered there to make him king.

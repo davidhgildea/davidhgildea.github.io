@@ -11,7 +11,7 @@ layout: default
 # Chapter 26
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/26.jpg" alt="Isaiah Chapter 26" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Isaiah/500/26.jpg" alt="Isaiah Chapter 26" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 26</figcaption>
 </figure>
 1 On that day, this song will be sung in the land of Judah: "We have a strong city; God makes salvation our walls and defenses."

@@ -11,7 +11,7 @@ layout: default
 # Chapter 24
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Chronicles/500/24.jpg" alt="1 Chronicles Chapter 24" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/1 Chronicles/500/24.jpg" alt="1 Chronicles Chapter 24" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Chronicles Chapter 24</figcaption>
 </figure>
 1 These are the groups of Aaron's sons: Nadab, Abihu, Eleazar, and Ithamar.

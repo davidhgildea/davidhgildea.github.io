@@ -11,7 +11,7 @@ layout: default
 # Chapter 17
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Proverbs/500/17.jpg" alt="Proverbs Chapter 17" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Proverbs/500/17.jpg" alt="Proverbs Chapter 17" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Proverbs Chapter 17</figcaption>
 </figure>
 1 It is better to have a little with peace than a house full of food with fighting.

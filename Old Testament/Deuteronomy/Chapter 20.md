@@ -11,7 +11,7 @@ layout: default
 # Chapter 20
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Deuteronomy/500/20.jpg" alt="Deuteronomy Chapter 20" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Deuteronomy/500/20.jpg" alt="Deuteronomy Chapter 20" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Deuteronomy Chapter 20</figcaption>
 </figure>
 1 When you go to fight against your enemies and you see horses and chariots and a bigger army than yours, don't be scared of them: because God who brought you out of Egypt is with you.

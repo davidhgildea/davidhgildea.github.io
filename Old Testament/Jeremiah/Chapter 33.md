@@ -11,7 +11,7 @@ layout: default
 # Chapter 33
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Jeremiah/500/33.jpg" alt="Jeremiah Chapter 33" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Jeremiah/500/33.jpg" alt="Jeremiah Chapter 33" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 33</figcaption>
 </figure>
 1 Again, God spoke to Jeremiah while he was still locked up in the prison yard, saying,

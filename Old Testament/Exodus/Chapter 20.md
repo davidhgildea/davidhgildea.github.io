@@ -11,7 +11,7 @@ layout: default
 # Chapter 20
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Exodus/500/20.jpg" alt="Exodus Chapter 20" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Exodus/500/20.jpg" alt="Exodus Chapter 20" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Exodus Chapter 20</figcaption>
 </figure>
 1 God said all these words:

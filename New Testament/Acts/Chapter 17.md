@@ -11,7 +11,7 @@ layout: default
 # Chapter 17
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Acts/500/17.jpg" alt="Acts Chapter 17" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Acts/500/17.jpg" alt="Acts Chapter 17" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Acts Chapter 17</figcaption>
 </figure>
 1 After they traveled through Amphipolis and Apollonia, they arrived in Thessalonica, where there was a Jewish synagogue.

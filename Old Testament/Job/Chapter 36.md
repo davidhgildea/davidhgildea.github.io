@@ -11,7 +11,7 @@ layout: default
 # Chapter 36
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Job/500/36.jpg" alt="Job Chapter 36" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Job/500/36.jpg" alt="Job Chapter 36" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Job Chapter 36</figcaption>
 </figure>
 1 Elihu continued and spoke,

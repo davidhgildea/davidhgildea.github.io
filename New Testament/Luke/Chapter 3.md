@@ -11,7 +11,7 @@ layout: default
 # Chapter 3
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Luke/500/3.jpg" alt="Luke Chapter 3" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Luke/500/3.jpg" alt="Luke Chapter 3" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Luke Chapter 3</figcaption>
 </figure>
 1 In the fifteenth year when Tiberius Caesar ruled, Pontius Pilate was the governor of Judaea, Herod ruled Galilee, his brother Philip ruled Ituraea and Trachonitis, and Lysanias ruled Abilene.

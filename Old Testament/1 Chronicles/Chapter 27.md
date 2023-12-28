@@ -11,7 +11,7 @@ layout: default
 # Chapter 27
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Chronicles/500/27.jpg" alt="1 Chronicles Chapter 27" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/1 Chronicles/500/27.jpg" alt="1 Chronicles Chapter 27" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Chronicles Chapter 27</figcaption>
 </figure>
 1 The Israelite people were organized by their families, with leaders and commanders for groups of one thousand and one hundred, and officials who worked for the king on different tasks. These groups took turns each month over the year, with each group having twenty-four thousand members.

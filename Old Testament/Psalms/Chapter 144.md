@@ -11,7 +11,7 @@ layout: default
 # Chapter 144
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/144.jpg" alt="Psalms Chapter 144" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/144.jpg" alt="Psalms Chapter 144" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 144</figcaption>
 </figure>
 1 God blesses me with strength, teaches my hands to fight, and my fingers for battle.

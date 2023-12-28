@@ -11,7 +11,7 @@ layout: default
 # Chapter 17
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Kings/500/17.jpg" alt="2 Kings Chapter 17" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/2 Kings/500/17.jpg" alt="2 Kings Chapter 17" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Kings Chapter 17</figcaption>
 </figure>
 1 In the twelfth year of Ahaz, king of Judah, Hoshea son of Elah started to rule as king in Samaria over Israel for nine years.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 99
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/99.jpg" alt="Psalms Chapter 99" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/99.jpg" alt="Psalms Chapter 99" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 99</figcaption>
 </figure>
 1 God rules; let the people shake with fear: he sits among the angels; let the earth quake.

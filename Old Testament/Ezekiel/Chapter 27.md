@@ -11,7 +11,7 @@ layout: default
 # Chapter 27
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ezekiel/500/27.jpg" alt="Ezekiel Chapter 27" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Ezekiel/500/27.jpg" alt="Ezekiel Chapter 27" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ezekiel Chapter 27</figcaption>
 </figure>
 1 God spoke to me again and said,

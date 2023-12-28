@@ -11,7 +11,7 @@ layout: default
 # Chapter 24
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Genesis/500/24.jpg" alt="Genesis Chapter 24" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Genesis/500/24.jpg" alt="Genesis Chapter 24" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 24</figcaption>
 </figure>
 1 Abraham was old and advanced in years, and God had blessed Abraham in every way.

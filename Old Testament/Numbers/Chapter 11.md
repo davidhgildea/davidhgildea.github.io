@@ -11,7 +11,7 @@ layout: default
 # Chapter 11
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Numbers/500/11.jpg" alt="Numbers Chapter 11" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Numbers/500/11.jpg" alt="Numbers Chapter 11" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Numbers Chapter 11</figcaption>
 </figure>
 1 When the people complained, it upset God; God heard it, and became angry; God's fire burned among them, and it destroyed those on the edges of the camp.

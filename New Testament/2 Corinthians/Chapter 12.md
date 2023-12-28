@@ -11,7 +11,7 @@ layout: default
 # Chapter 12
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Corinthians/500/12.jpg" alt="2 Corinthians Chapter 12" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/2 Corinthians/500/12.jpg" alt="2 Corinthians Chapter 12" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Corinthians Chapter 12</figcaption>
 </figure>
 1 It's not really good for me to boast, but I will talk about visions and messages from God.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 95
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/95.jpg" alt="Psalms Chapter 95" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/95.jpg" alt="Psalms Chapter 95" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 95</figcaption>
 </figure>
 1 Come, let's sing to God: let's shout joyfully to the rock who saves us.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 31
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Chronicles/500/31.jpg" alt="2 Chronicles Chapter 31" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/2 Chronicles/500/31.jpg" alt="2 Chronicles Chapter 31" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Chronicles Chapter 31</figcaption>
 </figure>
 1 After finishing this, all the Israelites there went to the towns of Judah, smashed the idols, cut down the sacred trees, and destroyed the high places and altars throughout Judah and Benjamin, and in Ephraim and Manasseh, until they had completely removed them. Then all the Israelites went back to their own cities and property.

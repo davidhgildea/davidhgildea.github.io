@@ -11,7 +11,7 @@ layout: default
 # Chapter 4
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ezekiel/500/4.jpg" alt="Ezekiel Chapter 4" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Ezekiel/500/4.jpg" alt="Ezekiel Chapter 4" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ezekiel Chapter 4</figcaption>
 </figure>
 1 You too, human, get a clay tablet, put it in front of you, and draw on it the city of Jerusalem.

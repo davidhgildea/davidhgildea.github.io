@@ -11,7 +11,7 @@ layout: default
 # Chapter 17
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Deuteronomy/500/17.jpg" alt="Deuteronomy Chapter 17" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Deuteronomy/500/17.jpg" alt="Deuteronomy Chapter 17" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Deuteronomy Chapter 17</figcaption>
 </figure>
 1 Do not offer to God any bull or sheep that has a defect or any bad quality, because that is something God hates.

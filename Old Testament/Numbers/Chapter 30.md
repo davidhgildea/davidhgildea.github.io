@@ -11,7 +11,7 @@ layout: default
 # Chapter 30
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Numbers/500/30.jpg" alt="Numbers Chapter 30" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Numbers/500/30.jpg" alt="Numbers Chapter 30" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Numbers Chapter 30</figcaption>
 </figure>
 1 Moses told the leaders of the tribes about the children of Israel, saying, "This is what God has commanded."
