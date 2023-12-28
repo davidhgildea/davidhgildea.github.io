@@ -11,7 +11,7 @@ layout: default
 # Chapter 12
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Mark/500/12.jpg" alt="Mark Chapter 12" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/Mark/500/12.jpg" alt="Mark Chapter 12" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Mark Chapter 12</figcaption>
 </div>
 1 He started to tell them stories. A man planted a vineyard, put a fence around it, made a pit for the grape juice, built a watchtower, rented it to farmers, and then he went away to another place.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 5
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Daniel/500/5.jpg" alt="Daniel Chapter 5" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/Daniel/500/5.jpg" alt="Daniel Chapter 5" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Daniel Chapter 5</figcaption>
 </div>
 1 King Belshazzar made a huge feast for a thousand of his nobles and drank wine in front of them.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 12
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Hebrews/500/12.jpg" alt="Hebrews Chapter 12" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/Hebrews/500/12.jpg" alt="Hebrews Chapter 12" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Hebrews Chapter 12</figcaption>
 </div>
 1 Since we are surrounded by so many examples, let's get rid of every burden and the sin that trips us up, and run with endurance the race ahead of us.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 15
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Acts/500/15.jpg" alt="Acts Chapter 15" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/Acts/500/15.jpg" alt="Acts Chapter 15" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Acts Chapter 15</figcaption>
 </div>
 1 Some men from Judaea came and told the believers, "You must be circumcised like Moses taught, or you cannot be saved."

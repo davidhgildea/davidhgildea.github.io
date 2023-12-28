@@ -11,7 +11,7 @@ layout: default
 # Chapter 40
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Jeremiah/500/40.jpg" alt="Jeremiah Chapter 40" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/Jeremiah/500/40.jpg" alt="Jeremiah Chapter 40" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Jeremiah Chapter 40</figcaption>
 </div>
 1 God gave a message to Jeremiah after Nebuzaradan, the captain of the guard, released him in Ramah. This happened when he had been taken with chains among all the people from Jerusalem and Judah who were being taken as prisoners to Babylon.

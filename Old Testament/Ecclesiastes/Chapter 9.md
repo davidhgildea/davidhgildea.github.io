@@ -11,7 +11,7 @@ layout: default
 # Chapter 9
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Ecclesiastes/500/9.jpg" alt="Ecclesiastes Chapter 9" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/Ecclesiastes/500/9.jpg" alt="Ecclesiastes Chapter 9" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Ecclesiastes Chapter 9</figcaption>
 </div>
 1 I thought deeply about all this and decided to explain that the good and wise people, and what they do, are in God's control. No one can understand whether they will experience love or hate based on what they see around them.

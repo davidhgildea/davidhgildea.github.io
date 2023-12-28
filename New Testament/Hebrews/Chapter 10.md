@@ -11,7 +11,7 @@ layout: default
 # Chapter 10
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Hebrews/500/10.jpg" alt="Hebrews Chapter 10" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/Hebrews/500/10.jpg" alt="Hebrews Chapter 10" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Hebrews Chapter 10</figcaption>
 </div>
 1 The law has only a shadow of the good things that will come, not the real things themselves. So it can never make perfect those who come to God by the same sacrifices they offer continually every year.

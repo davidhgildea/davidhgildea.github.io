@@ -11,7 +11,7 @@ layout: default
 # Chapter 1
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Zechariah/500/1.jpg" alt="Zechariah Chapter 1" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/Zechariah/500/1.jpg" alt="Zechariah Chapter 1" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Zechariah Chapter 1</figcaption>
 </div>
 1 In the eighth month, during Darius's second year as king, God sent a message to Zechariah, Berechiah's son and the grandson of Iddo the prophet.

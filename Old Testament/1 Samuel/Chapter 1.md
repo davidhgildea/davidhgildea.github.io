@@ -11,7 +11,7 @@ layout: default
 # Chapter 1
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/1 Samuel/500/1.jpg" alt="1 Samuel Chapter 1" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/1 Samuel/500/1.jpg" alt="1 Samuel Chapter 1" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">1 Samuel Chapter 1</figcaption>
 </div>
 1 There was a man from Ramathaim, a town in the Ephraim hills, named Elkanah. He was Jeroham's son, Elihu's grandson, Tohu's great-grandson, and Zuph's great-great-grandson, from the tribe of Ephraim.

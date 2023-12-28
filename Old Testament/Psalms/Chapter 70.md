@@ -11,7 +11,7 @@ layout: default
 # Chapter 70
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Psalms/500/70.jpg" alt="Psalms Chapter 70" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/Psalms/500/70.jpg" alt="Psalms Chapter 70" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Psalms Chapter 70</figcaption>
 </div>
 1 Hurry, God, to save me; hurry to help me, God.

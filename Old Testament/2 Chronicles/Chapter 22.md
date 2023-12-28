@@ -11,7 +11,7 @@ layout: default
 # Chapter 22
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/2 Chronicles/500/22.jpg" alt="2 Chronicles Chapter 22" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/2 Chronicles/500/22.jpg" alt="2 Chronicles Chapter 22" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">2 Chronicles Chapter 22</figcaption>
 </div>
 1 The people of Jerusalem made Ahaziah, his youngest son, king after him because the group that came with the Arabians to the camp had killed all the older sons. So Ahaziah, son of Jehoram king of Judah, became king.

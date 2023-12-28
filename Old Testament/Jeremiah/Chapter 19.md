@@ -11,7 +11,7 @@ layout: default
 # Chapter 19
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Jeremiah/500/19.jpg" alt="Jeremiah Chapter 19" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/Jeremiah/500/19.jpg" alt="Jeremiah Chapter 19" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Jeremiah Chapter 19</figcaption>
 </div>
 1 God says, "Go and get a clay jar from a potter, and bring some of the elders of the people and some of the senior priests."

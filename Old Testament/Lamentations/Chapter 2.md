@@ -11,7 +11,7 @@ layout: default
 # Chapter 2
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Lamentations/500/2.jpg" alt="Lamentations Chapter 2" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/Lamentations/500/2.jpg" alt="Lamentations Chapter 2" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Lamentations Chapter 2</figcaption>
 </div>
 1 Why has God covered Zion's people with darkness in his anger? He has thrown down Israel's beauty from the sky to the ground and forgotten his footstool in his anger.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 7
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/2 Kings/500/7.jpg" alt="2 Kings Chapter 7" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/2 Kings/500/7.jpg" alt="2 Kings Chapter 7" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">2 Kings Chapter 7</figcaption>
 </div>
 1 Elisha said, "Listen to God's message: Tomorrow at this time, you can buy a measure of fine flour for one shekel and two measures of barley for one shekel at the gate of Samaria."

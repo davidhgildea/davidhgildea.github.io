@@ -11,7 +11,7 @@ layout: default
 # Chapter 2
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Romans/500/2.jpg" alt="Romans Chapter 2" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/Romans/500/2.jpg" alt="Romans Chapter 2" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Romans Chapter 2</figcaption>
 </div>
 1 So, you can't be excused, person, whoever you are that judges others: because when you judge someone else, you are judging yourself, since you do the same things.

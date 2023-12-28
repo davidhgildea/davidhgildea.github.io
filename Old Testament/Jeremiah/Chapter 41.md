@@ -11,7 +11,7 @@ layout: default
 # Chapter 41
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Jeremiah/500/41.jpg" alt="Jeremiah Chapter 41" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/Jeremiah/500/41.jpg" alt="Jeremiah Chapter 41" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Jeremiah Chapter 41</figcaption>
 </div>
 1 In the seventh month, Ishmael son of Nethaniah, grandson of Elishama of royal descent, and ten leaders with him, went to see Gedaliah son of Ahikam at Mizpah. There, they all ate bread together in Mizpah.

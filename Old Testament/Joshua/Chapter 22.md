@@ -11,7 +11,7 @@ layout: default
 # Chapter 22
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Joshua/500/22.jpg" alt="Joshua Chapter 22" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/Joshua/500/22.jpg" alt="Joshua Chapter 22" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Joshua Chapter 22</figcaption>
 </div>
 1 Then Joshua called the people of Reuben, Gad, and the half group from Manasseh,

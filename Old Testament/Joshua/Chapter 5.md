@@ -11,7 +11,7 @@ layout: default
 # Chapter 5
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Joshua/500/5.jpg" alt="Joshua Chapter 5" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/Joshua/500/5.jpg" alt="Joshua Chapter 5" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Joshua Chapter 5</figcaption>
 </div>
 1 When all the Amorite kings west of the Jordan and all the Canaanite kings by the sea learned that God had dried up the Jordan River so the Israelites could cross, their hearts sank, and they lost their courage because of the Israelites.

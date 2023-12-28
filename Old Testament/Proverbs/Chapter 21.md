@@ -11,7 +11,7 @@ layout: default
 # Chapter 21
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Proverbs/500/21.jpg" alt="Proverbs Chapter 21" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/Proverbs/500/21.jpg" alt="Proverbs Chapter 21" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Proverbs Chapter 21</figcaption>
 </div>
 1 The king's mind is under God's control, like water channels; He directs it wherever He chooses.

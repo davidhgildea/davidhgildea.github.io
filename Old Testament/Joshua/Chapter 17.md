@@ -11,7 +11,7 @@ layout: default
 # Chapter 17
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Joshua/500/17.jpg" alt="Joshua Chapter 17" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/Joshua/500/17.jpg" alt="Joshua Chapter 17" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Joshua Chapter 17</figcaption>
 </div>
 1 The tribe of Manasseh also received land because Manasseh was Joseph's oldest son. This included land for Machir, Manasseh's oldest son and Gilead's father, who was a warrior, so he got Gilead and Bashan.
