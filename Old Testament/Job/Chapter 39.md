@@ -11,7 +11,7 @@ layout: default
 # Chapter 39
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Job/500/39.jpg" alt="Job Chapter 39" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Job/500/39.jpg" alt="Job Chapter 39" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Job Chapter 39</figcaption>
 </figure>
 1 Do you know when the wild goats give birth? Can you tell when the deer are having their young?

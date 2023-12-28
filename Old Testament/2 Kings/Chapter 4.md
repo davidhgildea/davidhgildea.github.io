@@ -11,7 +11,7 @@ layout: default
 # Chapter 4
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Kings/500/4.jpg" alt="2 Kings Chapter 4" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/2 Kings/500/4.jpg" alt="2 Kings Chapter 4" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Kings Chapter 4</figcaption>
 </figure>
 1 A woman whose husband had died, who was one of the prophets' sons, called out to Elisha, "My husband, your servant, is dead. You know he respected God. Now a creditor is here to take my two sons as slaves."

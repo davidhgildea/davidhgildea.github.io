@@ -11,7 +11,7 @@ layout: default
 # Chapter 4
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Song of Solomon/500/4.jpg" alt="Song of Solomon Chapter 4" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Song of Solomon/500/4.jpg" alt="Song of Solomon Chapter 4" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Song of Solomon Chapter 4</figcaption>
 </figure>
 1 Look, you are beautiful, my love; look, you are beautiful; your eyes are like doves' eyes among your hair: your hair is like a group of goats seen on Mount Gilead.

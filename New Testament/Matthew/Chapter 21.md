@@ -11,7 +11,7 @@ layout: default
 # Chapter 21
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Matthew/500/21.jpg" alt="Matthew Chapter 21" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Matthew/500/21.jpg" alt="Matthew Chapter 21" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Matthew Chapter 21</figcaption>
 </figure>
 1 When they got close to Jerusalem and reached Bethphage at the Mount of Olives, Jesus sent two disciples.

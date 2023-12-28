@@ -11,7 +11,7 @@ layout: default
 # Chapter 84
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/84.jpg" alt="Psalms Chapter 84" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/84.jpg" alt="Psalms Chapter 84" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 84</figcaption>
 </figure>
 1 How lovely are your homes, O God of armies!

@@ -11,7 +11,7 @@ layout: default
 # Chapter 16
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Samuel/500/16.jpg" alt="1 Samuel Chapter 16" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/1 Samuel/500/16.jpg" alt="1 Samuel Chapter 16" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Samuel Chapter 16</figcaption>
 </figure>
 1 God said to Samuel, "How long will you be sad for Saul, when I have decided he will not be king over Israel? Put oil in your horn and go. I will send you to Jesse of Bethlehem because I have chosen one of his sons to be king."

@@ -11,7 +11,7 @@ layout: default
 # Chapter 13
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/13.jpg" alt="Isaiah Chapter 13" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Isaiah/500/13.jpg" alt="Isaiah Chapter 13" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 13</figcaption>
 </figure>
 1 Isaiah, son of Amoz, saw this message about Babylon.

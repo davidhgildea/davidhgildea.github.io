@@ -11,7 +11,7 @@ layout: default
 # Chapter 8
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Judges/500/8.jpg" alt="Judges Chapter 8" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Judges/500/8.jpg" alt="Judges Chapter 8" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Judges Chapter 8</figcaption>
 </figure>
 1 The men from Ephraim asked him, "Why did you treat us like this, not calling us when you went to fight the Midianites?" And they argued with him strongly.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 17
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Samuel/500/17.jpg" alt="1 Samuel Chapter 17" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/1 Samuel/500/17.jpg" alt="1 Samuel Chapter 17" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Samuel Chapter 17</figcaption>
 </figure>
 1 The Philistines brought their armies together to fight and met at Shochoh, part of Judah, setting up camp between Shochoh and Azekah, in Ephesdammim.

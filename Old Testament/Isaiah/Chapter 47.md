@@ -11,7 +11,7 @@ layout: default
 # Chapter 47
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/47.jpg" alt="Isaiah Chapter 47" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Isaiah/500/47.jpg" alt="Isaiah Chapter 47" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 47</figcaption>
 </figure>
 1 Come down and sit in the dirt, you pure girl of Babylon. Sit on the ground. You have no throne, girl of the Chaldeans, because you won't be called soft and gentle anymore.

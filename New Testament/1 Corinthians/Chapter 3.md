@@ -11,7 +11,7 @@ layout: default
 # Chapter 3
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Corinthians/500/3.jpg" alt="1 Corinthians Chapter 3" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/1 Corinthians/500/3.jpg" alt="1 Corinthians Chapter 3" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Corinthians Chapter 3</figcaption>
 </figure>
 1 Brothers and sisters, I could not talk to you as spiritual people but as worldly, as if to babies in Christ.

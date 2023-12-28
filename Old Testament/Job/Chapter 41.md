@@ -11,7 +11,7 @@ layout: default
 # Chapter 41
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Job/500/41.jpg" alt="Job Chapter 41" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Job/500/41.jpg" alt="Job Chapter 41" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Job Chapter 41</figcaption>
 </figure>
 1 Can you catch Leviathan with a fishhook or tie down its tongue with a rope?

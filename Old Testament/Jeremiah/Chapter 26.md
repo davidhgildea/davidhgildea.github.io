@@ -11,7 +11,7 @@ layout: default
 # Chapter 26
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Jeremiah/500/26.jpg" alt="Jeremiah Chapter 26" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Jeremiah/500/26.jpg" alt="Jeremiah Chapter 26" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 26</figcaption>
 </figure>
 1 At the start of Jehoiakim's rule, the son of King Josiah of Judah, God sent this message:

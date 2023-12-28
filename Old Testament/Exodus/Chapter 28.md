@@ -11,7 +11,7 @@ layout: default
 # Chapter 28
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Exodus/500/28.jpg" alt="Exodus Chapter 28" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Exodus/500/28.jpg" alt="Exodus Chapter 28" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Exodus Chapter 28</figcaption>
 </figure>
 1 Choose your brother Aaron and his sons, Nadab, Abihu, Eleazar, and Ithamar, from the Israelites to serve me as priests.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 49
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Jeremiah/500/49.jpg" alt="Jeremiah Chapter 49" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Jeremiah/500/49.jpg" alt="Jeremiah Chapter 49" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 49</figcaption>
 </figure>
 1 About the Ammonites, this is what God says: Does Israel have no children? Do they have no one to inherit their land? Why then does the king of the Ammonites take over the land of Gad, and why do his people live in its towns?

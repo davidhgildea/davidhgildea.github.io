@@ -11,7 +11,7 @@ layout: default
 # Chapter 43
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/43.jpg" alt="Psalms Chapter 43" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/43.jpg" alt="Psalms Chapter 43" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 43</figcaption>
 </figure>
 1 God, judge me and fight for me against a nation without godliness; save me from the lying and unfair person.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 22
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Exodus/500/22.jpg" alt="Exodus Chapter 22" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Exodus/500/22.jpg" alt="Exodus Chapter 22" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Exodus Chapter 22</figcaption>
 </figure>
 1 If someone steals a cow or a sheep, and kills or sells it, they must give back five cows for a cow, and four sheep for a sheep.

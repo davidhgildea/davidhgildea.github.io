@@ -11,7 +11,7 @@ layout: default
 # Chapter 15
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Mark/500/15.jpg" alt="Mark Chapter 15" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Mark/500/15.jpg" alt="Mark Chapter 15" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Mark Chapter 15</figcaption>
 </figure>
 1 Early in the morning, the chief priests met with the elders and teachers of the law and the whole council. They tied up Jesus, took Him away, and handed Him over to Pilate.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 11
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Nehemiah/500/11.jpg" alt="Nehemiah Chapter 11" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Nehemiah/500/11.jpg" alt="Nehemiah Chapter 11" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Nehemiah Chapter 11</figcaption>
 </figure>
 1 The leaders lived in Jerusalem. The other people drew lots so that one out of every ten would live in Jerusalem, the holy city, and the other nine in different cities.

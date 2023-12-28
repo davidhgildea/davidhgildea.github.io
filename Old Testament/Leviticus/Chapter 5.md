@@ -11,7 +11,7 @@ layout: default
 # Chapter 5
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Leviticus/500/5.jpg" alt="Leviticus Chapter 5" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Leviticus/500/5.jpg" alt="Leviticus Chapter 5" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Leviticus Chapter 5</figcaption>
 </figure>
 1 If a person sins, hears someone swear an oath, and is a witness, knowing or seeing what happened, but doesn't speak up, then that person will be guilty.

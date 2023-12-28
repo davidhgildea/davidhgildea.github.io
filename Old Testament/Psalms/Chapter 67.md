@@ -11,7 +11,7 @@ layout: default
 # Chapter 67
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/67.jpg" alt="Psalms Chapter 67" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/67.jpg" alt="Psalms Chapter 67" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 67</figcaption>
 </figure>
 1 God, be kind to us and bless us; let his face shine on us. Pause.

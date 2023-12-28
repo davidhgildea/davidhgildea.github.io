@@ -11,7 +11,7 @@ layout: default
 # Chapter 30
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Exodus/500/30.jpg" alt="Exodus Chapter 30" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Exodus/500/30.jpg" alt="Exodus Chapter 30" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Exodus Chapter 30</figcaption>
 </figure>
 1 Make an altar for burning incense from acacia wood.

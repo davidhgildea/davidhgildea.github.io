@@ -11,7 +11,7 @@ layout: default
 # Chapter 19
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Chronicles/500/19.jpg" alt="2 Chronicles Chapter 19" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/2 Chronicles/500/19.jpg" alt="2 Chronicles Chapter 19" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Chronicles Chapter 19</figcaption>
 </figure>
 1 King Jehoshaphat of Judah went back to his home in Jerusalem safely.

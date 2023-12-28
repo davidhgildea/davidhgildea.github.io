@@ -11,7 +11,7 @@ layout: default
 # Chapter 20
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Chronicles/500/20.jpg" alt="1 Chronicles Chapter 20" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/1 Chronicles/500/20.jpg" alt="1 Chronicles Chapter 20" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Chronicles Chapter 20</figcaption>
 </figure>
 1 When the year ended, at the time kings usually go to battle, Joab took the army out, destroyed the land of the Ammonites, and attacked Rabbah. But David stayed in Jerusalem. Joab conquered Rabbah and ruined it.

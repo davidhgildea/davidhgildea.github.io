@@ -11,7 +11,7 @@ layout: default
 # Chapter 24
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Numbers/500/24.jpg" alt="Numbers Chapter 24" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Numbers/500/24.jpg" alt="Numbers Chapter 24" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Numbers Chapter 24</figcaption>
 </figure>
 1 When Balaam saw that God wanted to bless Israel, he did not look for magic spells like before, but instead he looked towards the desert.

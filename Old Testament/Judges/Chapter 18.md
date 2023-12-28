@@ -11,7 +11,7 @@ layout: default
 # Chapter 18
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Judges/500/18.jpg" alt="Judges Chapter 18" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Judges/500/18.jpg" alt="Judges Chapter 18" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Judges Chapter 18</figcaption>
 </figure>
 1 During that time, Israel had no king. The Danites were looking for land to live on because they had not yet received a share of land among Israel's tribes.

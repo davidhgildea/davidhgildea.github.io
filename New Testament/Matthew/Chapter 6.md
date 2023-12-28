@@ -11,7 +11,7 @@ layout: default
 # Chapter 6
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Matthew/500/6.jpg" alt="Matthew Chapter 6" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Matthew/500/6.jpg" alt="Matthew Chapter 6" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Matthew Chapter 6</figcaption>
 </figure>
 1 Be careful not to do good things in front of others just to be noticed, because if you do, you won't get any reward from your Father in heaven.

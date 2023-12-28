@@ -11,7 +11,7 @@ layout: default
 # Chapter 19
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Deuteronomy/500/19.jpg" alt="Deuteronomy Chapter 19" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Deuteronomy/500/19.jpg" alt="Deuteronomy Chapter 19" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Deuteronomy Chapter 19</figcaption>
 </figure>
 1 When God has destroyed the nations whose land God gives you, and you take their place, living in their cities and houses;

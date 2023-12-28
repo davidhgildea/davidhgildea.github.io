@@ -11,7 +11,7 @@ layout: default
 # Chapter 17
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Matthew/500/17.jpg" alt="Matthew Chapter 17" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Matthew/500/17.jpg" alt="Matthew Chapter 17" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Matthew Chapter 17</figcaption>
 </figure>
 1 Six days later, Jesus took Peter, James, and John, his brother, up a high mountain by themselves.

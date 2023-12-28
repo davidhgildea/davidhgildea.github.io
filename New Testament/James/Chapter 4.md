@@ -11,7 +11,7 @@ layout: default
 # Chapter 4
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/James/500/4.jpg" alt="James Chapter 4" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/James/500/4.jpg" alt="James Chapter 4" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">James Chapter 4</figcaption>
 </figure>
 1 Where do your wars and battles with each other come from? Do they not come from your desires that battle within you?

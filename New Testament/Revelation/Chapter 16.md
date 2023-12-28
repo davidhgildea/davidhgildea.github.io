@@ -11,7 +11,7 @@ layout: default
 # Chapter 16
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Revelation/500/16.jpg" alt="Revelation Chapter 16" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Revelation/500/16.jpg" alt="Revelation Chapter 16" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Revelation Chapter 16</figcaption>
 </figure>
 1 I heard a loud voice from the temple telling the seven angels, "Go and pour out the bowls of God's anger on the earth."

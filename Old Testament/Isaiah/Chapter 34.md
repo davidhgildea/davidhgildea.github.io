@@ -11,7 +11,7 @@ layout: default
 # Chapter 34
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/34.jpg" alt="Isaiah Chapter 34" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Isaiah/500/34.jpg" alt="Isaiah Chapter 34" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 34</figcaption>
 </figure>
 1 Come close, all you countries, to listen; and pay attention, all you peoples: let the earth and everything on it hear; the world and all that comes out of it.

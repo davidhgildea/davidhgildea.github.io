@@ -11,7 +11,7 @@ layout: default
 # Chapter 30
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Deuteronomy/500/30.jpg" alt="Deuteronomy Chapter 30" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Deuteronomy/500/30.jpg" alt="Deuteronomy Chapter 30" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Deuteronomy Chapter 30</figcaption>
 </figure>
 1 When all these things happen to you, the blessings and the curses I've told you about, and you think about them wherever you are because God has scattered you among the nations,

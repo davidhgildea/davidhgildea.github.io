@@ -11,7 +11,7 @@ layout: default
 # Chapter 58
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/58.jpg" alt="Isaiah Chapter 58" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Isaiah/500/58.jpg" alt="Isaiah Chapter 58" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 58</figcaption>
 </figure>
 1 Shout loudly, don't hold back, raise your voice like a trumpet, and show my people their wrongs, and the family of Jacob their sins.

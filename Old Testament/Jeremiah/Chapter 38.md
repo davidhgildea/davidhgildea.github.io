@@ -11,7 +11,7 @@ layout: default
 # Chapter 38
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Jeremiah/500/38.jpg" alt="Jeremiah Chapter 38" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Jeremiah/500/38.jpg" alt="Jeremiah Chapter 38" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 38</figcaption>
 </figure>
 1 Then Shephatiah, Mattan's son; Gedaliah, Pashur's son; Jucal, Shelemiah's son; and Pashur, Malchiah's son heard what Jeremiah was telling everyone.

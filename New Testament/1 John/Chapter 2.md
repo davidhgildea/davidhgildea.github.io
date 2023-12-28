@@ -11,7 +11,7 @@ layout: default
 # Chapter 2
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 John/500/2.jpg" alt="1 John Chapter 2" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/1 John/500/2.jpg" alt="1 John Chapter 2" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 John Chapter 2</figcaption>
 </figure>
 1 Dear children, I write this to you so you don't sin. But if anyone does sin, we have someone who speaks to God for us, Jesus Christ the good one.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 19
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Judges/500/19.jpg" alt="Judges Chapter 19" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Judges/500/19.jpg" alt="Judges Chapter 19" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Judges Chapter 19</figcaption>
 </figure>
 1 During that time, when Israel had no king, a Levite staying near Mount Ephraim took a woman from Bethlehem in Judah to be his concubine.

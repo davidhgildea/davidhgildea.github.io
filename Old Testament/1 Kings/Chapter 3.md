@@ -11,7 +11,7 @@ layout: default
 # Chapter 3
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Kings/500/3.jpg" alt="1 Kings Chapter 3" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/1 Kings/500/3.jpg" alt="1 Kings Chapter 3" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Kings Chapter 3</figcaption>
 </figure>
 1 Solomon formed an alliance with Pharaoh, the king of Egypt, and married Pharaoh's daughter. He brought her to the city of David until he finished building his palace, God's house, and the wall around Jerusalem.

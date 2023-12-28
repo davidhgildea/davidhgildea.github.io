@@ -11,7 +11,7 @@ layout: default
 # Chapter 104
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/104.jpg" alt="Psalms Chapter 104" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/104.jpg" alt="Psalms Chapter 104" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 104</figcaption>
 </figure>
 1 Praise God, my soul. O my God, you are very great; you are dressed in glory and splendor.

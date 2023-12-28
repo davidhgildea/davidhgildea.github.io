@@ -11,7 +11,7 @@ layout: default
 # Chapter 3
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Judges/500/3.jpg" alt="Judges Chapter 3" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Judges/500/3.jpg" alt="Judges Chapter 3" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Judges Chapter 3</figcaption>
 </figure>
 1 These are the nations God left to test Israel, especially those in Israel who had not experienced all the Canaan wars.

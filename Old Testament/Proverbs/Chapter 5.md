@@ -11,7 +11,7 @@ layout: default
 # Chapter 5
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Proverbs/500/5.jpg" alt="Proverbs Chapter 5" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Proverbs/500/5.jpg" alt="Proverbs Chapter 5" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Proverbs Chapter 5</figcaption>
 </figure>
 1 My son, listen to my wisdom, and pay attention to my understanding.

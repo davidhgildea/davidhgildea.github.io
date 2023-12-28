@@ -11,7 +11,7 @@ layout: default
 # Chapter 13
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Zechariah/500/13.jpg" alt="Zechariah Chapter 13" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Zechariah/500/13.jpg" alt="Zechariah Chapter 13" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Zechariah Chapter 13</figcaption>
 </figure>
 1 On that day, there will be a spring made available to David's family and to the people of Jerusalem for cleansing from sin and impurity.

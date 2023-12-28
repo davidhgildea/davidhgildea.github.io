@@ -11,7 +11,7 @@ layout: default
 # Chapter 34
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Exodus/500/34.jpg" alt="Exodus Chapter 34" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Exodus/500/34.jpg" alt="Exodus Chapter 34" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Exodus Chapter 34</figcaption>
 </figure>
 1 God told Moses, "Cut two stone tablets like the first ones, and I will write on them the words that were on the first tablets that you broke."

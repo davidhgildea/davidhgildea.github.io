@@ -11,7 +11,7 @@ layout: default
 # Chapter 28
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/28.jpg" alt="Psalms Chapter 28" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/28.jpg" alt="Psalms Chapter 28" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 28</figcaption>
 </figure>
 1 I will call out to you, God my rock; do not ignore me, or if you stay silent, I will be like those who fall into the grave.

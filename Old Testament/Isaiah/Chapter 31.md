@@ -11,7 +11,7 @@ layout: default
 # Chapter 31
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/31.jpg" alt="Isaiah Chapter 31" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Isaiah/500/31.jpg" alt="Isaiah Chapter 31" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 31</figcaption>
 </figure>
 1 Pity those who look to Egypt for help, relying on horses, trusting in many chariots and strong horsemen, but not turning to Israel's Holy One or seeking God!

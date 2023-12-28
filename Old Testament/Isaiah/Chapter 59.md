@@ -11,7 +11,7 @@ layout: default
 # Chapter 59
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/59.jpg" alt="Isaiah Chapter 59" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Isaiah/500/59.jpg" alt="Isaiah Chapter 59" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 59</figcaption>
 </figure>
 1 Look, God's hand is not too short to save; nor is his ear too dull to hear.

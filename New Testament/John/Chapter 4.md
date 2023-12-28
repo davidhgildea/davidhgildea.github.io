@@ -11,7 +11,7 @@ layout: default
 # Chapter 4
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/John/500/4.jpg" alt="John Chapter 4" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/John/500/4.jpg" alt="John Chapter 4" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">John Chapter 4</figcaption>
 </figure>
 1 When God knew that the Pharisees heard Jesus was making and baptizing more followers than John,

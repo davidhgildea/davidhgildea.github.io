@@ -11,7 +11,7 @@ layout: default
 # Chapter 14
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Luke/500/14.jpg" alt="Luke Chapter 14" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Luke/500/14.jpg" alt="Luke Chapter 14" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Luke Chapter 14</figcaption>
 </figure>
 1 As he entered a leading Pharisee's home to share a meal on the Sabbath, they observed him closely.

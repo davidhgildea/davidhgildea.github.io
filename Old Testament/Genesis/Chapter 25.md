@@ -11,7 +11,7 @@ layout: default
 # Chapter 25
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Genesis/500/25.jpg" alt="Genesis Chapter 25" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Genesis/500/25.jpg" alt="Genesis Chapter 25" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 25</figcaption>
 </figure>
 1 Abraham married another woman, and her name was Keturah.

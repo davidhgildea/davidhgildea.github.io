@@ -11,7 +11,7 @@ layout: default
 # Chapter 71
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/71.jpg" alt="Psalms Chapter 71" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/71.jpg" alt="Psalms Chapter 71" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 71</figcaption>
 </figure>
 1 In you, God, I place my trust: may I never be confused.

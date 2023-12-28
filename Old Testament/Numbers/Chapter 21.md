@@ -11,7 +11,7 @@ layout: default
 # Chapter 21
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Numbers/500/21.jpg" alt="Numbers Chapter 21" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Numbers/500/21.jpg" alt="Numbers Chapter 21" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Numbers Chapter 21</figcaption>
 </figure>
 1 When King Arad of Canaan who lived in the south heard that Israel was traveling by the spy's path, he attacked Israel and captured some of them.

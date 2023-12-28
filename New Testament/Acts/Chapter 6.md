@@ -11,7 +11,7 @@ layout: default
 # Chapter 6
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Acts/500/6.jpg" alt="Acts Chapter 6" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Acts/500/6.jpg" alt="Acts Chapter 6" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Acts Chapter 6</figcaption>
 </figure>
 1 During that time, as the number of followers grew, the Greek-speaking followers complained against the Hebrew-speaking followers because their widows were not being helped every day.

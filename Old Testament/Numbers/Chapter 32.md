@@ -11,7 +11,7 @@ layout: default
 # Chapter 32
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Numbers/500/32.jpg" alt="Numbers Chapter 32" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Numbers/500/32.jpg" alt="Numbers Chapter 32" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Numbers Chapter 32</figcaption>
 </figure>
 1 The Reubenites and Gadites had many animals. When they saw the land of Jazer and Gilead, they noticed it was good for animals.

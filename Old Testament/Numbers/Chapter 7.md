@@ -11,7 +11,7 @@ layout: default
 # Chapter 7
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Numbers/500/7.jpg" alt="Numbers Chapter 7" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Numbers/500/7.jpg" alt="Numbers Chapter 7" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Numbers Chapter 7</figcaption>
 </figure>
 1 On the day Moses finished setting up the tent of meeting, he put oil on it, made it holy, and did the same for all its equipment, the altar, and all its tools.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 4
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Amos/500/4.jpg" alt="Amos Chapter 4" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Amos/500/4.jpg" alt="Amos Chapter 4" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Amos Chapter 4</figcaption>
 </figure>
 1 Listen to this message, you cows of Bashan on Samaria's mountain, who hurt the poor, who crush the needy, and who tell their bosses, "Bring us something to drink."

@@ -11,7 +11,7 @@ layout: default
 # Chapter 6
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Luke/500/6.jpg" alt="Luke Chapter 6" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Luke/500/6.jpg" alt="Luke Chapter 6" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Luke Chapter 6</figcaption>
 </figure>
 1 On the second Saturday following the first, Jesus walked through the grain fields. His followers picked some heads of grain, rubbed them in their hands, and ate them.

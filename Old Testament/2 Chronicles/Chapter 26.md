@@ -11,7 +11,7 @@ layout: default
 # Chapter 26
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Chronicles/500/26.jpg" alt="2 Chronicles Chapter 26" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/2 Chronicles/500/26.jpg" alt="2 Chronicles Chapter 26" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Chronicles Chapter 26</figcaption>
 </figure>
 1 Then all the people of Judah chose Uzziah, who was sixteen, to be king after his father Amaziah.

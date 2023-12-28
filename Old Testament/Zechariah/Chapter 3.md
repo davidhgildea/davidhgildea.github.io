@@ -11,7 +11,7 @@ layout: default
 # Chapter 3
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Zechariah/500/3.jpg" alt="Zechariah Chapter 3" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Zechariah/500/3.jpg" alt="Zechariah Chapter 3" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Zechariah Chapter 3</figcaption>
 </figure>
 1 He showed me Joshua the high priest standing before God's angel, and Satan standing at his right side to oppose him.

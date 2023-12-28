@@ -11,7 +11,7 @@ layout: default
 # Chapter 31
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Deuteronomy/500/31.jpg" alt="Deuteronomy Chapter 31" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Deuteronomy/500/31.jpg" alt="Deuteronomy Chapter 31" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Deuteronomy Chapter 31</figcaption>
 </figure>
 1 Moses went and said these things to all Israel.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 7
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Judges/500/7.jpg" alt="Judges Chapter 7" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Judges/500/7.jpg" alt="Judges Chapter 7" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Judges Chapter 7</figcaption>
 </figure>
 1 Jerubbaal, also known as Gideon, and all his companions got up early and set up camp near Harod's well. The Midianite army was to the north of them, near Moreh hill in the valley.

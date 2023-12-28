@@ -11,7 +11,7 @@ layout: default
 # Chapter 112
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/112.jpg" alt="Psalms Chapter 112" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/112.jpg" alt="Psalms Chapter 112" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 112</figcaption>
 </figure>
 1 Praise God. Happy is the person who respects God and loves to follow His rules.

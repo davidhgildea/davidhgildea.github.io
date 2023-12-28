@@ -11,7 +11,7 @@ layout: default
 # Chapter 1
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Exodus/500/1.jpg" alt="Exodus Chapter 1" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Exodus/500/1.jpg" alt="Exodus Chapter 1" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Exodus Chapter 1</figcaption>
 </figure>
 1 Here are the names of the people of Israel who went to Egypt; each one with his family joined Jacob.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 27
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Exodus/500/27.jpg" alt="Exodus Chapter 27" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Exodus/500/27.jpg" alt="Exodus Chapter 27" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Exodus Chapter 27</figcaption>
 </figure>
 1 Make an altar from acacia wood, five cubits long and five cubits wide; the altar should be square, and its height should be three cubits.

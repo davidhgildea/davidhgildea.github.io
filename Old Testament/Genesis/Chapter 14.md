@@ -11,7 +11,7 @@ layout: default
 # Chapter 14
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Genesis/500/14.jpg" alt="Genesis Chapter 14" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Genesis/500/14.jpg" alt="Genesis Chapter 14" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 14</figcaption>
 </figure>
 1 During the time when Amraphel ruled Shinar, Arioch ruled Ellasar, Chedorlaomer ruled Elam, and Tidal ruled many nations;

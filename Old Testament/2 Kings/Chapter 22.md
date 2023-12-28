@@ -11,7 +11,7 @@ layout: default
 # Chapter 22
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Kings/500/22.jpg" alt="2 Kings Chapter 22" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/2 Kings/500/22.jpg" alt="2 Kings Chapter 22" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Kings Chapter 22</figcaption>
 </figure>
 1 Josiah became king when he was eight years old and ruled for thirty-one years in Jerusalem. His mother was Jedidah, daughter of Adaiah from Boscath.

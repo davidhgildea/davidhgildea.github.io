@@ -11,7 +11,7 @@ layout: default
 # Chapter 2
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Judges/500/2.jpg" alt="Judges Chapter 2" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Judges/500/2.jpg" alt="Judges Chapter 2" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Judges Chapter 2</figcaption>
 </figure>
 1 An angel of God came from Gilgal to Bochim and said, "I brought you out of Egypt and into the land I promised your ancestors; and I said, I will always keep my promise to you."

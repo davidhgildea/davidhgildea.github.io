@@ -11,7 +11,7 @@ layout: default
 # Chapter 110
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/110.jpg" alt="Psalms Chapter 110" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/110.jpg" alt="Psalms Chapter 110" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 110</figcaption>
 </figure>
 1 God said to my Lord, "Sit at my right side until I make your enemies a place for your feet."

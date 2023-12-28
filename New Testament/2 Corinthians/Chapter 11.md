@@ -11,7 +11,7 @@ layout: default
 # Chapter 11
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Corinthians/500/11.jpg" alt="2 Corinthians Chapter 11" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/2 Corinthians/500/11.jpg" alt="2 Corinthians Chapter 11" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Corinthians Chapter 11</figcaption>
 </figure>
 1 I wish you could put up with my foolishness just a bit; please do bear with me.

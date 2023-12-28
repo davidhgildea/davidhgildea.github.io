@@ -11,7 +11,7 @@ layout: default
 # Chapter 33
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/33.jpg" alt="Psalms Chapter 33" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/33.jpg" alt="Psalms Chapter 33" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 33</figcaption>
 </figure>
 1 Be happy with God, you good people, because it's good for those who are right to give praise.

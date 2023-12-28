@@ -11,7 +11,7 @@ layout: default
 # Chapter 20
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ezekiel/500/20.jpg" alt="Ezekiel Chapter 20" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Ezekiel/500/20.jpg" alt="Ezekiel Chapter 20" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ezekiel Chapter 20</figcaption>
 </figure>
 1 In the seventh year, on the tenth day of the fifth month, some of the leaders of Israel came to ask God, and they sat down in front of me.

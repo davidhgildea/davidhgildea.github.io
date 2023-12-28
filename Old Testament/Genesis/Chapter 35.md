@@ -11,7 +11,7 @@ layout: default
 # Chapter 35
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Genesis/500/35.jpg" alt="Genesis Chapter 35" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Genesis/500/35.jpg" alt="Genesis Chapter 35" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 35</figcaption>
 </figure>
 1 God told Jacob, "Get up and go to Bethel to live. There, build an altar to God who showed Himself to you when you were running away from your brother Esau."

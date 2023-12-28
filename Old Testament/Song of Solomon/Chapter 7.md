@@ -11,7 +11,7 @@ layout: default
 # Chapter 7
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Song of Solomon/500/7.jpg" alt="Song of Solomon Chapter 7" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Song of Solomon/500/7.jpg" alt="Song of Solomon Chapter 7" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Song of Solomon Chapter 7</figcaption>
 </figure>
 1 Your feet are lovely in sandals, O princess! Your graceful legs are like precious gems, shaped by a skilled artist.

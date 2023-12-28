@@ -11,7 +11,7 @@ layout: default
 # Chapter 5
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Song of Solomon/500/5.jpg" alt="Song of Solomon Chapter 5" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Song of Solomon/500/5.jpg" alt="Song of Solomon Chapter 5" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Song of Solomon Chapter 5</figcaption>
 </figure>
 1 I have come into my garden, my sister, my partner: I have collected my myrrh and spices; I have eaten my honeycomb and honey; I have drunk my wine and milk. Eat, friends; drink, yes, drink a lot, my loved one.

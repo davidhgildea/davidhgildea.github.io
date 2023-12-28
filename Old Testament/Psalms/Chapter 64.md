@@ -11,7 +11,7 @@ layout: default
 # Chapter 64
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/64.jpg" alt="Psalms Chapter 64" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/64.jpg" alt="Psalms Chapter 64" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 64</figcaption>
 </figure>
 1 Listen to me, God, when I pray; keep me safe from my enemies' fear.

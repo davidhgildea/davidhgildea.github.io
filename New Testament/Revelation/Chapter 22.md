@@ -11,7 +11,7 @@ layout: default
 # Chapter 22
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Revelation/500/22.jpg" alt="Revelation Chapter 22" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Revelation/500/22.jpg" alt="Revelation Chapter 22" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Revelation Chapter 22</figcaption>
 </figure>
 1 He showed me a clear river of life-giving water, as bright as crystal, flowing from God's throne and the Lamb's.

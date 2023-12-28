@@ -11,7 +11,7 @@ layout: default
 # Chapter 37
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Jeremiah/500/37.jpg" alt="Jeremiah Chapter 37" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Jeremiah/500/37.jpg" alt="Jeremiah Chapter 37" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 37</figcaption>
 </figure>
 1 King Zedekiah, Josiah's son, became king after Coniah, Jehoiakim's son, whom Nebuchadnezzar, king of Babylon, had made king over Judah.

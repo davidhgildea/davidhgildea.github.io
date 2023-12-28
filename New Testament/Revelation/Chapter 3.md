@@ -11,7 +11,7 @@ layout: default
 # Chapter 3
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Revelation/500/3.jpg" alt="Revelation Chapter 3" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Revelation/500/3.jpg" alt="Revelation Chapter 3" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Revelation Chapter 3</figcaption>
 </figure>
 1 Write to the angel of the church in Sardis: He who has the seven spirits of God and the seven stars says, I know your actions; you have a reputation for being alive, but you are dead.

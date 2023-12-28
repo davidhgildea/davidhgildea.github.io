@@ -11,7 +11,7 @@ layout: default
 # Chapter 2
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Peter/500/2.jpg" alt="2 Peter Chapter 2" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/2 Peter/500/2.jpg" alt="2 Peter Chapter 2" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Peter Chapter 2</figcaption>
 </figure>
 1 But there were fake prophets among the people, just as there will be fake teachers among you. They will secretly introduce harmful false teachings, even denying God who saved them, and cause quick destruction for themselves.

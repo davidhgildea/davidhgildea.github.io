@@ -11,7 +11,7 @@ layout: default
 # Chapter 10
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Revelation/500/10.jpg" alt="Revelation Chapter 10" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Revelation/500/10.jpg" alt="Revelation Chapter 10" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Revelation Chapter 10</figcaption>
 </figure>
 1 I saw another powerful angel come down from heaven, dressed in a cloud, with a rainbow on his head, his face shining like the sun, and his feet like pillars of fire.

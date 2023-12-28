@@ -11,7 +11,7 @@ layout: default
 # Chapter 6
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Revelation/500/6.jpg" alt="Revelation Chapter 6" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Revelation/500/6.jpg" alt="Revelation Chapter 6" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Revelation Chapter 6</figcaption>
 </figure>
 1 I saw the Lamb open a seal, and I heard what sounded like thunder. One of the four creatures said, "Come and see."

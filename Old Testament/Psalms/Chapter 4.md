@@ -11,7 +11,7 @@ layout: default
 # Chapter 4
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/4.jpg" alt="Psalms Chapter 4" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/4.jpg" alt="Psalms Chapter 4" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 4</figcaption>
 </figure>
 1 Listen to me when I call, God who makes me right. You gave me more room when I was in trouble. Be kind to me and listen to my prayer.

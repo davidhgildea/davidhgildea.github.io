@@ -11,7 +11,7 @@ layout: default
 # Chapter 9
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Numbers/500/9.jpg" alt="Numbers Chapter 9" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Numbers/500/9.jpg" alt="Numbers Chapter 9" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Numbers Chapter 9</figcaption>
 </figure>
 1 God spoke to Moses in the Sinai wilderness, in the first month of the second year after they left Egypt, saying.

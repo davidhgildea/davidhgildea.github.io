@@ -11,7 +11,7 @@ layout: default
 # Chapter 11
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Exodus/500/11.jpg" alt="Exodus Chapter 11" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Exodus/500/11.jpg" alt="Exodus Chapter 11" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Exodus Chapter 11</figcaption>
 </figure>
 1 God told Moses, "I will send one more plague on Pharaoh and Egypt. After that, he will let you leave this place. When he lets you go, he will really force you all out."

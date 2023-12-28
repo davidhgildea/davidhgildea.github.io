@@ -11,7 +11,7 @@ layout: default
 # Chapter 18
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Genesis/500/18.jpg" alt="Genesis Chapter 18" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Genesis/500/18.jpg" alt="Genesis Chapter 18" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 18</figcaption>
 </figure>
 1 God appeared to him in the fields of Mamre while he was sitting at the entrance of his tent during the hottest part of the day.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 49
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Genesis/500/49.jpg" alt="Genesis Chapter 49" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Genesis/500/49.jpg" alt="Genesis Chapter 49" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 49</figcaption>
 </figure>
 1 Jacob called his sons and said, "Come here so I can tell you what will happen to you in the future."

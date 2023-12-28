@@ -11,7 +11,7 @@ layout: default
 # Chapter 37
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Exodus/500/37.jpg" alt="Exodus Chapter 37" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Exodus/500/37.jpg" alt="Exodus Chapter 37" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Exodus Chapter 37</figcaption>
 </figure>
 1 Bezaleel made the ark from acacia wood: it was 2.5 cubits long, 1.5 cubits wide, and 1.5 cubits high.

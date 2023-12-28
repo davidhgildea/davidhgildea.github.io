@@ -11,7 +11,7 @@ layout: default
 # Chapter 6
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Micah/500/6.jpg" alt="Micah Chapter 6" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Micah/500/6.jpg" alt="Micah Chapter 6" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Micah Chapter 6</figcaption>
 </figure>
 1 Listen to what God says; stand up, argue your case before the mountains, and let the hills hear what you say.

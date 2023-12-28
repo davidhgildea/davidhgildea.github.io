@@ -11,7 +11,7 @@ layout: default
 # Chapter 120
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/120.jpg" alt="Psalms Chapter 120" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/120.jpg" alt="Psalms Chapter 120" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 120</figcaption>
 </figure>
 1 When I was in trouble, I called out to God, and he listened to me.

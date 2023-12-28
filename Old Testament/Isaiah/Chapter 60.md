@@ -11,7 +11,7 @@ layout: default
 # Chapter 60
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/60.jpg" alt="Isaiah Chapter 60" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Isaiah/500/60.jpg" alt="Isaiah Chapter 60" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 60</figcaption>
 </figure>
 1 Get up and shine, because your light has come, and God's glory has risen upon you.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 35
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/35.jpg" alt="Isaiah Chapter 35" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Isaiah/500/35.jpg" alt="Isaiah Chapter 35" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 35</figcaption>
 </figure>
 1 The wild and lonely areas will be happy for them; and the desert will be joyful and bloom like a rose.

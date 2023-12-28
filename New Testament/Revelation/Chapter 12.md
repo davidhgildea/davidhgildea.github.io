@@ -11,7 +11,7 @@ layout: default
 # Chapter 12
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Revelation/500/12.jpg" alt="Revelation Chapter 12" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Revelation/500/12.jpg" alt="Revelation Chapter 12" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Revelation Chapter 12</figcaption>
 </figure>
 1 In heaven, a great sign appeared: a woman dressed in the sun, with the moon under her feet, and a crown of twelve stars on her head.

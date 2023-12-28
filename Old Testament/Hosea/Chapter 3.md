@@ -11,7 +11,7 @@ layout: default
 # Chapter 3
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Hosea/500/3.jpg" alt="Hosea Chapter 3" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Hosea/500/3.jpg" alt="Hosea Chapter 3" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Hosea Chapter 3</figcaption>
 </figure>
 1 God told me, "Go, show love to a woman loved by her friend but who is unfaithful, just as God loves the people of Israel, even though they turn to other gods and love to drink wine."

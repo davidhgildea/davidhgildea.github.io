@@ -11,7 +11,7 @@ layout: default
 # Chapter 14
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Mark/500/14.jpg" alt="Mark Chapter 14" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Mark/500/14.jpg" alt="Mark Chapter 14" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Mark Chapter 14</figcaption>
 </figure>
 1 In two days it would be the Passover festival and the Feast of Unleavened Bread. The religious leaders and teachers of the law were trying to find a sneaky way to arrest and kill him.

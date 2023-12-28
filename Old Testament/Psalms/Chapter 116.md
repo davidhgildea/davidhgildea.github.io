@@ -11,7 +11,7 @@ layout: default
 # Chapter 116
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/116.jpg" alt="Psalms Chapter 116" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/116.jpg" alt="Psalms Chapter 116" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 116</figcaption>
 </figure>
 1 I love God, because he has heard my voice and my pleas.

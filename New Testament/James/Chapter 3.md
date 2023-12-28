@@ -11,7 +11,7 @@ layout: default
 # Chapter 3
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/James/500/3.jpg" alt="James Chapter 3" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/James/500/3.jpg" alt="James Chapter 3" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">James Chapter 3</figcaption>
 </figure>
 1 My friends, don't all try to be teachers, because we know that we will be judged more strictly.

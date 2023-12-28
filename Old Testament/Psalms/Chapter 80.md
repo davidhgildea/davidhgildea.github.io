@@ -11,7 +11,7 @@ layout: default
 # Chapter 80
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/80.jpg" alt="Psalms Chapter 80" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Psalms/500/80.jpg" alt="Psalms Chapter 80" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 80</figcaption>
 </figure>
 1 Listen, Shepherd of Israel, you who guide Joseph like sheep; you who sit above the angels, show your light.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 18
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Kings/500/18.jpg" alt="2 Kings Chapter 18" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/2 Kings/500/18.jpg" alt="2 Kings Chapter 18" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Kings Chapter 18</figcaption>
 </figure>
 1 In the third year of Hoshea, son of Elah the king of Israel, Hezekiah, the son of Ahaz king of Judah, started to rule.

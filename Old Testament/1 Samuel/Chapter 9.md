@@ -11,7 +11,7 @@ layout: default
 # Chapter 9
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Samuel/500/9.jpg" alt="1 Samuel Chapter 9" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/1 Samuel/500/9.jpg" alt="1 Samuel Chapter 9" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Samuel Chapter 9</figcaption>
 </figure>
 1 There was a man from the tribe of Benjamin named Kish. He was the son of Abiel, the grandson of Zeror, the great-grandson of Bechorath, and the great-great-grandson of Aphiah. He was a strong and influential man.

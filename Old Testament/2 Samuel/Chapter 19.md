@@ -11,7 +11,7 @@ layout: default
 # Chapter 19
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Samuel/500/19.jpg" alt="2 Samuel Chapter 19" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/2 Samuel/500/19.jpg" alt="2 Samuel Chapter 19" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Samuel Chapter 19</figcaption>
 </figure>
 1 Someone told Joab, "Look, the king is crying and grieving for Absalom."

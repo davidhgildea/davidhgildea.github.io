@@ -11,7 +11,7 @@ layout: default
 # Chapter 23
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Proverbs/500/23.jpg" alt="Proverbs Chapter 23" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Proverbs/500/23.jpg" alt="Proverbs Chapter 23" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Proverbs Chapter 23</figcaption>
 </figure>
 1 When you sit down to eat with a ruler, think carefully about what is in front of you.

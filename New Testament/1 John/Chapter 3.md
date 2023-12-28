@@ -11,7 +11,7 @@ layout: default
 # Chapter 3
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 John/500/3.jpg" alt="1 John Chapter 3" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/1 John/500/3.jpg" alt="1 John Chapter 3" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 John Chapter 3</figcaption>
 </figure>
 1 Look at how much love God has given us, so we can be called God's children. That's why the world doesn't recognize us, because it didn't recognize him.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 5
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Micah/500/5.jpg" alt="Micah Chapter 5" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Micah/500/5.jpg" alt="Micah Chapter 5" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Micah Chapter 5</figcaption>
 </figure>
 1 Get ready for battle, people of the city; we are under attack. They will strike the leader of Israel on the face with a stick.

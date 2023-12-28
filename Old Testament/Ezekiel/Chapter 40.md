@@ -11,7 +11,7 @@ layout: default
 # Chapter 40
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ezekiel/500/40.jpg" alt="Ezekiel Chapter 40" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Ezekiel/500/40.jpg" alt="Ezekiel Chapter 40" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ezekiel Chapter 40</figcaption>
 </figure>
 1 In the twenty-fifth year of our captivity, at the start of the year, on the tenth day of the month, fourteen years after the city was struck down, on that exact day, God's hand was on me and took me there.

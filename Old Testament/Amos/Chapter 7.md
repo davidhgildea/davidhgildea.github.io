@@ -11,7 +11,7 @@ layout: default
 # Chapter 7
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Amos/500/7.jpg" alt="Amos Chapter 7" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Amos/500/7.jpg" alt="Amos Chapter 7" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Amos Chapter 7</figcaption>
 </figure>
 1 God showed me this: I saw him create locusts at the start of the crops' second growth, after the king's harvest.

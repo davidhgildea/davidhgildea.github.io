@@ -11,7 +11,7 @@ layout: default
 # Chapter 32
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Exodus/500/32.jpg" alt="Exodus Chapter 32" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Exodus/500/32.jpg" alt="Exodus Chapter 32" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Exodus Chapter 32</figcaption>
 </figure>
 1 When the people saw Moses was taking a long time to come down from the mountain, they went to Aaron and said, "Get up, make us gods to lead us. We don't know what happened to Moses, who brought us out of Egypt."

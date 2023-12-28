@@ -11,7 +11,7 @@ layout: default
 # Chapter 28
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Genesis/500/28.jpg" alt="Genesis Chapter 28" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Genesis/500/28.jpg" alt="Genesis Chapter 28" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 28</figcaption>
 </figure>
 1 Isaac called Jacob, blessed him, gave him instructions, and said to him, "You must not marry any of the Canaanite women."

@@ -11,7 +11,7 @@ layout: default
 # Chapter 9
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Judges/500/9.jpg" alt="Judges Chapter 9" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Judges/500/9.jpg" alt="Judges Chapter 9" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Judges Chapter 9</figcaption>
 </figure>
 1 Abimelech, Jerubbaal's son, went to Shechem to his mother's brothers, talked with them, and with all his mother's father's family, saying,

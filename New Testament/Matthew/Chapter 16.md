@@ -11,7 +11,7 @@ layout: default
 # Chapter 16
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Matthew/500/16.jpg" alt="Matthew Chapter 16" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Matthew/500/16.jpg" alt="Matthew Chapter 16" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Matthew Chapter 16</figcaption>
 </figure>
 1 The Pharisees and Sadducees also came to Jesus and, trying to trick him, asked him to show them a sign from heaven.

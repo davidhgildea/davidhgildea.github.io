@@ -11,7 +11,7 @@ layout: default
 # Chapter 32
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Deuteronomy/500/32.jpg" alt="Deuteronomy Chapter 32" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Deuteronomy/500/32.jpg" alt="Deuteronomy Chapter 32" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Deuteronomy Chapter 32</figcaption>
 </figure>
 1 Listen, heavens, and I will talk; and listen, earth, to what I say.

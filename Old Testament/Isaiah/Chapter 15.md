@@ -11,7 +11,7 @@ layout: default
 # Chapter 15
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/15.jpg" alt="Isaiah Chapter 15" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Isaiah/500/15.jpg" alt="Isaiah Chapter 15" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 15</figcaption>
 </figure>
 1 Moab's heavy problem. Because at night, Moab's city Ar is destroyed and silenced; at night, Moab's city Kir is also destroyed and silenced.

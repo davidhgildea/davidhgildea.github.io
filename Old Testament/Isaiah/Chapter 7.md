@@ -11,7 +11,7 @@ layout: default
 # Chapter 7
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/7.jpg" alt="Isaiah Chapter 7" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Isaiah/500/7.jpg" alt="Isaiah Chapter 7" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 7</figcaption>
 </figure>
 1 During the time of Ahaz, Jotham's son, and grandson of Uzziah, king of Judah, Rezin the king of Syria and Pekah, Remaliah's son and king of Israel, attacked Jerusalem but could not defeat it.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 6
 
 <figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Daniel/500/6.jpg" alt="Daniel Chapter 6" class="chapter-image" style="width: 100%; height: auto;">
+    <img src="/assets/Image/Daniel/500/6.jpg" alt="Daniel Chapter 6" class="chapter-image" style="width: 100%;float: right; height: auto;">
     <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Daniel Chapter 6</figcaption>
 </figure>
 1 Darius decided to put 120 princes in charge of the whole kingdom.
