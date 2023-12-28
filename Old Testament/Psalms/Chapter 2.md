@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 2
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/2.jpg" alt="Psalms Chapter 2" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 2.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/2.jpg" alt="Psalms Chapter 2" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 2</figcaption>
+</div>
 1 Why do the nations get angry, and the people think up useless plans?
 
 2 The rulers of the world stand together, and the leaders plan together, against God and his chosen one, saying,

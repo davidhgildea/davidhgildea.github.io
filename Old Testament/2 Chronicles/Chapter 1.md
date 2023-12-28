@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 1
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Chronicles/500/1.jpg" alt="2 Chronicles Chapter 1" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Chronicles Chapter 1.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Chronicles/500/1.jpg" alt="2 Chronicles Chapter 1" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Chronicles Chapter 1</figcaption>
+</div>
 1 Solomon, David's son, became strong as a king, and God was with him and made him very great.
 
 2 Then Solomon spoke to all Israel, including the leaders of thousands and hundreds, the judges, every ruler, and all the family heads.

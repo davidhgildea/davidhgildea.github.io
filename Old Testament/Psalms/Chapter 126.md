@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 126
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/126.jpg" alt="Psalms Chapter 126" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 126.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/126.jpg" alt="Psalms Chapter 126" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 126</figcaption>
+</div>
 1 When God freed the captives of Zion, we were like those who dream.
 
 2 Our mouths were full of laughter and our tongues sang with joy. Then the nations said, "God has done great things for them."

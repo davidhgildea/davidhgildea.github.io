@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 2
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Hebrews/500/2.jpg" alt="Hebrews Chapter 2" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Hebrews Chapter 2.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Hebrews/500/2.jpg" alt="Hebrews Chapter 2" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Hebrews Chapter 2</figcaption>
+</div>
 1 So we should pay careful attention to what we have heard, so that we don't forget it.
 
 2 If the message given by angels was firm, and every wrongdoing and disobedience got a fair punishment;

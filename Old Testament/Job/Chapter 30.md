@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 30
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Job/500/30.jpg" alt="Job Chapter 30" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Job Chapter 30.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Job/500/30.jpg" alt="Job Chapter 30" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Job Chapter 30</figcaption>
+</div>
 1 Now, younger people mock me, people whose fathers I wouldn't have let sit with my sheepdogs.
 
 2 Yes, how could the strength of their hands help me, when they were worn out by old age?

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 4
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Deuteronomy/500/4.jpg" alt="Deuteronomy Chapter 4" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Deuteronomy Chapter 4.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Deuteronomy/500/4.jpg" alt="Deuteronomy Chapter 4" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Deuteronomy Chapter 4</figcaption>
+</div>
 1 Listen, Israel, to the rules and decisions I am teaching you. Follow them so you may live and enter and own the land God of your ancestors is giving you.
 
 2 Do not add anything to what I tell you, and do not take anything away from it, so you can follow God's commands that I give you.

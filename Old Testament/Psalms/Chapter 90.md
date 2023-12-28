@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 90
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/90.jpg" alt="Psalms Chapter 90" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 90.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/90.jpg" alt="Psalms Chapter 90" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 90</figcaption>
+</div>
 1 God, you have been our home through all the ages.
 
 2 Before the mountains existed, or before you made the earth and the world, from forever in the past to forever in the future, you are God.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 12
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ezekiel/500/12.jpg" alt="Ezekiel Chapter 12" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ezekiel Chapter 12.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ezekiel/500/12.jpg" alt="Ezekiel Chapter 12" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 12</figcaption>
+</div>
 1 God's message came to me, saying,
 
 2 Human, you live among people who refuse to obey, who have eyes but do not see and ears but do not hear, because they are defiant.

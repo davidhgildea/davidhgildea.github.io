@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 9
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Joshua/500/9.jpg" alt="Joshua Chapter 9" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Joshua Chapter 9.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Joshua/500/9.jpg" alt="Joshua Chapter 9" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Joshua Chapter 9</figcaption>
+</div>
 1 When all the kings near the Jordan River, in the hills, valleys, and along the coast of the great sea next to Lebanon, including the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites, heard about it;
 
 2 They came together to fight Joshua and Israel as one.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 101
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/101.jpg" alt="Psalms Chapter 101" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 101.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/101.jpg" alt="Psalms Chapter 101" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 101</figcaption>
+</div>
 1 I will sing about love and fairness to you, O God, I will sing.
 
 2 I will act wisely in a good way. Oh, when will you come to me? I will live in my house with a pure heart.

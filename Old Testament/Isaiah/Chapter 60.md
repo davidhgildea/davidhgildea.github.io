@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 60
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/60.jpg" alt="Isaiah Chapter 60" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 60.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/60.jpg" alt="Isaiah Chapter 60" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 60</figcaption>
+</div>
 1 Get up and shine, because your light has come, and God's glory has risen upon you.
 
 2 Look, darkness will cover the earth, and deep darkness the people, but God will rise upon you, and His glory will be seen on you.

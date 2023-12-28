@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 11
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Kings/500/11.jpg" alt="1 Kings Chapter 11" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Kings Chapter 11.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Kings/500/11.jpg" alt="1 Kings Chapter 11" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Kings Chapter 11</figcaption>
+</div>
 1 King Solomon loved many foreign women, including Pharaoh's daughter and women from Moab, Ammon, Edom, Sidon, and Hittite lands.
 
 2 About the countries which God told the people of Israel, "Do not associate with them, nor let them associate with you, because they will surely turn your hearts towards their gods," Solomon became very attached to them because of love.

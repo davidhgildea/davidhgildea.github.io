@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 13
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Exodus/500/13.jpg" alt="Exodus Chapter 13" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Exodus Chapter 13.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Exodus/500/13.jpg" alt="Exodus Chapter 13" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Exodus Chapter 13</figcaption>
+</div>
 1 God spoke to Moses, saying,
 
 2 Set apart for me every firstborn, every first child or animal born among the Israelites: it belongs to me.

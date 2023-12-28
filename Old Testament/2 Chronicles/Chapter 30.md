@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 30
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Chronicles/500/30.jpg" alt="2 Chronicles Chapter 30" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Chronicles Chapter 30.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Chronicles/500/30.jpg" alt="2 Chronicles Chapter 30" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Chronicles Chapter 30</figcaption>
+</div>
 1 Hezekiah sent messages to all of Israel and Judah, and also wrote letters to Ephraim and Manasseh, inviting them to come to God's house in Jerusalem to celebrate the Passover for the God of Israel.
 
 2 The king, his leaders, and everyone in Jerusalem decided to celebrate Passover in the second month.

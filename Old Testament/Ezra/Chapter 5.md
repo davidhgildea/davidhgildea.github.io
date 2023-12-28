@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 5
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ezra/500/5.jpg" alt="Ezra Chapter 5" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ezra Chapter 5.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ezra/500/5.jpg" alt="Ezra Chapter 5" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ezra Chapter 5</figcaption>
+</div>
 1 The prophets Haggai and Zechariah, son of Iddo, spoke God's message to the Jews in Judah and Jerusalem.
 
 2 Zerubbabel, Shealtiel's son, and Jeshua, Jozadak's son, stood up and started building God's house in Jerusalem. God's prophets were also there, helping them.

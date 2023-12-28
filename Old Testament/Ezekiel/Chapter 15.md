@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 15
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ezekiel/500/15.jpg" alt="Ezekiel Chapter 15" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ezekiel Chapter 15.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ezekiel/500/15.jpg" alt="Ezekiel Chapter 15" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 15</figcaption>
+</div>
 1 God spoke to me, saying,
 
 2 Human, what makes a grapevine better than any other tree or a branch found in the forest?

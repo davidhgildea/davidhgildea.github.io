@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 24
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Chronicles/500/24.jpg" alt="2 Chronicles Chapter 24" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Chronicles Chapter 24.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Chronicles/500/24.jpg" alt="2 Chronicles Chapter 24" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Chronicles Chapter 24</figcaption>
+</div>
 1 Joash became king at seven and ruled for forty years in Jerusalem. His mother, Zibiah, was from Beersheba.
 
 2 Joash did what was right in God's eyes all the time Jehoiada the priest was alive.

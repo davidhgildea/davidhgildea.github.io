@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 14
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/14.jpg" alt="Psalms Chapter 14" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 14.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/14.jpg" alt="Psalms Chapter 14" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 14</figcaption>
+</div>
 1 The fool thinks to himself, there is no God. They are bad, they do terrible things, no one does good.
 
 2 God looked from heaven at people to see if anyone understood and looked for God.

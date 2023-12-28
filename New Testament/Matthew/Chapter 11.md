@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 11
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Matthew/500/11.jpg" alt="Matthew Chapter 11" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Matthew Chapter 11.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Matthew/500/11.jpg" alt="Matthew Chapter 11" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Matthew Chapter 11</figcaption>
+</div>
 1 When Jesus finished giving instructions to his twelve disciples, he left to teach and spread his message in their towns.
 
 2 When John, who was in prison, heard about what Christ was doing, he sent two of his followers.

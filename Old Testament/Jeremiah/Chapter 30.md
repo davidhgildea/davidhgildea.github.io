@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 30
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Jeremiah/500/30.jpg" alt="Jeremiah Chapter 30" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Jeremiah Chapter 30.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Jeremiah/500/30.jpg" alt="Jeremiah Chapter 30" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 30</figcaption>
+</div>
 1 God gave a message to Jeremiah, saying,
 
 2 God of Israel says, "Write down all the words I have told you in a book."

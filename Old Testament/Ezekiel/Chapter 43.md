@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 43
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ezekiel/500/43.jpg" alt="Ezekiel Chapter 43" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ezekiel Chapter 43.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ezekiel/500/43.jpg" alt="Ezekiel Chapter 43" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 43</figcaption>
+</div>
 1 Later, he took me to the gate that faces east.
 
 2 Look, the glory of God of Israel came from the east, and his voice sounded like loud rushing waters, and the earth glowed with his glory.

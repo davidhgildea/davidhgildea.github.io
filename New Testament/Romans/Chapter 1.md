@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 1
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Romans/500/1.jpg" alt="Romans Chapter 1" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Romans Chapter 1.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Romans/500/1.jpg" alt="Romans Chapter 1" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Romans Chapter 1</figcaption>
+</div>
 1 Paul, a servant of Jesus Christ, chosen to be an apostle, set apart for the good news of God,
 
 2 He promised this before through his prophets in the holy writings.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 6
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Romans/500/6.jpg" alt="Romans Chapter 6" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Romans Chapter 6.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Romans/500/6.jpg" alt="Romans Chapter 6" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Romans Chapter 6</figcaption>
+</div>
 1 So what should we say? Should we keep sinning so that God's kindness can increase?
 
 2 Of course not! How can we, who have died to sin, still live in it?

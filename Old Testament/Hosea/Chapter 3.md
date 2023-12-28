@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 3
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Hosea/500/3.jpg" alt="Hosea Chapter 3" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Hosea Chapter 3.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Hosea/500/3.jpg" alt="Hosea Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Hosea Chapter 3</figcaption>
+</div>
 1 God told me, "Go, show love to a woman loved by her friend but who is unfaithful, just as God loves the people of Israel, even though they turn to other gods and love to drink wine."
 
 2 I bought her for fifteen silver coins, a large amount of barley, and half that amount again.

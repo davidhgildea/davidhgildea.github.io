@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 11
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Numbers/500/11.jpg" alt="Numbers Chapter 11" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Numbers Chapter 11.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Numbers/500/11.jpg" alt="Numbers Chapter 11" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Numbers Chapter 11</figcaption>
+</div>
 1 When the people complained, it upset God; God heard it, and became angry; God's fire burned among them, and it destroyed those on the edges of the camp.
 
 2 The people called out to Moses; and when Moses prayed to God, the fire went out.

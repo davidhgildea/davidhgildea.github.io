@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 12
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/John/500/12.jpg" alt="John Chapter 12" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">John Chapter 12.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/John/500/12.jpg" alt="John Chapter 12" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">John Chapter 12</figcaption>
+</div>
 1 Six days before Passover, Jesus went to Bethany, where Lazarus lived, whom he had brought back to life after death.
 
 2 There they prepared a dinner for him; Martha served, while Lazarus was one of those who sat at the table with him.

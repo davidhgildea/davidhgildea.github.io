@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 10
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Jeremiah/500/10.jpg" alt="Jeremiah Chapter 10" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Jeremiah Chapter 10.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Jeremiah/500/10.jpg" alt="Jeremiah Chapter 10" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 10</figcaption>
+</div>
 1 Listen to the message that God is giving you, people of Israel.
 
 2 God says, "Don't follow the heathen's ways, and don't be scared of the sky signs; the heathen are scared of them."

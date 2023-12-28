@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 106
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/106.jpg" alt="Psalms Chapter 106" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 106.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/106.jpg" alt="Psalms Chapter 106" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 106</figcaption>
+</div>
 1 Praise God. Give thanks to God, for he is good and his kindness lasts forever.
 
 2 Who can speak of God's powerful deeds? Who can show all the praise he deserves?

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 9
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Samuel/500/9.jpg" alt="2 Samuel Chapter 9" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Samuel Chapter 9.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Samuel/500/9.jpg" alt="2 Samuel Chapter 9" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Samuel Chapter 9</figcaption>
+</div>
 1 David asked, "Is there anyone still alive from Saul's family, so I can be kind to them for Jonathan's sake?"
 
 2 Saul's household had a servant named Ziba. When they brought him to David, the king asked, "Are you Ziba?" He replied, "I am your servant."

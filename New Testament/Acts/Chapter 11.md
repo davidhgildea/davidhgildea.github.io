@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 11
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Acts/500/11.jpg" alt="Acts Chapter 11" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Acts Chapter 11.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Acts/500/11.jpg" alt="Acts Chapter 11" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Acts Chapter 11</figcaption>
+</div>
 1 The apostles and believers in Judea heard that non-Jews also accepted God's message.
 
 2 When Peter arrived in Jerusalem, those who were circumcised argued with him.

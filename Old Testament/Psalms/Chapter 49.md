@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 49
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/49.jpg" alt="Psalms Chapter 49" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 49.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/49.jpg" alt="Psalms Chapter 49" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 49</figcaption>
+</div>
 1 Listen to this, everyone; pay attention, all who live in the world:
 
 2 Everyone, both unimportant and important, both rich and poor, together.

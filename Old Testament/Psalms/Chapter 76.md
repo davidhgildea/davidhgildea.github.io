@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 76
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/76.jpg" alt="Psalms Chapter 76" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 76.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/76.jpg" alt="Psalms Chapter 76" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 76</figcaption>
+</div>
 1 God is known in Judah; His name is great in Israel.
 
 2 God's tent is in Salem, and his home is in Zion.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 1
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Colossians/500/1.jpg" alt="Colossians Chapter 1" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Colossians Chapter 1.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Colossians/500/1.jpg" alt="Colossians Chapter 1" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Colossians Chapter 1</figcaption>
+</div>
 1 Paul, sent by Jesus Christ because God wanted it, and Timothy our brother,
 
 2 To God's holy and loyal followers in Christ who are in Colosse: May you have kindness and peace from God our Father and Jesus Christ.

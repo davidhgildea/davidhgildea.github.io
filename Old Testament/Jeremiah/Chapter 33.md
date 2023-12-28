@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 33
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Jeremiah/500/33.jpg" alt="Jeremiah Chapter 33" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Jeremiah Chapter 33.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Jeremiah/500/33.jpg" alt="Jeremiah Chapter 33" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 33</figcaption>
+</div>
 1 Again, God spoke to Jeremiah while he was still locked up in the prison yard, saying,
 
 2 God, who made it and shaped it to set it firm, has this to say; God is his name.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 2
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Nehemiah/500/2.jpg" alt="Nehemiah Chapter 2" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Nehemiah Chapter 2.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Nehemiah/500/2.jpg" alt="Nehemiah Chapter 2" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Nehemiah Chapter 2</figcaption>
+</div>
 1 In the month of Nisan, during King Artaxerxes's twentieth year, there was wine in front of him. I picked up the wine and gave it to the king. I had never been sad in front of him before.
 
 2 So the king asked me, "Why do you look sad when you're not ill? This must be deep sadness." I felt very afraid.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 5
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Amos/500/5.jpg" alt="Amos Chapter 5" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Amos Chapter 5.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Amos/500/5.jpg" alt="Amos Chapter 5" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Amos Chapter 5</figcaption>
+</div>
 1 Listen to this message I speak against you, which is a sad song, O people of Israel.
 
 2 The young woman of Israel has fallen; she will not get up again: she is left alone on her land; there is no one to help her up.

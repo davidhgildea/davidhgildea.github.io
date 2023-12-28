@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 4
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Matthew/500/4.jpg" alt="Matthew Chapter 4" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Matthew Chapter 4.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Matthew/500/4.jpg" alt="Matthew Chapter 4" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Matthew Chapter 4</figcaption>
+</div>
 1 Then Jesus was led by the Spirit into the desert to be tempted by the devil.
 
 2 After he fasted for forty days and nights, he felt hungry.

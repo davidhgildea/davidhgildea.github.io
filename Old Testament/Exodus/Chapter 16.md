@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 16
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Exodus/500/16.jpg" alt="Exodus Chapter 16" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Exodus Chapter 16.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Exodus/500/16.jpg" alt="Exodus Chapter 16" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Exodus Chapter 16</figcaption>
+</div>
 1 They left Elim, and all the Israelites reached the Sin desert, between Elim and Sinai, on the fifteenth day of the second month since leaving Egypt.
 
 2 The whole group of Israel's people complained against Moses and Aaron in the desert.

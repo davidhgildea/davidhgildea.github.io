@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 19
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Numbers/500/19.jpg" alt="Numbers Chapter 19" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Numbers Chapter 19.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Numbers/500/19.jpg" alt="Numbers Chapter 19" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Numbers Chapter 19</figcaption>
+</div>
 1 God spoke to Moses and Aaron, saying,
 
 2 This is the rule of the law that God has commanded: Tell the Israelites to bring you a red cow that is perfect, with no flaws, and that has never worn a yoke.

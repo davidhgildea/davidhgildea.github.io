@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 17
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Genesis/500/17.jpg" alt="Genesis Chapter 17" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Genesis Chapter 17.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Genesis/500/17.jpg" alt="Genesis Chapter 17" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Genesis Chapter 17</figcaption>
+</div>
 1 When Abram was ninety-nine years old, God came to Abram and said, "I am Almighty God; walk with me and be blameless."
 
 2 I will create an agreement between us, and I will greatly increase your numbers.

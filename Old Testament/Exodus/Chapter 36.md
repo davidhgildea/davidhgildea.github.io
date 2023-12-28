@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 36
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Exodus/500/36.jpg" alt="Exodus Chapter 36" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Exodus Chapter 36.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Exodus/500/36.jpg" alt="Exodus Chapter 36" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Exodus Chapter 36</figcaption>
+</div>
 1 Bezaleel, Aholiab, and every skilled person whom God gave wisdom and understanding knew how to do all kinds of work for the sanctuary service, just as God had instructed.
 
 2 Moses called Bezaleel, Aholiab, and every skilled person whom God had given wisdom, and everyone who felt moved to come and do the work.

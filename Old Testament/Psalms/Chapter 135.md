@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 135
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/135.jpg" alt="Psalms Chapter 135" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 135.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/135.jpg" alt="Psalms Chapter 135" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 135</figcaption>
+</div>
 1 Praise God. Praise the name of God; praise him, all you servants of God.
 
 2 You who stand in God's house, in the courts of our God's house.

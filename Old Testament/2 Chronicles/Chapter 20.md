@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 20
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Chronicles/500/20.jpg" alt="2 Chronicles Chapter 20" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Chronicles Chapter 20.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Chronicles/500/20.jpg" alt="2 Chronicles Chapter 20" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Chronicles Chapter 20</figcaption>
+</div>
 1 After this, the people of Moab and Ammon, together with others besides the Ammonites, went to fight against Jehoshaphat.
 
 2 Some people came to tell Jehoshaphat, "A huge army is coming against you from across the sea near Syria; they are now in Hazazontamar, also known as Engedi."

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 4
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Romans/500/4.jpg" alt="Romans Chapter 4" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Romans Chapter 4.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Romans/500/4.jpg" alt="Romans Chapter 4" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Romans Chapter 4</figcaption>
+</div>
 1 What can we say about what Abraham, our ancestor according to the flesh, discovered?
 
 2 If Abraham was made right by what he did, he could be proud, but not in God's view.

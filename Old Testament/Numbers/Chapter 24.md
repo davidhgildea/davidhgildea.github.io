@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 24
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Numbers/500/24.jpg" alt="Numbers Chapter 24" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Numbers Chapter 24.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Numbers/500/24.jpg" alt="Numbers Chapter 24" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Numbers Chapter 24</figcaption>
+</div>
 1 When Balaam saw that God wanted to bless Israel, he did not look for magic spells like before, but instead he looked towards the desert.
 
 2 Balaam looked up and saw Israel camping by their tribes; then God's spirit came on him.

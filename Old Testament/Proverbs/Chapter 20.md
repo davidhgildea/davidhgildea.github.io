@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 20
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Proverbs/500/20.jpg" alt="Proverbs Chapter 20" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Proverbs Chapter 20.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Proverbs/500/20.jpg" alt="Proverbs Chapter 20" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Proverbs Chapter 20</figcaption>
+</div>
 1 Wine can mock you, strong drink can cause trouble, and anyone fooled by it is not smart.
 
 2 Being afraid of a king is like hearing a lion roar: whoever makes him angry harms themselves.

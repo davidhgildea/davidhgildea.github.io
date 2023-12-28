@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 7
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Kings/500/7.jpg" alt="2 Kings Chapter 7" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Kings Chapter 7.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Kings/500/7.jpg" alt="2 Kings Chapter 7" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Kings Chapter 7</figcaption>
+</div>
 1 Elisha said, "Listen to God's message: Tomorrow at this time, you can buy a measure of fine flour for one shekel and two measures of barley for one shekel at the gate of Samaria."
 
 2 A high-ranking official who the king trusted spoke to the man of God, saying, "Look, even if God could open windows in the sky, could this happen?" The man of God replied, "You will see it with your own eyes, but you will not eat any of it."

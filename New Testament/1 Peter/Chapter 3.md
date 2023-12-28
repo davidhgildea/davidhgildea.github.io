@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 3
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Peter/500/3.jpg" alt="1 Peter Chapter 3" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Peter Chapter 3.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Peter/500/3.jpg" alt="1 Peter Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Peter Chapter 3</figcaption>
+</div>
 1 Wives, respect your husbands so that even if some do not believe the message, they may be convinced by their wives' way of life without needing words.
 
 2 As they see your pure way of life with respect.

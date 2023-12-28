@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 116
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/116.jpg" alt="Psalms Chapter 116" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 116.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/116.jpg" alt="Psalms Chapter 116" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 116</figcaption>
+</div>
 1 I love God, because he has heard my voice and my pleas.
 
 2 Because he listened to me, I will call on him as long as I live.

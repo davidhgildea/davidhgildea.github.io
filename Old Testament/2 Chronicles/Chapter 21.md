@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 21
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Chronicles/500/21.jpg" alt="2 Chronicles Chapter 21" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Chronicles Chapter 21.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Chronicles/500/21.jpg" alt="2 Chronicles Chapter 21" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Chronicles Chapter 21</figcaption>
+</div>
 1 Jehoshaphat died and was buried with his ancestors in the city of David. Then his son Jehoram became king after him.
 
 2 He had brothers, Jehoshaphat's sons: Azariah, Jehiel, Zechariah, another Azariah, Michael, and Shephatiah. All these were King Jehoshaphat of Israel's sons.

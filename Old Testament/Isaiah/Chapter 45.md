@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 45
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/45.jpg" alt="Isaiah Chapter 45" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 45.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/45.jpg" alt="Isaiah Chapter 45" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 45</figcaption>
+</div>
 1 God says to his chosen one, Cyrus, whose right hand I have held, to defeat nations for him; and I will weaken kings, to open gates with two parts for him; and the gates will not be closed.
 
 2 I will go ahead of you and make the twisted paths straight. I will break the bronze gates into pieces and cut through the iron bars.

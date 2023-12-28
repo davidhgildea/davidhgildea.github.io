@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 8
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Corinthians/500/8.jpg" alt="2 Corinthians Chapter 8" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Corinthians Chapter 8.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Corinthians/500/8.jpg" alt="2 Corinthians Chapter 8" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Corinthians Chapter 8</figcaption>
+</div>
 1 Also, friends, we want you to know about the kindness God gave to the churches in Macedonia.
 
 2 They were very joyful in hard times, and though very poor, they were very generous.

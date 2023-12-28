@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 7
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Judges/500/7.jpg" alt="Judges Chapter 7" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Judges Chapter 7.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Judges/500/7.jpg" alt="Judges Chapter 7" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Judges Chapter 7</figcaption>
+</div>
 1 Jerubbaal, also known as Gideon, and all his companions got up early and set up camp near Harod's well. The Midianite army was to the north of them, near Moreh hill in the valley.
 
 2 God told Gideon, "You have too many people for me to let you defeat the Midianites. Otherwise, Israel will boast and say, 'We saved ourselves.'"

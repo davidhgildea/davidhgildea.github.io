@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 6
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Esther/500/6.jpg" alt="Esther Chapter 6" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Esther Chapter 6.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Esther/500/6.jpg" alt="Esther Chapter 6" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Esther Chapter 6</figcaption>
+</div>
 1 That night the king could not sleep, so he ordered the record book of past events to be brought and read to him.
 
 2 It was recorded that Mordecai reported Bigthana and Teresh, two of the king's guards, who planned to attack King Ahasuerus.

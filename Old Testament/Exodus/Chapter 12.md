@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 12
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Exodus/500/12.jpg" alt="Exodus Chapter 12" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Exodus Chapter 12.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Exodus/500/12.jpg" alt="Exodus Chapter 12" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Exodus Chapter 12</figcaption>
+</div>
 1 God spoke to Moses and Aaron in Egypt, saying,
 
 2 This month will be the start of months for you: It will be your first month of the year.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 27
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Chronicles/500/27.jpg" alt="2 Chronicles Chapter 27" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Chronicles Chapter 27.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Chronicles/500/27.jpg" alt="2 Chronicles Chapter 27" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Chronicles Chapter 27</figcaption>
+</div>
 1 Jotham was 25 years old when he became king, and he ruled for 16 years in Jerusalem. His mother's name was Jerushah, and she was the daughter of Zadok.
 
 2 He did what was right in God's eyes, just like his father Uzziah did, but he didn't go into God's temple. Yet the people still acted wrongly.

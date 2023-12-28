@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 127
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/127.jpg" alt="Psalms Chapter 127" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 127.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/127.jpg" alt="Psalms Chapter 127" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 127</figcaption>
+</div>
 1 Unless God builds the house, those who work on it waste their effort; unless God protects the city, the guard stays awake for nothing.
 
 2 It's useless to wake up early and go to bed late, working hard for a living; God gives rest to those he loves.

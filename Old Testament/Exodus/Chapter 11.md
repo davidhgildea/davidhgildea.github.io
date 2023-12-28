@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 11
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Exodus/500/11.jpg" alt="Exodus Chapter 11" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Exodus Chapter 11.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Exodus/500/11.jpg" alt="Exodus Chapter 11" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Exodus Chapter 11</figcaption>
+</div>
 1 God told Moses, "I will send one more plague on Pharaoh and Egypt. After that, he will let you leave this place. When he lets you go, he will really force you all out."
 
 2 Tell the people to ask their neighbors, both men and women, for silver and gold jewelry.

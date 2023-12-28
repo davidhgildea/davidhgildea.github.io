@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 21
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Acts/500/21.jpg" alt="Acts Chapter 21" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Acts Chapter 21.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Acts/500/21.jpg" alt="Acts Chapter 21" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Acts Chapter 21</figcaption>
+</div>
 1 After we had left them and set sail, we went straight to Kos, then the next day to Rhodes, and from there to Patara.
 
 2 We found a ship going to Phoenicia, boarded it, and set sail.

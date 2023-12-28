@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 15
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Kings/500/15.jpg" alt="2 Kings Chapter 15" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Kings Chapter 15.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Kings/500/15.jpg" alt="2 Kings Chapter 15" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Kings Chapter 15</figcaption>
+</div>
 1 In the twenty-seventh year of King Jeroboam of Israel, Azariah, the son of King Amaziah of Judah, started his rule.
 
 2 He was sixteen when he became king, and he ruled for fifty-two years in Jerusalem. His mother was Jecholiah from Jerusalem.

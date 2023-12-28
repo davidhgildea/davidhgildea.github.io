@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 37
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/37.jpg" alt="Isaiah Chapter 37" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 37.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/37.jpg" alt="Isaiah Chapter 37" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 37</figcaption>
+</div>
 1 When King Hezekiah heard this, he tore his clothes, put on sackcloth, and went into God's house.
 
 2 He sent Eliakim, the household manager, Shebna the secretary, and the senior priests in mourning clothes to Isaiah the prophet, Amoz's son.

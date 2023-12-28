@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 16
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Matthew/500/16.jpg" alt="Matthew Chapter 16" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Matthew Chapter 16.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Matthew/500/16.jpg" alt="Matthew Chapter 16" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Matthew Chapter 16</figcaption>
+</div>
 1 The Pharisees and Sadducees also came to Jesus and, trying to trick him, asked him to show them a sign from heaven.
 
 2 He replied, "When the evening comes, you say, 'The weather will be good,' because the sky is red."

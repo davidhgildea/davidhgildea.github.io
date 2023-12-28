@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 35
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ezekiel/500/35.jpg" alt="Ezekiel Chapter 35" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ezekiel Chapter 35.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ezekiel/500/35.jpg" alt="Ezekiel Chapter 35" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 35</figcaption>
+</div>
 1 Additionally, God spoke to me, saying,
 
 2 Human, look toward Mount Seir and speak against it.

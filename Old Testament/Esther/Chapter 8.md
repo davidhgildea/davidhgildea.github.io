@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 8
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Esther/500/8.jpg" alt="Esther Chapter 8" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Esther Chapter 8.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Esther/500/8.jpg" alt="Esther Chapter 8" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Esther Chapter 8</figcaption>
+</div>
 1 On that day, King Ahasuerus gave Queen Esther the house of Haman, the enemy of the Jews. Mordecai came to the king because Esther had explained who he was to her.
 
 2 The king removed his ring, which he had taken from Haman, and gave it to Mordecai. Esther made Mordecai in charge of Haman's property.

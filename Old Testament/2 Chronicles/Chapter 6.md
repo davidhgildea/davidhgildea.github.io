@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 6
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Chronicles/500/6.jpg" alt="2 Chronicles Chapter 6" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Chronicles Chapter 6.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Chronicles/500/6.jpg" alt="2 Chronicles Chapter 6" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Chronicles Chapter 6</figcaption>
+</div>
 1 Then Solomon said, "God has stated that he would live in deep darkness."
 
 2 I have built a house for you to live in, and a place where you can stay forever.

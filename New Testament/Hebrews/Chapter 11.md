@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 11
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Hebrews/500/11.jpg" alt="Hebrews Chapter 11" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Hebrews Chapter 11.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Hebrews/500/11.jpg" alt="Hebrews Chapter 11" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Hebrews Chapter 11</figcaption>
+</div>
 1 Faith is being sure of what we hope for and certain of what we do not see.
 
 2 By it, the older people earned praise.

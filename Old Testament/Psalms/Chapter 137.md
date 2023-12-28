@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 137
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/137.jpg" alt="Psalms Chapter 137" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 137.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/137.jpg" alt="Psalms Chapter 137" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 137</figcaption>
+</div>
 1 By the rivers of Babylon, there we sat and cried when we thought of Zion.
 
 2 We hung our harps on the willow trees there.

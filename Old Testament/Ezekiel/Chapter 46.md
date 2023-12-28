@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 46
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ezekiel/500/46.jpg" alt="Ezekiel Chapter 46" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ezekiel Chapter 46.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ezekiel/500/46.jpg" alt="Ezekiel Chapter 46" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 46</figcaption>
+</div>
 1 God says: The gate of the inner yard facing east must be closed during the six workdays. But on the Sabbath, it should be opened, and also on the new moon day, it should be opened.
 
 2 The prince will go in through the gateway's outer porch, stand by the gatepost, and the priests will get his burnt offering and peace offerings ready. He will bow down at the gate's entrance, then leave, and the gate will stay open until evening.

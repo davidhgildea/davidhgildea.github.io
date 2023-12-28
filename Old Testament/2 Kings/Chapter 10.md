@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 10
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Kings/500/10.jpg" alt="2 Kings Chapter 10" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Kings Chapter 10.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Kings/500/10.jpg" alt="2 Kings Chapter 10" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Kings Chapter 10</figcaption>
+</div>
 1 Ahab had seventy sons in Samaria. Jehu wrote letters and sent them to Samaria's leaders, the elders, and the caregivers of Ahab's children, saying.
 
 2 As soon as you get this letter, since the sons of your master are with you, along with chariots, horses, a fortified city, and weapons;

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 8
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/John/500/8.jpg" alt="John Chapter 8" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">John Chapter 8.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/John/500/8.jpg" alt="John Chapter 8" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">John Chapter 8</figcaption>
+</div>
 1 Jesus went to the Mount of Olives.
 
 2 Early in the morning, he went back to the temple, and all the people came to him. He sat down and taught them.

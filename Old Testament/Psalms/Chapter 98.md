@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 98
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/98.jpg" alt="Psalms Chapter 98" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 98.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/98.jpg" alt="Psalms Chapter 98" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 98</figcaption>
+</div>
 1 Sing to God a new song; for he has done wonderful things: his right hand, and his holy arm, have won the victory.
 
 2 God has shown his salvation; he has revealed his goodness for all nations to see.

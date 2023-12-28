@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 2
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ruth/500/2.jpg" alt="Ruth Chapter 2" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ruth Chapter 2.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ruth/500/2.jpg" alt="Ruth Chapter 2" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ruth Chapter 2</figcaption>
+</div>
 1 Naomi had a relative from her husband's family who was very wealthy, and his name was Boaz.
 
 2 Ruth from Moab said to Naomi, "Let me go to the fields to pick up leftover grain from someone who will show me kindness." Naomi replied, "Go ahead, my daughter."

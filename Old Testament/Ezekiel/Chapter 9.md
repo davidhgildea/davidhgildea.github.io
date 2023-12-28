@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 9
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ezekiel/500/9.jpg" alt="Ezekiel Chapter 9" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ezekiel Chapter 9.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ezekiel/500/9.jpg" alt="Ezekiel Chapter 9" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 9</figcaption>
+</div>
 1 He also shouted loudly in my ears, saying, "Tell those in charge of the city to come here, each with his weapon for destruction in hand."
 
 2 Look, six men came from the direction of the upper gate to the north, each with a weapon for killing in his hand; one of them was dressed in linen, with a writing kit at his side. They came in and stood by the bronze altar.

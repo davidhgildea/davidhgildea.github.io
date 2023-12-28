@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 13
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Romans/500/13.jpg" alt="Romans Chapter 13" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Romans Chapter 13.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Romans/500/13.jpg" alt="Romans Chapter 13" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Romans Chapter 13</figcaption>
+</div>
 1 Everyone should obey those in authority, because all authority comes from God, and those who govern have been placed there by God.
 
 2 Anyone who fights against authority is fighting against what God has established, and those who resist will bring punishment on themselves.

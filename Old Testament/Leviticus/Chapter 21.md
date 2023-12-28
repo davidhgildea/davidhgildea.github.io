@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 21
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Leviticus/500/21.jpg" alt="Leviticus Chapter 21" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Leviticus Chapter 21.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Leviticus/500/21.jpg" alt="Leviticus Chapter 21" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Leviticus Chapter 21</figcaption>
+</div>
 1 God told Moses, "Tell Aaron's priest sons, they must not make themselves unclean for a dead person among their community."
 
 2 But for his close family, for his mother, father, son, daughter, and brother.

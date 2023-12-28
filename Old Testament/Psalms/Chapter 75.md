@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 75
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/75.jpg" alt="Psalms Chapter 75" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 75.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/75.jpg" alt="Psalms Chapter 75" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 75</figcaption>
+</div>
 1 We thank you, God, we give you thanks, because your name is close and your amazing deeds show it.
 
 2 When I gather the people, I will judge fairly.

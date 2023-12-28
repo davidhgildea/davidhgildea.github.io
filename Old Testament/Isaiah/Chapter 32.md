@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 32
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/32.jpg" alt="Isaiah Chapter 32" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 32.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/32.jpg" alt="Isaiah Chapter 32" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 32</figcaption>
+</div>
 1 Look, a king will rule rightly, and leaders will govern fairly.
 
 2 A person will be like a shelter from the wind, and a secret place from the storm; like streams of water in a dry land, like the shade of a big rock in a tired country.

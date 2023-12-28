@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 17
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/John/500/17.jpg" alt="John Chapter 17" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">John Chapter 17.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/John/500/17.jpg" alt="John Chapter 17" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">John Chapter 17</figcaption>
+</div>
 1 Jesus spoke these words, looked up to heaven, and said, "Father, the time has come; honor your Son, so your Son may honor you."
 
 2 You have given him power over everyone, so he can give eternal life to all you have given to him.

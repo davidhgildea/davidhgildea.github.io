@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 16
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Acts/500/16.jpg" alt="Acts Chapter 16" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Acts Chapter 16.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Acts/500/16.jpg" alt="Acts Chapter 16" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Acts Chapter 16</figcaption>
+</div>
 1 He went to Derbe and Lystra. There, he met a follower named Timothy, whose mother was a Jewish believer, but whose father was Greek.
 
 2 He had a good reputation among the believers in Lystra and Iconium.

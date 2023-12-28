@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 130
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/130.jpg" alt="Psalms Chapter 130" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 130.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/130.jpg" alt="Psalms Chapter 130" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 130</figcaption>
+</div>
 1 From the deep places, I have called out to you, God.
 
 2 God, listen to my voice; pay attention to my pleading.

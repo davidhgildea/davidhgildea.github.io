@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 10
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/10.jpg" alt="Isaiah Chapter 10" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 10.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/10.jpg" alt="Isaiah Chapter 10" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 10</figcaption>
+</div>
 1 Trouble comes to those who make unfair laws and write rules that cause suffering.
 
 2 To push away the needy from fair treatment, and to take the rights from the poor of my people, so that they can take advantage of widows and steal from children without parents!

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 36
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/36.jpg" alt="Psalms Chapter 36" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 36.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/36.jpg" alt="Psalms Chapter 36" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 36</figcaption>
+</div>
 1 The bad person's wrongdoing tells me deep down that they don't respect God at all.
 
 2 He praises himself until his wrongdoings are seen as hateful.

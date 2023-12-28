@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 21
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Revelation/500/21.jpg" alt="Revelation Chapter 21" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Revelation Chapter 21.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Revelation/500/21.jpg" alt="Revelation Chapter 21" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Revelation Chapter 21</figcaption>
+</div>
 1 I saw a new sky and a new land because the first sky and the first land had gone, and there was no sea anymore.
 
 2 I, John, saw the holy city, the new Jerusalem, coming down from God from heaven, ready like a bride dressed for her husband.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 32
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Exodus/500/32.jpg" alt="Exodus Chapter 32" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Exodus Chapter 32.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Exodus/500/32.jpg" alt="Exodus Chapter 32" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Exodus Chapter 32</figcaption>
+</div>
 1 When the people saw Moses was taking a long time to come down from the mountain, they went to Aaron and said, "Get up, make us gods to lead us. We don't know what happened to Moses, who brought us out of Egypt."
 
 2 Aaron told them, "Take off the gold earrings that your wives, sons, and daughters are wearing, and bring them to me."

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 1
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Kings/500/1.jpg" alt="2 Kings Chapter 1" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Kings Chapter 1.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Kings/500/1.jpg" alt="2 Kings Chapter 1" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Kings Chapter 1</figcaption>
+</div>
 1 Moab fought against Israel after Ahab died.
 
 2 Ahaziah fell through a grid in his upstairs room in Samaria and was injured. He sent messengers and told them, "Go, ask Baalzebub, the god of Ekron, if I will get better from my illness."

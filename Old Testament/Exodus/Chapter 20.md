@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 20
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Exodus/500/20.jpg" alt="Exodus Chapter 20" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Exodus Chapter 20.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Exodus/500/20.jpg" alt="Exodus Chapter 20" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Exodus Chapter 20</figcaption>
+</div>
 1 God said all these words:
 
 2 I am God, your God, who brought you out from Egypt, from the place where you were slaves.

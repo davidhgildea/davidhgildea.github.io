@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 18
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Chronicles/500/18.jpg" alt="2 Chronicles Chapter 18" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Chronicles Chapter 18.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Chronicles/500/18.jpg" alt="2 Chronicles Chapter 18" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Chronicles Chapter 18</figcaption>
+</div>
 1 Jehoshaphat was very rich and honored, and he allied with Ahab.
 
 2 After some years, he visited Ahab in Samaria. Ahab slaughtered many sheep and cattle for him and his companions and convinced him to join him in going to Ramothgilead.

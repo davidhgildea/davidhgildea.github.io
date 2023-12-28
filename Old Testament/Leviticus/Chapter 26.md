@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 26
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Leviticus/500/26.jpg" alt="Leviticus Chapter 26" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Leviticus Chapter 26.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Leviticus/500/26.jpg" alt="Leviticus Chapter 26" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Leviticus Chapter 26</figcaption>
+</div>
 1 Do not make any idols or carved images for yourselves, do not set up any sculpted stone figures in your land to bow down to, because I am God, your God.
 
 2 You must keep my rest days and respect my holy place: I am God.

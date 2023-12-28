@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 10
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ecclesiastes/500/10.jpg" alt="Ecclesiastes Chapter 10" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ecclesiastes Chapter 10.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ecclesiastes/500/10.jpg" alt="Ecclesiastes Chapter 10" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ecclesiastes Chapter 10</figcaption>
+</div>
 1 Dead flies make the perfumer's oil give off a bad smell; similarly, a little foolishness can ruin the respect of someone known for wisdom and honor.
 
 2 A wise person's heart leads them to do what is right; but a foolish person's heart leads them to do what is wrong.

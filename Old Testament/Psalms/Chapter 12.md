@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 12
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/12.jpg" alt="Psalms Chapter 12" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 12.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/12.jpg" alt="Psalms Chapter 12" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 12</figcaption>
+</div>
 1 Help, God; for good people are gone; the loyal ones are missing among humans.
 
 2 They say meaningless things to each other; they speak with flattering lips and a double heart.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 83
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/83.jpg" alt="Psalms Chapter 83" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 83.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/83.jpg" alt="Psalms Chapter 83" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 83</figcaption>
+</div>
 1 God, do not be silent; do not stay quiet, God.
 
 2 Look, your enemies are causing chaos: and those who hate you have become arrogant.

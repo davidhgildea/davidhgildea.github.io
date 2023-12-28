@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 36
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/36.jpg" alt="Isaiah Chapter 36" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 36.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/36.jpg" alt="Isaiah Chapter 36" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 36</figcaption>
+</div>
 1 In the fourteenth year of King Hezekiah's rule, Sennacherib, the king of Assyria, attacked all the fortified cities of Judah and captured them.
 
 2 The king of Assyria sent Rabshakeh from Lachish to Jerusalem to King Hezekiah with a big army. He stood near the water channel of the upper pool on the road by the laundry workers' field.

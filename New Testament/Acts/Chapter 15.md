@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 15
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Acts/500/15.jpg" alt="Acts Chapter 15" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Acts Chapter 15.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Acts/500/15.jpg" alt="Acts Chapter 15" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Acts Chapter 15</figcaption>
+</div>
 1 Some men from Judaea came and told the believers, "You must be circumcised like Moses taught, or you cannot be saved."
 
 2 So when Paul and Barnabas had a big argument with some people, they decided that Paul, Barnabas, and a few others should go to Jerusalem to talk to the apostles and elders about this matter.

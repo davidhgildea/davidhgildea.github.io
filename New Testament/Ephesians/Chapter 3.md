@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 3
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ephesians/500/3.jpg" alt="Ephesians Chapter 3" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ephesians Chapter 3.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ephesians/500/3.jpg" alt="Ephesians Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ephesians Chapter 3</figcaption>
+</div>
 1 Because of this, I Paul, imprisoned for serving Jesus Christ, am writing to you non-Jews.
 
 2 If you know about the special role God's kindness has given me for your benefit:

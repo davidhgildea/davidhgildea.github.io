@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 25
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Proverbs/500/25.jpg" alt="Proverbs Chapter 25" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Proverbs Chapter 25.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Proverbs/500/25.jpg" alt="Proverbs Chapter 25" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Proverbs Chapter 25</figcaption>
+</div>
 1 These are also sayings of Solomon, which the men of Hezekiah, king of Judah, wrote down.
 
 2 God finds glory in hiding things; a king's honor is to discover them.

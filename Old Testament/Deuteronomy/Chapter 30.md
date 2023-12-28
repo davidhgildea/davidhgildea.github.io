@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 30
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Deuteronomy/500/30.jpg" alt="Deuteronomy Chapter 30" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Deuteronomy Chapter 30.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Deuteronomy/500/30.jpg" alt="Deuteronomy Chapter 30" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Deuteronomy Chapter 30</figcaption>
+</div>
 1 When all these things happen to you, the blessings and the curses I've told you about, and you think about them wherever you are because God has scattered you among the nations,
 
 2 Go back to God, listen to Him, and follow everything I tell you today, you and your children, with all your heart and all your soul.

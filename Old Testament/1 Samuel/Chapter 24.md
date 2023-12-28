@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 24
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Samuel/500/24.jpg" alt="1 Samuel Chapter 24" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Samuel Chapter 24.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Samuel/500/24.jpg" alt="1 Samuel Chapter 24" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Samuel Chapter 24</figcaption>
+</div>
 1 When Saul came back from chasing the Philistines, he heard, "Look, David is in the Engedi desert."
 
 2 Saul took three thousand picked men from all of Israel and went to look for David and his men on the cliffs where the wild goats live.

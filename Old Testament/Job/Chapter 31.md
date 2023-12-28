@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 31
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Job/500/31.jpg" alt="Job Chapter 31" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Job Chapter 31.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Job/500/31.jpg" alt="Job Chapter 31" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Job Chapter 31</figcaption>
+</div>
 1 I promised myself not to look with desire; so why should I think about a young woman?
 
 2 What does a person get from God above? And what does the Almighty give from high up?

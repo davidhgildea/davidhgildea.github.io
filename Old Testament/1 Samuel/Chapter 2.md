@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 2
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Samuel/500/2.jpg" alt="1 Samuel Chapter 2" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Samuel Chapter 2.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Samuel/500/2.jpg" alt="1 Samuel Chapter 2" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Samuel Chapter 2</figcaption>
+</div>
 1 Hannah prayed and said, "My heart is happy in God, I am strong in God; my words are bold over my enemies because I am glad for your rescue."
 
 2 No one is as holy as God; no one else is like you; no other is as strong as our God.

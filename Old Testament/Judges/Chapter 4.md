@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 4
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Judges/500/4.jpg" alt="Judges Chapter 4" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Judges Chapter 4.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Judges/500/4.jpg" alt="Judges Chapter 4" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Judges Chapter 4</figcaption>
+</div>
 1 The Israelites once more did bad things that God saw, after Ehud died.
 
 2 God gave them over to Jabin, the king of Canaan, who ruled in Hazor. Sisera, the commander of his army, lived in Harosheth of the nations.

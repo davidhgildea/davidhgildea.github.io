@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 3
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ezra/500/3.jpg" alt="Ezra Chapter 3" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ezra Chapter 3.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ezra/500/3.jpg" alt="Ezra Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ezra Chapter 3</figcaption>
+</div>
 1 When the seventh month arrived and the Israelites were in their towns, they all came together in Jerusalem as if they were one person.
 
 2 Jeshua son of Jozadak and his fellow priests, and Zerubbabel son of Shealtiel and his brothers, stood up and built the altar of the God of Israel to make burnt offerings on it, as the law of Moses, the man of God, says.

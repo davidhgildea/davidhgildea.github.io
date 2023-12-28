@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 2
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Thessalonians/500/2.jpg" alt="2 Thessalonians Chapter 2" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Thessalonians Chapter 2.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Thessalonians/500/2.jpg" alt="2 Thessalonians Chapter 2" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Thessalonians Chapter 2</figcaption>
+</div>
 1 We ask you, friends, because of the coming of our Lord Jesus Christ and our meeting with him,
 
 2 Make sure you are not quickly upset or worried, whether by a spirit, something someone says, or a letter seeming to be from us, claiming that the day of Christ is already here.

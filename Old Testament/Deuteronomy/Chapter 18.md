@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 18
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Deuteronomy/500/18.jpg" alt="Deuteronomy Chapter 18" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Deuteronomy Chapter 18.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Deuteronomy/500/18.jpg" alt="Deuteronomy Chapter 18" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Deuteronomy Chapter 18</figcaption>
+</div>
 1 The Levite priests and the whole Levi tribe won't have any property or share with Israel. They will eat the food given to God by fire and his share.
 
 2 So they will not receive land among their brothers; God is their share, as he told them.

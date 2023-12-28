@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 31
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/31.jpg" alt="Psalms Chapter 31" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 31.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/31.jpg" alt="Psalms Chapter 31" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 31</figcaption>
+</div>
 1 In you, God, I trust; let me never be embarrassed: save me because you are good.
 
 2 Lean down your ear to me; rescue me quickly: be my solid rock, a safe place to protect me.

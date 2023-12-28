@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 2
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Jeremiah/500/2.jpg" alt="Jeremiah Chapter 2" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Jeremiah Chapter 2.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Jeremiah/500/2.jpg" alt="Jeremiah Chapter 2" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 2</figcaption>
+</div>
 1 God spoke to me, saying,
 
 2 Go and tell Jerusalem, 'God says: I remember how kind you were when you were young, and how you loved me when we were newly together, following me in the desert, in a land where nothing was planted.'

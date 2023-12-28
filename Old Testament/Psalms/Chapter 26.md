@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 26
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/26.jpg" alt="Psalms Chapter 26" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 26.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/26.jpg" alt="Psalms Chapter 26" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 26</figcaption>
+</div>
 1 Judge me, God; for I have lived with honesty. I have also trusted in God; so I will not fall.
 
 2 Check me, God, and test me; see what I really want and what's in my heart.

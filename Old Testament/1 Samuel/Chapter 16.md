@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 16
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Samuel/500/16.jpg" alt="1 Samuel Chapter 16" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Samuel Chapter 16.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Samuel/500/16.jpg" alt="1 Samuel Chapter 16" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Samuel Chapter 16</figcaption>
+</div>
 1 God said to Samuel, "How long will you be sad for Saul, when I have decided he will not be king over Israel? Put oil in your horn and go. I will send you to Jesse of Bethlehem because I have chosen one of his sons to be king."
 
 2 And Samuel said, "How can I go? If Saul hears it, he will kill me." And God said, "Take a young cow with you and say, 'I have come to make a sacrifice to God.'"

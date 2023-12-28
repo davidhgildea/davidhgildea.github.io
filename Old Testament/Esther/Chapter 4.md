@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 4
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Esther/500/4.jpg" alt="Esther Chapter 4" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Esther Chapter 4.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Esther/500/4.jpg" alt="Esther Chapter 4" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Esther Chapter 4</figcaption>
+</div>
 1 When Mordecai realized everything that had happened, he tore his clothes, dressed in rough fabric with ashes, and went out into the center of the city, crying loudly and bitterly.
 
 2 They came up to the king's entrance, but no one could go through the king's entrance wearing sackcloth.

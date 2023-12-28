@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 3
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Corinthians/500/3.jpg" alt="2 Corinthians Chapter 3" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Corinthians Chapter 3.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Corinthians/500/3.jpg" alt="2 Corinthians Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Corinthians Chapter 3</figcaption>
+</div>
 1 Are we starting to praise ourselves again? Do we need, like some people, letters of recommendation to or from you?
 
 2 You are our letter, written in our hearts, known and read by everyone.

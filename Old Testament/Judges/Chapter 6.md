@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 6
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Judges/500/6.jpg" alt="Judges Chapter 6" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Judges Chapter 6.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Judges/500/6.jpg" alt="Judges Chapter 6" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Judges Chapter 6</figcaption>
+</div>
 1 The Israelites did bad things in front of God, so God let Midian control them for seven years.
 
 2 The Midianites overpowered Israel, so the Israelites hid in mountain dens, caves, and strongholds.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 1
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/1.jpg" alt="Isaiah Chapter 1" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 1.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/1.jpg" alt="Isaiah Chapter 1" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 1</figcaption>
+</div>
 1 This is the vision that Isaiah, son of Amoz, had about Judah and Jerusalem during the time when Uzziah, Jotham, Ahaz, and Hezekiah were kings of Judah.
 
 2 Listen, skies, and pay attention, earth: God has spoken, I have raised and cared for children, but they have turned against me.

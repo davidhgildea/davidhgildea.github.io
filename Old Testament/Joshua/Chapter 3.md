@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 3
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Joshua/500/3.jpg" alt="Joshua Chapter 3" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Joshua Chapter 3.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Joshua/500/3.jpg" alt="Joshua Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Joshua Chapter 3</figcaption>
+</div>
 1 Joshua got up early in the morning; they left Shittim and went to the Jordan River, he and all the Israelites, and stayed there before crossing over.
 
 2 Three days later, the officers went among the people.

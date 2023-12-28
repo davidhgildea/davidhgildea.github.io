@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 8
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Kings/500/8.jpg" alt="1 Kings Chapter 8" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Kings Chapter 8.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Kings/500/8.jpg" alt="1 Kings Chapter 8" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Kings Chapter 8</figcaption>
+</div>
 1 Solomon brought together Israel's elders, tribal leaders, and family heads in Jerusalem to move God's covenant chest from David's city, Zion, to King Solomon.
 
 2 All the men of Israel gathered around King Solomon for the festival in Ethanim, the seventh month.

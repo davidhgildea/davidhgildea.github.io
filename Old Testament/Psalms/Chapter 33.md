@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 33
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/33.jpg" alt="Psalms Chapter 33" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 33.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/33.jpg" alt="Psalms Chapter 33" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 33</figcaption>
+</div>
 1 Be happy with God, you good people, because it's good for those who are right to give praise.
 
 2 Praise God with the harp: sing to him with the psaltery and a ten-stringed instrument.

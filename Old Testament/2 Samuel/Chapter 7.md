@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 7
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Samuel/500/7.jpg" alt="2 Samuel Chapter 7" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Samuel Chapter 7.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Samuel/500/7.jpg" alt="2 Samuel Chapter 7" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Samuel Chapter 7</figcaption>
+</div>
 1 When the king was in his house, and God had given him peace from all his enemies;
 
 2 The king said to the prophet Nathan, "Look, I live in a cedar house, but God's ark stays in a tent."

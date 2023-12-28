@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 14
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Numbers/500/14.jpg" alt="Numbers Chapter 14" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Numbers Chapter 14.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Numbers/500/14.jpg" alt="Numbers Chapter 14" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Numbers Chapter 14</figcaption>
+</div>
 1 The whole group raised their voices, cried, and the people cried all night.
 
 2 All the Israelites complained against Moses and Aaron, and the whole group said to them, "If only we had died in Egypt! Or if only we had died in this desert!"

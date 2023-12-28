@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 16
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Luke/500/16.jpg" alt="Luke Chapter 16" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Luke Chapter 16.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Luke/500/16.jpg" alt="Luke Chapter 16" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Luke Chapter 16</figcaption>
+</div>
 1 He also told his disciples, "There was a rich man who had a manager accused of wasting his property."
 
 2 He called him and asked, "Why am I hearing these things about you? Explain your management because you might not be the manager anymore."

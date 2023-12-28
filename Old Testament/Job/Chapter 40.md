@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 40
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Job/500/40.jpg" alt="Job Chapter 40" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Job Chapter 40.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Job/500/40.jpg" alt="Job Chapter 40" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Job Chapter 40</figcaption>
+</div>
 1 God replied to Job, saying,
 
 2 Can a person argue with God and teach Him? Anyone who corrects God should reply.

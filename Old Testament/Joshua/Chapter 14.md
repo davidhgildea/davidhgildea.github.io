@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 14
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Joshua/500/14.jpg" alt="Joshua Chapter 14" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Joshua Chapter 14.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Joshua/500/14.jpg" alt="Joshua Chapter 14" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Joshua Chapter 14</figcaption>
+</div>
 1 These are the lands the Israelite people received in Canaan, which the priest Eleazar, Joshua son of Nun, and the tribe leaders gave to them as their share.
 
 2 Their land was given to them by drawing lots, as God had ordered through Moses, for the nine and a half tribes.

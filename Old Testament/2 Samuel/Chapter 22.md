@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 22
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Samuel/500/22.jpg" alt="2 Samuel Chapter 22" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Samuel Chapter 22.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Samuel/500/22.jpg" alt="2 Samuel Chapter 22" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Samuel Chapter 22</figcaption>
+</div>
 1 David sang to God this song when God saved him from all his enemies and from Saul.
 
 2 He said, "God is my rock, my fortress, and my savior."

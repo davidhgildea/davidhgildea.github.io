@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 9
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Romans/500/9.jpg" alt="Romans Chapter 9" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Romans Chapter 9.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Romans/500/9.jpg" alt="Romans Chapter 9" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Romans Chapter 9</figcaption>
+</div>
 1 I speak the truth in Christ, I am not lying, my own conscience confirms it in the Holy Spirit.
 
 2 I have great sadness and never-ending sorrow in my heart.

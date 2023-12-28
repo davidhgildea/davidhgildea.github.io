@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 7
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Hebrews/500/7.jpg" alt="Hebrews Chapter 7" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Hebrews Chapter 7.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Hebrews/500/7.jpg" alt="Hebrews Chapter 7" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Hebrews Chapter 7</figcaption>
+</div>
 1 Melchizedek, the king of Salem and priest of God most high, met Abraham as he returned from defeating the kings and blessed him.
 
 2 Abraham gave him a tenth of everything. He is first called the King of Righteousness, then also the King of Salem, meaning King of Peace.

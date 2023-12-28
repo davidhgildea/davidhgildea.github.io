@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 44
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/44.jpg" alt="Psalms Chapter 44" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 44.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/44.jpg" alt="Psalms Chapter 44" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 44</figcaption>
+</div>
 1 We have heard, O God, our ancestors told us what you did in their time, long ago.
 
 2 How you drove out nations with your hand, and settled them; how you troubled the people, and forced them out.

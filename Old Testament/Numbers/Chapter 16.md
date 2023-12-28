@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 16
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Numbers/500/16.jpg" alt="Numbers Chapter 16" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Numbers Chapter 16.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Numbers/500/16.jpg" alt="Numbers Chapter 16" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Numbers Chapter 16</figcaption>
+</div>
 1 Now Korah, Izhar's son, Kohath's grandson, Levi's great-grandson, and Dathan and Abiram, Eliab's sons, and On, Peleth's son, all from Reuben's family, gathered people together.
 
 2 They stood up against Moses, together with some Israelites, 250 leaders of the community, well-known and respected men.

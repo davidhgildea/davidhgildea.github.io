@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 24
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ezekiel/500/24.jpg" alt="Ezekiel Chapter 24" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ezekiel Chapter 24.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ezekiel/500/24.jpg" alt="Ezekiel Chapter 24" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 24</figcaption>
+</div>
 1 In the ninth year, on the tenth day of the tenth month, God's message came to me.
 
 2 Human, write down the name of this day, because today the king of Babylon has attacked Jerusalem.

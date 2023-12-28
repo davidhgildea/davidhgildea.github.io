@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 27
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Numbers/500/27.jpg" alt="Numbers Chapter 27" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Numbers Chapter 27.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Numbers/500/27.jpg" alt="Numbers Chapter 27" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Numbers Chapter 27</figcaption>
+</div>
 1 Zelophehad's daughters came to Moses. Zelophehad was Hepher’s son, Gilead's son, Machir's son, and Manasseh's son from Joseph's family. His daughters were named Mahlah, Noah, Hoglah, Milcah, and Tirzah.
 
 2 They stood before Moses, Eleazar the priest, the leaders, and the whole community at the entrance of the meeting tent, saying,

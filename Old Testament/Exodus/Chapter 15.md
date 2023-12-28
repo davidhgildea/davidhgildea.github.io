@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 15
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Exodus/500/15.jpg" alt="Exodus Chapter 15" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Exodus Chapter 15.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Exodus/500/15.jpg" alt="Exodus Chapter 15" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Exodus Chapter 15</figcaption>
+</div>
 1 Moses and the Israelites sang this song to God, saying, "I will sing to God because he has won a great victory: he has thrown the horse and its rider into the sea."
 
 2 God gives me strength and joy; he saves me. He is my God, and I will make a home for him; he's the God of my ancestors, and I will lift him high.

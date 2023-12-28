@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 29
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Job/500/29.jpg" alt="Job Chapter 29" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Job Chapter 29.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Job/500/29.jpg" alt="Job Chapter 29" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Job Chapter 29</figcaption>
+</div>
 1 Job kept on speaking in his story, and said,
 
 2 I wish I were back in the old days when God took care of me;

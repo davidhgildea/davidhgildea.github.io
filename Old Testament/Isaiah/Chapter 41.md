@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 41
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/41.jpg" alt="Isaiah Chapter 41" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 41.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/41.jpg" alt="Isaiah Chapter 41" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 41</figcaption>
+</div>
 1 Stay quiet before me, islands; and let the people get their strength back: let them approach; then let them talk: let's come close to make a decision together.
 
 2 Who brought the good man from the east, called him to follow, handed nations to him, and let him govern kings? He made them like dust to his sword and like scattered straw to his bow.

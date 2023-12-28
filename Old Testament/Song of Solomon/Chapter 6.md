@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 6
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Song of Solomon/500/6.jpg" alt="Song of Solomon Chapter 6" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Song of Solomon Chapter 6.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Song of Solomon/500/6.jpg" alt="Song of Solomon Chapter 6" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Song of Solomon Chapter 6</figcaption>
+</div>
 1 Where has your loved one gone, most beautiful of women? Where did your loved one turn? Let us look for him with you.
 
 2 My loved one has gone to his garden, to the spice beds, to eat in the gardens, and to pick lilies.

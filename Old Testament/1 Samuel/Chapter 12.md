@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 12
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Samuel/500/12.jpg" alt="1 Samuel Chapter 12" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Samuel Chapter 12.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Samuel/500/12.jpg" alt="1 Samuel Chapter 12" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Samuel Chapter 12</figcaption>
+</div>
 1 Samuel told all of Israel, "Look, I have listened to what you said to me, and I have made a king for you."
 
 2 Now look, the king leads you. I am old with gray hair, and my sons are with you. I have led you from my youth until now.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 17
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Samuel/500/17.jpg" alt="1 Samuel Chapter 17" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Samuel Chapter 17.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Samuel/500/17.jpg" alt="1 Samuel Chapter 17" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Samuel Chapter 17</figcaption>
+</div>
 1 The Philistines brought their armies together to fight and met at Shochoh, part of Judah, setting up camp between Shochoh and Azekah, in Ephesdammim.
 
 2 Saul and the Israelite men came together, camped by the Elah Valley, and arranged their soldiers to fight the Philistines.

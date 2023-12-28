@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 1
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Galatians/500/1.jpg" alt="Galatians Chapter 1" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Galatians Chapter 1.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Galatians/500/1.jpg" alt="Galatians Chapter 1" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Galatians Chapter 1</figcaption>
+</div>
 1 Paul, an apostle not chosen by people or through a person, but by Jesus Christ and God who brought him back from the dead.
 
 2 Me and all the friends here send greetings to the churches in Galatia.

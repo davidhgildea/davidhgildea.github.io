@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 21
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Kings/500/21.jpg" alt="1 Kings Chapter 21" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Kings Chapter 21.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Kings/500/21.jpg" alt="1 Kings Chapter 21" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Kings Chapter 21</figcaption>
+</div>
 1 After these events, Naboth, from Jezreel, owned a vineyard next to Ahab's palace, the king of Samaria.
 
 2 Ahab said to Naboth, "Give me your vineyard so I can use it for a garden of herbs since it's close to my house. I'll give you a better vineyard in exchange, or if you prefer, I'll pay you its value in money."

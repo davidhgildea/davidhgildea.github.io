@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 8
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/8.jpg" alt="Psalms Chapter 8" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 8.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/8.jpg" alt="Psalms Chapter 8" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 8</figcaption>
+</div>
 1 God, our Lord, how wonderful is your name all over the earth! You have put your greatness higher than the sky.
 
 2 God has given strength through the words of children and babies to silence the enemy and the avenger.

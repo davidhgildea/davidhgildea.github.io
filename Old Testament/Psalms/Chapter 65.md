@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 65
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/65.jpg" alt="Psalms Chapter 65" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 65.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/65.jpg" alt="Psalms Chapter 65" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 65</figcaption>
+</div>
 1 Praise is ready for you, God, in Zion; and the promise will be kept to you.
 
 2 You who listen to prayer, everyone will come to you.

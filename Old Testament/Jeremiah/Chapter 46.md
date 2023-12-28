@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 46
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Jeremiah/500/46.jpg" alt="Jeremiah Chapter 46" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Jeremiah Chapter 46.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Jeremiah/500/46.jpg" alt="Jeremiah Chapter 46" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 46</figcaption>
+</div>
 1 God's message that came to Jeremiah the prophet about the nations;
 
 2 Against Egypt and Pharaohnecho's army, the king of Egypt, near the Euphrates in Carchemish, which Nebuchadnezzar the king of Babylon defeated in the fourth year of Jehoiakim's reign, Josiah's son, the king of Judah.

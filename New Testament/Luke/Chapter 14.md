@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 14
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Luke/500/14.jpg" alt="Luke Chapter 14" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Luke Chapter 14.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Luke/500/14.jpg" alt="Luke Chapter 14" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Luke Chapter 14</figcaption>
+</div>
 1 As he entered a leading Pharisee's home to share a meal on the Sabbath, they observed him closely.
 
 2 Look, there was a man in front of him with swelling in his body.

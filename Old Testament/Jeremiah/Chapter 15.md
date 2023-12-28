@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 15
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Jeremiah/500/15.jpg" alt="Jeremiah Chapter 15" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Jeremiah Chapter 15.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Jeremiah/500/15.jpg" alt="Jeremiah Chapter 15" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 15</figcaption>
+</div>
 1 God said to me, "Even if Moses and Samuel stood before me, I would not favor these people. Throw them out of my sight and let them leave."
 
 2 If people ask you, "Where should we go?" you should tell them, "God says: those who are to die will die; those who are to be killed by the sword will be killed by the sword; those who are to starve will starve; and those who are to be taken captive will be taken captive."

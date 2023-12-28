@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 23
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Numbers/500/23.jpg" alt="Numbers Chapter 23" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Numbers Chapter 23.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Numbers/500/23.jpg" alt="Numbers Chapter 23" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Numbers Chapter 23</figcaption>
+</div>
 1 Balaam said to Balak, "Make me seven altars here, and get ready seven oxen and seven rams for me here."
 
 2 Balak did what Balaam said; Balak and Balaam sacrificed a bull and a ram on each altar.

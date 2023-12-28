@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 11
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Samuel/500/11.jpg" alt="2 Samuel Chapter 11" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Samuel Chapter 11.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Samuel/500/11.jpg" alt="2 Samuel Chapter 11" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Samuel Chapter 11</figcaption>
+</div>
 1 After a year ended, when kings usually went to war, David sent Joab, his officers, and all Israel. They defeated the Ammonites and surrounded Rabbah. But David stayed in Jerusalem.
 
 2 One evening, David got up from his bed, walked on the palace roof, and saw a very beautiful woman bathing.

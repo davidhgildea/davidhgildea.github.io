@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 113
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/113.jpg" alt="Psalms Chapter 113" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 113.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/113.jpg" alt="Psalms Chapter 113" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 113</figcaption>
+</div>
 1 Praise God. All you who serve God, praise God's name.
 
 2 God's name is blessed from now on and forever.

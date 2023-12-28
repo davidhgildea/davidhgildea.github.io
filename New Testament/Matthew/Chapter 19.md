@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 19
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Matthew/500/19.jpg" alt="Matthew Chapter 19" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Matthew Chapter 19.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Matthew/500/19.jpg" alt="Matthew Chapter 19" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Matthew Chapter 19</figcaption>
+</div>
 1 After Jesus finished speaking, he left Galilee and went to the area of Judea across the Jordan River.
 
 2 Large crowds followed him, and he healed them there.

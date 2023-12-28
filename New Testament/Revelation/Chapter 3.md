@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 3
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Revelation/500/3.jpg" alt="Revelation Chapter 3" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Revelation Chapter 3.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Revelation/500/3.jpg" alt="Revelation Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Revelation Chapter 3</figcaption>
+</div>
 1 Write to the angel of the church in Sardis: He who has the seven spirits of God and the seven stars says, I know your actions; you have a reputation for being alive, but you are dead.
 
 2 Stay alert and make stronger what is left, even though it is close to death, because your deeds are not yet complete in God's eyes.

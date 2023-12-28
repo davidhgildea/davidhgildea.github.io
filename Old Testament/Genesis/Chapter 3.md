@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 3
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Genesis/500/3.jpg" alt="Genesis Chapter 3" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Genesis Chapter 3.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Genesis/500/3.jpg" alt="Genesis Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Genesis Chapter 3</figcaption>
+</div>
 1 The snake was smarter than all the wild animals God made. It said to the woman, "Really, did God say you can't eat from any tree in the garden?"
 
 2 The woman told the snake, "We can eat the fruit from the trees in the garden."

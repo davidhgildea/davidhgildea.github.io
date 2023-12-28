@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 53
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/53.jpg" alt="Isaiah Chapter 53" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 53.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/53.jpg" alt="Isaiah Chapter 53" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 53</figcaption>
+</div>
 1 Who has believed what we said? And to whom has God shown his power?
 
 2 He will grow up before God like a young plant and as a root from dry soil. He has no attractive form or beauty; when we see him, nothing in his appearance makes us want him.

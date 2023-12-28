@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 5
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Timothy/500/5.jpg" alt="1 Timothy Chapter 5" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Timothy Chapter 5.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Timothy/500/5.jpg" alt="1 Timothy Chapter 5" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Timothy Chapter 5</figcaption>
+</div>
 1 Don't scold an older person, but ask him kindly like a father; treat the younger men like brothers.
 
 2 Treat older women like mothers; younger women like sisters, with complete respect.

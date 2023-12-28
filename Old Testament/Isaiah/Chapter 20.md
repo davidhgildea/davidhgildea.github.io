@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 20
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/20.jpg" alt="Isaiah Chapter 20" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 20.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/20.jpg" alt="Isaiah Chapter 20" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 20</figcaption>
+</div>
 1 In the year Tartan came to Ashdod, sent by Sargon, the king of Assyria, and attacked and captured it.
 
 2 At that time, God told Isaiah, son of Amoz, "Go, take the sackcloth off your waist, and remove your shoe from your foot." And he did it, going around naked and without shoes.

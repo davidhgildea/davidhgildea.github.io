@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 18
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Kings/500/18.jpg" alt="2 Kings Chapter 18" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Kings Chapter 18.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Kings/500/18.jpg" alt="2 Kings Chapter 18" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Kings Chapter 18</figcaption>
+</div>
 1 In the third year of Hoshea, son of Elah the king of Israel, Hezekiah, the son of Ahaz king of Judah, started to rule.
 
 2 He was 25 years old when he started to rule; he ruled for 29 years in Jerusalem. His mother's name was Abi, and she was the daughter of Zachariah.

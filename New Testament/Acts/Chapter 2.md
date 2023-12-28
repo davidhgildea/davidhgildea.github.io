@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 2
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Acts/500/2.jpg" alt="Acts Chapter 2" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Acts Chapter 2.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Acts/500/2.jpg" alt="Acts Chapter 2" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Acts Chapter 2</figcaption>
+</div>
 1 When Pentecost Day arrived, they were all together in one place.
 
 2 Suddenly a loud sound like a strong wind came from heaven and filled the whole house where they were sitting.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 94
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/94.jpg" alt="Psalms Chapter 94" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 94.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/94.jpg" alt="Psalms Chapter 94" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 94</figcaption>
+</div>
 1 God, who owns revenge, show yourself.
 
 2 Rise up, you judge of the earth: give the proud what they deserve.

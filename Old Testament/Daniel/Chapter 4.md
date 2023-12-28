@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 4
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Daniel/500/4.jpg" alt="Daniel Chapter 4" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Daniel Chapter 4.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Daniel/500/4.jpg" alt="Daniel Chapter 4" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Daniel Chapter 4</figcaption>
+</div>
 1 King Nebuchadnezzar, to all peoples, countries, and languages living on the earth; may you have more and more peace.
 
 2 I thought it was good to show the signs and wonders that God has done for me.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 5
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Micah/500/5.jpg" alt="Micah Chapter 5" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Micah Chapter 5.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Micah/500/5.jpg" alt="Micah Chapter 5" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Micah Chapter 5</figcaption>
+</div>
 1 Get ready for battle, people of the city; we are under attack. They will strike the leader of Israel on the face with a stick.
 
 2 Though you, Bethlehem Ephratah, are small among the clans of Judah, from you will come for me a ruler over Israel, whose origins are from long ago, from ancient times.

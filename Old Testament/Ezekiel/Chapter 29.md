@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 29
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ezekiel/500/29.jpg" alt="Ezekiel Chapter 29" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ezekiel Chapter 29.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ezekiel/500/29.jpg" alt="Ezekiel Chapter 29" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 29</figcaption>
+</div>
 1 In the tenth year, on the tenth month, on the twelfth day, God's message came to me, saying,
 
 2 Human, look toward Pharaoh, the king of Egypt, speak against him and all of Egypt.

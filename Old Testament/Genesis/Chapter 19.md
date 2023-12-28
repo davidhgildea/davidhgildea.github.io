@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 19
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Genesis/500/19.jpg" alt="Genesis Chapter 19" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Genesis Chapter 19.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Genesis/500/19.jpg" alt="Genesis Chapter 19" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Genesis Chapter 19</figcaption>
+</div>
 1 Two angels came to Sodom in the evening; Lot was sitting at the entrance of Sodom. When Lot saw them, he got up to greet them and bowed down with his face to the ground.
 
 2 He said, "Please, come to my house and stay the night. Wash your feet, and you can leave early in the morning." But they answered, "No, we'll stay outside all night."

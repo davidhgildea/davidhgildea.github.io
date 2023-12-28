@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 18
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Leviticus/500/18.jpg" alt="Leviticus Chapter 18" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Leviticus Chapter 18.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Leviticus/500/18.jpg" alt="Leviticus Chapter 18" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Leviticus Chapter 18</figcaption>
+</div>
 1 God spoke to Moses, saying,
 
 2 Tell the people of Israel, 'I am God, your God.'

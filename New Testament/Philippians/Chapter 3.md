@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 3
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Philippians/500/3.jpg" alt="Philippians Chapter 3" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Philippians Chapter 3.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Philippians/500/3.jpg" alt="Philippians Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Philippians Chapter 3</figcaption>
+</div>
 1 Friends, be happy in God. Writing the same things to you is not hard for me and it keeps you safe.
 
 2 Be careful of dogs, be careful of bad people, be careful of those who cut the body.

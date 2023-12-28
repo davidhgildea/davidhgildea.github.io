@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 133
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/133.jpg" alt="Psalms Chapter 133" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 133.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/133.jpg" alt="Psalms Chapter 133" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 133</figcaption>
+</div>
 1 Look, it's good and nice when brothers live together in peace!
 
 2 It is like fine oil on the head, flowing down onto the beard, even Aaron's beard, reaching down to the collar of his robes.

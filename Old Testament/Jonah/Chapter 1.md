@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 1
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Jonah/500/1.jpg" alt="Jonah Chapter 1" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Jonah Chapter 1.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Jonah/500/1.jpg" alt="Jonah Chapter 1" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Jonah Chapter 1</figcaption>
+</div>
 1 God spoke to Jonah, Amittai's son, saying,
 
 2 Get up, go to Nineveh, the big city, and speak out against it, because their badness has reached me.

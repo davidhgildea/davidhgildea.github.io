@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 16
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Genesis/500/16.jpg" alt="Genesis Chapter 16" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Genesis Chapter 16.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Genesis/500/16.jpg" alt="Genesis Chapter 16" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Genesis Chapter 16</figcaption>
+</div>
 1 Sarai, Abram's wife, had no children. She had a servant from Egypt named Hagar.
 
 2 Sarai said to Abram, "Look, God has kept me from having children. Please sleep with my servant; maybe I can have children through her." And Abram listened to what Sarai said.

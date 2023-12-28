@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 4
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Micah/500/4.jpg" alt="Micah Chapter 4" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Micah Chapter 4.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Micah/500/4.jpg" alt="Micah Chapter 4" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Micah Chapter 4</figcaption>
+</div>
 1 In the future, God's house on the mountain will be the most important, higher than all other hills, and people will come to it.
 
 2 Many nations will come and say, "Let's go up to God's mountain, to the house of Jacob's God; He will teach us His ways, and we will follow His paths. For teachings will come from Zion, and God's word from Jerusalem."

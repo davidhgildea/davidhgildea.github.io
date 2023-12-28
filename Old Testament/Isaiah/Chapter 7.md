@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 7
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/7.jpg" alt="Isaiah Chapter 7" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 7.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/7.jpg" alt="Isaiah Chapter 7" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 7</figcaption>
+</div>
 1 During the time of Ahaz, Jotham's son, and grandson of Uzziah, king of Judah, Rezin the king of Syria and Pekah, Remaliah's son and king of Israel, attacked Jerusalem but could not defeat it.
 
 2 The house of David was informed, "Syria has joined forces with Ephraim." Then his and his people's hearts shook like trees in the forest shake in the wind.

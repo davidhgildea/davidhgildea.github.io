@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 7
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Proverbs/500/7.jpg" alt="Proverbs Chapter 7" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Proverbs Chapter 7.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Proverbs/500/7.jpg" alt="Proverbs Chapter 7" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Proverbs Chapter 7</figcaption>
+</div>
 1 My son, remember my words and keep my instructions close to you.
 
 2 Follow my commands and have life; treat my teachings as precious as your own eyes.

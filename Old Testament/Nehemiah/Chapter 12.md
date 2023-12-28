@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 12
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Nehemiah/500/12.jpg" alt="Nehemiah Chapter 12" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Nehemiah Chapter 12.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Nehemiah/500/12.jpg" alt="Nehemiah Chapter 12" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Nehemiah Chapter 12</figcaption>
+</div>
 1 Now, these are the priests and the Levites who went up with Zerubbabel, son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra.
 
 2 Amariah, Malluch, Hattush.

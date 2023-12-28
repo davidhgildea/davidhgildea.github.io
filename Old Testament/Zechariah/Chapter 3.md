@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 3
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Zechariah/500/3.jpg" alt="Zechariah Chapter 3" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Zechariah Chapter 3.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Zechariah/500/3.jpg" alt="Zechariah Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Zechariah Chapter 3</figcaption>
+</div>
 1 He showed me Joshua the high priest standing before God's angel, and Satan standing at his right side to oppose him.
 
 2 God said to Satan, "God corrects you, Satan; God who chose Jerusalem corrects you. Isn't this like a stick saved from the fire?"

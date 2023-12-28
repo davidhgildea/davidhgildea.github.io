@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 10
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ezekiel/500/10.jpg" alt="Ezekiel Chapter 10" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ezekiel Chapter 10.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ezekiel/500/10.jpg" alt="Ezekiel Chapter 10" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 10</figcaption>
+</div>
 1 I looked, and saw above the cherubim there was something like a blue sapphire stone above them, looking like a throne.
 
 2 He said to the man in linen clothes, "Go between the wheels, under the cherub, take coals of fire from between the cherubs, and spread them over the city." He did this while I watched.

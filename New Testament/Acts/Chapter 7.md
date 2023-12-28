@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 7
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Acts/500/7.jpg" alt="Acts Chapter 7" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Acts Chapter 7.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Acts/500/7.jpg" alt="Acts Chapter 7" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Acts Chapter 7</figcaption>
+</div>
 1 Then the high priest asked, "Is this true?"
 
 2 He said, "Listen, men and fathers, the glorious God appeared to our ancestor Abraham in Mesopotamia before he lived in Haran.

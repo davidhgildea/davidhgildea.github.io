@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 4
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Kings/500/4.jpg" alt="2 Kings Chapter 4" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Kings Chapter 4.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Kings/500/4.jpg" alt="2 Kings Chapter 4" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Kings Chapter 4</figcaption>
+</div>
 1 A woman whose husband had died, who was one of the prophets' sons, called out to Elisha, "My husband, your servant, is dead. You know he respected God. Now a creditor is here to take my two sons as slaves."
 
 2 Elisha asked her, "What can I do for you? Tell me, what do you have at home?" She replied, "Your servant has nothing at home except a jar of oil."

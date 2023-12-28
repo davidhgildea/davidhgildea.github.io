@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 103
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/103.jpg" alt="Psalms Chapter 103" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 103.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/103.jpg" alt="Psalms Chapter 103" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 103</figcaption>
+</div>
 1 Praise God, O my soul, and everything in me, praise his holy name.
 
 2 Praise God, my soul, and don't forget all the good things he does.

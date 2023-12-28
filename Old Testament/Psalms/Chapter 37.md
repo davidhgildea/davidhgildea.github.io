@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 37
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/37.jpg" alt="Psalms Chapter 37" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 37.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/37.jpg" alt="Psalms Chapter 37" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 37</figcaption>
+</div>
 1 Don't worry about wrongdoers, and don't be jealous of those who do evil.
 
 2 They will quickly be chopped down like grass and dry up like green plants.

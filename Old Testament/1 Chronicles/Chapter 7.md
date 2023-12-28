@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 7
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Chronicles/500/7.jpg" alt="1 Chronicles Chapter 7" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Chronicles Chapter 7.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Chronicles/500/7.jpg" alt="1 Chronicles Chapter 7" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Chronicles Chapter 7</figcaption>
+</div>
 1 Issachar had four sons: Tola, Puah, Jashub, and Shimrom.
 
 2 Tola's sons were Uzzi, Rephaiah, Jeriel, Jahmai, Jibsam, and Shemuel, leaders of their family. They were brave and strong. During David's time, their family had 22,600 men.

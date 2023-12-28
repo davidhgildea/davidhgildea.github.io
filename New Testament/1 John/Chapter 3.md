@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 3
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 John/500/3.jpg" alt="1 John Chapter 3" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 John Chapter 3.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 John/500/3.jpg" alt="1 John Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 John Chapter 3</figcaption>
+</div>
 1 Look at how much love God has given us, so we can be called God's children. That's why the world doesn't recognize us, because it didn't recognize him.
 
 2 Friends, now we are children of God, and it's not yet clear what we will become. But we know that when he comes, we will be like him because we will see him as he truly is.

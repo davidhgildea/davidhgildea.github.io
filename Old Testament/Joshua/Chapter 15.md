@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 15
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Joshua/500/15.jpg" alt="Joshua Chapter 15" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Joshua Chapter 15.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Joshua/500/15.jpg" alt="Joshua Chapter 15" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Joshua Chapter 15</figcaption>
+</div>
 1 This was the tribe of Judah's family land; it reached to Edom's border and Zin desert in the south, which was the farthest part of the southern border.
 
 2 Their southern boundary started at the edge of the Salt Sea, stretching towards the south.

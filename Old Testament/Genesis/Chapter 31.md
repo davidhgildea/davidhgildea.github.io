@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 31
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Genesis/500/31.jpg" alt="Genesis Chapter 31" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Genesis Chapter 31.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Genesis/500/31.jpg" alt="Genesis Chapter 31" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Genesis Chapter 31</figcaption>
+</div>
 1 He heard Laban's sons say, "Jacob has taken everything our father owned, and from our father's wealth, he has gained all this wealth."
 
 2 Jacob saw that Laban's attitude toward him was not the same as before.

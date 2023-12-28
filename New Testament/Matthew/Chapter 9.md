@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 9
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Matthew/500/9.jpg" alt="Matthew Chapter 9" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Matthew Chapter 9.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Matthew/500/9.jpg" alt="Matthew Chapter 9" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Matthew Chapter 9</figcaption>
+</div>
 1 He got into a boat, crossed over, and arrived at his own city.
 
 2 Look, they brought to Jesus a man with paralysis, lying on a bed. Jesus, seeing their faith, said to the paralyzed man, "Young man, cheer up; your sins are forgiven."

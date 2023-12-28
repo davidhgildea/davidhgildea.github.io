@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 10
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Judges/500/10.jpg" alt="Judges Chapter 10" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Judges Chapter 10.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Judges/500/10.jpg" alt="Judges Chapter 10" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Judges Chapter 10</figcaption>
+</div>
 1 After Abimelech, Tola son of Puah, Dodo's son from the tribe of Issachar, became a leader to protect Israel. He lived in Shamir in the Ephraim hills.
 
 2 He ruled Israel for twenty-three years, then he died and was buried in Shamir.

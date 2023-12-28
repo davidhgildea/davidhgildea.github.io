@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 7
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Luke/500/7.jpg" alt="Luke Chapter 7" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Luke Chapter 7.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Luke/500/7.jpg" alt="Luke Chapter 7" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Luke Chapter 7</figcaption>
+</div>
 1 After finishing all his teachings in front of the people, he went into Capernaum.
 
 2 A centurion had a servant he cared for deeply, who was ill and close to death.

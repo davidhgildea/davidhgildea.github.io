@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 5
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/John/500/5.jpg" alt="John Chapter 5" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">John Chapter 5.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/John/500/5.jpg" alt="John Chapter 5" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">John Chapter 5</figcaption>
+</div>
 1 After this, the Jews had a festival, and Jesus went to Jerusalem.
 
 2 In Jerusalem near the sheep trading area, there is a pool named Bethesda in Hebrew, with five covered walkways.

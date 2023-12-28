@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 10
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Joshua/500/10.jpg" alt="Joshua Chapter 10" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Joshua Chapter 10.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Joshua/500/10.jpg" alt="Joshua Chapter 10" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Joshua Chapter 10</figcaption>
+</div>
 1 When Adonizedec, the king of Jerusalem, heard that Joshua had captured Ai and completely destroyed it, just as he did to Jericho and its king, and that the people of Gibeon had made peace with Israel and were living with them,
 
 2 They were very afraid because Gibeon was a big city like the king's cities, larger than Ai, and all its men were strong.

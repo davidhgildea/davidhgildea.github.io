@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 102
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/102.jpg" alt="Psalms Chapter 102" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 102.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/102.jpg" alt="Psalms Chapter 102" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 102</figcaption>
+</div>
 1 Listen to my prayer, God, and hear my call for help.
 
 2 Do not hide from me when I am in trouble; listen to me: answer quickly when I call you.

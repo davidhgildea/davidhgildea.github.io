@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 7
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/7.jpg" alt="Psalms Chapter 7" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 7.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/7.jpg" alt="Psalms Chapter 7" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 7</figcaption>
+</div>
 1 God, I trust in you; save me from all who chase me and rescue me.
 
 2 So he won't tear my soul apart like a lion and rip it to pieces when there is no one to save me.

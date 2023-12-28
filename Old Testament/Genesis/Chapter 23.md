@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 23
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Genesis/500/23.jpg" alt="Genesis Chapter 23" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Genesis Chapter 23.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Genesis/500/23.jpg" alt="Genesis Chapter 23" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Genesis Chapter 23</figcaption>
+</div>
 1 Sarah lived to be 127 years old.
 
 2 Sarah died in Kirjatharba, also called Hebron, in the land of Canaan, and Abraham came to mourn and cry for her.

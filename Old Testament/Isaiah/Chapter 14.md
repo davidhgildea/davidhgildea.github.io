@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 14
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/14.jpg" alt="Isaiah Chapter 14" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 14.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/14.jpg" alt="Isaiah Chapter 14" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 14</figcaption>
+</div>
 1 God will show mercy to Jacob and will still choose Israel, and will place them in their own land; and outsiders will join them and stick with Jacob's family.
 
 2 The people will take them and bring them to their place; the Israelites will own them in God's land as servants and maids. They will capture those who had captured them, and they will govern over those who had oppressed them.

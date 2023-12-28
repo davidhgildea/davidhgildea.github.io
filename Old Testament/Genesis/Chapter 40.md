@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 40
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Genesis/500/40.jpg" alt="Genesis Chapter 40" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Genesis Chapter 40.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Genesis/500/40.jpg" alt="Genesis Chapter 40" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Genesis Chapter 40</figcaption>
+</div>
 1 After these events, the Egyptian king's cupbearer and baker upset their king.
 
 2 The king was very angry with two of his officials, the head of the cupbearers and the head of the bakers.

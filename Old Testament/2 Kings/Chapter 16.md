@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 16
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Kings/500/16.jpg" alt="2 Kings Chapter 16" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Kings Chapter 16.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Kings/500/16.jpg" alt="2 Kings Chapter 16" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Kings Chapter 16</figcaption>
+</div>
 1 In the seventeenth year of Pekah, son of Remaliah, Ahaz, son of Jotham and king of Judah, started his rule.
 
 2 Ahaz was twenty years old when he became king, and he ruled for sixteen years in Jerusalem. He did not do what was right in the eyes of God, unlike his ancestor David.

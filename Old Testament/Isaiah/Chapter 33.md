@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 33
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/33.jpg" alt="Isaiah Chapter 33" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 33.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/33.jpg" alt="Isaiah Chapter 33" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 33</figcaption>
+</div>
 1 How terrible for you who destroy others when you have not been destroyed yourself, who betray others when no one has betrayed you! When you stop destroying, you will be destroyed; when you stop betraying, betrayal will come to you.
 
 2 God, be kind to us; we have waited for you. Be their strength every morning, and our rescue when trouble comes.

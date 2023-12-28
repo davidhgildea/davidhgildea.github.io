@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 4
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Samuel/500/4.jpg" alt="2 Samuel Chapter 4" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Samuel Chapter 4.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Samuel/500/4.jpg" alt="2 Samuel Chapter 4" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Samuel Chapter 4</figcaption>
+</div>
 1 When Saul's son learned that Abner had died in Hebron, he felt weak, and all the Israelites were upset.
 
 2 Saul's son had two men who led groups: one was named Baanah and the other Rechab. They were sons of Rimmon from Beeroth, which was part of the Benjamin tribe.

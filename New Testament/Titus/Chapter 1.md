@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 1
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Titus/500/1.jpg" alt="Titus Chapter 1" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Titus Chapter 1.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Titus/500/1.jpg" alt="Titus Chapter 1" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Titus Chapter 1</figcaption>
+</div>
 1 Paul, a servant of God and an apostle of Jesus Christ, follows the faith of God's chosen ones and recognizes the truth that leads to a godly life.
 
 2 Hoping for eternal life, which God, who cannot lie, promised before the world started.

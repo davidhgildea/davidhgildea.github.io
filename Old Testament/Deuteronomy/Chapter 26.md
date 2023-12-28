@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 26
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Deuteronomy/500/26.jpg" alt="Deuteronomy Chapter 26" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Deuteronomy Chapter 26.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Deuteronomy/500/26.jpg" alt="Deuteronomy Chapter 26" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Deuteronomy Chapter 26</figcaption>
+</div>
 1 When you enter the land God is giving you as an inheritance, and you take possession of it and live there;
 
 2 You must take some of the first fruits from your harvest, from the land that God gives you, put them in a basket, and go to the place God chooses for his name to live.

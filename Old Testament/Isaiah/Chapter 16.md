@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 16
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/16.jpg" alt="Isaiah Chapter 16" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 16.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/16.jpg" alt="Isaiah Chapter 16" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 16</figcaption>
+</div>
 1 Send a lamb to the land's leader, from Sela through the desert, to the mountain of Zion's people.
 
 2 Like a bird that is forced out of its nest, so will the women of Moab be at the Arnon River crossings.

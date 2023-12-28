@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 47
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ezekiel/500/47.jpg" alt="Ezekiel Chapter 47" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ezekiel Chapter 47.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ezekiel/500/47.jpg" alt="Ezekiel Chapter 47" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 47</figcaption>
+</div>
 1 Later, he took me back to the entrance of the temple, and I saw water flowing out from beneath the entrance toward the east, since the temple faced east. The water was coming down from under the right side of the temple, south of the altar.
 
 2 He led me from the north gate and took me outside to the outer east-facing gate. I saw water flowing on the right side.

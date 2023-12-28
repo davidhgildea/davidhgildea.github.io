@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 3
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Luke/500/3.jpg" alt="Luke Chapter 3" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Luke Chapter 3.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Luke/500/3.jpg" alt="Luke Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Luke Chapter 3</figcaption>
+</div>
 1 In the fifteenth year when Tiberius Caesar ruled, Pontius Pilate was the governor of Judaea, Herod ruled Galilee, his brother Philip ruled Ituraea and Trachonitis, and Lysanias ruled Abilene.
 
 2 During the time Annas and Caiaphas were high priests, God spoke to John, Zacharias's son, in the desert.

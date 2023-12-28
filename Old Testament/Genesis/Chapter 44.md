@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 44
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Genesis/500/44.jpg" alt="Genesis Chapter 44" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Genesis Chapter 44.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Genesis/500/44.jpg" alt="Genesis Chapter 44" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Genesis Chapter 44</figcaption>
+</div>
 1 He told his house manager, "Put as much food as they can carry in the men's bags and return each man's money to his bag."
 
 2 Put my silver cup in the youngest one's bag, along with the money for his grain. And he did as Joseph said.

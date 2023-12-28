@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 6
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Samuel/500/6.jpg" alt="1 Samuel Chapter 6" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Samuel Chapter 6.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Samuel/500/6.jpg" alt="1 Samuel Chapter 6" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Samuel Chapter 6</figcaption>
+</div>
 1 The chest of God stayed in the land of the Philistines for seven months.
 
 2 The Philistines asked their priests and fortune-tellers, "What should we do with the ark of God? Tell us how to send it back to where it belongs."

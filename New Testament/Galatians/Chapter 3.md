@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 3
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Galatians/500/3.jpg" alt="Galatians Chapter 3" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Galatians Chapter 3.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Galatians/500/3.jpg" alt="Galatians Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Galatians Chapter 3</figcaption>
+</div>
 1 Silly Galatians, who tricked you into not following the truth, when you clearly saw Jesus Christ shown as crucified before you?
 
 2 I want to know this from you: Did you receive the Spirit by following the law, or by believing what you heard?

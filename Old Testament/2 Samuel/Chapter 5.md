@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 5
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Samuel/500/5.jpg" alt="2 Samuel Chapter 5" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Samuel Chapter 5.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Samuel/500/5.jpg" alt="2 Samuel Chapter 5" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Samuel Chapter 5</figcaption>
+</div>
 1 All the tribes of Israel came to David at Hebron and said, "Look, we are your own flesh and blood."
 
 2 Before, when Saul was our king, you were the one who led Israel out and in. And God told you, 'You will take care of my people Israel, and you will be their leader.'

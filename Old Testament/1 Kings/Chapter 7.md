@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 7
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Kings/500/7.jpg" alt="1 Kings Chapter 7" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Kings Chapter 7.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Kings/500/7.jpg" alt="1 Kings Chapter 7" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Kings Chapter 7</figcaption>
+</div>
 1 Solomon built his own house for thirteen years and he finished the whole house.
 
 2 He also built the Lebanon Forest House; it was 100 cubits long, 50 cubits wide, and 30 cubits high, with four rows of cedar pillars and cedar beams on top of the pillars.

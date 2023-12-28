@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 7
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Hosea/500/7.jpg" alt="Hosea Chapter 7" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Hosea Chapter 7.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Hosea/500/7.jpg" alt="Hosea Chapter 7" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Hosea Chapter 7</figcaption>
+</div>
 1 When I wanted to heal Israel, Ephraim's sin and Samaria's evil were revealed because they lied, thieves broke in, and bands of robbers plundered outside.
 
 2 They don't think in their hearts that I remember all their bad actions: now what they've done surrounds them; they are in my sight.

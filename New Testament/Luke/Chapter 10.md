@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 10
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Luke/500/10.jpg" alt="Luke Chapter 10" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Luke Chapter 10.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Luke/500/10.jpg" alt="Luke Chapter 10" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Luke Chapter 10</figcaption>
+</div>
 1 After this, God chose 70 more people and sent them in pairs to every city and place where he planned to go.
 
 2 He told them, "The harvest is really big, but there are not many workers. So, ask God, who is in charge of the harvest, to send more workers to gather it."

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 6
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Hosea/500/6.jpg" alt="Hosea Chapter 6" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Hosea Chapter 6.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Hosea/500/6.jpg" alt="Hosea Chapter 6" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Hosea Chapter 6</figcaption>
+</div>
 1 Come, let's go back to God; He has hurt us, but He will heal us; He has struck us, but He will fix our wounds.
 
 2 In two days, God will restore us to life; on the third day, he will lift us up, so we can live before him.

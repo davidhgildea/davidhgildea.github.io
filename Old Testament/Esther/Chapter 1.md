@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 1
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Esther/500/1.jpg" alt="Esther Chapter 1" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Esther Chapter 1.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Esther/500/1.jpg" alt="Esther Chapter 1" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Esther Chapter 1</figcaption>
+</div>
 1 During the time of King Ahasuerus, who ruled over 127 provinces from India to Ethiopia.
 
 2 In those days, when King Ahasuerus was ruling from his throne in his kingdom at the palace in Shushan,

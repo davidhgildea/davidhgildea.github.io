@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 13
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Judges/500/13.jpg" alt="Judges Chapter 13" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Judges Chapter 13.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Judges/500/13.jpg" alt="Judges Chapter 13" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Judges Chapter 13</figcaption>
+</div>
 1 The Israelites did bad things again before God, and God let the Philistines rule over them for forty years.
 
 2 A man named Manoah from Zorah, part of the Danite family, had a wife who could not have children.

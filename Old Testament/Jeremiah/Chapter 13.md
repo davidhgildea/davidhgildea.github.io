@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 13
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Jeremiah/500/13.jpg" alt="Jeremiah Chapter 13" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Jeremiah Chapter 13.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Jeremiah/500/13.jpg" alt="Jeremiah Chapter 13" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 13</figcaption>
+</div>
 1 God said to me, "Go and buy a linen belt and wear it around your waist, but do not put it in water."
 
 2 So I took a belt as God had said, and tied it around my waist.

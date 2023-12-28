@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 30
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Numbers/500/30.jpg" alt="Numbers Chapter 30" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Numbers Chapter 30.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Numbers/500/30.jpg" alt="Numbers Chapter 30" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Numbers Chapter 30</figcaption>
+</div>
 1 Moses told the leaders of the tribes about the children of Israel, saying, "This is what God has commanded."
 
 2 If a person makes a promise to God, or takes an oath to commit themselves firmly, they must not go back on their word. They must do everything they said they would.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 11
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Kings/500/11.jpg" alt="2 Kings Chapter 11" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Kings Chapter 11.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Kings/500/11.jpg" alt="2 Kings Chapter 11" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Kings Chapter 11</figcaption>
+</div>
 1 When Athaliah, Ahaziah's mother, saw her son was dead, she got up and killed all the royal family members.
 
 2 Jehosheba, King Joram's daughter and Ahaziah's sister, took Joash, Ahaziah's son, and saved him from the king's sons who were killed. She and a nurse hid him in a bedroom to protect him from Athaliah, so he was not killed.

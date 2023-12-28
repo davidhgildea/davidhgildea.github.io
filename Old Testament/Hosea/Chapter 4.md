@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 4
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Hosea/500/4.jpg" alt="Hosea Chapter 4" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Hosea Chapter 4.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Hosea/500/4.jpg" alt="Hosea Chapter 4" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Hosea Chapter 4</figcaption>
+</div>
 1 Listen to God's message, people of Israel: God has an issue with the country's people, because they lack truth, kindness, and understanding of God.
 
 2 By swearing, lying, killing, stealing, and being unfaithful, they run wild, and violence follows violence.

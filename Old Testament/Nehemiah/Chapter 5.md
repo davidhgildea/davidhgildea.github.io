@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 5
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Nehemiah/500/5.jpg" alt="Nehemiah Chapter 5" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Nehemiah Chapter 5.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Nehemiah/500/5.jpg" alt="Nehemiah Chapter 5" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Nehemiah Chapter 5</figcaption>
+</div>
 1 The people and their wives raised a loud protest against their fellow Jews.
 
 2 Some people said, "We, our sons, and our daughters are many, so we get corn for them to eat and survive."

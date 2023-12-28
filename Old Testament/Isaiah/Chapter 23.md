@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 23
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/23.jpg" alt="Isaiah Chapter 23" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 23.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/23.jpg" alt="Isaiah Chapter 23" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 23</figcaption>
+</div>
 1 The weight of Tyre’s troubles. Cry out, ships of Tarshish; for it is destroyed, with no homes or way to enter: from the land of Chittim, they learn of it.
 
 2 Stay calm, people of the island; you whom the sea-traveling merchants of Sidon have filled up.

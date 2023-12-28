@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 13
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Matthew/500/13.jpg" alt="Matthew Chapter 13" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Matthew Chapter 13.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Matthew/500/13.jpg" alt="Matthew Chapter 13" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Matthew Chapter 13</figcaption>
+</div>
 1 That day, Jesus left the house and sat by the sea.
 
 2 Large crowds gathered to him, so he got into a boat and sat down, while all the people stood on the beach.

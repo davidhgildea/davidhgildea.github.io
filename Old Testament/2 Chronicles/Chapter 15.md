@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 15
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Chronicles/500/15.jpg" alt="2 Chronicles Chapter 15" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Chronicles Chapter 15.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Chronicles/500/15.jpg" alt="2 Chronicles Chapter 15" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Chronicles Chapter 15</figcaption>
+</div>
 1 God's Spirit came to Azariah, Oded's son.
 
 2 He went to meet Asa and said, "Listen to me, Asa, and all of Judah and Benjamin: God is with you when you are with Him. If you look for Him, you will find Him; but if you leave Him, He will leave you."

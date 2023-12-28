@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 14
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Chronicles/500/14.jpg" alt="2 Chronicles Chapter 14" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Chronicles Chapter 14.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Chronicles/500/14.jpg" alt="2 Chronicles Chapter 14" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Chronicles Chapter 14</figcaption>
+</div>
 1 Abijah died, and they buried him in the city of David. His son Asa became king after him. During his time, the land was peaceful for ten years.
 
 2 And Asa did what was good and right in the eyes of God.

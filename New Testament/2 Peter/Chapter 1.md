@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 1
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Peter/500/1.jpg" alt="2 Peter Chapter 1" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Peter Chapter 1.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Peter/500/1.jpg" alt="2 Peter Chapter 1" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Peter Chapter 1</figcaption>
+</div>
 1 Simon Peter, a servant and apostle of Jesus Christ, writes to those who share our valuable faith, given through the goodness of God and Jesus Christ our Savior.
 
 2 May grace and peace grow for you by knowing God and Jesus our Lord.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 1
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Lamentations/500/1.jpg" alt="Lamentations Chapter 1" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Lamentations Chapter 1.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Lamentations/500/1.jpg" alt="Lamentations Chapter 1" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Lamentations Chapter 1</figcaption>
+</div>
 1 How lonely sits the city that was once full of people! How has she become like a widow! She who was important among the nations, and a ruler among the regions, how has she become a servant!
 
 2 She cries hard at night, and her tears are on her face. None of her loved ones comfort her; all her friends have betrayed her and turned into her enemies.

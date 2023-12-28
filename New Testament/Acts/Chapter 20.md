@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 20
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Acts/500/20.jpg" alt="Acts Chapter 20" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Acts Chapter 20.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Acts/500/20.jpg" alt="Acts Chapter 20" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Acts Chapter 20</figcaption>
+</div>
 1 After the disturbance stopped, Paul gathered the disciples, hugged them, and left to go to Macedonia.
 
 2 After he traveled through those areas and encouraged the people a lot, he went to Greece.

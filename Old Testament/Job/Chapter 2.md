@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 2
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Job/500/2.jpg" alt="Job Chapter 2" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Job Chapter 2.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Job/500/2.jpg" alt="Job Chapter 2" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Job Chapter 2</figcaption>
+</div>
 1 Once more, a time came when God's children appeared before God, and Satan also arrived with them to present himself before God.
 
 2 God asked Satan, "Where did you come from?" Satan replied to God, "I've been roaming around the earth and walking back and forth on it."

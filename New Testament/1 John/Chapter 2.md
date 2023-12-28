@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 2
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 John/500/2.jpg" alt="1 John Chapter 2" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 John Chapter 2.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 John/500/2.jpg" alt="1 John Chapter 2" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 John Chapter 2</figcaption>
+</div>
 1 Dear children, I write this to you so you don't sin. But if anyone does sin, we have someone who speaks to God for us, Jesus Christ the good one.
 
 2 He is the sacrifice for our sins, not only ours but also for the whole world's.

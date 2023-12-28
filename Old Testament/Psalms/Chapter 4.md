@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 4
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/4.jpg" alt="Psalms Chapter 4" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 4.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/4.jpg" alt="Psalms Chapter 4" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 4</figcaption>
+</div>
 1 Listen to me when I call, God who makes me right. You gave me more room when I was in trouble. Be kind to me and listen to my prayer.
 
 2 People, how long will you turn my honor into shame? How long will you love what is empty and chase lies? Pause and think.

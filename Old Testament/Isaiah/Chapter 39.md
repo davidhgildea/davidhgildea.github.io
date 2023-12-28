@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 39
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/39.jpg" alt="Isaiah Chapter 39" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 39.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/39.jpg" alt="Isaiah Chapter 39" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 39</figcaption>
+</div>
 1 At that time, Merodachbaladan, son of Baladan and king of Babylon, sent letters and a gift to Hezekiah because he heard that Hezekiah had been ill and had gotten better.
 
 2 Hezekiah was happy with them and showed them his treasury, the silver, gold, spices, fine oil, his armory, and everything in his treasures: he kept nothing hidden from them in his house or his rule.

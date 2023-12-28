@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 8
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Leviticus/500/8.jpg" alt="Leviticus Chapter 8" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Leviticus Chapter 8.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Leviticus/500/8.jpg" alt="Leviticus Chapter 8" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Leviticus Chapter 8</figcaption>
+</div>
 1 God spoke to Moses, saying,
 
 2 Bring Aaron and his sons, their clothes, the anointing oil, a bull for the sin offering, two rams, and a basket of bread without yeast.

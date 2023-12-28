@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 23
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Samuel/500/23.jpg" alt="2 Samuel Chapter 23" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Samuel Chapter 23.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Samuel/500/23.jpg" alt="2 Samuel Chapter 23" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Samuel Chapter 23</figcaption>
+</div>
 1 These are the final words of David. David, Jesse's son, spoke, the man lifted up, chosen by the God of Jacob, and Israel's beloved song writer, said.
 
 2 God's Spirit spoke through me, and His words were on my tongue.

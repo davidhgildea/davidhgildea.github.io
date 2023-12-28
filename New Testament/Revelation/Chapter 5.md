@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 5
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Revelation/500/5.jpg" alt="Revelation Chapter 5" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Revelation Chapter 5.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Revelation/500/5.jpg" alt="Revelation Chapter 5" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Revelation Chapter 5</figcaption>
+</div>
 1 I saw in the right hand of the one sitting on the throne a book written inside and on the back, sealed with seven seals.
 
 2 I saw a powerful angel calling out loudly, "Who is good enough to open the book and break its seals?"

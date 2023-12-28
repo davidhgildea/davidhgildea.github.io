@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 5
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Leviticus/500/5.jpg" alt="Leviticus Chapter 5" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Leviticus Chapter 5.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Leviticus/500/5.jpg" alt="Leviticus Chapter 5" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Leviticus Chapter 5</figcaption>
+</div>
 1 If a person sins, hears someone swear an oath, and is a witness, knowing or seeing what happened, but doesn't speak up, then that person will be guilty.
 
 2 If someone touches anything dirty, like the dead body of an unclean animal, or dead unclean livestock, or dead unclean crawling creatures, without realizing it, that person will be unclean and guilty.
