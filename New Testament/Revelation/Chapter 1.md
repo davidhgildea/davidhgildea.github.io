@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 1
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Revelation/500/1.jpg" alt="Revelation Chapter 1" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Revelation Chapter 1</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Revelation/500/1.jpg" alt="Revelation Chapter 1" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Revelation Chapter 1</figcaption>
 </figure>
+</div>
 1 This is the unveiling of Jesus Christ, which God gave to him to show his servants what must soon happen; and he made it known through his angel to his servant John.
 
 2 He testified about God's word, Jesus Christ's message, and everything he saw.

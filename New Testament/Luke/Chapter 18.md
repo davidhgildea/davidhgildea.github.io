@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 18
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Luke/500/18.jpg" alt="Luke Chapter 18" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Luke Chapter 18</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Luke/500/18.jpg" alt="Luke Chapter 18" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Luke Chapter 18</figcaption>
 </figure>
+</div>
 1 He told them a story to show that they should always pray and never give up.
 
 2 Someone said, "In a city, there was a judge who did not fear God or care about people."

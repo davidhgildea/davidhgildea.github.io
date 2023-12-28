@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 5
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Kings/500/5.jpg" alt="1 Kings Chapter 5" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Kings Chapter 5</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Kings/500/5.jpg" alt="1 Kings Chapter 5" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Kings Chapter 5</figcaption>
 </figure>
+</div>
 1 Hiram, the king of Tyre, sent his servants to Solomon because he heard they had made him king after his father. Hiram always loved David.
 
 2 Solomon sent a message to Hiram, saying,

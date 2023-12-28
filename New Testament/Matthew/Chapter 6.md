@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 6
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Matthew/500/6.jpg" alt="Matthew Chapter 6" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Matthew Chapter 6</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Matthew/500/6.jpg" alt="Matthew Chapter 6" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Matthew Chapter 6</figcaption>
 </figure>
+</div>
 1 Be careful not to do good things in front of others just to be noticed, because if you do, you won't get any reward from your Father in heaven.
 
 2 When you give to the needy, don't announce it loudly like hypocrites in the synagogues and streets for attention. Truly, they've received their reward.

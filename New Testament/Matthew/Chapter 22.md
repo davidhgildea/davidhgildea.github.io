@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 22
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Matthew/500/22.jpg" alt="Matthew Chapter 22" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Matthew Chapter 22</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Matthew/500/22.jpg" alt="Matthew Chapter 22" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Matthew Chapter 22</figcaption>
 </figure>
+</div>
 1 Jesus answered and told them another story using parables. He said,
 
 2 God's kingdom is like a king who arranged a wedding for his son.

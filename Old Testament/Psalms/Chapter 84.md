@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 84
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/84.jpg" alt="Psalms Chapter 84" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 84</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Psalms/500/84.jpg" alt="Psalms Chapter 84" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Psalms Chapter 84</figcaption>
 </figure>
+</div>
 1 How lovely are your homes, O God of armies!
 
 2 My soul longs and even grows weak for God's courtyards; my heart and body cry out for the living God.

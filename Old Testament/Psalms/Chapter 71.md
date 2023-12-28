@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 71
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/71.jpg" alt="Psalms Chapter 71" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 71</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Psalms/500/71.jpg" alt="Psalms Chapter 71" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Psalms Chapter 71</figcaption>
 </figure>
+</div>
 1 In you, God, I place my trust: may I never be confused.
 
 2 Save me by your goodness, and help me escape. Listen to me and rescue me.

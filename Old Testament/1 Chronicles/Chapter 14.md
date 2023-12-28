@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 14
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Chronicles/500/14.jpg" alt="1 Chronicles Chapter 14" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Chronicles Chapter 14</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Chronicles/500/14.jpg" alt="1 Chronicles Chapter 14" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Chronicles Chapter 14</figcaption>
 </figure>
+</div>
 1 Hiram, the king of Tyre, sent messengers to David with cedar wood, stone workers, and carpenters to build a house for him.
 
 2 David realized that God had established him as king over Israel because his kingdom was highly honored due to the people of Israel.

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 27
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/27.jpg" alt="Psalms Chapter 27" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 27</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Psalms/500/27.jpg" alt="Psalms Chapter 27" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Psalms Chapter 27</figcaption>
 </figure>
+</div>
 1 God is my light and my rescue; who should I fear? God is the power of my life; who should I be scared of?
 
 2 When the bad people, my enemies, attacked me to destroy me, they tripped and fell.

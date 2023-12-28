@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 16
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Samuel/500/16.jpg" alt="2 Samuel Chapter 16" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Samuel Chapter 16</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/2 Samuel/500/16.jpg" alt="2 Samuel Chapter 16" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">2 Samuel Chapter 16</figcaption>
 </figure>
+</div>
 1 When David had just gone over the hilltop, Ziba, who worked for Mephibosheth, came to meet him. He had two saddled donkeys with him, as well as two hundred loaves of bread, one hundred bunches of raisins, one hundred summer fruits, and a bottle of wine.
 
 2 The king asked Ziba, "What are these for?" Ziba answered, "The donkeys are for the king's family to ride; the bread and summer fruit are for the young men to eat; and the wine is for anyone who is weak in the desert to drink."

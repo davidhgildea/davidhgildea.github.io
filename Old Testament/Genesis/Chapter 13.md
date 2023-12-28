@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 13
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Genesis/500/13.jpg" alt="Genesis Chapter 13" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 13</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Genesis/500/13.jpg" alt="Genesis Chapter 13" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Genesis Chapter 13</figcaption>
 </figure>
+</div>
 1 Abram left Egypt with his wife, all his possessions, and Lot, heading south.
 
 2 Abram was very wealthy with many animals, silver, and gold.

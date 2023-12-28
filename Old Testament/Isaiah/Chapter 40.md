@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 40
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/40.jpg" alt="Isaiah Chapter 40" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 40</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Isaiah/500/40.jpg" alt="Isaiah Chapter 40" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Isaiah Chapter 40</figcaption>
 </figure>
+</div>
 1 Comfort my people, comfort them, says your God.
 
 2 Talk kindly to Jerusalem, and tell her that her struggle is over, that her wrongs are forgiven, because she has received from God twice as much as she deserved for all her sins.

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 7
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ezra/500/7.jpg" alt="Ezra Chapter 7" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ezra Chapter 7</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Ezra/500/7.jpg" alt="Ezra Chapter 7" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Ezra Chapter 7</figcaption>
 </figure>
+</div>
 1 After these events, during King Artaxerxes' rule of Persia, Ezra, who was Seraiah's son, Azariah's grandson, and Hilkiah's great-grandson,
 
 2 The son of Shallum was Zadok's son, and Zadok was Ahitub's son.

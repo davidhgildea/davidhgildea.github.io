@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 17
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Proverbs/500/17.jpg" alt="Proverbs Chapter 17" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Proverbs Chapter 17</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Proverbs/500/17.jpg" alt="Proverbs Chapter 17" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Proverbs Chapter 17</figcaption>
 </figure>
+</div>
 1 It is better to have a little with peace than a house full of food with fighting.
 
 2 A smart servant will be in charge instead of a son who brings shame, and will share in the family inheritance.

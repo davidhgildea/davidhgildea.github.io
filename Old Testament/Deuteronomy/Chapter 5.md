@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 5
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Deuteronomy/500/5.jpg" alt="Deuteronomy Chapter 5" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Deuteronomy Chapter 5</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Deuteronomy/500/5.jpg" alt="Deuteronomy Chapter 5" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Deuteronomy Chapter 5</figcaption>
 </figure>
+</div>
 1 Moses gathered all of Israel and told them, "Listen, Israel, to the rules and laws I am telling you today; learn them, follow them, and put them into practice."
 
 2 God made an agreement with us at Horeb.

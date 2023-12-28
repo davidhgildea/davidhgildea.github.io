@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 1
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Timothy/500/1.jpg" alt="2 Timothy Chapter 1" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Timothy Chapter 1</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/2 Timothy/500/1.jpg" alt="2 Timothy Chapter 1" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">2 Timothy Chapter 1</figcaption>
 </figure>
+</div>
 1 Paul, a messenger of Jesus Christ chosen by God, based on the promise of life found in Christ Jesus.
 
 2 To Timothy, my dear son: May you have kindness, compassion, and peace from God the Father and from Christ Jesus our Lord.

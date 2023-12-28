@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 114
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/114.jpg" alt="Psalms Chapter 114" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 114</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Psalms/500/114.jpg" alt="Psalms Chapter 114" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Psalms Chapter 114</figcaption>
 </figure>
+</div>
 1 When Israel left Egypt, Jacob's family left a nation with a different language.
 
 2 Judah was his holy place, and Israel was under his rule.

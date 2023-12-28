@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 15
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/John/500/15.jpg" alt="John Chapter 15" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">John Chapter 15</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/John/500/15.jpg" alt="John Chapter 15" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">John Chapter 15</figcaption>
 </figure>
+</div>
 1 I am the real vine, and my Father takes care of it.
 
 2 Every branch in me that does not produce fruit, God removes. Every branch that does produce fruit, God cleans so it will make even more fruit.

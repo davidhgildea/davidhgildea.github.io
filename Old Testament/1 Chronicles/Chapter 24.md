@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 24
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Chronicles/500/24.jpg" alt="1 Chronicles Chapter 24" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Chronicles Chapter 24</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Chronicles/500/24.jpg" alt="1 Chronicles Chapter 24" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Chronicles Chapter 24</figcaption>
 </figure>
+</div>
 1 These are the groups of Aaron's sons: Nadab, Abihu, Eleazar, and Ithamar.
 
 2 Nadab and Abihu died before their father and had no kids, so Eleazar and Ithamar became priests.

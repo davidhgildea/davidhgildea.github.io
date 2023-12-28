@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 1
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Habakkuk/500/1.jpg" alt="Habakkuk Chapter 1" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Habakkuk Chapter 1</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Habakkuk/500/1.jpg" alt="Habakkuk Chapter 1" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Habakkuk Chapter 1</figcaption>
 </figure>
+</div>
 1 The message that the prophet Habakkuk saw.
 
 2 God, how long must I call for help, but you do not listen? I cry to you about violence, but you do not save.

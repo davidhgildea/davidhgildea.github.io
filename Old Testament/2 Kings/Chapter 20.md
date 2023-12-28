@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 20
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Kings/500/20.jpg" alt="2 Kings Chapter 20" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Kings Chapter 20</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/2 Kings/500/20.jpg" alt="2 Kings Chapter 20" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">2 Kings Chapter 20</figcaption>
 </figure>
+</div>
 1 During that time, Hezekiah became very sick and was about to die. Then the prophet Isaiah, Amoz's son, visited him and said, "This is what God says: 'Get your affairs in order, because you are going to die; you will not recover.'"
 
 2 He turned toward the wall and prayed to God, saying,

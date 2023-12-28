@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 5
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Matthew/500/5.jpg" alt="Matthew Chapter 5" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Matthew Chapter 5</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Matthew/500/5.jpg" alt="Matthew Chapter 5" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Matthew Chapter 5</figcaption>
 </figure>
+</div>
 1 Seeing the crowds, he went up on a mountain. When he sat down, his disciples came to him.
 
 2 He opened his mouth and began to teach them, saying,

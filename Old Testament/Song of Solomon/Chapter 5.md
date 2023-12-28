@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 5
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Song of Solomon/500/5.jpg" alt="Song of Solomon Chapter 5" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Song of Solomon Chapter 5</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Song of Solomon/500/5.jpg" alt="Song of Solomon Chapter 5" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Song of Solomon Chapter 5</figcaption>
 </figure>
+</div>
 1 I have come into my garden, my sister, my partner: I have collected my myrrh and spices; I have eaten my honeycomb and honey; I have drunk my wine and milk. Eat, friends; drink, yes, drink a lot, my loved one.
 
 2 I am asleep, but my heart is awake: it's my loved one's voice knocking, saying, "Let me in, my sister, my love, my pure one, my dove; because my head is wet with dew, and my hair with the dampness of the night."

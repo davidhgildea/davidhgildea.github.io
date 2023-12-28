@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 17
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Matthew/500/17.jpg" alt="Matthew Chapter 17" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Matthew Chapter 17</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Matthew/500/17.jpg" alt="Matthew Chapter 17" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Matthew Chapter 17</figcaption>
 </figure>
+</div>
 1 Six days later, Jesus took Peter, James, and John, his brother, up a high mountain by themselves.
 
 2 He changed form in front of them; his face shone like the sun, and his clothes became as white as light.

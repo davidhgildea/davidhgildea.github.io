@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 1
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Mark/500/1.jpg" alt="Mark Chapter 1" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Mark Chapter 1</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Mark/500/1.jpg" alt="Mark Chapter 1" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Mark Chapter 1</figcaption>
 </figure>
+</div>
 1 The start of the good news about Jesus Christ, God's Son;
 
 2 The prophets wrote, "Look, I will send my messenger ahead of you to get things ready for you."

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 30
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/30.jpg" alt="Isaiah Chapter 30" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 30</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Isaiah/500/30.jpg" alt="Isaiah Chapter 30" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Isaiah Chapter 30</figcaption>
 </figure>
+</div>
 1 Trouble to the stubborn children, says God, who make plans without including me, and who make agreements without my spirit, only adding more wrongdoings to their sins.
 
 2 They go to Egypt without asking me, seeking help from Pharaoh's power and putting their trust in Egypt's protection!

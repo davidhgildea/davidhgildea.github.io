@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 43
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Genesis/500/43.jpg" alt="Genesis Chapter 43" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 43</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Genesis/500/43.jpg" alt="Genesis Chapter 43" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Genesis Chapter 43</figcaption>
 </figure>
+</div>
 1 The food shortage was very bad in the country.
 
 2 After they finished the grain they brought from Egypt, their father told them, "Go, buy us some more food."

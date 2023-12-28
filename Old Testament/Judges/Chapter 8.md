@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 8
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Judges/500/8.jpg" alt="Judges Chapter 8" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Judges Chapter 8</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Judges/500/8.jpg" alt="Judges Chapter 8" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Judges Chapter 8</figcaption>
 </figure>
+</div>
 1 The men from Ephraim asked him, "Why did you treat us like this, not calling us when you went to fight the Midianites?" And they argued with him strongly.
 
 2 He asked them, "What have I done compared to you? Aren't even the leftovers of Ephraim's grapes better than Abiezer's full harvest?"

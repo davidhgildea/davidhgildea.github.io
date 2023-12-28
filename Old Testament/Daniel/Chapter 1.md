@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 1
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Daniel/500/1.jpg" alt="Daniel Chapter 1" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Daniel Chapter 1</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Daniel/500/1.jpg" alt="Daniel Chapter 1" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Daniel Chapter 1</figcaption>
 </figure>
+</div>
 1 In the third year that Jehoiakim was king of Judah, Nebuchadnezzar the king of Babylon came to Jerusalem and surrounded it.
 
 2 God let Nebuchadnezzar capture Jehoiakim, the king of Judah, and some of God's house items. Nebuchadnezzar took them to Shinar, to his own god's temple, and placed them in his god's treasury.

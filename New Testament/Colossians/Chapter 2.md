@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 2
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Colossians/500/2.jpg" alt="Colossians Chapter 2" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Colossians Chapter 2</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Colossians/500/2.jpg" alt="Colossians Chapter 2" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Colossians Chapter 2</figcaption>
 </figure>
+</div>
 1 I want you to know about the big struggle I have for you, for those in Laodicea, and for all who have not met me in person.
 
 2 So that their hearts may be encouraged and united in love, leading to a complete confidence and understanding of God's secret plan, which is Christ himself.

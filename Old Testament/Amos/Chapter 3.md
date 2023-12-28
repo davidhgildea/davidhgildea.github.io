@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 3
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Amos/500/3.jpg" alt="Amos Chapter 3" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Amos Chapter 3</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Amos/500/3.jpg" alt="Amos Chapter 3" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Amos Chapter 3</figcaption>
 </figure>
+</div>
 1 Listen to what God has said against you, children of Israel, against the entire family I led out of Egypt:
 
 2 I have known only you among all the families on earth; so I will punish you for all your wrongs.

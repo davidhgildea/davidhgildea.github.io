@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 28
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Job/500/28.jpg" alt="Job Chapter 28" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Job Chapter 28</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Job/500/28.jpg" alt="Job Chapter 28" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Job Chapter 28</figcaption>
 </figure>
+</div>
 1 Surely there is a source for silver and a place where gold is refined.
 
 2 Iron comes from the ground, and copper is melted from the rock.

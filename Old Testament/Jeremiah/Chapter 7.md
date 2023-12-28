@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 7
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Jeremiah/500/7.jpg" alt="Jeremiah Chapter 7" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 7</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Jeremiah/500/7.jpg" alt="Jeremiah Chapter 7" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 7</figcaption>
 </figure>
+</div>
 1 God told Jeremiah,
 
 2 Stand at the entrance of God's house, speak this message, and say, "Listen to God's word, all you from Judah who come through these gates to worship God."

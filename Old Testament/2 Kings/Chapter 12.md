@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 12
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Kings/500/12.jpg" alt="2 Kings Chapter 12" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Kings Chapter 12</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/2 Kings/500/12.jpg" alt="2 Kings Chapter 12" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">2 Kings Chapter 12</figcaption>
 </figure>
+</div>
 1 Jehoash became king in the seventh year of Jehu's rule; he was king for forty years in Jerusalem. His mother was named Zibiah from Beersheba.
 
 2 Jehoash did what was right in God's eyes all the days Jehoiada the priest taught him.

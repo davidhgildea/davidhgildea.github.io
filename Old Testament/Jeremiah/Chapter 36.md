@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 36
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Jeremiah/500/36.jpg" alt="Jeremiah Chapter 36" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 36</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Jeremiah/500/36.jpg" alt="Jeremiah Chapter 36" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 36</figcaption>
 </figure>
+</div>
 1 In the fourth year of King Jehoiakim, Josiah's son, of Judah, this message came to Jeremiah from God:
 
 2 Get a scroll and write down all the words I've told you about Israel, Judah, and all other countries, from the time I first spoke to you during Josiah's reign until now.

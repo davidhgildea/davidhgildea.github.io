@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 2
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Malachi/500/2.jpg" alt="Malachi Chapter 2" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Malachi Chapter 2</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Malachi/500/2.jpg" alt="Malachi Chapter 2" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Malachi Chapter 2</figcaption>
 </figure>
+</div>
 1 And now, priests, this order is for you.
 
 2 If you won't listen and don't take seriously giving honor to my name, says God of all, I will send a curse on you, and I will turn your blessings into curses—indeed, I have already done it because you don't take it to heart.

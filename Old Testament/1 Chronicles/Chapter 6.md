@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 6
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Chronicles/500/6.jpg" alt="1 Chronicles Chapter 6" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Chronicles Chapter 6</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Chronicles/500/6.jpg" alt="1 Chronicles Chapter 6" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Chronicles Chapter 6</figcaption>
 </figure>
+</div>
 1 Levi's sons: Gershon, Kohath, and Merari.
 
 2 The sons of Kohath were Amram, Izhar, Hebron, and Uzziel.

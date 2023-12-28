@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 18
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Chronicles/500/18.jpg" alt="1 Chronicles Chapter 18" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Chronicles Chapter 18</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Chronicles/500/18.jpg" alt="1 Chronicles Chapter 18" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Chronicles Chapter 18</figcaption>
 </figure>
+</div>
 1 After this, David defeated the Philistines, overpowered them, and captured Gath and its surrounding towns from the Philistines.
 
 2 He defeated Moab, and the Moabites became David's servants, bringing him gifts.

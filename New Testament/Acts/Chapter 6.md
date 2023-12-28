@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 6
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Acts/500/6.jpg" alt="Acts Chapter 6" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Acts Chapter 6</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Acts/500/6.jpg" alt="Acts Chapter 6" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Acts Chapter 6</figcaption>
 </figure>
+</div>
 1 During that time, as the number of followers grew, the Greek-speaking followers complained against the Hebrew-speaking followers because their widows were not being helped every day.
 
 2 The twelve gathered all the disciples and said, it isn't right for us to stop teaching God's word to help with meals.

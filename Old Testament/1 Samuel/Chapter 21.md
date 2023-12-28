@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 21
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Samuel/500/21.jpg" alt="1 Samuel Chapter 21" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Samuel Chapter 21</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Samuel/500/21.jpg" alt="1 Samuel Chapter 21" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Samuel Chapter 21</figcaption>
 </figure>
+</div>
 1 David went to Nob to see Ahimelech the priest. Ahimelech was scared when he saw David and asked, "Why are you alone and no one is with you?"
 
 2 David told Ahimelech the priest, "The king has given me a task and told me, 'Don't let anyone know about the task I'm sending you on, or what I've instructed you to do.' I've told my men to meet at a certain place."

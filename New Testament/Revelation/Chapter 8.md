@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 8
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Revelation/500/8.jpg" alt="Revelation Chapter 8" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Revelation Chapter 8</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Revelation/500/8.jpg" alt="Revelation Chapter 8" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Revelation Chapter 8</figcaption>
 </figure>
+</div>
 1 When he opened the seventh seal, there was quiet in heaven for about half an hour.
 
 2 I saw the seven angels standing before God; they were given seven trumpets.

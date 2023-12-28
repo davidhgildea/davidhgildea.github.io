@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 28
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Deuteronomy/500/28.jpg" alt="Deuteronomy Chapter 28" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Deuteronomy Chapter 28</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Deuteronomy/500/28.jpg" alt="Deuteronomy Chapter 28" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Deuteronomy Chapter 28</figcaption>
 </figure>
+</div>
 1 If you carefully listen to God and follow all the commands I give you today, God will make you greater than all other nations on Earth.
 
 2 All these good things will come to you and be yours if you listen to God's voice.

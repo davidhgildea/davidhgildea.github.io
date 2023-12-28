@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 14
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Proverbs/500/14.jpg" alt="Proverbs Chapter 14" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Proverbs Chapter 14</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Proverbs/500/14.jpg" alt="Proverbs Chapter 14" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Proverbs Chapter 14</figcaption>
 </figure>
+</div>
 1 A smart woman builds up her home, but a foolish one tears it down by herself.
 
 2 Someone who lives rightly respects God, but a person with corrupt ways despises Him.

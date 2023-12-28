@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 1
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Haggai/500/1.jpg" alt="Haggai Chapter 1" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Haggai Chapter 1</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Haggai/500/1.jpg" alt="Haggai Chapter 1" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Haggai Chapter 1</figcaption>
 </figure>
+</div>
 1 In Darius's second year as king, on the first day of the sixth month, God's message came through the prophet Haggai to Zerubbabel, Shealtiel's son and the governor of Judah, and to Joshua, Josedech's son and the high priest.
 
 2 God says, "These people claim it's not the time to build God's house."

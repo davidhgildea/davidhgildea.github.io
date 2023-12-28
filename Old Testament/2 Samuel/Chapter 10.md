@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 10
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Samuel/500/10.jpg" alt="2 Samuel Chapter 10" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Samuel Chapter 10</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/2 Samuel/500/10.jpg" alt="2 Samuel Chapter 10" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">2 Samuel Chapter 10</figcaption>
 </figure>
+</div>
 1 After this, the king of Ammon died, and his son Hanun became king in his place.
 
 2 David said, "I will be kind to Hanun, Nahash's son, just as his father was kind to me." David sent his servants to comfort Hanun because of his father's death. David's servants entered the land of the Ammonites.

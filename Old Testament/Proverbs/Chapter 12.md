@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 12
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Proverbs/500/12.jpg" alt="Proverbs Chapter 12" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Proverbs Chapter 12</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Proverbs/500/12.jpg" alt="Proverbs Chapter 12" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Proverbs Chapter 12</figcaption>
 </figure>
+</div>
 1 Anyone who loves learning loves knowledge, but someone who hates correction is foolish.
 
 2 A good person gains God's favor, but God will condemn a person with evil plans.

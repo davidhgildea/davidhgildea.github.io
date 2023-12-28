@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 9
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Luke/500/9.jpg" alt="Luke Chapter 9" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Luke Chapter 9</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Luke/500/9.jpg" alt="Luke Chapter 9" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Luke Chapter 9</figcaption>
 </figure>
+</div>
 1 He gathered his twelve followers and gave them the power and authority to cast out all demons and to heal sicknesses.
 
 2 He sent them to tell about God's kingdom and heal the sick.

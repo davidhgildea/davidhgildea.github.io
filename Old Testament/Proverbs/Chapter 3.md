@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 3
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Proverbs/500/3.jpg" alt="Proverbs Chapter 3" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Proverbs Chapter 3</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Proverbs/500/3.jpg" alt="Proverbs Chapter 3" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Proverbs Chapter 3</figcaption>
 </figure>
+</div>
 1 My son, don't forget my teachings; keep my commands in your heart.
 
 2 They will add to you many days, a long life, and peace.

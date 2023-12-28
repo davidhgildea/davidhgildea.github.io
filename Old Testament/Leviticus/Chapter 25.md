@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 25
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Leviticus/500/25.jpg" alt="Leviticus Chapter 25" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Leviticus Chapter 25</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Leviticus/500/25.jpg" alt="Leviticus Chapter 25" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Leviticus Chapter 25</figcaption>
 </figure>
+</div>
 1 God spoke to Moses on Mount Sinai and said.
 
 2 Talk to the people of Israel and tell them, when you enter the land I am giving you, the land must rest for God.

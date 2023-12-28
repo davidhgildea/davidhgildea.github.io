@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 6
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/John/500/6.jpg" alt="John Chapter 6" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">John Chapter 6</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/John/500/6.jpg" alt="John Chapter 6" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">John Chapter 6</figcaption>
 </figure>
+</div>
 1 After this, Jesus crossed the Sea of Galilee, also called the Sea of Tiberias.
 
 2 Many people followed him because they saw the amazing things he did for the sick.

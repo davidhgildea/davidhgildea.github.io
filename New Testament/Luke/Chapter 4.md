@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 4
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Luke/500/4.jpg" alt="Luke Chapter 4" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Luke Chapter 4</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Luke/500/4.jpg" alt="Luke Chapter 4" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Luke Chapter 4</figcaption>
 </figure>
+</div>
 1 Jesus, filled with the Holy Spirit, came back from the Jordan River and was guided by the Spirit into the desert.
 
 2 He was tempted by the devil for forty days. During that time, he ate nothing. After it ended, he felt hungry.

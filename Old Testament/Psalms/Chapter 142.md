@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 142
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/142.jpg" alt="Psalms Chapter 142" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 142</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Psalms/500/142.jpg" alt="Psalms Chapter 142" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Psalms Chapter 142</figcaption>
 </figure>
+</div>
 1 I called out to God with my voice; with my voice, I asked God for help.
 
 2 I told God all my problems; I showed Him my troubles.

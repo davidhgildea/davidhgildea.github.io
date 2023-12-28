@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 13
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Job/500/13.jpg" alt="Job Chapter 13" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Job Chapter 13</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Job/500/13.jpg" alt="Job Chapter 13" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Job Chapter 13</figcaption>
 </figure>
+</div>
 1 I have seen all this with my eyes; my ears have heard and understood it.
 
 2 I know what you know; I am not less than you.

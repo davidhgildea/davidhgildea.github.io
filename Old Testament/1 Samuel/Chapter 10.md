@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 10
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Samuel/500/10.jpg" alt="1 Samuel Chapter 10" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Samuel Chapter 10</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Samuel/500/10.jpg" alt="1 Samuel Chapter 10" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Samuel Chapter 10</figcaption>
 </figure>
+</div>
 1 Then Samuel took a bottle of oil, poured it on his head, kissed him, and said, "Isn't it because God has chosen you to lead his people?"
 
 2 When you leave me today, you will meet two men near Rachel's tomb on Benjamin's border at Zelzah; they will tell you that the donkeys you were looking for have been found, and look, your father has stopped worrying about the donkeys and is now worried about you, wondering, 'What should I do for my son?'

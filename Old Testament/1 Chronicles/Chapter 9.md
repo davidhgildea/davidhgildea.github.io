@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 9
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Chronicles/500/9.jpg" alt="1 Chronicles Chapter 9" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Chronicles Chapter 9</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Chronicles/500/9.jpg" alt="1 Chronicles Chapter 9" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Chronicles Chapter 9</figcaption>
 </figure>
+</div>
 1 All the people of Israel were listed by their family lines; and, look, they were written in the record of the kings of Israel and Judah, who were taken to Babylon because they did wrong.
 
 2 The first people who lived in their own cities on their land were the Israelites, priests, Levites, and Nethinims.

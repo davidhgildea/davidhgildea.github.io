@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 9
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Kings/500/9.jpg" alt="2 Kings Chapter 9" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Kings Chapter 9</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/2 Kings/500/9.jpg" alt="2 Kings Chapter 9" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">2 Kings Chapter 9</figcaption>
 </figure>
+</div>
 1 The prophet Elisha called one of the student prophets and said to him, "Tie up your clothes and take this jar of oil in your hand, and go to Ramoth-gilead."
 
 2 When you get there, find Jehu, the son of Jehoshaphat, the son of Nimshi. Go inside, ask him to stand up from his brothers, and take him to a private room.

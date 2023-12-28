@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 7
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Romans/500/7.jpg" alt="Romans Chapter 7" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Romans Chapter 7</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Romans/500/7.jpg" alt="Romans Chapter 7" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Romans Chapter 7</figcaption>
 </figure>
+</div>
 1 Don't you know, friends, (because I am talking to those who understand law,) that the law has authority over a person as long as they are alive?
 
 2 A married woman is legally tied to her husband while he is alive, but if he dies, she is free from her husband's laws.

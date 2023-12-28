@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 6
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ecclesiastes/500/6.jpg" alt="Ecclesiastes Chapter 6" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ecclesiastes Chapter 6</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Ecclesiastes/500/6.jpg" alt="Ecclesiastes Chapter 6" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Ecclesiastes Chapter 6</figcaption>
 </figure>
+</div>
 1 I have seen a bad thing everywhere in the world, and it happens often to people.
 
 2 A man whom God has given money, possessions, and respect, so he lacks nothing he wants, but if God doesn't let him enjoy these things and a stranger does instead, this is pointless and a terrible sickness.

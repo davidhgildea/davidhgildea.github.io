@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 3
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Job/500/3.jpg" alt="Job Chapter 3" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Job Chapter 3</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Job/500/3.jpg" alt="Job Chapter 3" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Job Chapter 3</figcaption>
 </figure>
+</div>
 1 After this, Job opened his mouth and cursed his day.
 
 2 Job spoke and said,

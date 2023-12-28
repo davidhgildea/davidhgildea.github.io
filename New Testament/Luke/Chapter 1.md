@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 1
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Luke/500/1.jpg" alt="Luke Chapter 1" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Luke Chapter 1</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Luke/500/1.jpg" alt="Luke Chapter 1" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Luke Chapter 1</figcaption>
 </figure>
+</div>
 1 Many people have tried to write down the events that we fully believe.
 
 2 Just as those who were there from the start and saw it with their own eyes gave it to us, and they were those who shared the message;

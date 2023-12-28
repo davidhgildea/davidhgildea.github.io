@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 22
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Job/500/22.jpg" alt="Job Chapter 22" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Job Chapter 22</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Job/500/22.jpg" alt="Job Chapter 22" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Job Chapter 22</figcaption>
 </figure>
+</div>
 1 Then Eliphaz from Teman replied,
 
 2 Can a person be useful to God, as a wise person is useful to themselves?

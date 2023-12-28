@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 14
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Job/500/14.jpg" alt="Job Chapter 14" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Job Chapter 14</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Job/500/14.jpg" alt="Job Chapter 14" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Job Chapter 14</figcaption>
 </figure>
+</div>
 1 A person born from a woman lives only a short time and has many problems.
 
 2 He blooms like a flower and then is trimmed. He also flees like a shadow and does not stay.

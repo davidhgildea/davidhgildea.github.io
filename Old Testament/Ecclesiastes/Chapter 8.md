@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 8
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ecclesiastes/500/8.jpg" alt="Ecclesiastes Chapter 8" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ecclesiastes Chapter 8</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Ecclesiastes/500/8.jpg" alt="Ecclesiastes Chapter 8" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Ecclesiastes Chapter 8</figcaption>
 </figure>
+</div>
 1 Who is as wise as that person? And who understands the meaning of things? A person's wisdom lights up their face, and it softens the hardness of their expression.
 
 2 I advise you to obey the king's order, because of your promise to God.

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 7
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Corinthians/500/7.jpg" alt="2 Corinthians Chapter 7" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Corinthians Chapter 7</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/2 Corinthians/500/7.jpg" alt="2 Corinthians Chapter 7" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">2 Corinthians Chapter 7</figcaption>
 </figure>
+</div>
 1 So with these promises, dear friends, let's clean ourselves from every dirty thing of body and spirit, making our holiness complete by respecting God.
 
 2 Accept us; we have not wronged anyone, we have not corrupted anyone, we have not cheated anyone.

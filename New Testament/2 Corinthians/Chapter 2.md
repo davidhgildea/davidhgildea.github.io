@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 2
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Corinthians/500/2.jpg" alt="2 Corinthians Chapter 2" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Corinthians Chapter 2</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/2 Corinthians/500/2.jpg" alt="2 Corinthians Chapter 2" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">2 Corinthians Chapter 2</figcaption>
 </figure>
+</div>
 1 I decided not to visit you again while feeling sad.
 
 2 If I make you sad, who can cheer me up except the one I’ve made sad?

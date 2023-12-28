@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 16
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/John/500/16.jpg" alt="John Chapter 16" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">John Chapter 16</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/John/500/16.jpg" alt="John Chapter 16" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">John Chapter 16</figcaption>
 </figure>
+</div>
 1 I have told you these things so you won't be upset.
 
 2 They will throw you out of the synagogues; yes, a time is coming when anyone who kills you will think they are serving God.

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 6
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Job/500/6.jpg" alt="Job Chapter 6" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Job Chapter 6</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Job/500/6.jpg" alt="Job Chapter 6" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Job Chapter 6</figcaption>
 </figure>
+</div>
 1 But Job replied and spoke,
 
 2 I wish my sorrow could be fully measured, and my troubles put on scales at the same time.

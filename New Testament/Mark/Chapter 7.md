@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 7
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Mark/500/7.jpg" alt="Mark Chapter 7" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Mark Chapter 7</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Mark/500/7.jpg" alt="Mark Chapter 7" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Mark Chapter 7</figcaption>
 </figure>
+</div>
 1 The Pharisees and some teachers of the Law who were from Jerusalem gathered around him.
 
 2 When they saw some of his followers eating bread with dirty hands, they criticized them.

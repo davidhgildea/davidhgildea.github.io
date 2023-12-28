@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 25
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Exodus/500/25.jpg" alt="Exodus Chapter 25" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Exodus Chapter 25</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Exodus/500/25.jpg" alt="Exodus Chapter 25" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Exodus Chapter 25</figcaption>
 </figure>
+</div>
 1 God spoke to Moses and said,
 
 2 Tell the people of Israel to give me an offering. You must accept the offering from anyone who gives it willingly from their heart.

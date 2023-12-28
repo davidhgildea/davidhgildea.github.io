@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 2
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Galatians/500/2.jpg" alt="Galatians Chapter 2" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Galatians Chapter 2</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Galatians/500/2.jpg" alt="Galatians Chapter 2" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Galatians Chapter 2</figcaption>
 </figure>
+</div>
 1 Fourteen years later, I went back to Jerusalem with Barnabas, and I also brought Titus with me.
 
 2 I went up because God showed me to do so, and I explained to them the good news I share with non-Jews, but only to those with high status, to avoid my efforts being useless.

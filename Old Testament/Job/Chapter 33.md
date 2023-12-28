@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 33
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Job/500/33.jpg" alt="Job Chapter 33" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Job Chapter 33</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Job/500/33.jpg" alt="Job Chapter 33" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Job Chapter 33</figcaption>
 </figure>
+</div>
 1 So Job, please listen to what I say and pay attention to all my words.
 
 2 Look, now I have opened my mouth and my tongue has spoken inside it.

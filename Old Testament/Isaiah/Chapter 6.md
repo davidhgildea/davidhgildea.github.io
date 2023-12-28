@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 6
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/6.jpg" alt="Isaiah Chapter 6" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 6</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Isaiah/500/6.jpg" alt="Isaiah Chapter 6" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Isaiah Chapter 6</figcaption>
 </figure>
+</div>
 1 The year King Uzziah died, I saw God on a high and exalted throne, and his robe filled the temple.
 
 2 Above it stood the seraphim: each one had six wings; with two they covered their faces, with two they covered their feet, and with two they flew.

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 6
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Samuel/500/6.jpg" alt="2 Samuel Chapter 6" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Samuel Chapter 6</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/2 Samuel/500/6.jpg" alt="2 Samuel Chapter 6" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">2 Samuel Chapter 6</figcaption>
 </figure>
+</div>
 1 David brought together thirty thousand select men of Israel again.
 
 2 David got up and went with everyone from Baale of Judah to move the ark of God with the name called God of the armies who lives among the cherubim.

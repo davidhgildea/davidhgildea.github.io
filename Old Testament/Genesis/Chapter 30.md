@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 30
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Genesis/500/30.jpg" alt="Genesis Chapter 30" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 30</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Genesis/500/30.jpg" alt="Genesis Chapter 30" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Genesis Chapter 30</figcaption>
 </figure>
+</div>
 1 When Rachel saw she had no children for Jacob, she was jealous of her sister and said to Jacob, "Give me children, or I will die."
 
 2 Jacob became angry with Rachel and said, "Am I God, who has kept you from having children?"

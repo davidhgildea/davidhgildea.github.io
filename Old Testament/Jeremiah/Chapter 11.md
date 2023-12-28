@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 11
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Jeremiah/500/11.jpg" alt="Jeremiah Chapter 11" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 11</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Jeremiah/500/11.jpg" alt="Jeremiah Chapter 11" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 11</figcaption>
 </figure>
+</div>
 1 God told Jeremiah:
 
 2 Listen to the words of this agreement and tell them to the people of Judah and the residents of Jerusalem.

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 134
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/134.jpg" alt="Psalms Chapter 134" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 134</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Psalms/500/134.jpg" alt="Psalms Chapter 134" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Psalms Chapter 134</figcaption>
 </figure>
+</div>
 1 Look, praise God, all God's servants who stand at night in God's house.
 
 2 Raise your hands in the holy place and praise God.

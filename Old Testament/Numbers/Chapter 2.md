@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 2
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Numbers/500/2.jpg" alt="Numbers Chapter 2" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Numbers Chapter 2</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Numbers/500/2.jpg" alt="Numbers Chapter 2" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Numbers Chapter 2</figcaption>
 </figure>
+</div>
 1 God spoke to Moses and Aaron, saying,
 
 2 Each man from Israel's tribes will camp under his own flag, near the banner of his family: they will set up their tents around the tent where the people meet.

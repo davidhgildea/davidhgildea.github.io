@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 3
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Micah/500/3.jpg" alt="Micah Chapter 3" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Micah Chapter 3</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Micah/500/3.jpg" alt="Micah Chapter 3" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Micah Chapter 3</figcaption>
 </figure>
+</div>
 1 And I said, please listen, leaders of Jacob and rulers of Israel; isn't it your duty to know what is right?
 
 2 Those who hate good and love evil, who tear off their skin and flesh from their bones.

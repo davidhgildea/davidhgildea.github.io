@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 20
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Samuel/500/20.jpg" alt="1 Samuel Chapter 20" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Samuel Chapter 20</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Samuel/500/20.jpg" alt="1 Samuel Chapter 20" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Samuel Chapter 20</figcaption>
 </figure>
+</div>
 1 David ran away from Naioth in Ramah, went to Jonathan and asked, "What have I done? What is my wrong? Why does your father want to kill me?"
 
 2 He said to him, "God won't let it happen; you won't die. Look, my father won't do anything, big or small, without telling me. And why would my father keep this from me? It's not true."

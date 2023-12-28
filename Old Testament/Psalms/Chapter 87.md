@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 87
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/87.jpg" alt="Psalms Chapter 87" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 87</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Psalms/500/87.jpg" alt="Psalms Chapter 87" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Psalms Chapter 87</figcaption>
 </figure>
+</div>
 1 His base is in the sacred mountains.
 
 2 God loves the gates of Zion more than any homes of Jacob.

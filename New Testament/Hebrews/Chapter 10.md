@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 10
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Hebrews/500/10.jpg" alt="Hebrews Chapter 10" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Hebrews Chapter 10</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Hebrews/500/10.jpg" alt="Hebrews Chapter 10" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Hebrews Chapter 10</figcaption>
 </figure>
+</div>
 1 The law has only a shadow of the good things that will come, not the real things themselves. So it can never make perfect those who come to God by the same sacrifices they offer continually every year.
 
 2 If that were true, wouldn't the offerings have stopped? Because the worshippers would be cleansed and no longer feel guilty for their sins.

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 20
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Samuel/500/20.jpg" alt="2 Samuel Chapter 20" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Samuel Chapter 20</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/2 Samuel/500/20.jpg" alt="2 Samuel Chapter 20" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">2 Samuel Chapter 20</figcaption>
 </figure>
+</div>
 1 A bad man named Sheba, Bichri's son from the tribe of Benjamin, was there. He blew a trumpet and shouted, "We don't belong with David or share in Jesse's son's inheritance. Everyone go home, Israel!"
 
 2 Every man of Israel left David and followed Sheba, Bichri's son. But the men of Judah stayed loyal to their king, from the Jordan River to Jerusalem.

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 12
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Hosea/500/12.jpg" alt="Hosea Chapter 12" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Hosea Chapter 12</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Hosea/500/12.jpg" alt="Hosea Chapter 12" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Hosea Chapter 12</figcaption>
 </figure>
+</div>
 1 Ephraim chases the wind and follows the east wind: he keeps adding lies and destruction; they make agreements with the Assyrians, and oil is taken to Egypt.
 
 2 God also has an argument with Judah and will punish Jacob for his actions; He will repay him based on what he has done.

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 91
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/91.jpg" alt="Psalms Chapter 91" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 91</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Psalms/500/91.jpg" alt="Psalms Chapter 91" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Psalms Chapter 91</figcaption>
 </figure>
+</div>
 1 Whoever lives in the hidden place of the Most High will stay safe under the protection of the Almighty.
 
 2 I will say about God, He is my safe place and strong shelter: my God; in Him I will trust.

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 43
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/43.jpg" alt="Psalms Chapter 43" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 43</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Psalms/500/43.jpg" alt="Psalms Chapter 43" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Psalms Chapter 43</figcaption>
 </figure>
+</div>
 1 God, judge me and fight for me against a nation without godliness; save me from the lying and unfair person.
 
 2 You are the God of my strength; why have you rejected me? Why must I go around sad because my enemies are oppressing me?

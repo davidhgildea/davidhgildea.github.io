@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 29
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Genesis/500/29.jpg" alt="Genesis Chapter 29" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 29</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Genesis/500/29.jpg" alt="Genesis Chapter 29" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Genesis Chapter 29</figcaption>
 </figure>
+</div>
 1 Jacob continued his travel and reached the land of the eastern people.
 
 2 He saw a well in the field, with three groups of sheep nearby; they used that well to give water to the sheep, and a large stone covered the well's opening.

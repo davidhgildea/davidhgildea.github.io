@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 40
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ezekiel/500/40.jpg" alt="Ezekiel Chapter 40" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ezekiel Chapter 40</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Ezekiel/500/40.jpg" alt="Ezekiel Chapter 40" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 40</figcaption>
 </figure>
+</div>
 1 In the twenty-fifth year of our captivity, at the start of the year, on the tenth day of the month, fourteen years after the city was struck down, on that exact day, God's hand was on me and took me there.
 
 2 In visions from God, he took me to the land of Israel and placed me on a very high mountain where there was something like the structure of a city to the south.

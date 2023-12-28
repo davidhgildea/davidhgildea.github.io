@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 1
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Peter/500/1.jpg" alt="1 Peter Chapter 1" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Peter Chapter 1</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Peter/500/1.jpg" alt="1 Peter Chapter 1" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Peter Chapter 1</figcaption>
 </figure>
+</div>
 1 Peter, a messenger of Jesus Christ, to the people living far away in Pontus, Galatia, Cappadocia, Asia, and Bithynia,
 
 2 Chosen by God the Father who knows everything ahead of time, through being made holy by the Spirit, to obey and to be cleansed by the blood of Jesus Christ: May grace and peace be given to you in large amounts.

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 11
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ezekiel/500/11.jpg" alt="Ezekiel Chapter 11" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ezekiel Chapter 11</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Ezekiel/500/11.jpg" alt="Ezekiel Chapter 11" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 11</figcaption>
 </figure>
+</div>
 1 The spirit picked me up and took me to the east entrance of God's house, facing east. There, at the entrance gate, I saw twenty-five men. Among them were Jaazaniah, Azur's son, and Pelatiah, Benaiah's son, who were leaders of the people.
 
 2 He said to me, "Human, these are the people who plan trouble and give evil advice in this city."

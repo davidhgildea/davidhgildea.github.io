@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 23
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Kings/500/23.jpg" alt="2 Kings Chapter 23" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Kings Chapter 23</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/2 Kings/500/23.jpg" alt="2 Kings Chapter 23" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">2 Kings Chapter 23</figcaption>
 </figure>
+</div>
 1 The king called and brought together all the senior leaders of Judah and Jerusalem.
 
 2 The king went to God's house, and with him went all the men from Judah, everyone from Jerusalem, the priests, the prophets, and all the people, young and old. He read aloud to them everything in the book of the agreement found in God's house.

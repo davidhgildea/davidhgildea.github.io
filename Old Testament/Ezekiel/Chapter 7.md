@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 7
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ezekiel/500/7.jpg" alt="Ezekiel Chapter 7" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ezekiel Chapter 7</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Ezekiel/500/7.jpg" alt="Ezekiel Chapter 7" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 7</figcaption>
 </figure>
+</div>
 1 God's message came to me, saying,
 
 2 Also, you human, this is what God says to the land of Israel: An end has come to all parts of the land.

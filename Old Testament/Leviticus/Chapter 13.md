@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 13
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Leviticus/500/13.jpg" alt="Leviticus Chapter 13" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Leviticus Chapter 13</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Leviticus/500/13.jpg" alt="Leviticus Chapter 13" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Leviticus Chapter 13</figcaption>
 </figure>
+</div>
 1 God spoke to Moses and Aaron, saying,
 
 2 When a person has a swelling, a rash, or a shiny spot on their skin that may be a sign of leprosy, they must go to Aaron the priest or one of his sons who are priests.

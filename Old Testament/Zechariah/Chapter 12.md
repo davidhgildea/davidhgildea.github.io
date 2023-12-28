@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 12
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Zechariah/500/12.jpg" alt="Zechariah Chapter 12" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Zechariah Chapter 12</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Zechariah/500/12.jpg" alt="Zechariah Chapter 12" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Zechariah Chapter 12</figcaption>
 </figure>
+</div>
 1 God has a message for Israel. God, who created the skies, set the earth's foundations, and made humans' spirit within them, says this message.
 
 2 I will make Jerusalem a cup that makes all the surrounding people tremble, when they attack both Judah and Jerusalem.

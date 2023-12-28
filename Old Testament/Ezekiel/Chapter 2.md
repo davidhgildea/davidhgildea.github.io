@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 2
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ezekiel/500/2.jpg" alt="Ezekiel Chapter 2" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ezekiel Chapter 2</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Ezekiel/500/2.jpg" alt="Ezekiel Chapter 2" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 2</figcaption>
 </figure>
+</div>
 1 He said to me, "Human, stand on your feet, and I will talk to you."
 
 2 The spirit came into me as he spoke to me and put me on my feet, so I could hear the one who was speaking to me.

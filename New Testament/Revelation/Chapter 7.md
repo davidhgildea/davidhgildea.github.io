@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 7
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Revelation/500/7.jpg" alt="Revelation Chapter 7" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Revelation Chapter 7</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Revelation/500/7.jpg" alt="Revelation Chapter 7" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Revelation Chapter 7</figcaption>
 </figure>
+</div>
 1 After these events, I saw four angels at the earth's four farthest places, holding back the four winds so that no wind would blow on the land, the sea, or any tree.
 
 2 I saw another angel coming up from the east with God's mark. He shouted to the four angels who had power to harm the earth and sea.

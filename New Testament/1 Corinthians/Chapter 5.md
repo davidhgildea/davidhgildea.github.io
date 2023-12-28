@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 5
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Corinthians/500/5.jpg" alt="1 Corinthians Chapter 5" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Corinthians Chapter 5</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Corinthians/500/5.jpg" alt="1 Corinthians Chapter 5" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Corinthians Chapter 5</figcaption>
 </figure>
+</div>
 1 People often say that sexual immorality is happening among you, the kind not even non-believers talk about, like someone living with his stepmother.
 
 2 You have become arrogant instead of mourning, so that the one who did this should be removed from among you.

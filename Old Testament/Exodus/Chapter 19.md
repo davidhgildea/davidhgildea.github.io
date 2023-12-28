@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 19
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Exodus/500/19.jpg" alt="Exodus Chapter 19" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Exodus Chapter 19</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Exodus/500/19.jpg" alt="Exodus Chapter 19" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Exodus Chapter 19</figcaption>
 </figure>
+</div>
 1 In the third month, after Israel's people left Egypt, they arrived in the Sinai desert on that same day.
 
 2 They left Rephidim, came to the Sinai desert, and set up camp in the wilderness; there Israel camped at the mountain.

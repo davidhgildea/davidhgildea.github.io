@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 50
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/50.jpg" alt="Isaiah Chapter 50" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 50</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Isaiah/500/50.jpg" alt="Isaiah Chapter 50" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Isaiah Chapter 50</figcaption>
 </figure>
+</div>
 1 God says, "Where is your mother's divorce paper that I sent away? Who is the one I sold you to because of my debts? Look, because of your wrongs you sold yourselves, and because of your mistakes your mother was sent away.
 
 2 Why, when I arrived, was no one there? When I called, why did no one respond? Is my power lessened, so that I can't save? Or do I lack the strength to rescue? Look, at my command I dry up the sea, I turn rivers into deserts; their fish rot because there is no water, and they die of thirst.

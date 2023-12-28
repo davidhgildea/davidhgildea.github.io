@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 9
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/9.jpg" alt="Isaiah Chapter 9" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 9</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Isaiah/500/9.jpg" alt="Isaiah Chapter 9" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Isaiah Chapter 9</figcaption>
 </figure>
+</div>
 1 Still, the gloom won't be as heavy as the trouble she first had, when God at first only slightly punished the land of Zebulun and Naphtali, and later punished it much more harshly by the sea, past Jordan, in the area of the nations.
 
 2 People who walked in darkness have seen a great light; those who lived in the land where death casts its shadow, on them the light has shone.

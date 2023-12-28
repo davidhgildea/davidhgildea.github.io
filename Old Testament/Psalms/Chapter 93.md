@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 93
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/93.jpg" alt="Psalms Chapter 93" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 93</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Psalms/500/93.jpg" alt="Psalms Chapter 93" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Psalms Chapter 93</figcaption>
 </figure>
+</div>
 1 God reigns, He is majestic; God is strong and clothes Himself with power: the world is set firm and cannot be shaken.
 
 2 Your throne was set up long ago; you are eternal.

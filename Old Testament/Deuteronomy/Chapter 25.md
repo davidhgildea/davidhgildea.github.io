@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 25
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Deuteronomy/500/25.jpg" alt="Deuteronomy Chapter 25" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Deuteronomy Chapter 25</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Deuteronomy/500/25.jpg" alt="Deuteronomy Chapter 25" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Deuteronomy Chapter 25</figcaption>
 </figure>
+</div>
 1 If people have a dispute and go to court, the judges should decide the case, declare the innocent person right, and find the guilty person at fault.
 
 2 If a bad person deserves punishment, the judge will make him lie down and be hit in front of him, as many times as his wrong act deserves.

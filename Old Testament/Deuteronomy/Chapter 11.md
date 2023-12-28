@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 11
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Deuteronomy/500/11.jpg" alt="Deuteronomy Chapter 11" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Deuteronomy Chapter 11</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Deuteronomy/500/11.jpg" alt="Deuteronomy Chapter 11" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Deuteronomy Chapter 11</figcaption>
 </figure>
+</div>
 1 So you must love God, follow his instructions, laws, decisions, and commands always.
 
 2 Understand today: I am not talking to your children who have not known or seen how God disciplines, his greatness, his powerful hand, and his extended arm.

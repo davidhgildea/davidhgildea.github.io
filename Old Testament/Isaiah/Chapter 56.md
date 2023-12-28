@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 56
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/56.jpg" alt="Isaiah Chapter 56" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 56</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Isaiah/500/56.jpg" alt="Isaiah Chapter 56" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Isaiah Chapter 56</figcaption>
 </figure>
+</div>
 1 God says, "Keep fair judgment, and do what is right: for my rescue is close to coming, and my goodness will soon be shown."
 
 2 Happy is the person who does this, and the human who holds on to it; who keeps the Sabbath without ruining it, and stops his hand from doing any bad thing.

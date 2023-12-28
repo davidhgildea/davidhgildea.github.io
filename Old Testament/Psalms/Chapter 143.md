@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 143
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/143.jpg" alt="Psalms Chapter 143" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 143</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Psalms/500/143.jpg" alt="Psalms Chapter 143" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Psalms Chapter 143</figcaption>
 </figure>
+</div>
 1 Listen to my prayer, God, pay attention to my requests: answer me because you are faithful and just.
 
 2 Do not judge your servant, because no one alive can be seen as good before you.

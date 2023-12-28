@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 32
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ezekiel/500/32.jpg" alt="Ezekiel Chapter 32" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ezekiel Chapter 32</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Ezekiel/500/32.jpg" alt="Ezekiel Chapter 32" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 32</figcaption>
 </figure>
+</div>
 1 In the twelfth year, on the first day of the twelfth month, God spoke to me.
 
 2 Human, sing a sad song for the Pharaoh of Egypt, and tell him: You are like a strong lion among the nations, and like a large sea creature in the oceans. You came out with your rivers, stirred up the water with your feet, and made their rivers dirty.

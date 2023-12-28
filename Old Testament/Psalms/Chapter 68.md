@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 68
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/68.jpg" alt="Psalms Chapter 68" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 68</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Psalms/500/68.jpg" alt="Psalms Chapter 68" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Psalms Chapter 68</figcaption>
 </figure>
+</div>
 1 May God stand up, may his enemies scatter; may those who hate him run away from him.
 
 2 Like smoke is blown away, blow them away; as wax melts before fire, let the wicked vanish in God's presence.

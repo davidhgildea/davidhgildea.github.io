@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 54
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/54.jpg" alt="Isaiah Chapter 54" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 54</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Isaiah/500/54.jpg" alt="Isaiah Chapter 54" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Isaiah Chapter 54</figcaption>
 </figure>
+</div>
 1 Sing, you who couldn't have children; shout with joy, you who never gave birth. Be happy, because you have more children now than the woman who has a husband, says God.
 
 2 Make your tent bigger and stretch out its covers. Don't hold back, make the ropes longer, and make the pegs stronger.

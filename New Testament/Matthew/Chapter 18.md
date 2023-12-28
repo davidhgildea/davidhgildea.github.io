@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 18
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Matthew/500/18.jpg" alt="Matthew Chapter 18" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Matthew Chapter 18</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Matthew/500/18.jpg" alt="Matthew Chapter 18" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Matthew Chapter 18</figcaption>
 </figure>
+</div>
 1 The disciples came to Jesus then, asking, "Who is the greatest in heaven's kingdom?"
 
 2 Jesus called a child over and had him stand among them.

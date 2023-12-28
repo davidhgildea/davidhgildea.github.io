@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 31
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ezekiel/500/31.jpg" alt="Ezekiel Chapter 31" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ezekiel Chapter 31</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Ezekiel/500/31.jpg" alt="Ezekiel Chapter 31" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 31</figcaption>
 </figure>
+</div>
 1 In the eleventh year, on the first day of the third month, God gave me a message, saying.
 
 2 Human, talk to Pharaoh, the king of Egypt, and his people; who are you similar to in your greatness?

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 12
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Judges/500/12.jpg" alt="Judges Chapter 12" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Judges Chapter 12</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Judges/500/12.jpg" alt="Judges Chapter 12" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Judges Chapter 12</figcaption>
 </figure>
+</div>
 1 The men of Ephraim came together, went north, and said to Jephthah, "Why did you go to fight the Ammonites without inviting us? We will burn down your house on top of you."
 
 2 Jephthah told them, "My people and I had big trouble with the children of Ammon; and when I called for your help, you did not rescue me from them."

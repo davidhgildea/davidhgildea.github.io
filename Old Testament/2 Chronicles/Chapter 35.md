@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 35
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Chronicles/500/35.jpg" alt="2 Chronicles Chapter 35" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Chronicles Chapter 35</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/2 Chronicles/500/35.jpg" alt="2 Chronicles Chapter 35" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">2 Chronicles Chapter 35</figcaption>
 </figure>
+</div>
 1 Josiah celebrated Passover for God in Jerusalem, and they sacrificed the Passover lamb on the fourteenth day of the first month.
 
 2 He placed the priests in their duties and motivated them to serve in God's house.

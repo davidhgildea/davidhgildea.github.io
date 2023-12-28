@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 4
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 John/500/4.jpg" alt="1 John Chapter 4" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 John Chapter 4</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 John/500/4.jpg" alt="1 John Chapter 4" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 John Chapter 4</figcaption>
 </figure>
+</div>
 1 Dear friends, do not believe all spirits, but test the spirits to see if they are from God, for many false prophets have spread throughout the world.
 
 2 You know God's Spirit if it says Jesus Christ came as a human.

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 22
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Leviticus/500/22.jpg" alt="Leviticus Chapter 22" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Leviticus Chapter 22</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Leviticus/500/22.jpg" alt="Leviticus Chapter 22" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Leviticus Chapter 22</figcaption>
 </figure>
+</div>
 1 God spoke to Moses, saying,
 
 2 Tell Aaron and his sons to stay away from the holy items of the people of Israel, so they do not disrespect my holy name in those things they dedicate to me: I am God.

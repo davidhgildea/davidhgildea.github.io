@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 1
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Samuel/500/1.jpg" alt="1 Samuel Chapter 1" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Samuel Chapter 1</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Samuel/500/1.jpg" alt="1 Samuel Chapter 1" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Samuel Chapter 1</figcaption>
 </figure>
+</div>
 1 There was a man from Ramathaim, a town in the Ephraim hills, named Elkanah. He was Jeroham's son, Elihu's grandson, Tohu's great-grandson, and Zuph's great-great-grandson, from the tribe of Ephraim.
 
 2 He had two wives; one was named Hannah and the other Peninnah. Peninnah had children, but Hannah did not.

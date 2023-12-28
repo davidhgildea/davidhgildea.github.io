@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 19
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Kings/500/19.jpg" alt="1 Kings Chapter 19" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Kings Chapter 19</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Kings/500/19.jpg" alt="1 Kings Chapter 19" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Kings Chapter 19</figcaption>
 </figure>
+</div>
 1 Ahab told Jezebel everything Elijah did, including how he killed all the prophets with a sword.
 
 2 Then Jezebel sent a messenger to Elijah, saying, "I hope the gods punish me severely if I don't make your life like one of them by this time tomorrow."

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 18
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Genesis/500/18.jpg" alt="Genesis Chapter 18" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 18</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Genesis/500/18.jpg" alt="Genesis Chapter 18" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Genesis Chapter 18</figcaption>
 </figure>
+</div>
 1 God appeared to him in the fields of Mamre while he was sitting at the entrance of his tent during the hottest part of the day.
 
 2 He looked up and saw three men standing nearby. When he noticed them, he ran from his tent to greet them and bowed down to the ground.

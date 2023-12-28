@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 140
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/140.jpg" alt="Psalms Chapter 140" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 140</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Psalms/500/140.jpg" alt="Psalms Chapter 140" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Psalms Chapter 140</figcaption>
 </figure>
+</div>
 1 Save me, God, from the bad person; protect me from the violent one.
 
 2 They plan trouble in their hearts; they always meet to fight.

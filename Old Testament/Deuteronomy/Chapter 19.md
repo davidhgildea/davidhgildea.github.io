@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 19
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Deuteronomy/500/19.jpg" alt="Deuteronomy Chapter 19" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Deuteronomy Chapter 19</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Deuteronomy/500/19.jpg" alt="Deuteronomy Chapter 19" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Deuteronomy Chapter 19</figcaption>
 </figure>
+</div>
 1 When God has destroyed the nations whose land God gives you, and you take their place, living in their cities and houses;
 
 2 You must set aside three cities in the middle of your land that God gives you to own.

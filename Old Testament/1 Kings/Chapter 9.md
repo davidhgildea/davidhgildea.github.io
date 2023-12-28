@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 9
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Kings/500/9.jpg" alt="1 Kings Chapter 9" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Kings Chapter 9</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Kings/500/9.jpg" alt="1 Kings Chapter 9" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Kings Chapter 9</figcaption>
 </figure>
+</div>
 1 When Solomon finished building God's house, his own palace, and everything he wanted to do,
 
 2 God appeared to Solomon again, just as he had at Gibeon.

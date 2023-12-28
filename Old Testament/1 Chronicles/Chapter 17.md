@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 17
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Chronicles/500/17.jpg" alt="1 Chronicles Chapter 17" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Chronicles Chapter 17</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Chronicles/500/17.jpg" alt="1 Chronicles Chapter 17" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Chronicles Chapter 17</figcaption>
 </figure>
+</div>
 1 One day, while David was at home, he said to Nathan the prophet, "Look, I live in a house made of cedar wood, but God's covenant chest is still under a tent."
 
 2 Then Nathan told David, "Do all that you want to do; because God is with you."

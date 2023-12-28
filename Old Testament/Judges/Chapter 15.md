@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 15
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Judges/500/15.jpg" alt="Judges Chapter 15" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Judges Chapter 15</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Judges/500/15.jpg" alt="Judges Chapter 15" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Judges Chapter 15</figcaption>
 </figure>
+</div>
 1 After some time, during wheat harvest, Samson brought a young goat to his wife and said, "I will go to my wife's room." But her father wouldn't let him enter.
 
 2 Her father said, "I really thought you hated her, so I gave her to your friend. Isn't her younger sister more beautiful? Please take her instead."

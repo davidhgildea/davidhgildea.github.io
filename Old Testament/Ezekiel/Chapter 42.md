@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 42
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ezekiel/500/42.jpg" alt="Ezekiel Chapter 42" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ezekiel Chapter 42</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Ezekiel/500/42.jpg" alt="Ezekiel Chapter 42" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 42</figcaption>
 </figure>
+</div>
 1 He led me out to the outer courtyard to the north and took me to the room facing the special area, in front of the north-facing building.
 
 2 The north door was 100 cubits long and 50 cubits wide.

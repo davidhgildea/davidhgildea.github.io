@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 18
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Numbers/500/18.jpg" alt="Numbers Chapter 18" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Numbers Chapter 18</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Numbers/500/18.jpg" alt="Numbers Chapter 18" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Numbers Chapter 18</figcaption>
 </figure>
+</div>
 1 God said to Aaron, "You, your sons, and your family must take responsibility for any wrongs done to the holy place, and you and your sons must also take responsibility for the mistakes in your priestly duties."
 
 2 Bring your relatives from the Levi tribe, your father's tribe, with you so they can help and serve you. But you and your sons must serve in front of the tent of testimony.

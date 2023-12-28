@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 7
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Esther/500/7.jpg" alt="Esther Chapter 7" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Esther Chapter 7</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Esther/500/7.jpg" alt="Esther Chapter 7" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Esther Chapter 7</figcaption>
 </figure>
+</div>
 1 The king and Haman went to dine with Queen Esther.
 
 2 The king spoke to Queen Esther again on the second day during the wine banquet, asking, "What do you wish for, Queen Esther? It will be given to you. What do you want to ask for? It will be done, up to half of the kingdom."

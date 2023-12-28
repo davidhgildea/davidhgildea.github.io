@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 4
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Zechariah/500/4.jpg" alt="Zechariah Chapter 4" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Zechariah Chapter 4</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Zechariah/500/4.jpg" alt="Zechariah Chapter 4" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Zechariah Chapter 4</figcaption>
 </figure>
+</div>
 1 The angel who was speaking with me came back and woke me up like someone being woken from sleep.
 
 2 He asked me, "What do you see?" And I answered, "I see a golden lampstand with a bowl at the top and seven lights on it, with seven tubes going to the lights."

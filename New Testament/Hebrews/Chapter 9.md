@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 9
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Hebrews/500/9.jpg" alt="Hebrews Chapter 9" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Hebrews Chapter 9</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Hebrews/500/9.jpg" alt="Hebrews Chapter 9" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Hebrews Chapter 9</figcaption>
 </figure>
+</div>
 1 Truly, the first agreement also had rules for worshiping God, and a sanctuary on earth.
 
 2 They set up a tent; the first part had a lampstand, a table, and bread on display; this area is called the holy place.

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 1
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Micah/500/1.jpg" alt="Micah Chapter 1" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Micah Chapter 1</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Micah/500/1.jpg" alt="Micah Chapter 1" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Micah Chapter 1</figcaption>
 </figure>
+</div>
 1 God's message that came to Micah of Morasheth during the time of Jotham, Ahaz, and Hezekiah, the kings of Judah, was about Samaria and Jerusalem.
 
 2 Listen, everyone; pay attention, O earth and everything in it: and let God be a witness against you, God from his holy place.

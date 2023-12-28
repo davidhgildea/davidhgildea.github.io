@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 2
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Chronicles/500/2.jpg" alt="2 Chronicles Chapter 2" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Chronicles Chapter 2</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/2 Chronicles/500/2.jpg" alt="2 Chronicles Chapter 2" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">2 Chronicles Chapter 2</figcaption>
 </figure>
+</div>
 1 Solomon decided to build a temple for God and a palace for his reign.
 
 2 Solomon assigned seventy thousand men to carry loads, eighty thousand to cut stone in the mountains, and three thousand six hundred to supervise them.

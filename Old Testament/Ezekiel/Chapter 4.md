@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 4
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ezekiel/500/4.jpg" alt="Ezekiel Chapter 4" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ezekiel Chapter 4</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Ezekiel/500/4.jpg" alt="Ezekiel Chapter 4" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 4</figcaption>
 </figure>
+</div>
 1 You too, human, get a clay tablet, put it in front of you, and draw on it the city of Jerusalem.
 
 2 Surround it with a siege, make a wall against it, pile up dirt against it; put a camp around it, and place battering rams against it all around.

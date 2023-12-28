@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 13
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Joshua/500/13.jpg" alt="Joshua Chapter 13" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Joshua Chapter 13</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Joshua/500/13.jpg" alt="Joshua Chapter 13" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Joshua Chapter 13</figcaption>
 </figure>
+</div>
 1 Joshua was old with many years; and God said to him, "You are old with many years, and there is still a lot of land to take over."
 
 2 This is the land that still remains: all the territory of the Philistines, and all of Geshur.

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 33
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Exodus/500/33.jpg" alt="Exodus Chapter 33" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Exodus Chapter 33</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Exodus/500/33.jpg" alt="Exodus Chapter 33" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Exodus Chapter 33</figcaption>
 </figure>
+</div>
 1 God told Moses, "Leave this place and take the people you brought from Egypt to the land I promised Abraham, Isaac, and Jacob, saying 'I will give it to your descendants.'"
 
 2 I will send an angel ahead of you; I will push out the Canaanite, the Amorite, the Hittite, the Perizzite, the Hivite, and the Jebusite.

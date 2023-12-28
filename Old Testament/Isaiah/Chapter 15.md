@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 15
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/15.jpg" alt="Isaiah Chapter 15" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 15</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Isaiah/500/15.jpg" alt="Isaiah Chapter 15" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Isaiah Chapter 15</figcaption>
 </figure>
+</div>
 1 Moab's heavy problem. Because at night, Moab's city Ar is destroyed and silenced; at night, Moab's city Kir is also destroyed and silenced.
 
 2 He has gone up to Bajith and Dibon's high places to cry. Moab will wail for Nebo and Medeba. Everyone will be bald and every beard shaved off.
