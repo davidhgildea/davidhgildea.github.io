@@ -11,7 +11,7 @@ layout: default
 # Chapter 2
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Philippians/500/2.jpg" alt="Philippians Chapter 2" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Philippians/500/2.jpg" alt="Philippians Chapter 2" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Philippians Chapter 2</figcaption>
 </div>
 1 So, if there is any comfort from being united with Christ, if any love brings comfort, if we share in the Spirit, if there is any warmth and kindness,

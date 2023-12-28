@@ -11,7 +11,7 @@ layout: default
 # Chapter 23
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Jeremiah/500/23.jpg" alt="Jeremiah Chapter 23" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Jeremiah/500/23.jpg" alt="Jeremiah Chapter 23" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Jeremiah Chapter 23</figcaption>
 </div>
 1 God says, "Trouble will come to the leaders who ruin and disperse the sheep of my land!"

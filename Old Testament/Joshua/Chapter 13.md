@@ -11,7 +11,7 @@ layout: default
 # Chapter 13
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Joshua/500/13.jpg" alt="Joshua Chapter 13" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Joshua/500/13.jpg" alt="Joshua Chapter 13" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Joshua Chapter 13</figcaption>
 </div>
 1 Joshua was old with many years; and God said to him, "You are old with many years, and there is still a lot of land to take over."

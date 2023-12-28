@@ -11,7 +11,7 @@ layout: default
 # Chapter 6
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Romans/500/6.jpg" alt="Romans Chapter 6" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Romans/500/6.jpg" alt="Romans Chapter 6" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Romans Chapter 6</figcaption>
 </div>
 1 So what should we say? Should we keep sinning so that God's kindness can increase?

@@ -11,7 +11,7 @@ layout: default
 # Chapter 21
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/1 Samuel/500/21.jpg" alt="1 Samuel Chapter 21" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/1 Samuel/500/21.jpg" alt="1 Samuel Chapter 21" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">1 Samuel Chapter 21</figcaption>
 </div>
 1 David went to Nob to see Ahimelech the priest. Ahimelech was scared when he saw David and asked, "Why are you alone and no one is with you?"

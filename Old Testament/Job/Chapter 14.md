@@ -11,7 +11,7 @@ layout: default
 # Chapter 14
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Job/500/14.jpg" alt="Job Chapter 14" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Job/500/14.jpg" alt="Job Chapter 14" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Job Chapter 14</figcaption>
 </div>
 1 A person born from a woman lives only a short time and has many problems.

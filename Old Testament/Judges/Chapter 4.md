@@ -11,7 +11,7 @@ layout: default
 # Chapter 4
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Judges/500/4.jpg" alt="Judges Chapter 4" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Judges/500/4.jpg" alt="Judges Chapter 4" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Judges Chapter 4</figcaption>
 </div>
 1 The Israelites once more did bad things that God saw, after Ehud died.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 29
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Deuteronomy/500/29.jpg" alt="Deuteronomy Chapter 29" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Deuteronomy/500/29.jpg" alt="Deuteronomy Chapter 29" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Deuteronomy Chapter 29</figcaption>
 </div>
 1 These are the words of the agreement that God told Moses to create with the people of Israel in Moab, in addition to the agreement he made with them at Horeb.

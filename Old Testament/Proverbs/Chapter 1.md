@@ -11,7 +11,7 @@ layout: default
 # Chapter 1
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Proverbs/500/1.jpg" alt="Proverbs Chapter 1" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Proverbs/500/1.jpg" alt="Proverbs Chapter 1" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Proverbs Chapter 1</figcaption>
 </div>
 1 These are wise sayings from Solomon, David's son, who was the king of Israel.

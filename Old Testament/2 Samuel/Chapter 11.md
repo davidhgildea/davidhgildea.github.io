@@ -11,7 +11,7 @@ layout: default
 # Chapter 11
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/2 Samuel/500/11.jpg" alt="2 Samuel Chapter 11" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/2 Samuel/500/11.jpg" alt="2 Samuel Chapter 11" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">2 Samuel Chapter 11</figcaption>
 </div>
 1 After a year ended, when kings usually went to war, David sent Joab, his officers, and all Israel. They defeated the Ammonites and surrounded Rabbah. But David stayed in Jerusalem.

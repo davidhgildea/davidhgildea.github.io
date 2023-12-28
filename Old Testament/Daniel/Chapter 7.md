@@ -11,7 +11,7 @@ layout: default
 # Chapter 7
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Daniel/500/7.jpg" alt="Daniel Chapter 7" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Daniel/500/7.jpg" alt="Daniel Chapter 7" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Daniel Chapter 7</figcaption>
 </div>
 1 In the first year of King Belshazzar of Babylon, Daniel had a dream and saw visions while on his bed. After that, he wrote down the dream and explained the main points.

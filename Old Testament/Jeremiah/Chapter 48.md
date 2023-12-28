@@ -11,7 +11,7 @@ layout: default
 # Chapter 48
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Jeremiah/500/48.jpg" alt="Jeremiah Chapter 48" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Jeremiah/500/48.jpg" alt="Jeremiah Chapter 48" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Jeremiah Chapter 48</figcaption>
 </div>
 1 God says this about Moab: "Trouble is coming to Nebo because it's destroyed. Kiriathaim is captured and shamed. Misgab is terrified and upset."

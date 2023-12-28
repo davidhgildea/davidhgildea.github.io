@@ -11,7 +11,7 @@ layout: default
 # Chapter 28
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Deuteronomy/500/28.jpg" alt="Deuteronomy Chapter 28" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Deuteronomy/500/28.jpg" alt="Deuteronomy Chapter 28" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Deuteronomy Chapter 28</figcaption>
 </div>
 1 If you carefully listen to God and follow all the commands I give you today, God will make you greater than all other nations on Earth.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 27
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Isaiah/500/27.jpg" alt="Isaiah Chapter 27" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Isaiah/500/27.jpg" alt="Isaiah Chapter 27" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Isaiah Chapter 27</figcaption>
 </div>
 1 On that day, God with His fierce, mighty sword will punish Leviathan, the sharp serpent, even Leviathan, the twisted serpent; and He will kill the sea dragon.

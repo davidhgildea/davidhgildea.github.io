@@ -11,7 +11,7 @@ layout: default
 # Chapter 30
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Proverbs/500/30.jpg" alt="Proverbs Chapter 30" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Proverbs/500/30.jpg" alt="Proverbs Chapter 30" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Proverbs Chapter 30</figcaption>
 </div>
 1 Agur, Jakeh's son, said this prophecy: he told Ithiel, and also Ithiel and Ucal.

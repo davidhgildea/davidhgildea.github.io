@@ -11,7 +11,7 @@ layout: default
 # Chapter 5
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Exodus/500/5.jpg" alt="Exodus Chapter 5" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Exodus/500/5.jpg" alt="Exodus Chapter 5" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Exodus Chapter 5</figcaption>
 </div>
 1 Later, Moses and Aaron went to Pharaoh and said, "God of Israel says, 'Let my people go, so they can celebrate a festival for me in the desert.'"

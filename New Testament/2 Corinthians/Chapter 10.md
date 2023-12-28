@@ -11,7 +11,7 @@ layout: default
 # Chapter 10
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/2 Corinthians/500/10.jpg" alt="2 Corinthians Chapter 10" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/2 Corinthians/500/10.jpg" alt="2 Corinthians Chapter 10" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">2 Corinthians Chapter 10</figcaption>
 </div>
 1 I, Paul, ask you kindly because of Christ's humility and gentleness. When with you I may seem weak, but when away I am bold with you.

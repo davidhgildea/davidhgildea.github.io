@@ -11,7 +11,7 @@ layout: default
 # Chapter 56
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Isaiah/500/56.jpg" alt="Isaiah Chapter 56" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Isaiah/500/56.jpg" alt="Isaiah Chapter 56" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Isaiah Chapter 56</figcaption>
 </div>
 1 God says, "Keep fair judgment, and do what is right: for my rescue is close to coming, and my goodness will soon be shown."

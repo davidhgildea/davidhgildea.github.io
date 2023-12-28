@@ -11,7 +11,7 @@ layout: default
 # Chapter 20
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/2 Samuel/500/20.jpg" alt="2 Samuel Chapter 20" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/2 Samuel/500/20.jpg" alt="2 Samuel Chapter 20" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">2 Samuel Chapter 20</figcaption>
 </div>
 1 A bad man named Sheba, Bichri's son from the tribe of Benjamin, was there. He blew a trumpet and shouted, "We don't belong with David or share in Jesse's son's inheritance. Everyone go home, Israel!"

@@ -11,7 +11,7 @@ layout: default
 # Chapter 12
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/1 Samuel/500/12.jpg" alt="1 Samuel Chapter 12" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/1 Samuel/500/12.jpg" alt="1 Samuel Chapter 12" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">1 Samuel Chapter 12</figcaption>
 </div>
 1 Samuel told all of Israel, "Look, I have listened to what you said to me, and I have made a king for you."

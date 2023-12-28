@@ -11,7 +11,7 @@ layout: default
 # Chapter 12
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Genesis/500/12.jpg" alt="Genesis Chapter 12" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Genesis/500/12.jpg" alt="Genesis Chapter 12" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Genesis Chapter 12</figcaption>
 </div>
 1 God told Abram, "Leave your country, your relatives, and your father's home, and go to a land I will show you."

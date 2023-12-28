@@ -11,7 +11,7 @@ layout: default
 # Chapter 15
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Matthew/500/15.jpg" alt="Matthew Chapter 15" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Matthew/500/15.jpg" alt="Matthew Chapter 15" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Matthew Chapter 15</figcaption>
 </div>
 1 Some teachers of the law and Pharisees from Jerusalem came to Jesus and asked,

@@ -11,7 +11,7 @@ layout: default
 # Chapter 5
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Ezra/500/5.jpg" alt="Ezra Chapter 5" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Ezra/500/5.jpg" alt="Ezra Chapter 5" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Ezra Chapter 5</figcaption>
 </div>
 1 The prophets Haggai and Zechariah, son of Iddo, spoke God's message to the Jews in Judah and Jerusalem.

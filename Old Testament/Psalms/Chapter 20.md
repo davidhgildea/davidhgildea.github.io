@@ -11,7 +11,7 @@ layout: default
 # Chapter 20
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Psalms/500/20.jpg" alt="Psalms Chapter 20" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Psalms/500/20.jpg" alt="Psalms Chapter 20" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Psalms Chapter 20</figcaption>
 </div>
 1 God hears you in times of trouble; may the God of Jacob protect you.

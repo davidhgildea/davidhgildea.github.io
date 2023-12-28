@@ -11,7 +11,7 @@ layout: default
 # Chapter 20
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Genesis/500/20.jpg" alt="Genesis Chapter 20" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Genesis/500/20.jpg" alt="Genesis Chapter 20" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Genesis Chapter 20</figcaption>
 </div>
 1 Abraham traveled from there to the southern lands and lived between Kadesh and Shur, and stayed in Gerar.

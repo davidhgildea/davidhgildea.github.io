@@ -11,7 +11,7 @@ layout: default
 # Chapter 15
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Judges/500/15.jpg" alt="Judges Chapter 15" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Judges/500/15.jpg" alt="Judges Chapter 15" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Judges Chapter 15</figcaption>
 </div>
 1 After some time, during wheat harvest, Samson brought a young goat to his wife and said, "I will go to my wife's room." But her father wouldn't let him enter.

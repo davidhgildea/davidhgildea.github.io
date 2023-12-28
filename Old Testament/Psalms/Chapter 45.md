@@ -11,7 +11,7 @@ layout: default
 # Chapter 45
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Psalms/500/45.jpg" alt="Psalms Chapter 45" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Psalms/500/45.jpg" alt="Psalms Chapter 45" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Psalms Chapter 45</figcaption>
 </div>
 1 My heart is overflowing with a noble theme; I am sharing what I have composed about the king: my tongue is like the pen of a skilled writer.

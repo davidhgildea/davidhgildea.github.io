@@ -11,7 +11,7 @@ layout: default
 # Chapter 29
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/2 Chronicles/500/29.jpg" alt="2 Chronicles Chapter 29" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/2 Chronicles/500/29.jpg" alt="2 Chronicles Chapter 29" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">2 Chronicles Chapter 29</figcaption>
 </div>
 1 Hezekiah became king at the age of twenty-five and ruled for twenty-nine years in Jerusalem. His mother was named Abijah, and her father was Zechariah.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 15
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Jeremiah/500/15.jpg" alt="Jeremiah Chapter 15" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Jeremiah/500/15.jpg" alt="Jeremiah Chapter 15" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Jeremiah Chapter 15</figcaption>
 </div>
 1 God said to me, "Even if Moses and Samuel stood before me, I would not favor these people. Throw them out of my sight and let them leave."

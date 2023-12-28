@@ -11,7 +11,7 @@ layout: default
 # Chapter 1
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Haggai/500/1.jpg" alt="Haggai Chapter 1" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Haggai/500/1.jpg" alt="Haggai Chapter 1" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Haggai Chapter 1</figcaption>
 </div>
 1 In Darius's second year as king, on the first day of the sixth month, God's message came through the prophet Haggai to Zerubbabel, Shealtiel's son and the governor of Judah, and to Joshua, Josedech's son and the high priest.

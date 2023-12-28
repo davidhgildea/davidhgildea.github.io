@@ -11,7 +11,7 @@ layout: default
 # Chapter 10
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Psalms/500/10.jpg" alt="Psalms Chapter 10" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Psalms/500/10.jpg" alt="Psalms Chapter 10" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Psalms Chapter 10</figcaption>
 </div>
 1 Why do you stand far away, God? Why do you hide yourself in times of trouble?

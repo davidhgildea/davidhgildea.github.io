@@ -11,7 +11,7 @@ layout: default
 # Chapter 6
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Joshua/500/6.jpg" alt="Joshua Chapter 6" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Joshua/500/6.jpg" alt="Joshua Chapter 6" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Joshua Chapter 6</figcaption>
 </div>
 1 Jericho was tightly closed because of the Israelites: no one could leave or enter.

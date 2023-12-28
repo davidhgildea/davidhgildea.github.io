@@ -11,7 +11,7 @@ layout: default
 # Chapter 54
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Isaiah/500/54.jpg" alt="Isaiah Chapter 54" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Isaiah/500/54.jpg" alt="Isaiah Chapter 54" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Isaiah Chapter 54</figcaption>
 </div>
 1 Sing, you who couldn't have children; shout with joy, you who never gave birth. Be happy, because you have more children now than the woman who has a husband, says God.

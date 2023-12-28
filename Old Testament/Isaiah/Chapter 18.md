@@ -11,7 +11,7 @@ layout: default
 # Chapter 18
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Isaiah/500/18.jpg" alt="Isaiah Chapter 18" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Isaiah/500/18.jpg" alt="Isaiah Chapter 18" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Isaiah Chapter 18</figcaption>
 </div>
 1 Trouble comes to the land with many winged insects, which is past the rivers of Ethiopia.

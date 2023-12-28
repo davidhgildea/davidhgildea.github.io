@@ -11,7 +11,7 @@ layout: default
 # Chapter 16
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/2 Kings/500/16.jpg" alt="2 Kings Chapter 16" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/2 Kings/500/16.jpg" alt="2 Kings Chapter 16" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">2 Kings Chapter 16</figcaption>
 </div>
 1 In the seventeenth year of Pekah, son of Remaliah, Ahaz, son of Jotham and king of Judah, started his rule.

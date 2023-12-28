@@ -11,7 +11,7 @@ layout: default
 # Chapter 3
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Nehemiah/500/3.jpg" alt="Nehemiah Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Nehemiah/500/3.jpg" alt="Nehemiah Chapter 3" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Nehemiah Chapter 3</figcaption>
 </div>
 1 Eliashib, the high priest, got up with his fellow priests, and they built the Sheep Gate; they made it holy, and put in its doors; they made it holy all the way to the Tower of Meah, and to the Tower of Hananeel.

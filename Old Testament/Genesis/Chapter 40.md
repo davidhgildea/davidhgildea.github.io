@@ -11,7 +11,7 @@ layout: default
 # Chapter 40
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Genesis/500/40.jpg" alt="Genesis Chapter 40" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Genesis/500/40.jpg" alt="Genesis Chapter 40" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Genesis Chapter 40</figcaption>
 </div>
 1 After these events, the Egyptian king's cupbearer and baker upset their king.

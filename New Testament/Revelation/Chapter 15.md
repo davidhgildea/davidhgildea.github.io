@@ -11,7 +11,7 @@ layout: default
 # Chapter 15
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Revelation/500/15.jpg" alt="Revelation Chapter 15" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Revelation/500/15.jpg" alt="Revelation Chapter 15" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Revelation Chapter 15</figcaption>
 </div>
 1 I saw another amazing sign in heaven: seven angels with the last seven plagues, because with them God's anger is complete.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 21
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Isaiah/500/21.jpg" alt="Isaiah Chapter 21" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Isaiah/500/21.jpg" alt="Isaiah Chapter 21" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Isaiah Chapter 21</figcaption>
 </div>
 1 The heavy message about the sea desert. Like storms in the south move through; it comes from the desert, from a scary land.

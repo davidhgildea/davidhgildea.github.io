@@ -11,7 +11,7 @@ layout: default
 # Chapter 2
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Ezra/500/2.jpg" alt="Ezra Chapter 2" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Ezra/500/2.jpg" alt="Ezra Chapter 2" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Ezra Chapter 2</figcaption>
 </div>
 1 These are the children from the province who returned from being captives when Nebuchadnezzar, the king of Babylon, took them to Babylon. They went back to Jerusalem and Judah, each to their own city.

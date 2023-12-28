@@ -11,7 +11,7 @@ layout: default
 # Chapter 1
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Numbers/500/1.jpg" alt="Numbers Chapter 1" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Numbers/500/1.jpg" alt="Numbers Chapter 1" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Numbers Chapter 1</figcaption>
 </div>
 1 God spoke to Moses in the Sinai wilderness, in the meeting tent, on the first day of the second month, in the second year after leaving Egypt, saying,

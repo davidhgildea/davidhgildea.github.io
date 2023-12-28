@@ -11,7 +11,7 @@ layout: default
 # Chapter 24
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Ezekiel/500/24.jpg" alt="Ezekiel Chapter 24" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Ezekiel/500/24.jpg" alt="Ezekiel Chapter 24" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Ezekiel Chapter 24</figcaption>
 </div>
 1 In the ninth year, on the tenth day of the tenth month, God's message came to me.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 25
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/1 Samuel/500/25.jpg" alt="1 Samuel Chapter 25" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/1 Samuel/500/25.jpg" alt="1 Samuel Chapter 25" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">1 Samuel Chapter 25</figcaption>
 </div>
 1 Samuel died; all the people of Israel met, mourned him, and buried him at his home in Ramah. Then David left and went to the Paran wilderness.
