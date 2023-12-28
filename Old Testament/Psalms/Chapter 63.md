@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 63
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Psalms/500/63.jpg" alt="Psalms Chapter 63" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Psalms Chapter 63</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Psalms/500/63.jpg" alt="Psalms Chapter 63" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 63</figcaption>
+</figure>
 1 God, you are my God; I will look for you early. My soul is thirsty for you, my body longs for you in a dry and thirsty land with no water.
 
 2 To see your power and your glory, just as I have seen you in the holy place.

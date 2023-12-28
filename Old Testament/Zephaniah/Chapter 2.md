@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 2
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Zephaniah/500/2.jpg" alt="Zephaniah Chapter 2" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Zephaniah Chapter 2</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Zephaniah/500/2.jpg" alt="Zephaniah Chapter 2" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Zephaniah Chapter 2</figcaption>
+</figure>
 1 Come together, yes, come together, unwanted nation.
 
 2 Before the command comes out, before the day flies away like husks, before God's strong anger hits you, before the day of God's anger arrives.

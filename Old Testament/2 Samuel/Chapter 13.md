@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 13
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/2 Samuel/500/13.jpg" alt="2 Samuel Chapter 13" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">2 Samuel Chapter 13</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/2 Samuel/500/13.jpg" alt="2 Samuel Chapter 13" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Samuel Chapter 13</figcaption>
+</figure>
 1 After this, David's son Absalom had a beautiful sister named Tamar, and David's son Amnon loved her.
 
 2 Amnon was so upset that he became sick because of his sister Tamar; she was a virgin, and Amnon found it difficult to do anything to her.

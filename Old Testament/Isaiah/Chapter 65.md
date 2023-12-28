@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 65
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Isaiah/500/65.jpg" alt="Isaiah Chapter 65" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Isaiah Chapter 65</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Isaiah/500/65.jpg" alt="Isaiah Chapter 65" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 65</figcaption>
+</figure>
 1 People who did not ask for me are now looking for me; those who did not seek me have found me. I said, "Here I am, here I am," to a nation that was not called by my name.
 
 2 I have reached out all day to stubborn people who follow their own bad paths and thoughts.

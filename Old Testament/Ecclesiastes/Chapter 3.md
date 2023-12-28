@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 3
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Ecclesiastes/500/3.jpg" alt="Ecclesiastes Chapter 3" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Ecclesiastes Chapter 3</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Ecclesiastes/500/3.jpg" alt="Ecclesiastes Chapter 3" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ecclesiastes Chapter 3</figcaption>
+</figure>
 1 Everything has its time, and there is a moment for every purpose under heaven.
 
 2 A time to be born, and a time to die; a time to plant, and a time to pull up what is planted.

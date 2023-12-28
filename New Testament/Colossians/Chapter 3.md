@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 3
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Colossians/500/3.jpg" alt="Colossians Chapter 3" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Colossians Chapter 3</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Colossians/500/3.jpg" alt="Colossians Chapter 3" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Colossians Chapter 3</figcaption>
+</figure>
 1 If you have been raised with Christ, look for the things that are above, where Christ sits at God's right side.
 
 2 Focus on things above, not on earthly things.

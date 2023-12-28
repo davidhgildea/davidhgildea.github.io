@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 62
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Psalms/500/62.jpg" alt="Psalms Chapter 62" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Psalms Chapter 62</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Psalms/500/62.jpg" alt="Psalms Chapter 62" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 62</figcaption>
+</figure>
 1 My soul truly waits for God; my rescue comes from Him.
 
 2 He alone is my rock and my savior; he protects me; I won't be shaken much.

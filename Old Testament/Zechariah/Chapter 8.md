@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 8
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Zechariah/500/8.jpg" alt="Zechariah Chapter 8" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Zechariah Chapter 8</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Zechariah/500/8.jpg" alt="Zechariah Chapter 8" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Zechariah Chapter 8</figcaption>
+</figure>
 1 God spoke to me once more, saying,
 
 2 God says; I felt very jealous for Zion, and my jealousy for her was very strong.

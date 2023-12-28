@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 4
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/1 Chronicles/500/4.jpg" alt="1 Chronicles Chapter 4" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">1 Chronicles Chapter 4</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/1 Chronicles/500/4.jpg" alt="1 Chronicles Chapter 4" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Chronicles Chapter 4</figcaption>
+</figure>
 1 Judah's sons were: Pharez, Hezron, Carmi, Hur, and Shobal.
 
 2 Reaiah, Shobal's son, had a son named Jahath; Jahath had sons named Ahumai and Lahad. These are the clans of the Zorathites.

@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 132
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Psalms/500/132.jpg" alt="Psalms Chapter 132" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Psalms Chapter 132</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Psalms/500/132.jpg" alt="Psalms Chapter 132" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 132</figcaption>
+</figure>
 1 God, remember David and all his hardships.
 
 2 He promised to God and made a vow to the powerful God of Jacob.

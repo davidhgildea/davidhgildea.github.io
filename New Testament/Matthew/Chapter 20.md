@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 20
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Matthew/500/20.jpg" alt="Matthew Chapter 20" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Matthew Chapter 20</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Matthew/500/20.jpg" alt="Matthew Chapter 20" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Matthew Chapter 20</figcaption>
+</figure>
 1 The kingdom of heaven is like a man who owns a house and went out early in the morning to find workers for his vineyard.
 
 2 After he made a deal with the workers for one penny each day, he sent them to his grape farm.

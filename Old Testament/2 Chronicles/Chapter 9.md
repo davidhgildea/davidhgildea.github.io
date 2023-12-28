@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 9
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/2 Chronicles/500/9.jpg" alt="2 Chronicles Chapter 9" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">2 Chronicles Chapter 9</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/2 Chronicles/500/9.jpg" alt="2 Chronicles Chapter 9" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Chronicles Chapter 9</figcaption>
+</figure>
 1 When the queen of Sheba heard about Solomon's fame, she went to test him with difficult questions in Jerusalem. She brought a large group, camels carrying spices, lots of gold, and valuable gems. When she arrived, she talked with Solomon about everything she was thinking.
 
 2 Solomon answered all her questions, and he hid nothing from her.

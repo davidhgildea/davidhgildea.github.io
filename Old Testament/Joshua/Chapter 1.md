@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 1
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Joshua/500/1.jpg" alt="Joshua Chapter 1" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Joshua Chapter 1</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Joshua/500/1.jpg" alt="Joshua Chapter 1" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Joshua Chapter 1</figcaption>
+</figure>
 1 After Moses, God's servant, died, God spoke to Joshua, Nun's son and Moses' assistant, saying,
 
 2 Moses, my servant, has died; now get up, cross the Jordan River, you and all these people, to the land I am giving to the Israelites.

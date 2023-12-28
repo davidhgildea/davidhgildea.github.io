@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 43
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Jeremiah/500/43.jpg" alt="Jeremiah Chapter 43" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Jeremiah Chapter 43</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Jeremiah/500/43.jpg" alt="Jeremiah Chapter 43" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 43</figcaption>
+</figure>
 1 When Jeremiah finished telling the people everything that God had sent him to say to them,
 
 2 Azariah son of Hoshaiah, Johanan son of Kareah, and all the arrogant men said to Jeremiah, "You are lying: God has not sent you to tell us, 'Do not go to live in Egypt.'"

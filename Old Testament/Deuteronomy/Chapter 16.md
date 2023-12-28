@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 16
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Deuteronomy/500/16.jpg" alt="Deuteronomy Chapter 16" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Deuteronomy Chapter 16</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Deuteronomy/500/16.jpg" alt="Deuteronomy Chapter 16" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Deuteronomy Chapter 16</figcaption>
+</figure>
 1 Watch for the month of Abib and celebrate the Passover to honor God, because in the month of Abib, God freed you from Egypt during the night.
 
 2 You must therefore sacrifice the Passover to God, from your flocks and herds, at the place God will choose to be honored.

@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 4
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Jeremiah/500/4.jpg" alt="Jeremiah Chapter 4" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Jeremiah Chapter 4</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Jeremiah/500/4.jpg" alt="Jeremiah Chapter 4" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 4</figcaption>
+</figure>
 1 If you will come back, Israel, says God, come back to me. And if you will get rid of your bad things so I can't see them, then you will not be moved.
 
 2 You will swear, "God is alive," honestly, fairly, and rightly; and nations will praise themselves in him, and they will take pride in him.

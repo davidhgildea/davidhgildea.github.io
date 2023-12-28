@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 24
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Psalms/500/24.jpg" alt="Psalms Chapter 24" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Psalms Chapter 24</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Psalms/500/24.jpg" alt="Psalms Chapter 24" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 24</figcaption>
+</figure>
 1 The earth belongs to God, and everything in it; the world, and everyone who lives in it.
 
 2 He founded the earth on the seas and set it firm on the waters.

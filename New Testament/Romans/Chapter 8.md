@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 8
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Romans/500/8.jpg" alt="Romans Chapter 8" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Romans Chapter 8</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Romans/500/8.jpg" alt="Romans Chapter 8" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Romans Chapter 8</figcaption>
+</figure>
 1 So now, there is no punishment for those who are with Christ Jesus, who do not follow human desires, but follow the Spirit.
 
 2 The Spirit's law of life in Christ Jesus has set me free from the law of sin and death.

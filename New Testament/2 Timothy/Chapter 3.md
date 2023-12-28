@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 3
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/2 Timothy/500/3.jpg" alt="2 Timothy Chapter 3" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">2 Timothy Chapter 3</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/2 Timothy/500/3.jpg" alt="2 Timothy Chapter 3" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Timothy Chapter 3</figcaption>
+</figure>
 1 Understand that in the last days, dangerous times will come.
 
 2 People will love themselves, desire too much, brag, be arrogant, disrespect God, not obey parents, not be thankful, and not be respectful.

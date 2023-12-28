@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 2
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/2 Samuel/500/2.jpg" alt="2 Samuel Chapter 2" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">2 Samuel Chapter 2</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/2 Samuel/500/2.jpg" alt="2 Samuel Chapter 2" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Samuel Chapter 2</figcaption>
+</figure>
 1 After this, David asked God, "Should I go to one of Judah's cities?" And God told him, "Go." Then David asked, "Which city should I go to?" And God answered, "To Hebron."
 
 2 David went up there with his two wives, Ahinoam from Jezreel and Abigail, who was Nabal's wife from Carmel.

@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 20
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Genesis/500/20.jpg" alt="Genesis Chapter 20" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Genesis Chapter 20</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Genesis/500/20.jpg" alt="Genesis Chapter 20" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 20</figcaption>
+</figure>
 1 Abraham traveled from there to the southern lands and lived between Kadesh and Shur, and stayed in Gerar.
 
 2 Abraham said about his wife Sarah, "She is my sister." So Abimelech, the king of Gerar, sent for and took Sarah.

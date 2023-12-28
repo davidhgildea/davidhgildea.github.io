@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 15
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Psalms/500/15.jpg" alt="Psalms Chapter 15" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Psalms Chapter 15</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Psalms/500/15.jpg" alt="Psalms Chapter 15" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 15</figcaption>
+</figure>
 1 God, who will live in your tent? Who will stay on your sacred mountain?
 
 2 The person who lives rightly, does what is just, and tells the truth in their heart.

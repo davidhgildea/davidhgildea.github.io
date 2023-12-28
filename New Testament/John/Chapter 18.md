@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 18
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/John/500/18.jpg" alt="John Chapter 18" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">John Chapter 18</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/John/500/18.jpg" alt="John Chapter 18" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">John Chapter 18</figcaption>
+</figure>
 1 After Jesus said these things, he and his disciples crossed the Cedron stream and went into a garden there.
 
 2 Judas, who betrayed Jesus, knew the place because Jesus often went there with his followers.

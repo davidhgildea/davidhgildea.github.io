@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 13
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/1 Corinthians/500/13.jpg" alt="1 Corinthians Chapter 13" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">1 Corinthians Chapter 13</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/1 Corinthians/500/13.jpg" alt="1 Corinthians Chapter 13" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Corinthians Chapter 13</figcaption>
+</figure>
 1 If I speak in human and angel languages but don't have love, I am only a loud horn or a clanging cymbal.
 
 2 Even if I can prophesy, understand all secrets, know everything, and have enough faith to move mountains, but don't have love, I am nothing.

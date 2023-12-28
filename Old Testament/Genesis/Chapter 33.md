@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 33
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Genesis/500/33.jpg" alt="Genesis Chapter 33" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Genesis Chapter 33</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Genesis/500/33.jpg" alt="Genesis Chapter 33" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 33</figcaption>
+</figure>
 1 Jacob looked and saw Esau coming with four hundred men. He split the children between Leah, Rachel, and the two servant women.
 
 2 He placed the servant women and their kids first, then Leah and her kids in the middle, and Rachel and Joseph last.

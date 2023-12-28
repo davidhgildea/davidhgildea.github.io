@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 11
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Revelation/500/11.jpg" alt="Revelation Chapter 11" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Revelation Chapter 11</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Revelation/500/11.jpg" alt="Revelation Chapter 11" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Revelation Chapter 11</figcaption>
+</figure>
 1 I was given a stick like a measuring rod, and the angel stood and said, "Get up and measure God's temple, the altar, and the people who worship there."
 
 2 Leave out the outer court of the temple and do not measure it, because it has been given to non-Jews, and they will walk all over the holy city for 42 months.

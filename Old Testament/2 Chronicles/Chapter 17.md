@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 17
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/2 Chronicles/500/17.jpg" alt="2 Chronicles Chapter 17" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">2 Chronicles Chapter 17</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/2 Chronicles/500/17.jpg" alt="2 Chronicles Chapter 17" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Chronicles Chapter 17</figcaption>
+</figure>
 1 Jehoshaphat, his son, became king after him and made himself strong against Israel.
 
 2 He put troops in all the protected cities of Judah, and put guards in Judah's land and in the cities of Ephraim that his father Asa had captured.

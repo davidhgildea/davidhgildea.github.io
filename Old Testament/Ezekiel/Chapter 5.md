@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 5
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Ezekiel/500/5.jpg" alt="Ezekiel Chapter 5" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Ezekiel Chapter 5</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Ezekiel/500/5.jpg" alt="Ezekiel Chapter 5" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ezekiel Chapter 5</figcaption>
+</figure>
 1 You, human, use a sharp knife, use a razor like a barber, and shave your head and beard: then use scales to weigh and separate the hair.
 
 2 You must burn a third of it in the city center when the siege ends. Take another third and hit it with a knife. Scatter the last third in the wind, and I will chase them with a sword.

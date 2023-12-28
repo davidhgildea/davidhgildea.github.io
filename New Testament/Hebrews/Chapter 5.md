@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 5
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Hebrews/500/5.jpg" alt="Hebrews Chapter 5" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Hebrews Chapter 5</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Hebrews/500/5.jpg" alt="Hebrews Chapter 5" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Hebrews Chapter 5</figcaption>
+</figure>
 1 Every high priest chosen from people is appointed for people in matters related to God, so he can present both gifts and sacrifices for sins.
 
 2 Who can understand those who don't know, and those who have lost their way? Because that person also has weaknesses.

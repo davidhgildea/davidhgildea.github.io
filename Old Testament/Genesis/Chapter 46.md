@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 46
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Genesis/500/46.jpg" alt="Genesis Chapter 46" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Genesis Chapter 46</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Genesis/500/46.jpg" alt="Genesis Chapter 46" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 46</figcaption>
+</figure>
 1 Israel traveled with everything he owned, went to Beersheba, and gave sacrifices to the God of his father Isaac.
 
 2 God spoke to Israel in a night vision, saying, "Jacob, Jacob." And he replied, "I'm here."

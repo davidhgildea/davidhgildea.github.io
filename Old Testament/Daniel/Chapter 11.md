@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 11
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Daniel/500/11.jpg" alt="Daniel Chapter 11" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Daniel Chapter 11</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Daniel/500/11.jpg" alt="Daniel Chapter 11" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Daniel Chapter 11</figcaption>
+</figure>
 1 Also, in the first year of Darius the Mede, I stood by him to support and strengthen him.
 
 2 I will now show you the truth. Look, three more kings will rise in Persia; and the fourth will be much richer than the others. With his wealth, he will cause everyone to fight against Greece.

@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 4
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/James/500/4.jpg" alt="James Chapter 4" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">James Chapter 4</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/James/500/4.jpg" alt="James Chapter 4" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">James Chapter 4</figcaption>
+</figure>
 1 Where do your wars and battles with each other come from? Do they not come from your desires that battle within you?
 
 2 You want things but don't have them. You kill and are jealous but still cannot get what you want. You argue and fight but don't have because you don't ask.

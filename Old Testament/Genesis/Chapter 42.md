@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 42
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Genesis/500/42.jpg" alt="Genesis Chapter 42" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Genesis Chapter 42</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Genesis/500/42.jpg" alt="Genesis Chapter 42" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 42</figcaption>
+</figure>
 1 When Jacob learned that there was grain in Egypt, he asked his sons, "Why are you just standing around looking at each other?"
 
 2 He said, "Look, I've heard there's grain in Egypt. Go there and buy some for us, so we can survive and not die."

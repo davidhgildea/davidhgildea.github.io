@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 29
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Exodus/500/29.jpg" alt="Exodus Chapter 29" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Exodus Chapter 29</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Exodus/500/29.jpg" alt="Exodus Chapter 29" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Exodus Chapter 29</figcaption>
+</figure>
 1 Do this to make them holy so they can serve me as priests: Take one young bull and two perfect rams.
 
 2 Make bread without yeast, flat cakes mixed with oil, and thin breads spread with oil, all from wheat flour.

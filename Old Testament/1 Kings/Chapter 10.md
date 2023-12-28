@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 10
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/1 Kings/500/10.jpg" alt="1 Kings Chapter 10" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">1 Kings Chapter 10</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/1 Kings/500/10.jpg" alt="1 Kings Chapter 10" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Kings Chapter 10</figcaption>
+</figure>
 1 When the queen of Sheba heard about Solomon’s fame and his relationship with God, she came to test him with difficult questions.
 
 2 She went to Jerusalem with a large group, camels carrying spices, lots of gold, and precious stones. When she met Solomon, she talked with him about everything on her mind.

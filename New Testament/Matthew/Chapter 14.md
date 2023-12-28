@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 14
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Matthew/500/14.jpg" alt="Matthew Chapter 14" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Matthew Chapter 14</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Matthew/500/14.jpg" alt="Matthew Chapter 14" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Matthew Chapter 14</figcaption>
+</figure>
 1 At that time, Herod the ruler heard about Jesus's fame.
 
 2 He told his servants, "This is John the Baptist; he has risen from the dead, and that's why he can do powerful things."

@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 89
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Psalms/500/89.jpg" alt="Psalms Chapter 89" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Psalms Chapter 89</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Psalms/500/89.jpg" alt="Psalms Chapter 89" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 89</figcaption>
+</figure>
 1 I will sing about God's kindness forever; with my words, I will tell everyone about your faithfulness through all times.
 
 2 I have said that kindness will last forever; you will set your faithfulness firmly in the skies.

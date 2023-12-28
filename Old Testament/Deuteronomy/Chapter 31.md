@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 31
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Deuteronomy/500/31.jpg" alt="Deuteronomy Chapter 31" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Deuteronomy Chapter 31</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Deuteronomy/500/31.jpg" alt="Deuteronomy Chapter 31" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Deuteronomy Chapter 31</figcaption>
+</figure>
 1 Moses went and said these things to all Israel.
 
 2 He told them, "Today I am 120 years old; I can't lead you anymore. God also told me, 'You will not cross this Jordan river.'"

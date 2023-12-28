@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 27
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Matthew/500/27.jpg" alt="Matthew Chapter 27" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Matthew Chapter 27</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Matthew/500/27.jpg" alt="Matthew Chapter 27" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Matthew Chapter 27</figcaption>
+</figure>
 1 When morning came, all the leading priests and elders planned together to kill Jesus.
 
 2 After they tied him up, they took him and handed him over to the governor, Pontius Pilate.

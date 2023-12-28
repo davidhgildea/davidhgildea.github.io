@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 16
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Leviticus/500/16.jpg" alt="Leviticus Chapter 16" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Leviticus Chapter 16</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Leviticus/500/16.jpg" alt="Leviticus Chapter 16" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Leviticus Chapter 16</figcaption>
+</figure>
 1 God spoke to Moses after Aaron's two sons died because they made an offering before God and passed away.
 
 2 God told Moses to say to his brother Aaron not to come into the most holy place inside the curtain in front of the cover on the ark whenever he wanted, so that he would not die. For God would appear in the cloud over the cover.

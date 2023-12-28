@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 48
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Isaiah/500/48.jpg" alt="Isaiah Chapter 48" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Isaiah Chapter 48</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Isaiah/500/48.jpg" alt="Isaiah Chapter 48" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 48</figcaption>
+</figure>
 1 Listen to this, you people of Jacob, named after Israel, who came from Judah's line, who swear by God's name and name the God of Israel, but not honestly or rightly.
 
 2 They say they belong to the holy city and rely on the God of Israel; God of the heavenly armies is his name.

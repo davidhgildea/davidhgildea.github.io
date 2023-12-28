@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 10
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Exodus/500/10.jpg" alt="Exodus Chapter 10" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Exodus Chapter 10</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Exodus/500/10.jpg" alt="Exodus Chapter 10" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Exodus Chapter 10</figcaption>
+</figure>
 1 God said to Moses, "Go to the Pharaoh, because I have made his heart and his servants' hearts stubborn, so I can display my miracles to them."
 
 2 So you can tell your son and grandson about what I did in Egypt, and the signs I showed them; so you will know that I am God.

@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 28
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/1 Chronicles/500/28.jpg" alt="1 Chronicles Chapter 28" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">1 Chronicles Chapter 28</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/1 Chronicles/500/28.jpg" alt="1 Chronicles Chapter 28" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Chronicles Chapter 28</figcaption>
+</figure>
 1 David gathered all the leaders of Israel, the tribal leaders, the group leaders who served the king in shifts, the leaders in charge of a thousand men, the leaders of a hundred men, the managers of the king's property and belongings, his sons, the officials, the strong warriors, and all the brave men in Jerusalem.
 
 2 King David stood up and said, "Listen to me, my brothers and my people. I wanted to build a resting place for the ark of God's covenant and a place for our God's feet, and I prepared for the construction."

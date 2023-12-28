@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 13
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Acts/500/13.jpg" alt="Acts Chapter 13" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Acts Chapter 13</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Acts/500/13.jpg" alt="Acts Chapter 13" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Acts Chapter 13</figcaption>
+</figure>
 1 In the Antioch church, there were some prophets and teachers like Barnabas, Simeon also known as Niger, Lucius from Cyrene, Manaen who grew up with Herod the ruler, and Saul.
 
 2 While they served God and went without food, the Holy Spirit said, "Set apart Barnabas and Saul for the job I have chosen them for."

@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 26
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Job/500/26.jpg" alt="Job Chapter 26" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Job Chapter 26</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Job/500/26.jpg" alt="Job Chapter 26" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Job Chapter 26</figcaption>
+</figure>
 1 But Job replied and spoke,
 
 2 How have you helped the person with no power? How can you save the arm that has no strength?

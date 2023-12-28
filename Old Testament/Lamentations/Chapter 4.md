@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 4
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Lamentations/500/4.jpg" alt="Lamentations Chapter 4" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Lamentations Chapter 4</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Lamentations/500/4.jpg" alt="Lamentations Chapter 4" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Lamentations Chapter 4</figcaption>
+</figure>
 1 The gold has lost its shine! The purest gold is no longer bright! The sacred stones are scattered at the beginning of every street.
 
 2 The valuable children of Zion, once worth as much as fine gold, are now treated like common clay pots made by a potter.

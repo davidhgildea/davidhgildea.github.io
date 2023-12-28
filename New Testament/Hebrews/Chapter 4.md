@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 4
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Hebrews/500/4.jpg" alt="Hebrews Chapter 4" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Hebrews Chapter 4</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Hebrews/500/4.jpg" alt="Hebrews Chapter 4" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Hebrews Chapter 4</figcaption>
+</figure>
 1 Let us be careful then that none of you fail to reach the rest that God promised.
 
 2 The good news was told to us just like it was to them. But the message they heard didn't help them, because they didn't trust when they listened.

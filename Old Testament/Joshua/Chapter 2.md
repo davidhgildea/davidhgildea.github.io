@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 2
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Joshua/500/2.jpg" alt="Joshua Chapter 2" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Joshua Chapter 2</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Joshua/500/2.jpg" alt="Joshua Chapter 2" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Joshua Chapter 2</figcaption>
+</figure>
 1 Joshua, Nun's son, sent two spies from Shittim, telling them, "Go, look over the land, especially Jericho." So they went and stayed at a prostitute named Rahab's house.
 
 2 The king of Jericho was told, "Look, men from Israel came here tonight to explore the land."

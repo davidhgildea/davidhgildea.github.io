@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 59
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Psalms/500/59.jpg" alt="Psalms Chapter 59" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Psalms Chapter 59</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Psalms/500/59.jpg" alt="Psalms Chapter 59" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 59</figcaption>
+</figure>
 1 Save me from my enemies, my God; protect me from those who attack me.
 
 2 Rescue me from people who do wrong, and protect me from violent men.

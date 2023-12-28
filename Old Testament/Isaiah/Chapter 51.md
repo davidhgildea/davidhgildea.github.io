@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 51
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Isaiah/500/51.jpg" alt="Isaiah Chapter 51" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Isaiah Chapter 51</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Isaiah/500/51.jpg" alt="Isaiah Chapter 51" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 51</figcaption>
+</figure>
 1 Listen to me, you who seek what is right, you who look for God: consider the rock from which you were cut and the quarry from which you were dug.
 
 2 Look to Abraham your father and Sarah your mother; God called him alone, blessed him, and made him numerous.

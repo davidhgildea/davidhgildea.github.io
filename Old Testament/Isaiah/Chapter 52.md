@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 52
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Isaiah/500/52.jpg" alt="Isaiah Chapter 52" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Isaiah Chapter 52</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Isaiah/500/52.jpg" alt="Isaiah Chapter 52" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 52</figcaption>
+</figure>
 1 Wake up, wake up; put on your strength, O Zion; dress in your lovely clothes, O Jerusalem, the holy city: from now on, those who are not circumcised and the unclean will no longer enter you.
 
 2 Get up from the dust; stand up and sit down, Jerusalem; free yourself from the chains on your neck, captive daughter of Zion.

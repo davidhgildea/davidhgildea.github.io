@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 19
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/1 Chronicles/500/19.jpg" alt="1 Chronicles Chapter 19" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">1 Chronicles Chapter 19</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/1 Chronicles/500/19.jpg" alt="1 Chronicles Chapter 19" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Chronicles Chapter 19</figcaption>
+</figure>
 1 After this happened, King Nahash of the Ammonites died, and his son became king after him.
 
 2 David said, "I will be kind to Hanun, son of Nahash, because his father was kind to me." David sent messengers to comfort him about his father. David's servants went to Ammon's territory to Hanun to comfort him.

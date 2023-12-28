@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 19
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Proverbs/500/19.jpg" alt="Proverbs Chapter 19" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Proverbs Chapter 19</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Proverbs/500/19.jpg" alt="Proverbs Chapter 19" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Proverbs Chapter 19</figcaption>
+</figure>
 1 It is better to be poor and honest than to be a liar and foolish.
 
 2 It's not good for a person to lack knowledge, and those who hurry with their feet do wrong.

@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 73
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Psalms/500/73.jpg" alt="Psalms Chapter 73" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Psalms Chapter 73</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Psalms/500/73.jpg" alt="Psalms Chapter 73" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 73</figcaption>
+</figure>
 1 God is truly good to Israel and to those who have a pure heart.
 
 2 But as for me, I almost lost my footing; my steps nearly slipped.

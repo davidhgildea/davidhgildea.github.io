@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 25
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Job/500/25.jpg" alt="Job Chapter 25" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Job Chapter 25</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Job/500/25.jpg" alt="Job Chapter 25" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Job Chapter 25</figcaption>
+</figure>
 1 Bildad the Shuhite replied and said,
 
 2 God has power and is respected; he makes peace in his heavens.

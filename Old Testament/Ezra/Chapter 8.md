@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 8
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Ezra/500/8.jpg" alt="Ezra Chapter 8" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Ezra Chapter 8</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Ezra/500/8.jpg" alt="Ezra Chapter 8" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ezra Chapter 8</figcaption>
+</figure>
 1 These are the leaders of their families, and this is the family history of those who came with me from Babylon during King Artaxerxes's rule.
 
 2 From Phinehas' sons came Gershom; from Ithamar's sons, Daniel; from David's sons, Hattush.

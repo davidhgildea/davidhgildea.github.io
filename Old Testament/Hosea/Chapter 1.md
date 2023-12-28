@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 1
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Hosea/500/1.jpg" alt="Hosea Chapter 1" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Hosea Chapter 1</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Hosea/500/1.jpg" alt="Hosea Chapter 1" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Hosea Chapter 1</figcaption>
+</figure>
 1 God's message came to Hosea, Beeri's son, when Uzziah, Jotham, Ahaz, and Hezekiah were kings of Judah, and during Jeroboam, Joash's son, was king of Israel.
 
 2 The start of God's message through Hosea. God told Hosea, "Go, marry a woman who has been unfaithful, and have children with her, because the people have been very unfaithful, turning away from God."

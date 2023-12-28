@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 58
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Psalms/500/58.jpg" alt="Psalms Chapter 58" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Psalms Chapter 58</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Psalms/500/58.jpg" alt="Psalms Chapter 58" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 58</figcaption>
+</figure>
 1 Are you really talking fair, group of people? Are you judging honestly, you people?
 
 2 Yes, in your hearts you plan evil; you think about the harm your hands can do in the world.

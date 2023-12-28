@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 6
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Amos/500/6.jpg" alt="Amos Chapter 6" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Amos Chapter 6</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Amos/500/6.jpg" alt="Amos Chapter 6" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Amos Chapter 6</figcaption>
+</figure>
 1 Trouble awaits those who are comfortable in Zion and rely on Mount Samaria, the famous leaders of the nations where the people of Israel go!
 
 2 Go to Calneh and look; then visit the great city of Hamath, and afterward go to Gath of the Philistines. Are they stronger than these kingdoms? Is their land larger than yours?

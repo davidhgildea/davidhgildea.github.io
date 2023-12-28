@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 1
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Nehemiah/500/1.jpg" alt="Nehemiah Chapter 1" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Nehemiah Chapter 1</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Nehemiah/500/1.jpg" alt="Nehemiah Chapter 1" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Nehemiah Chapter 1</figcaption>
+</figure>
 1 Nehemiah son of Hachaliah spoke these words. In the month of Kislev during the twentieth year, I was at the palace in Susa.
 
 2 My brother Hanani and some men from Judah came, and I asked them about the Jews who survived the captivity and about Jerusalem.

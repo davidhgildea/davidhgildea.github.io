@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 13
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/John/500/13.jpg" alt="John Chapter 13" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">John Chapter 13</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/John/500/13.jpg" alt="John Chapter 13" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">John Chapter 13</figcaption>
+</figure>
 1 Before the Passover feast, when Jesus realized his time had come to leave this world and go to the Father, he showed endless love for his followers who were in the world.
 
 2 After dinner, the devil had already persuaded Judas Iscariot, Simon's son, to betray Jesus.

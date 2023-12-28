@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 2
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Revelation/500/2.jpg" alt="Revelation Chapter 2" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Revelation Chapter 2</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Revelation/500/2.jpg" alt="Revelation Chapter 2" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Revelation Chapter 2</figcaption>
+</figure>
 1 Write to the messenger of the Ephesus church: He who holds the seven stars in his right hand and walks among the seven gold lampstands says this.
 
 2 I know your actions, your hard work, your patience, and that you cannot tolerate evil people. You have tested those who claim to be apostles but are not, and you have discovered they are liars.
