@@ -11,8 +11,10 @@ layout: default
 # Chapter 44
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Jeremiah/500/44.jpg" alt="Jeremiah Chapter 44" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Jeremiah Chapter 44</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Jeremiah/500/44.jpg" alt="Jeremiah Chapter 44" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Jeremiah Chapter 44</figcaption>
 </div>
 1 God's message came to Jeremiah for all the Jews living in Egypt, in Migdol, Tahpanhes, Noph, and the region of Pathros. He said,
 

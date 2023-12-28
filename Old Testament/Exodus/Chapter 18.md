@@ -11,8 +11,10 @@ layout: default
 # Chapter 18
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Exodus/500/18.jpg" alt="Exodus Chapter 18" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Exodus Chapter 18</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Exodus/500/18.jpg" alt="Exodus Chapter 18" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Exodus Chapter 18</figcaption>
 </div>
 1 When Jethro, the religious leader of Midian and Moses' father-in-law, heard about everything God had done for Moses and the people of Israel, and how God had led Israel out of Egypt;
 

@@ -11,8 +11,10 @@ layout: default
 # Chapter 3
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Philippians/500/3.jpg" alt="Philippians Chapter 3" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Philippians Chapter 3</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Philippians/500/3.jpg" alt="Philippians Chapter 3" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Philippians Chapter 3</figcaption>
 </div>
 1 Friends, be happy in God. Writing the same things to you is not hard for me and it keeps you safe.
 

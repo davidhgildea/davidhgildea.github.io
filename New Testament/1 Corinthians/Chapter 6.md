@@ -11,8 +11,10 @@ layout: default
 # Chapter 6
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/1 Corinthians/500/6.jpg" alt="1 Corinthians Chapter 6" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">1 Corinthians Chapter 6</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/1 Corinthians/500/6.jpg" alt="1 Corinthians Chapter 6" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">1 Corinthians Chapter 6</figcaption>
 </div>
 1 Would any of you, with a dispute against another, sue in a court with unfair judges instead of bringing the case to God's people?
 

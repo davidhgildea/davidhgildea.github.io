@@ -11,8 +11,10 @@ layout: default
 # Chapter 4
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Romans/500/4.jpg" alt="Romans Chapter 4" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Romans Chapter 4</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Romans/500/4.jpg" alt="Romans Chapter 4" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Romans Chapter 4</figcaption>
 </div>
 1 What can we say about what Abraham, our ancestor according to the flesh, discovered?
 

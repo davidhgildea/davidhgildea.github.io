@@ -11,8 +11,10 @@ layout: default
 # Chapter 28
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/2 Chronicles/500/28.jpg" alt="2 Chronicles Chapter 28" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">2 Chronicles Chapter 28</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/2 Chronicles/500/28.jpg" alt="2 Chronicles Chapter 28" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">2 Chronicles Chapter 28</figcaption>
 </div>
 1 Ahaz was twenty when he became king, and he ruled for sixteen years in Jerusalem. However, he did not do what was right in God's eyes, unlike his ancestor David.
 

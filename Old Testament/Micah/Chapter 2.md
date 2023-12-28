@@ -11,8 +11,10 @@ layout: default
 # Chapter 2
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Micah/500/2.jpg" alt="Micah Chapter 2" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Micah Chapter 2</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Micah/500/2.jpg" alt="Micah Chapter 2" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Micah Chapter 2</figcaption>
 </div>
 1 Trouble to those who plan bad things and do evil in their beds! When morning comes, they do it because they can.
 

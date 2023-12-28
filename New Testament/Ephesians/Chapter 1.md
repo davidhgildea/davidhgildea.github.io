@@ -11,8 +11,10 @@ layout: default
 # Chapter 1
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Ephesians/500/1.jpg" alt="Ephesians Chapter 1" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Ephesians Chapter 1</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Ephesians/500/1.jpg" alt="Ephesians Chapter 1" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Ephesians Chapter 1</figcaption>
 </div>
 1 Paul, sent by God to be an apostle of Jesus Christ, writes to God's holy people in Ephesus and to all who are faithful to Jesus Christ.
 

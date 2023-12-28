@@ -11,8 +11,10 @@ layout: default
 # Chapter 17
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Exodus/500/17.jpg" alt="Exodus Chapter 17" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Exodus Chapter 17</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Exodus/500/17.jpg" alt="Exodus Chapter 17" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Exodus Chapter 17</figcaption>
 </div>
 1 The whole group of Israel's children traveled from the Sin desert, moving as God had told them, and they camped at Rephidim, but there was no water for them to drink.
 

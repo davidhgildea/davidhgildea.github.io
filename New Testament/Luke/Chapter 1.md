@@ -11,8 +11,10 @@ layout: default
 # Chapter 1
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Luke/500/1.jpg" alt="Luke Chapter 1" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Luke Chapter 1</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Luke/500/1.jpg" alt="Luke Chapter 1" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Luke Chapter 1</figcaption>
 </div>
 1 Many people have tried to write down the events that we fully believe.
 

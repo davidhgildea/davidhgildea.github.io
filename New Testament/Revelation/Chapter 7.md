@@ -11,8 +11,10 @@ layout: default
 # Chapter 7
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Revelation/500/7.jpg" alt="Revelation Chapter 7" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Revelation Chapter 7</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Revelation/500/7.jpg" alt="Revelation Chapter 7" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Revelation Chapter 7</figcaption>
 </div>
 1 After these events, I saw four angels at the earth's four farthest places, holding back the four winds so that no wind would blow on the land, the sea, or any tree.
 

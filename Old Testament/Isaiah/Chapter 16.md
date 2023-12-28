@@ -11,8 +11,10 @@ layout: default
 # Chapter 16
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Isaiah/500/16.jpg" alt="Isaiah Chapter 16" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Isaiah Chapter 16</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Isaiah/500/16.jpg" alt="Isaiah Chapter 16" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Isaiah Chapter 16</figcaption>
 </div>
 1 Send a lamb to the land's leader, from Sela through the desert, to the mountain of Zion's people.
 

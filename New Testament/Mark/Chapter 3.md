@@ -11,8 +11,10 @@ layout: default
 # Chapter 3
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Mark/500/3.jpg" alt="Mark Chapter 3" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Mark Chapter 3</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Mark/500/3.jpg" alt="Mark Chapter 3" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Mark Chapter 3</figcaption>
 </div>
 1 He went into the synagogue again, and there was a man there with a crippled hand.
 

@@ -11,8 +11,10 @@ layout: default
 # Chapter 23
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Matthew/500/23.jpg" alt="Matthew Chapter 23" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Matthew Chapter 23</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Matthew/500/23.jpg" alt="Matthew Chapter 23" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Matthew Chapter 23</figcaption>
 </div>
 1 Jesus spoke to the crowd and to his followers.
 

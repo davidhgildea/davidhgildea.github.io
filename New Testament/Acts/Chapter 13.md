@@ -11,8 +11,10 @@ layout: default
 # Chapter 13
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Acts/500/13.jpg" alt="Acts Chapter 13" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Acts Chapter 13</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Acts/500/13.jpg" alt="Acts Chapter 13" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Acts Chapter 13</figcaption>
 </div>
 1 In the Antioch church, there were some prophets and teachers like Barnabas, Simeon also known as Niger, Lucius from Cyrene, Manaen who grew up with Herod the ruler, and Saul.
 

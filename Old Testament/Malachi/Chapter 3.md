@@ -11,8 +11,10 @@ layout: default
 # Chapter 3
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Malachi/500/3.jpg" alt="Malachi Chapter 3" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Malachi Chapter 3</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Malachi/500/3.jpg" alt="Malachi Chapter 3" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Malachi Chapter 3</figcaption>
 </div>
 1 Look, I will send my messenger, and he will make the path ready for me. And God, whom you are looking for, will quickly come to his temple, the messenger of the agreement you enjoy. Look, he will come, says God of all.
 

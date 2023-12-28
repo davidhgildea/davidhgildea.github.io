@@ -11,8 +11,10 @@ layout: default
 # Chapter 3
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/2 Corinthians/500/3.jpg" alt="2 Corinthians Chapter 3" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">2 Corinthians Chapter 3</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/2 Corinthians/500/3.jpg" alt="2 Corinthians Chapter 3" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">2 Corinthians Chapter 3</figcaption>
 </div>
 1 Are we starting to praise ourselves again? Do we need, like some people, letters of recommendation to or from you?
 

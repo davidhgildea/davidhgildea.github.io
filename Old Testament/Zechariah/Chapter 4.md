@@ -11,8 +11,10 @@ layout: default
 # Chapter 4
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Zechariah/500/4.jpg" alt="Zechariah Chapter 4" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Zechariah Chapter 4</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Zechariah/500/4.jpg" alt="Zechariah Chapter 4" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Zechariah Chapter 4</figcaption>
 </div>
 1 The angel who was speaking with me came back and woke me up like someone being woken from sleep.
 

@@ -11,8 +11,10 @@ layout: default
 # Chapter 19
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Isaiah/500/19.jpg" alt="Isaiah Chapter 19" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Isaiah Chapter 19</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Isaiah/500/19.jpg" alt="Isaiah Chapter 19" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Isaiah Chapter 19</figcaption>
 </div>
 1 Egypt's trouble. Look, God rides on a fast cloud and will come to Egypt. Egypt's idols will shake before him, and Egypt's courage will fail completely.
 

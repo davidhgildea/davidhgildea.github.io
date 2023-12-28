@@ -11,8 +11,10 @@ layout: default
 # Chapter 26
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Deuteronomy/500/26.jpg" alt="Deuteronomy Chapter 26" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Deuteronomy Chapter 26</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Deuteronomy/500/26.jpg" alt="Deuteronomy Chapter 26" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Deuteronomy Chapter 26</figcaption>
 </div>
 1 When you enter the land God is giving you as an inheritance, and you take possession of it and live there;
 

@@ -11,8 +11,10 @@ layout: default
 # Chapter 25
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Jeremiah/500/25.jpg" alt="Jeremiah Chapter 25" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Jeremiah Chapter 25</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Jeremiah/500/25.jpg" alt="Jeremiah Chapter 25" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Jeremiah Chapter 25</figcaption>
 </div>
 1 God's message came to Jeremiah about all the Judah people in the fourth year of Jehoiakim, son of Josiah, king of Judah, which was the first year of Nebuchadnezzar, king of Babylon.
 

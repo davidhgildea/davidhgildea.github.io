@@ -11,8 +11,10 @@ layout: default
 # Chapter 12
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Acts/500/12.jpg" alt="Acts Chapter 12" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Acts Chapter 12</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Acts/500/12.jpg" alt="Acts Chapter 12" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Acts Chapter 12</figcaption>
 </div>
 1 At that time, King Herod started to bother some people from the church.
 

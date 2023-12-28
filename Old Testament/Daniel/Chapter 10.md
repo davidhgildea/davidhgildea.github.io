@@ -11,8 +11,10 @@ layout: default
 # Chapter 10
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Daniel/500/10.jpg" alt="Daniel Chapter 10" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Daniel Chapter 10</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Daniel/500/10.jpg" alt="Daniel Chapter 10" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Daniel Chapter 10</figcaption>
 </div>
 1 In the third year when Cyrus was king of Persia, something was shown to Daniel, who was also named Belteshazzar. This thing was true, and it was about a big event in the future. Daniel understood what he saw and what it meant.
 

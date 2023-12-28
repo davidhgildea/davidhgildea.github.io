@@ -11,8 +11,10 @@ layout: default
 # Chapter 12
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Isaiah/500/12.jpg" alt="Isaiah Chapter 12" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Isaiah Chapter 12</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Isaiah/500/12.jpg" alt="Isaiah Chapter 12" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Isaiah Chapter 12</figcaption>
 </div>
 1 On that day, you will say, "God, I will praise you. Even though you were angry with me, your anger has gone, and you have comforted me."
 

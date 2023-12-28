@@ -11,8 +11,10 @@ layout: default
 # Chapter 32
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/2 Chronicles/500/32.jpg" alt="2 Chronicles Chapter 32" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">2 Chronicles Chapter 32</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/2 Chronicles/500/32.jpg" alt="2 Chronicles Chapter 32" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">2 Chronicles Chapter 32</figcaption>
 </div>
 1 After this, Sennacherib, the king of Assyria, arrived. He entered Judah, surrounded the fortified cities, and planned to conquer them.
 

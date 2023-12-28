@@ -11,8 +11,10 @@ layout: default
 # Chapter 9
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Genesis/500/9.jpg" alt="Genesis Chapter 9" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Genesis Chapter 9</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Genesis/500/9.jpg" alt="Genesis Chapter 9" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Genesis Chapter 9</figcaption>
 </div>
 1 God blessed Noah and his sons and said to them, "Have many children, increase in number, and fill the earth."
 

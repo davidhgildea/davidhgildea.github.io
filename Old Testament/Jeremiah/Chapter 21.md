@@ -11,8 +11,10 @@ layout: default
 # Chapter 21
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Jeremiah/500/21.jpg" alt="Jeremiah Chapter 21" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Jeremiah Chapter 21</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Jeremiah/500/21.jpg" alt="Jeremiah Chapter 21" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Jeremiah Chapter 21</figcaption>
 </div>
 1 God gave a message to Jeremiah when King Zedekiah sent Pashur, son of Melchiah, and Zephaniah, son of Maaseiah the priest, to him, saying,
 

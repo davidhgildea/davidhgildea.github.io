@@ -11,8 +11,10 @@ layout: default
 # Chapter 28
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/1 Samuel/500/28.jpg" alt="1 Samuel Chapter 28" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">1 Samuel Chapter 28</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/1 Samuel/500/28.jpg" alt="1 Samuel Chapter 28" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">1 Samuel Chapter 28</figcaption>
 </div>
 1 During that time, the Philistines prepared their armies for war to battle Israel. Achish told David, be certain that you and your men will join me in the fight.
 

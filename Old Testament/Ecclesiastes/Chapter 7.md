@@ -11,8 +11,10 @@ layout: default
 # Chapter 7
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Ecclesiastes/500/7.jpg" alt="Ecclesiastes Chapter 7" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Ecclesiastes Chapter 7</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Ecclesiastes/500/7.jpg" alt="Ecclesiastes Chapter 7" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Ecclesiastes Chapter 7</figcaption>
 </div>
 1 Having a good reputation is better than having expensive perfume, and the day someone dies is better than the day they are born.
 
