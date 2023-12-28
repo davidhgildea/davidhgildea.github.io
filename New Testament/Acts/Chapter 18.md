@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 18
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Acts/500/18.jpg" alt="Acts Chapter 18" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Acts Chapter 18.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Acts/500/18.jpg" alt="Acts Chapter 18" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Acts Chapter 18</figcaption>
+</div>
 1 After this, Paul left Athens and went to Corinth.
 
 2 They met a Jew named Aquila from Pontus, who had just arrived from Italy with his wife Priscilla. This was after Emperor Claudius had ordered all Jews to leave Rome. They went to see them.

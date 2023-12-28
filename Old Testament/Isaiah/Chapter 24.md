@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 24
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/24.jpg" alt="Isaiah Chapter 24" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 24.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/24.jpg" alt="Isaiah Chapter 24" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 24</figcaption>
+</div>
 1 Look, God will make the earth empty, destroy it, flip it over, and scatter its people.
 
 2 And it will happen to the people just like the priest; to the servant like his master; to the maid like her mistress; to the buyer like the seller; to the lender like the borrower; to the one who charges interest just like the one who pays it.

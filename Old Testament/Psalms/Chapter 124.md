@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 124
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/124.jpg" alt="Psalms Chapter 124" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 124.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/124.jpg" alt="Psalms Chapter 124" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 124</figcaption>
+</div>
 1 If God hadn't been with us, let Israel say so now.
 
 2 If God had not been with us when people attacked us:

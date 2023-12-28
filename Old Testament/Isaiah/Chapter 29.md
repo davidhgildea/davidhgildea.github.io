@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 29
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/29.jpg" alt="Isaiah Chapter 29" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 29.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/29.jpg" alt="Isaiah Chapter 29" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 29</figcaption>
+</div>
 1 Sadness to Ariel, the city where David lived! Keep adding year after year; continue the sacrifices.
 
 2 I will trouble Ariel, and there will be sadness and pain; and Ariel will be to me as Ariel.

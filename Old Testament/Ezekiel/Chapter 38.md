@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 38
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ezekiel/500/38.jpg" alt="Ezekiel Chapter 38" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ezekiel Chapter 38.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ezekiel/500/38.jpg" alt="Ezekiel Chapter 38" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 38</figcaption>
+</div>
 1 God spoke to me and said,
 
 2 Human, look towards Gog of the land of Magog, the top leader of Meshech and Tubal, and speak out against him.

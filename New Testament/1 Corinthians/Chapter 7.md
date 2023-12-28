@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 7
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Corinthians/500/7.jpg" alt="1 Corinthians Chapter 7" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Corinthians Chapter 7.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Corinthians/500/7.jpg" alt="1 Corinthians Chapter 7" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Corinthians Chapter 7</figcaption>
+</div>
 1 About what you wrote to me: It's good for a man not to be with a woman.
 
 2 To avoid wrong sexual acts, every man should have a wife and every woman should have a husband.

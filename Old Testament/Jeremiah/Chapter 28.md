@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 28
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Jeremiah/500/28.jpg" alt="Jeremiah Chapter 28" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Jeremiah Chapter 28.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Jeremiah/500/28.jpg" alt="Jeremiah Chapter 28" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 28</figcaption>
+</div>
 1 That year, when Zedekiah started ruling Judah, in the fourth year, fifth month, the prophet Hananiah, Azur's son from Gibeon, spoke to me in God's house with priests and everyone there, saying,
 
 2 God of Israel says, I have broken the power of the king of Babylon.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 6
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Joshua/500/6.jpg" alt="Joshua Chapter 6" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Joshua Chapter 6.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Joshua/500/6.jpg" alt="Joshua Chapter 6" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Joshua Chapter 6</figcaption>
+</div>
 1 Jericho was tightly closed because of the Israelites: no one could leave or enter.
 
 2 God said to Joshua, "Look, I have given you the city of Jericho, its king, and its brave warriors."

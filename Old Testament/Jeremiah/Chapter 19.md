@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 19
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Jeremiah/500/19.jpg" alt="Jeremiah Chapter 19" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Jeremiah Chapter 19.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Jeremiah/500/19.jpg" alt="Jeremiah Chapter 19" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 19</figcaption>
+</div>
 1 God says, "Go and get a clay jar from a potter, and bring some of the elders of the people and some of the senior priests."
 
 2 Go to the Valley of Hinnom, near the entrance of the east gate, and announce the words I will give you.

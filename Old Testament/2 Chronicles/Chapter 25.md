@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 25
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Chronicles/500/25.jpg" alt="2 Chronicles Chapter 25" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Chronicles Chapter 25.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Chronicles/500/25.jpg" alt="2 Chronicles Chapter 25" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Chronicles Chapter 25</figcaption>
+</div>
 1 Amaziah was twenty-five years old when he started to rule, and he ruled for twenty-nine years in Jerusalem. His mother's name was Jehoaddan from Jerusalem.
 
 2 He did what was right in God's eyes, but not with a complete heart.

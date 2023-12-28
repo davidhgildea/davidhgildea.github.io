@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 16
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Kings/500/16.jpg" alt="1 Kings Chapter 16" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Kings Chapter 16.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Kings/500/16.jpg" alt="1 Kings Chapter 16" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Kings Chapter 16</figcaption>
+</div>
 1 God's message came to Jehu, Hanani's son, against Baasha, saying,
 
 2 Because I lifted you from the dust and made you leader over my people Israel, but you followed Jeroboam's ways and caused my people Israel to sin, making me angry with their sins.

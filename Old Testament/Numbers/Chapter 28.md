@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 28
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Numbers/500/28.jpg" alt="Numbers Chapter 28" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Numbers Chapter 28.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Numbers/500/28.jpg" alt="Numbers Chapter 28" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Numbers Chapter 28</figcaption>
+</div>
 1 God spoke to Moses and said,
 
 2 Tell the people of Israel to give me my offerings and the bread for my burnt sacrifices, that please me, at the proper time.

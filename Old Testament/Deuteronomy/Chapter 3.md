@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 3
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Deuteronomy/500/3.jpg" alt="Deuteronomy Chapter 3" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Deuteronomy Chapter 3.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Deuteronomy/500/3.jpg" alt="Deuteronomy Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Deuteronomy Chapter 3</figcaption>
+</div>
 1 We turned and traveled to Bashan. King Og of Bashan and his people came to fight us at Edrei.
 
 2 God told me, "Don't be afraid of him, because I will give you victory over him, his people, and his land. You will deal with him as you dealt with Sihon, the king of the Amorites, who lived in Heshbon."

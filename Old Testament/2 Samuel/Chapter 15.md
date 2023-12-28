@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 15
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Samuel/500/15.jpg" alt="2 Samuel Chapter 15" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Samuel Chapter 15.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Samuel/500/15.jpg" alt="2 Samuel Chapter 15" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Samuel Chapter 15</figcaption>
+</div>
 1 After this, Absalom got chariots, horses, and fifty men to run ahead of him.
 
 2 Absalom got up early and stood by the gate's path. Whenever someone with a problem came to the king for a decision, Absalom would call them over and ask, "Which city are you from?" And the person would answer, "I am from one of Israel's tribes."

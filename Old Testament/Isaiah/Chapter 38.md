@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 38
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/38.jpg" alt="Isaiah Chapter 38" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 38.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/38.jpg" alt="Isaiah Chapter 38" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 38</figcaption>
+</div>
 1 Hezekiah was very sick and near death. The prophet Isaiah, Amoz's son, came to him and said, "God says, 'Get your home ready, because you are going to die; you will not survive.'"
 
 2 Hezekiah turned to face the wall and prayed to God.

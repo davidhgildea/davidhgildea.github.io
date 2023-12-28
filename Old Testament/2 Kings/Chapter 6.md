@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 6
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Kings/500/6.jpg" alt="2 Kings Chapter 6" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Kings Chapter 6.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Kings/500/6.jpg" alt="2 Kings Chapter 6" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Kings Chapter 6</figcaption>
+</div>
 1 The prophet's sons said to Elisha, "Look, the place where we stay with you is too small for us."
 
 2 Please let us go to the Jordan River, and let each of us take a piece of wood so we can build ourselves a place to stay. And he replied, "Go ahead."

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 19
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Judges/500/19.jpg" alt="Judges Chapter 19" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Judges Chapter 19.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Judges/500/19.jpg" alt="Judges Chapter 19" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Judges Chapter 19</figcaption>
+</div>
 1 During that time, when Israel had no king, a Levite staying near Mount Ephraim took a woman from Bethlehem in Judah to be his concubine.
 
 2 His partner was unfaithful to him, left him, and went to her father's house in Bethlehem of Judah, staying there four months.

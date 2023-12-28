@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 30
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Exodus/500/30.jpg" alt="Exodus Chapter 30" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Exodus Chapter 30.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Exodus/500/30.jpg" alt="Exodus Chapter 30" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Exodus Chapter 30</figcaption>
+</div>
 1 Make an altar for burning incense from acacia wood.
 
 2 The length will be one cubit and the width one cubit; it will be square. The height will be two cubits, and the horns will be part of it.

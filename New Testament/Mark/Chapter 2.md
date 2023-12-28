@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 2
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Mark/500/2.jpg" alt="Mark Chapter 2" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Mark Chapter 2.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Mark/500/2.jpg" alt="Mark Chapter 2" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Mark Chapter 2</figcaption>
+</div>
 1 He went back to Capernaum after a few days, and people heard that he was at home.
 
 2 Right away, many people came together, so much that there was no space for them, not even near the door, and he shared God's message with them.

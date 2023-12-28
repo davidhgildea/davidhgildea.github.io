@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 80
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/80.jpg" alt="Psalms Chapter 80" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 80.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/80.jpg" alt="Psalms Chapter 80" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 80</figcaption>
+</div>
 1 Listen, Shepherd of Israel, you who guide Joseph like sheep; you who sit above the angels, show your light.
 
 2 Before the tribes of Ephraim, Benjamin, and Manasseh, wake up your power and come save us.

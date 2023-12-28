@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 18
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Revelation/500/18.jpg" alt="Revelation Chapter 18" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Revelation Chapter 18.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Revelation/500/18.jpg" alt="Revelation Chapter 18" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Revelation Chapter 18</figcaption>
+</div>
 1 After this I saw another angel coming down from heaven with great power, and the earth shone with his brightness.
 
 2 He shouted loudly, "Great Babylon has fallen and is now a place for demons, a prison for every bad spirit, and a cage for every dirty and hated bird."

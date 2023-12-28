@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 12
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Numbers/500/12.jpg" alt="Numbers Chapter 12" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Numbers Chapter 12.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Numbers/500/12.jpg" alt="Numbers Chapter 12" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Numbers Chapter 12</figcaption>
+</div>
 1 Miriam and Aaron spoke against Moses because he married a woman from Ethiopia.
 
 2 They asked, "Has God spoken only through Moses? Hasn't he also spoken through us?" And God heard this.

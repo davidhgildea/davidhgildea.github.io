@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 29
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Samuel/500/29.jpg" alt="1 Samuel Chapter 29" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Samuel Chapter 29.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Samuel/500/29.jpg" alt="1 Samuel Chapter 29" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Samuel Chapter 29</figcaption>
+</div>
 1 The Philistines brought all their armies together at Aphek, while the Israelites set up camp by a spring in Jezreel.
 
 2 The leaders of the Philistines marched by hundreds and by thousands, while David and his men were at the back with Achish.

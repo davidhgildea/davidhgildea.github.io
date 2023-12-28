@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 2
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Timothy/500/2.jpg" alt="2 Timothy Chapter 2" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Timothy Chapter 2.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Timothy/500/2.jpg" alt="2 Timothy Chapter 2" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Timothy Chapter 2</figcaption>
+</div>
 1 You, my child, be strong in the grace that is in Jesus Christ.
 
 2 The teachings you have heard from me, in front of many witnesses, pass on to trustworthy people who can also teach others.

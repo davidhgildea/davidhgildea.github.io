@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 12
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Chronicles/500/12.jpg" alt="2 Chronicles Chapter 12" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Chronicles Chapter 12.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Chronicles/500/12.jpg" alt="2 Chronicles Chapter 12" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Chronicles Chapter 12</figcaption>
+</div>
 1 When Rehoboam secured the kingdom and grew strong, he and all Israel abandoned God's law.
 
 2 In the fifth year of King Rehoboam's reign, Shishak the king of Egypt attacked Jerusalem because they had sinned against God.

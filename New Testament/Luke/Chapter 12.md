@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 12
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Luke/500/12.jpg" alt="Luke Chapter 12" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Luke Chapter 12.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Luke/500/12.jpg" alt="Luke Chapter 12" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Luke Chapter 12</figcaption>
+</div>
 1 While a huge crowd was gathering and people were stepping on each other, he started to tell his disciples, "Be careful of the Pharisees' yeast, which is their fake behavior."
 
 2 Everything hidden will be uncovered, and every secret will be known.

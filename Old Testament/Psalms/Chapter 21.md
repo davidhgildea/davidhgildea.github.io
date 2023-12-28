@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 21
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/21.jpg" alt="Psalms Chapter 21" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 21.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/21.jpg" alt="Psalms Chapter 21" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 21</figcaption>
+</div>
 1 The king will be happy because of your power, God; he will be very glad because you save him!
 
 2 You have granted him what his heart wanted, and you have not denied what he asked with his lips. Pause.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 9
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Judges/500/9.jpg" alt="Judges Chapter 9" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Judges Chapter 9.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Judges/500/9.jpg" alt="Judges Chapter 9" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Judges Chapter 9</figcaption>
+</div>
 1 Abimelech, Jerubbaal's son, went to Shechem to his mother's brothers, talked with them, and with all his mother's father's family, saying,
 
 2 Please tell everyone in Shechem: What's better for you—to have all seventy sons of Jerubbaal rule over you, or just one person? And remember, I am your own family.

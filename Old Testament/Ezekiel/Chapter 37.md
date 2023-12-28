@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 37
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ezekiel/500/37.jpg" alt="Ezekiel Chapter 37" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ezekiel Chapter 37.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ezekiel/500/37.jpg" alt="Ezekiel Chapter 37" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 37</figcaption>
+</div>
 1 God's hand was on me, and he took me out in his spirit and put me down in the middle of a valley full of bones.
 
 2 God made me walk around them, and I saw a lot of bones in the valley; they were very dry.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 1
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Jeremiah/500/1.jpg" alt="Jeremiah Chapter 1" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Jeremiah Chapter 1.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Jeremiah/500/1.jpg" alt="Jeremiah Chapter 1" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 1</figcaption>
+</div>
 1 These are the words of Jeremiah, Hilkiah's son, a priest from Anathoth in Benjamin's territory.
 
 2 God spoke to them when Josiah son of Amon was king of Judah, in the thirteenth year of his rule.

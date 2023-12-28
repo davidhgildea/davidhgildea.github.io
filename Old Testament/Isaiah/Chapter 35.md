@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 35
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/35.jpg" alt="Isaiah Chapter 35" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 35.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/35.jpg" alt="Isaiah Chapter 35" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 35</figcaption>
+</div>
 1 The wild and lonely areas will be happy for them; and the desert will be joyful and bloom like a rose.
 
 2 It will bloom a lot and be happy with joy and singing. Lebanon's beauty will belong to it, as well as the greatness of Carmel and Sharon. They will see God's glory and greatness.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 3
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Samuel/500/3.jpg" alt="1 Samuel Chapter 3" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Samuel Chapter 3.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Samuel/500/3.jpg" alt="1 Samuel Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Samuel Chapter 3</figcaption>
+</div>
 1 The boy Samuel served God with Eli. In those times, God's messages were rare and visions were not common.
 
 2 At that time, when Eli was lying down in his spot and his eyes were starting to grow weak so he couldn't see;

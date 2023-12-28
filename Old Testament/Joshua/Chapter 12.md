@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 12
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Joshua/500/12.jpg" alt="Joshua Chapter 12" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Joshua Chapter 12.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Joshua/500/12.jpg" alt="Joshua Chapter 12" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Joshua Chapter 12</figcaption>
+</div>
 1 These are the kings of the country that the Israelites defeated and whose land they took over, on the east side of the Jordan River, from the Arnon River to Mount Hermon, and all the eastern plains.
 
 2 Sihon, the king of the Amorites, lived in Heshbon and controlled the land from Aroer on the edge of the Arnon River, including the middle of the river and half of Gilead, all the way to the Jabbok River, the border of the Ammonites' land.

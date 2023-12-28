@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 5
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Esther/500/5.jpg" alt="Esther Chapter 5" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Esther Chapter 5.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Esther/500/5.jpg" alt="Esther Chapter 5" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Esther Chapter 5</figcaption>
+</div>
 1 On the third day, Esther dressed in her royal clothes and stood in the inner part of the palace, across from the king's rooms. The king was seated on his royal throne in the palace, facing the entrance.
 
 2 When the king saw Queen Esther in the courtyard, she won his favor, and he offered her the golden scepter he held. Esther approached and touched the tip of the scepter.

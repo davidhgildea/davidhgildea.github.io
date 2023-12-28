@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 22
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Chronicles/500/22.jpg" alt="2 Chronicles Chapter 22" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Chronicles Chapter 22.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Chronicles/500/22.jpg" alt="2 Chronicles Chapter 22" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Chronicles Chapter 22</figcaption>
+</div>
 1 The people of Jerusalem made Ahaziah, his youngest son, king after him because the group that came with the Arabians to the camp had killed all the older sons. So Ahaziah, son of Jehoram king of Judah, became king.
 
 2 Ahaziah was 42 years old when he started to rule, and he ruled for one year in Jerusalem. His mother's name was Athaliah, Omri's daughter.

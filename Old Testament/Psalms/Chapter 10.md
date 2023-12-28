@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 10
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/10.jpg" alt="Psalms Chapter 10" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 10.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/10.jpg" alt="Psalms Chapter 10" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 10</figcaption>
+</div>
 1 Why do you stand far away, God? Why do you hide yourself in times of trouble?
 
 2 In his pride, the wicked chases the poor: may they get caught in the traps they've set.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 17
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Numbers/500/17.jpg" alt="Numbers Chapter 17" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Numbers Chapter 17.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Numbers/500/17.jpg" alt="Numbers Chapter 17" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Numbers Chapter 17</figcaption>
+</div>
 1 God spoke to Moses, saying,
 
 2 Talk to the people of Israel, and get a stick from each one based on their family leader’s house, making twelve sticks in total: write each man's name on his stick.

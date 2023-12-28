@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 9
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Deuteronomy/500/9.jpg" alt="Deuteronomy Chapter 9" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Deuteronomy Chapter 9.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Deuteronomy/500/9.jpg" alt="Deuteronomy Chapter 9" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Deuteronomy Chapter 9</figcaption>
+</div>
 1 Listen, Israel: Today you will cross the Jordan to take over lands with bigger and stronger nations than you, and cities with tall, strong walls.
 
 2 A great and tall nation, the descendants of the Anakims, whom you know and have heard about, saying, "Who can stand against the children of Anak?"

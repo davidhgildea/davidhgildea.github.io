@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 16
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Chronicles/500/16.jpg" alt="2 Chronicles Chapter 16" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Chronicles Chapter 16.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Chronicles/500/16.jpg" alt="2 Chronicles Chapter 16" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Chronicles Chapter 16</figcaption>
+</div>
 1 In the thirty-sixth year of King Asa's rule, King Baasha of Israel attacked Judah and built Ramah to stop anyone from leaving or entering King Asa's territory.
 
 2 Asa took silver and gold from God's house and the king's palace and sent it to King Benhadad of Syria, who lived in Damascus, with a message.

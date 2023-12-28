@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 1
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Corinthians/500/1.jpg" alt="1 Corinthians Chapter 1" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Corinthians Chapter 1.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Corinthians/500/1.jpg" alt="1 Corinthians Chapter 1" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Corinthians Chapter 1</figcaption>
+</div>
 1 Paul, chosen as a messenger of Jesus Christ by God's will, and our brother Sosthenes,
 
 2 To God's church in Corinth, to those made holy in Christ Jesus, called to be God's people, along with all who call on the name of our Lord Jesus Christ everywhere: theirs and ours.

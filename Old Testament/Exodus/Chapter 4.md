@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 4
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Exodus/500/4.jpg" alt="Exodus Chapter 4" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Exodus Chapter 4.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Exodus/500/4.jpg" alt="Exodus Chapter 4" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Exodus Chapter 4</figcaption>
+</div>
 1 Moses answered, "But look, they won't believe me or listen to my voice; they'll say, 'God hasn't appeared to you.'"
 
 2 God asked him, "What do you have in your hand?" He replied, "A staff."

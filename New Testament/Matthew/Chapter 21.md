@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 21
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Matthew/500/21.jpg" alt="Matthew Chapter 21" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Matthew Chapter 21.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Matthew/500/21.jpg" alt="Matthew Chapter 21" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Matthew Chapter 21</figcaption>
+</div>
 1 When they got close to Jerusalem and reached Bethphage at the Mount of Olives, Jesus sent two disciples.
 
 2 Tell them, go to the village ahead of you, and at once you will find a donkey tied up, and a young donkey with her: untie them and bring them to me.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 37
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Job/500/37.jpg" alt="Job Chapter 37" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Job Chapter 37.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Job/500/37.jpg" alt="Job Chapter 37" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Job Chapter 37</figcaption>
+</div>
 1 My heart shakes with fear and moves out of its place.
 
 2 Listen carefully to his voice and the noise that comes from his mouth.

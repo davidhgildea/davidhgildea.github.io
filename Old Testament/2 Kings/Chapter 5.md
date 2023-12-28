@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 5
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Kings/500/5.jpg" alt="2 Kings Chapter 5" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Kings Chapter 5.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Kings/500/5.jpg" alt="2 Kings Chapter 5" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Kings Chapter 5</figcaption>
+</div>
 1 Naaman, the leader of the Syrian king's army, was important to his king and respected because through him, God had let Syria win battles. He was also very brave, but he had leprosy.
 
 2 The Syrians had attacked in groups and had taken a young girl prisoner from Israel; she served Naaman's wife.

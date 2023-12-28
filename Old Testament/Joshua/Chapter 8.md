@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 8
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Joshua/500/8.jpg" alt="Joshua Chapter 8" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Joshua Chapter 8.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Joshua/500/8.jpg" alt="Joshua Chapter 8" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Joshua Chapter 8</figcaption>
+</div>
 1 God told Joshua, "Don't be afraid or discouraged. Take all your soldiers and go to Ai. I have given you the king of Ai, his people, his city, and his land."
 
 2 Do to Ai and its king what you did to Jericho and its king. But you can keep the goods and animals for yourselves. Set up an ambush behind the city.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 8
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Hosea/500/8.jpg" alt="Hosea Chapter 8" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Hosea Chapter 8.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Hosea/500/8.jpg" alt="Hosea Chapter 8" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Hosea Chapter 8</figcaption>
+</div>
 1 Put the trumpet to your lips. An eagle swoops on God's house because they broke my agreement and disobeyed my laws.
 
 2 Israel will call out to me, "My God, we know you."

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 77
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/77.jpg" alt="Psalms Chapter 77" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 77.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/77.jpg" alt="Psalms Chapter 77" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 77</figcaption>
+</div>
 1 I called out to God loudly; I called to God, and he listened to me.
 
 2 On the day I was in trouble, I looked for God. My pain continued all night and did not stop, and my heart would not be comforted.

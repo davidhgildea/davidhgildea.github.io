@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 11
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Corinthians/500/11.jpg" alt="2 Corinthians Chapter 11" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Corinthians Chapter 11.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Corinthians/500/11.jpg" alt="2 Corinthians Chapter 11" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Corinthians Chapter 11</figcaption>
+</div>
 1 I wish you could put up with my foolishness just a bit; please do bear with me.
 
 2 I am very protective of you with a pure jealousy: because I have promised you to one husband, so I can present you as a pure virgin to Christ.

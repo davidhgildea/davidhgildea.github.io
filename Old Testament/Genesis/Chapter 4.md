@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 4
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Genesis/500/4.jpg" alt="Genesis Chapter 4" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Genesis Chapter 4.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Genesis/500/4.jpg" alt="Genesis Chapter 4" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Genesis Chapter 4</figcaption>
+</div>
 1 Adam was intimate with his wife Eve; she became pregnant and gave birth to Cain, saying, "I have had a son with God's help."
 
 2 She also gave birth to his brother Abel. Abel took care of sheep, while Cain worked the soil.

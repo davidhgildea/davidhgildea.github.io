@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 24
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Genesis/500/24.jpg" alt="Genesis Chapter 24" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Genesis Chapter 24.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Genesis/500/24.jpg" alt="Genesis Chapter 24" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Genesis Chapter 24</figcaption>
+</div>
 1 Abraham was old and advanced in years, and God had blessed Abraham in every way.
 
 2 Abraham said to his oldest servant, who managed everything he owned, "Please put your hand under my thigh."

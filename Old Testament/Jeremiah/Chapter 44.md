@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 44
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Jeremiah/500/44.jpg" alt="Jeremiah Chapter 44" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Jeremiah Chapter 44.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Jeremiah/500/44.jpg" alt="Jeremiah Chapter 44" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 44</figcaption>
+</div>
 1 God's message came to Jeremiah for all the Jews living in Egypt, in Migdol, Tahpanhes, Noph, and the region of Pathros. He said,
 
 2 God says, "You have seen all the bad things I have brought on Jerusalem and the cities of Judah; now they are ruined, and no one lives there."

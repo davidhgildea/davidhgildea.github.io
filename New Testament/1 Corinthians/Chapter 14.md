@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 14
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Corinthians/500/14.jpg" alt="1 Corinthians Chapter 14" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Corinthians Chapter 14.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Corinthians/500/14.jpg" alt="1 Corinthians Chapter 14" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Corinthians Chapter 14</figcaption>
+</div>
 1 Chase after love and want spiritual gifts, especially to prophesy.
 
 2 When someone speaks in a language no one knows, they are not speaking to people but to God, because no one can understand them. However, they are saying secret things in their spirit.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 92
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/92.jpg" alt="Psalms Chapter 92" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 92.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/92.jpg" alt="Psalms Chapter 92" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 92</figcaption>
+</div>
 1 It is good to give thanks to God and to sing praises to your name, O Most High.
 
 2 To show your kindness in the morning, and your faithfulness every night.

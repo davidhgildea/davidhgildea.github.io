@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 25
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Numbers/500/25.jpg" alt="Numbers Chapter 25" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Numbers Chapter 25.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Numbers/500/25.jpg" alt="Numbers Chapter 25" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Numbers Chapter 25</figcaption>
+</div>
 1 Israel stayed in Shittim, and the people started to have sex with the women of Moab.
 
 2 They invited the people to the offerings for their gods, and the people ate and worshiped their gods.

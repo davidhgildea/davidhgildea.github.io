@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 22
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Deuteronomy/500/22.jpg" alt="Deuteronomy Chapter 22" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Deuteronomy Chapter 22.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Deuteronomy/500/22.jpg" alt="Deuteronomy Chapter 22" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Deuteronomy Chapter 22</figcaption>
+</div>
 1 If you see your brother's ox or sheep lost, do not ignore them: you must return them to your brother.
 
 2 If your brother is not close by or you don't know him, then take it to your house. Keep it until he looks for it, then give it back to him.

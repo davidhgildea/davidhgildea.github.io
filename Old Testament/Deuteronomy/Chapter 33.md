@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 33
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Deuteronomy/500/33.jpg" alt="Deuteronomy Chapter 33" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Deuteronomy Chapter 33.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Deuteronomy/500/33.jpg" alt="Deuteronomy Chapter 33" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Deuteronomy Chapter 33</figcaption>
+</div>
 1 This is the blessing that Moses, the man of God, gave to the Israelites before he died.
 
 2 He said, God came from Sinai, appeared from Seir to them, shone from Mount Paran, and arrived with thousands of holy ones. From his right hand, a fiery command for them went out.

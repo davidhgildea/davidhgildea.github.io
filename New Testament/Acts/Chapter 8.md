@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 8
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Acts/500/8.jpg" alt="Acts Chapter 8" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Acts Chapter 8.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Acts/500/8.jpg" alt="Acts Chapter 8" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Acts Chapter 8</figcaption>
+</div>
 1 Saul agreed to his death. There was a big persecution against the church in Jerusalem; and everyone was scattered across Judaea and Samaria, except the apostles.
 
 2 Faithful people took Stephen to bury him and cried a lot for him.

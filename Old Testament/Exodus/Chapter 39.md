@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 39
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Exodus/500/39.jpg" alt="Exodus Chapter 39" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Exodus Chapter 39.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Exodus/500/39.jpg" alt="Exodus Chapter 39" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Exodus Chapter 39</figcaption>
+</div>
 1 They made special cloths in blue, purple, and red to serve in the holy area and created holy clothes for Aaron, just as God told Moses.
 
 2 He made the ephod from gold, blue, purple, and red threads, and fine linen.

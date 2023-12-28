@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 13
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Kings/500/13.jpg" alt="2 Kings Chapter 13" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Kings Chapter 13.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Kings/500/13.jpg" alt="2 Kings Chapter 13" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Kings Chapter 13</figcaption>
+</div>
 1 In the twenty-third year of Joash, Ahaziah's son, who was king of Judah, Jehoahaz, Jehu's son, started to rule over Israel in Samaria, and he ruled for seventeen years.
 
 2 He did evil in God's eyes and followed Jeroboam, Nebat's son, who led Israel into sin; he did not turn away from it.

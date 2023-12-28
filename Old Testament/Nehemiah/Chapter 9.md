@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 9
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Nehemiah/500/9.jpg" alt="Nehemiah Chapter 9" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Nehemiah Chapter 9.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Nehemiah/500/9.jpg" alt="Nehemiah Chapter 9" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Nehemiah Chapter 9</figcaption>
+</div>
 1 On the twenty-fourth day of this month, the people of Israel gathered together. They fasted, wore rough clothing, and put dirt on themselves.
 
 2 The people of Israel kept away from foreigners, stood up, and admitted their own sins and the wrongdoings of their ancestors.

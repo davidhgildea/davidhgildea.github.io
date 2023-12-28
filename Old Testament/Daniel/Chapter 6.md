@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 6
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Daniel/500/6.jpg" alt="Daniel Chapter 6" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Daniel Chapter 6.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Daniel/500/6.jpg" alt="Daniel Chapter 6" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Daniel Chapter 6</figcaption>
+</div>
 1 Darius decided to put 120 princes in charge of the whole kingdom.
 
 2 Three presidents were in charge, with Daniel as the top one, so the leaders would answer to them and the king would not be harmed.

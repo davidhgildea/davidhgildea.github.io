@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 4
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Peter/500/4.jpg" alt="1 Peter Chapter 4" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Peter Chapter 4.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Peter/500/4.jpg" alt="1 Peter Chapter 4" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Peter Chapter 4</figcaption>
+</div>
 1 Since Christ suffered for us in a human body, prepare yourselves with the same attitude: because anyone who has gone through such suffering is done with sin.
 
 2 He should not spend the rest of his life following human desires, but following God's will.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 4
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Galatians/500/4.jpg" alt="Galatians Chapter 4" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Galatians Chapter 4.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Galatians/500/4.jpg" alt="Galatians Chapter 4" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Galatians Chapter 4</figcaption>
+</div>
 1 I tell you, an heir is no different from a servant while he is still a child, even if he owns everything.
 
 2 But is under teachers and managers until the time set by the father.

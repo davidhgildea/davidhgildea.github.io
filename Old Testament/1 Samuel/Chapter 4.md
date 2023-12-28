@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 4
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Samuel/500/4.jpg" alt="1 Samuel Chapter 4" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Samuel Chapter 4.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Samuel/500/4.jpg" alt="1 Samuel Chapter 4" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Samuel Chapter 4</figcaption>
+</div>
 1 Samuel's message reached all of Israel. Israel went to fight the Philistines, setting up near Ebenezer, while the Philistines camped at Aphek.
 
 2 The Philistines lined up to fight Israel: and when the battle started, Israel was defeated by the Philistines: and they killed about four thousand soldiers on the battlefield.

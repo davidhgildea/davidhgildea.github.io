@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 18
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Samuel/500/18.jpg" alt="2 Samuel Chapter 18" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Samuel Chapter 18.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Samuel/500/18.jpg" alt="2 Samuel Chapter 18" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Samuel Chapter 18</figcaption>
+</div>
 1 David counted the people with him and put leaders in charge of groups of a thousand and groups of a hundred.
 
 2 David sent a third of the troops with Joab, another third with Abishai, Joab's brother, and the last third with Ittai the Gittite. The king told the people, "I will definitely come with you too."

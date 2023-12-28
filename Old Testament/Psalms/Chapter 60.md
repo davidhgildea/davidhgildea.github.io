@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 60
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/60.jpg" alt="Psalms Chapter 60" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 60.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/60.jpg" alt="Psalms Chapter 60" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 60</figcaption>
+</div>
 1 God, you have rejected us, scattered us, and been unhappy with us; please come back to us.
 
 2 You have made the earth shake; you have split it open: repair its cracks, for it is quaking.

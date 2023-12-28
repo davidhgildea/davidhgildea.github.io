@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 3
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Hebrews/500/3.jpg" alt="Hebrews Chapter 3" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Hebrews Chapter 3.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Hebrews/500/3.jpg" alt="Hebrews Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Hebrews Chapter 3</figcaption>
+</div>
 1 Therefore, holy brothers and sisters, who share in the call from heaven, think about Jesus, the messenger and high priest we profess.
 
 2 He was loyal to God who chose him, just like Moses was loyal in every part of God's house.

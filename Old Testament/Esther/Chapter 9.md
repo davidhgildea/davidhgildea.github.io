@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 9
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Esther/500/9.jpg" alt="Esther Chapter 9" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Esther Chapter 9.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Esther/500/9.jpg" alt="Esther Chapter 9" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Esther Chapter 9</figcaption>
+</div>
 1 In the twelfth month, called Adar, on the thirteenth day, as the time for the king's command and law to be acted on came close, when the Jews' enemies hoped to control them, things changed so that the Jews gained power over those who hated them.
 
 2 The Jews came together in their cities in all the king Ahasuerus's provinces to act against those who wanted to harm them, and no one could oppose them because everyone was afraid of them.

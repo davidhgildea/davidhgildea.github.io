@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 11
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Samuel/500/11.jpg" alt="1 Samuel Chapter 11" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Samuel Chapter 11.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Samuel/500/11.jpg" alt="1 Samuel Chapter 11" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Samuel Chapter 11</figcaption>
+</div>
 1 Then Nahash the Ammonite arrived and camped against Jabeshgilead. All the men of Jabesh told Nahash, "Make an agreement with us, and we will serve you."
 
 2 Nahash the Ammonite replied, "I will make an agreement with you only if I can gouge out everyone's right eye, to shame all of Israel."

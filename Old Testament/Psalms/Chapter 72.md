@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 72
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/72.jpg" alt="Psalms Chapter 72" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 72.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/72.jpg" alt="Psalms Chapter 72" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 72</figcaption>
+</div>
 1 God, give the king your justice, and your righteousness to the king's son.
 
 2 He will judge your people fairly and give fair decisions for your poor.

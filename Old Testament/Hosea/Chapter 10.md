@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 10
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Hosea/500/10.jpg" alt="Hosea Chapter 10" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Hosea Chapter 10.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Hosea/500/10.jpg" alt="Hosea Chapter 10" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Hosea Chapter 10</figcaption>
+</div>
 1 Israel is like a vine with no value; it produces fruit for itself. The more fruit it has, the more altars it builds; the better the land, the finer the idols.
 
 2 Their heart is not united; they will be seen as guilty: God will destroy their altars, God will ruin their statues.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 3
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Exodus/500/3.jpg" alt="Exodus Chapter 3" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Exodus Chapter 3.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Exodus/500/3.jpg" alt="Exodus Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Exodus Chapter 3</figcaption>
+</div>
 1 Moses took care of his father-in-law Jethro's sheep, who was the priest of Midian. He took the sheep far into the desert and came to God's mountain, called Horeb.
 
 2 An angel of God appeared to him in a fire from inside a bush. He saw that though the bush was on fire, it did not burn up.

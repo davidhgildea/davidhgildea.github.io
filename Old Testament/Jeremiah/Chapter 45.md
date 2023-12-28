@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 45
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Jeremiah/500/45.jpg" alt="Jeremiah Chapter 45" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Jeremiah Chapter 45.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Jeremiah/500/45.jpg" alt="Jeremiah Chapter 45" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 45</figcaption>
+</div>
 1 Jeremiah the prophet told Baruch, son of Neriah, these words after Baruch wrote them down as Jeremiah said them. This happened in the fourth year of Jehoiakim's rule, Josiah's son, who was the king of Judah.
 
 2 God, the God of Israel, says this to you, O Baruch:

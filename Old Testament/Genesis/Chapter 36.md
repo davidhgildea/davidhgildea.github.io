@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 36
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Genesis/500/36.jpg" alt="Genesis Chapter 36" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Genesis Chapter 36.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Genesis/500/36.jpg" alt="Genesis Chapter 36" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Genesis Chapter 36</figcaption>
+</div>
 1 These are the descendants of Esau, also known as Edom.
 
 2 Esau married Canaanite women: Adah, daughter of Elon the Hittite, and Aholibamah, granddaughter of Zibeon the Hivite through her father Anah.

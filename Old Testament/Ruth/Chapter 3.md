@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 3
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ruth/500/3.jpg" alt="Ruth Chapter 3" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ruth Chapter 3.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ruth/500/3.jpg" alt="Ruth Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ruth Chapter 3</figcaption>
+</div>
 1 Then Naomi, her mother-in-law, said to her, "My daughter, shouldn't I find a peaceful place for you, so you can be happy?"
 
 2 Isn't Boaz, who is related to us, the one whose young women you were with? Look, he is separating the barley on the threshing floor tonight.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 39
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Genesis/500/39.jpg" alt="Genesis Chapter 39" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Genesis Chapter 39.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Genesis/500/39.jpg" alt="Genesis Chapter 39" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Genesis Chapter 39</figcaption>
+</div>
 1 Joseph was taken to Egypt; Potiphar, an Egyptian officer of Pharaoh and captain of the guard, bought him from the Ishmaelites who had brought him there.
 
 2 God was with Joseph, and he succeeded in everything; he lived in his Egyptian master's house.

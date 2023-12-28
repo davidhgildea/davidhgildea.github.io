@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 104
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/104.jpg" alt="Psalms Chapter 104" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 104.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/104.jpg" alt="Psalms Chapter 104" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 104</figcaption>
+</div>
 1 Praise God, my soul. O my God, you are very great; you are dressed in glory and splendor.
 
 2 You cover yourself with light like clothes: you spread out the skies like a curtain.

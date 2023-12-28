@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 97
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/97.jpg" alt="Psalms Chapter 97" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 97.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/97.jpg" alt="Psalms Chapter 97" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 97</figcaption>
+</div>
 1 God rules; let the earth be happy; let the many islands be joyful.
 
 2 Clouds and darkness surround God; fairness and justice are where his throne is.

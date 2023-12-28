@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 47
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Genesis/500/47.jpg" alt="Genesis Chapter 47" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Genesis Chapter 47.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Genesis/500/47.jpg" alt="Genesis Chapter 47" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Genesis Chapter 47</figcaption>
+</div>
 1 Joseph went to Pharaoh and said, "My father, my brothers, their sheep, their cattle, and everything they own have left the land of Canaan, and now they are in the land of Goshen."
 
 2 He took five of his brothers and introduced them to Pharaoh.

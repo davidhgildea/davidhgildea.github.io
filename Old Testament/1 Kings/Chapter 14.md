@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 14
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Kings/500/14.jpg" alt="1 Kings Chapter 14" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Kings Chapter 14.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Kings/500/14.jpg" alt="1 Kings Chapter 14" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Kings Chapter 14</figcaption>
+</div>
 1 At that time, Abijah, Jeroboam's son, became ill.
 
 2 Jeroboam said to his wife, "Please get up and change your look so no one knows you are my wife. Go to Shiloh where the prophet Ahijah lives. He's the one who said I would become king of these people."

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 2
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Amos/500/2.jpg" alt="Amos Chapter 2" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Amos Chapter 2.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Amos/500/2.jpg" alt="Amos Chapter 2" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Amos Chapter 2</figcaption>
+</div>
 1 God says, "Because Moab sinned three times, even four, I will not cancel their punishment. They burned the bones of Edom's king to ashes."
 
 2 I will send fire to Moab, and it will burn the palaces of Kirioth. Moab will die amid noise, shouts, and trumpet blasts.

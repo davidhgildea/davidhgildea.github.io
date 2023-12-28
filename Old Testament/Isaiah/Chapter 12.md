@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 12
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/12.jpg" alt="Isaiah Chapter 12" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 12.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/12.jpg" alt="Isaiah Chapter 12" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 12</figcaption>
+</div>
 1 On that day, you will say, "God, I will praise you. Even though you were angry with me, your anger has gone, and you have comforted me."
 
 2 Look, God is my savior; I will trust and not fear: for God is my strength and my song; he has also become my savior.

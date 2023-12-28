@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 10
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Leviticus/500/10.jpg" alt="Leviticus Chapter 10" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Leviticus Chapter 10.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Leviticus/500/10.jpg" alt="Leviticus Chapter 10" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Leviticus Chapter 10</figcaption>
+</div>
 1 Nadab and Abihu, Aaron's sons, each took a censer, added fire and incense, and offered unauthorized fire to God, which He had not instructed them to do.
 
 2 Fire came from God, consumed them, and they died in God's presence.

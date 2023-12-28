@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 14
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Judges/500/14.jpg" alt="Judges Chapter 14" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Judges Chapter 14.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Judges/500/14.jpg" alt="Judges Chapter 14" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Judges Chapter 14</figcaption>
+</div>
 1 Samson went to Timnath and saw a Philistine woman there.
 
 2 He went and told his father and mother, "I saw a woman in Timnath from the Philistines; now please get her for me to marry."

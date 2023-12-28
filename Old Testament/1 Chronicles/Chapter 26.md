@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 26
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Chronicles/500/26.jpg" alt="1 Chronicles Chapter 26" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Chronicles Chapter 26.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Chronicles/500/26.jpg" alt="1 Chronicles Chapter 26" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Chronicles Chapter 26</figcaption>
+</div>
 1 About the groups of gatekeepers: Meshelemiah, son of Kore and descendant of Asaph, was from the Korahites.
 
 2 Meshelemiah had sons: Zechariah the oldest, Jediael the second, Zebadiah the third, Jathniel the fourth,

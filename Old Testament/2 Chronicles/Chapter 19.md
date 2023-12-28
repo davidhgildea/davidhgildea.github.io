@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 19
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Chronicles/500/19.jpg" alt="2 Chronicles Chapter 19" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Chronicles Chapter 19.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Chronicles/500/19.jpg" alt="2 Chronicles Chapter 19" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Chronicles Chapter 19</figcaption>
+</div>
 1 King Jehoshaphat of Judah went back to his home in Jerusalem safely.
 
 2 Jehu, son of Hanani, the seer, met him and said to King Jehoshaphat, "Should you help the wicked and love those who hate God? For this, God's anger is on you."

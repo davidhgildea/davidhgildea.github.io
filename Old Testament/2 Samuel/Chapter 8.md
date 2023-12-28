@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 8
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Samuel/500/8.jpg" alt="2 Samuel Chapter 8" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Samuel Chapter 8.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Samuel/500/8.jpg" alt="2 Samuel Chapter 8" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Samuel Chapter 8</figcaption>
+</div>
 1 After this, David defeated the Philistines and brought them under control; David also captured Methegammah from the Philistines.
 
 2 He defeated the Moabites and used a rope to measure them, laying them on the ground. Those measured by two lengths of rope were killed, and those by one length were spared. Thus, the Moabites served David and brought him presents.

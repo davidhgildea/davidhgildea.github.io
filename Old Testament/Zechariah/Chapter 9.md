@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 9
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Zechariah/500/9.jpg" alt="Zechariah Chapter 9" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Zechariah Chapter 9.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Zechariah/500/9.jpg" alt="Zechariah Chapter 9" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Zechariah Chapter 9</figcaption>
+</div>
 1 The heavy message from God is in Hadrach, and Damascus will be its resting place: when people and all the tribes of Israel look to God.
 
 2 Hamath will also border there; Tyre and Sidon, even if they are very wise.

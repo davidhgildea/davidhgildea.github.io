@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 14
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Acts/500/14.jpg" alt="Acts Chapter 14" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Acts Chapter 14.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Acts/500/14.jpg" alt="Acts Chapter 14" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Acts Chapter 14</figcaption>
+</div>
 1 In Iconium, they both went into the Jewish synagogue, and spoke so well that many Jews and Greeks believed.
 
 2 But the Jews who did not believe upset the non-Jews and turned their thoughts against the believers.

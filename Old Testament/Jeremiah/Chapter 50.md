@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 50
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Jeremiah/500/50.jpg" alt="Jeremiah Chapter 50" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Jeremiah Chapter 50.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Jeremiah/500/50.jpg" alt="Jeremiah Chapter 50" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 50</figcaption>
+</div>
 1 God spoke against Babylon and the Chaldeans through the prophet Jeremiah.
 
 2 Tell the nations, announce it, raise a flag; announce it, don't hide it: say, Babylon is captured, Bel is ashamed, Merodach is shattered; her gods are ashamed, her statues are shattered.

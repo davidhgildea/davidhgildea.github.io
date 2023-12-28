@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 17
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Joshua/500/17.jpg" alt="Joshua Chapter 17" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Joshua Chapter 17.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Joshua/500/17.jpg" alt="Joshua Chapter 17" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Joshua Chapter 17</figcaption>
+</div>
 1 The tribe of Manasseh also received land because Manasseh was Joseph's oldest son. This included land for Machir, Manasseh's oldest son and Gilead's father, who was a warrior, so he got Gilead and Bashan.
 
 2 There was also a portion for the other descendants of Manasseh according to their families; for the descendants of Abiezer, the descendants of Helek, the descendants of Asriel, the descendants of Shechem, the descendants of Hepher, and the descendants of Shemida: these were the sons of Manasseh, the son of Joseph, grouped by their families.

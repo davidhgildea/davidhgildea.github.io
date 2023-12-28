@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 7
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Samuel/500/7.jpg" alt="1 Samuel Chapter 7" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Samuel Chapter 7.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Samuel/500/7.jpg" alt="1 Samuel Chapter 7" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Samuel Chapter 7</figcaption>
+</div>
 1 The men from Kirjathjearim came, took the ark of God, and brought it to Abinadab's house on the hill. They set apart Eleazar, his son, to take care of the ark of God.
 
 2 While the ark stayed in Kirjathjearim, a lot of time passed; it was twenty years: and all the people of Israel felt sad and missed God.

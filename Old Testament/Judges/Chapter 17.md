@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 17
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Judges/500/17.jpg" alt="Judges Chapter 17" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Judges Chapter 17.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Judges/500/17.jpg" alt="Judges Chapter 17" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Judges Chapter 17</figcaption>
+</div>
 1 A man from the hill country of Ephraim was named Micah.
 
 2 He told his mother, "The 1,100 pieces of silver that were stolen from you, which you cursed and told me about, I have it; I took it." His mother said, "You are blessed by God, my son."

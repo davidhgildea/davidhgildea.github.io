@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 8
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Exodus/500/8.jpg" alt="Exodus Chapter 8" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Exodus Chapter 8.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Exodus/500/8.jpg" alt="Exodus Chapter 8" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Exodus Chapter 8</figcaption>
+</div>
 1 God spoke to Moses, "Go to the Pharaoh and tell him, 'God says, let my people go so they can serve me.'"
 
 2 If you don't let them go, I will fill your lands with frogs.

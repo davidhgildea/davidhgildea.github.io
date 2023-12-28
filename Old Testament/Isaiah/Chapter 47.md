@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 47
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/47.jpg" alt="Isaiah Chapter 47" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 47.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/47.jpg" alt="Isaiah Chapter 47" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 47</figcaption>
+</div>
 1 Come down and sit in the dirt, you pure girl of Babylon. Sit on the ground. You have no throne, girl of the Chaldeans, because you won't be called soft and gentle anymore.
 
 2 Use the grinding stones to make flour, let down your hair, show your legs, reveal your thighs, and cross the rivers.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 17
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Kings/500/17.jpg" alt="1 Kings Chapter 17" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Kings Chapter 17.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Kings/500/17.jpg" alt="1 Kings Chapter 17" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Kings Chapter 17</figcaption>
+</div>
 1 Elijah from Tishbe in Gilead told Ahab, "As the living God of Israel, before whom I stand, there won't be any dew or rain for these years, unless I say so."
 
 2 God's message came to him, saying,

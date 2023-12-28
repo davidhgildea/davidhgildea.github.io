@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 1
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Song of Solomon/500/1.jpg" alt="Song of Solomon Chapter 1" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Song of Solomon Chapter 1.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Song of Solomon/500/1.jpg" alt="Song of Solomon Chapter 1" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Song of Solomon Chapter 1</figcaption>
+</div>
 1 The best song, which is Solomon's.
 
 2 Let him kiss me with his mouth's kisses: because your love is better than wine.

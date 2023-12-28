@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 2
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Leviticus/500/2.jpg" alt="Leviticus Chapter 2" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Leviticus Chapter 2.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Leviticus/500/2.jpg" alt="Leviticus Chapter 2" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Leviticus Chapter 2</figcaption>
+</div>
 1 When someone wants to give a grain offering to God, it must be of fine flour; they are to pour oil on it and add frankincense.
 
 2 He must take it to the priests, Aaron's sons. He must scoop out a handful of the flour and oil, along with all the frankincense. The priest will then burn this portion on the altar as a fire offering, a pleasing aroma to God.

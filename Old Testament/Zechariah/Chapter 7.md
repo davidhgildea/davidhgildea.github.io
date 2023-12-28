@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 7
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Zechariah/500/7.jpg" alt="Zechariah Chapter 7" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Zechariah Chapter 7.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Zechariah/500/7.jpg" alt="Zechariah Chapter 7" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Zechariah Chapter 7</figcaption>
+</div>
 1 In the fourth year of King Darius, God's message came to Zechariah on the fourth day of the ninth month, which is Chisleu.
 
 2 They sent Sherezer, Regemmelech, and their men to the house of God to pray to God.

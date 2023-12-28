@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 44
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ezekiel/500/44.jpg" alt="Ezekiel Chapter 44" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ezekiel Chapter 44.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ezekiel/500/44.jpg" alt="Ezekiel Chapter 44" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 44</figcaption>
+</div>
 1 Then he led me back to the outer sanctuary gate facing east; it was closed.
 
 2 God told me, "This gate must stay closed and not be opened. Nobody will go through it because God, the God of Israel, has gone through it, so it must stay closed."

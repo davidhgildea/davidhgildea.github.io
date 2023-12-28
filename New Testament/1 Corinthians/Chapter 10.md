@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 10
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Corinthians/500/10.jpg" alt="1 Corinthians Chapter 10" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Corinthians Chapter 10.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Corinthians/500/10.jpg" alt="1 Corinthians Chapter 10" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Corinthians Chapter 10</figcaption>
+</div>
 1 My friends, I want you to know that all our ancestors were under the cloud and all went through the sea.
 
 2 They were all baptized as followers of Moses in the cloud and in the sea.

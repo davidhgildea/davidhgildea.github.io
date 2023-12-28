@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 141
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/141.jpg" alt="Psalms Chapter 141" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 141.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/141.jpg" alt="Psalms Chapter 141" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 141</figcaption>
+</div>
 1 God, I call to you: hurry to me; listen to my voice when I call to you.
 
 2 Let my prayer come to you like incense, and the raising of my hands like the evening offering.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 5
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Acts/500/5.jpg" alt="Acts Chapter 5" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Acts Chapter 5.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Acts/500/5.jpg" alt="Acts Chapter 5" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Acts Chapter 5</figcaption>
+</div>
 1 A man named Ananias and his wife Sapphira sold something they owned.
 
 2 He held back some of the money, his wife knew about it, and he gave part of it and put it at the apostles' feet.

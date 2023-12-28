@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 6
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Corinthians/500/6.jpg" alt="2 Corinthians Chapter 6" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Corinthians Chapter 6.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Corinthians/500/6.jpg" alt="2 Corinthians Chapter 6" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Corinthians Chapter 6</figcaption>
+</div>
 1 We, as partners with God, urge you not to take God's kindness for nothing.
 
 2 God says, "I have listened to you at the right time, and on the day of rescue, I have helped you. Look, now is the right time; now is the day of rescue."

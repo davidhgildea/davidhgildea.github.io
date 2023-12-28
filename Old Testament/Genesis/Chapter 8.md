@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 8
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Genesis/500/8.jpg" alt="Genesis Chapter 8" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Genesis Chapter 8.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Genesis/500/8.jpg" alt="Genesis Chapter 8" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Genesis Chapter 8</figcaption>
+</div>
 1 God remembered Noah, all living creatures, and all the animals with him in the ark. God sent a wind over the earth, and the waters went down.
 
 2 The deep springs and the sky's windows were closed, and the rain from the sky was held back.

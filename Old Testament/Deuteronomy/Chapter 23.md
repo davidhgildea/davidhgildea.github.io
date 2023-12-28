@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 23
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Deuteronomy/500/23.jpg" alt="Deuteronomy Chapter 23" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Deuteronomy Chapter 23.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Deuteronomy/500/23.jpg" alt="Deuteronomy Chapter 23" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Deuteronomy Chapter 23</figcaption>
+</div>
 1 Anyone with damaged testicles or a severed penis cannot join God's assembly.
 
 2 A child born outside of marriage cannot join God's assembly; not even their descendants up to ten generations can join.

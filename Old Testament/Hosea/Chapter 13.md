@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 13
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Hosea/500/13.jpg" alt="Hosea Chapter 13" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Hosea Chapter 13.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Hosea/500/13.jpg" alt="Hosea Chapter 13" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Hosea Chapter 13</figcaption>
+</div>
 1 When Ephraim spoke with fear, he became a leader in Israel; but when he sinned with Baal, he died.
 
 2 They keep sinning more, making silver statues and idols they imagine, all made by craftsmen. They tell those who offer sacrifices to kiss these calf idols.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 3
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/James/500/3.jpg" alt="James Chapter 3" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">James Chapter 3.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/James/500/3.jpg" alt="James Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">James Chapter 3</figcaption>
+</div>
 1 My friends, don't all try to be teachers, because we know that we will be judged more strictly.
 
 2 We all make many mistakes. If someone does not make mistakes when they speak, they are perfect and can control their whole body too.

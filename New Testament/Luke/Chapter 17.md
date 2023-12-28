@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 17
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Luke/500/17.jpg" alt="Luke Chapter 17" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Luke Chapter 17.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Luke/500/17.jpg" alt="Luke Chapter 17" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Luke Chapter 17</figcaption>
+</div>
 1 He told his followers, "It's impossible to avoid problems, but bad things will happen to the person who causes them!"
 
 2 It would be better for him to have a heavy stone tied around his neck and to be thrown into the sea than to hurt one of these little ones.

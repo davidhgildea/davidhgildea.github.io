@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 18
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/18.jpg" alt="Psalms Chapter 18" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 18.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/18.jpg" alt="Psalms Chapter 18" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 18</figcaption>
+</div>
 1 I will love you, God, my strength.
 
 2 God is my rock, my fortress, and my rescuer; my God gives me strength and I trust in Him; He protects me, saves me, and is like a high tower to me.

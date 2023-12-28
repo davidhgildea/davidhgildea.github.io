@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 22
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Exodus/500/22.jpg" alt="Exodus Chapter 22" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Exodus Chapter 22.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Exodus/500/22.jpg" alt="Exodus Chapter 22" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Exodus Chapter 22</figcaption>
+</div>
 1 If someone steals a cow or a sheep, and kills or sells it, they must give back five cows for a cow, and four sheep for a sheep.
 
 2 If someone catches a thief breaking in and hits him so he dies, no one is guilty of his death.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 6
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Corinthians/500/6.jpg" alt="1 Corinthians Chapter 6" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Corinthians Chapter 6.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Corinthians/500/6.jpg" alt="1 Corinthians Chapter 6" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Corinthians Chapter 6</figcaption>
+</div>
 1 Would any of you, with a dispute against another, sue in a court with unfair judges instead of bringing the case to God's people?
 
 2 Don't you know that God's holy people will judge the world? And if you will judge the world, can't you handle small issues?

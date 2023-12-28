@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 3
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Daniel/500/3.jpg" alt="Daniel Chapter 3" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Daniel Chapter 3.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Daniel/500/3.jpg" alt="Daniel Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Daniel Chapter 3</figcaption>
+</div>
 1 King Nebuchadnezzar made a gold statue sixty cubits tall and six cubits wide and set it up on the plain of Dura in the Babylon region.
 
 2 King Nebuchadnezzar sent for the princes, governors, captains, judges, treasurers, advisers, sheriffs, and all provincial leaders to attend the dedication of the statue he had erected.

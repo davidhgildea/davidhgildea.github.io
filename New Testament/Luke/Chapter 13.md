@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 13
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Luke/500/13.jpg" alt="Luke Chapter 13" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Luke Chapter 13.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Luke/500/13.jpg" alt="Luke Chapter 13" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Luke Chapter 13</figcaption>
+</div>
 1 At that time, some people told Jesus about the Galileans whose blood Pilate had mixed with their sacrifices.
 
 2 Jesus answered them, "Do you think that these Galileans were worse sinners than all the other Galileans because they suffered this way?"

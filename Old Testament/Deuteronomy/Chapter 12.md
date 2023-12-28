@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 12
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Deuteronomy/500/12.jpg" alt="Deuteronomy Chapter 12" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Deuteronomy Chapter 12.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Deuteronomy/500/12.jpg" alt="Deuteronomy Chapter 12" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Deuteronomy Chapter 12</figcaption>
+</div>
 1 Here are the rules and decisions you must follow in the land that God of your ancestors is giving you to own, as long as you live on the earth.
 
 2 You must completely destroy all the places where the nations you will take over worshiped their gods, on the high mountains, on the hills, and under every green tree.

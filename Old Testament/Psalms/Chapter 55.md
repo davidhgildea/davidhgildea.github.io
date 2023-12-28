@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 55
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/55.jpg" alt="Psalms Chapter 55" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 55.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/55.jpg" alt="Psalms Chapter 55" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 55</figcaption>
+</div>
 1 Listen to my prayer, God, and do not ignore my request.
 
 2 Listen to me and hear me: I am sad and complaining, and I am loud.

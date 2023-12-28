@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 8
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/8.jpg" alt="Isaiah Chapter 8" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 8.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/8.jpg" alt="Isaiah Chapter 8" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 8</figcaption>
+</div>
 1 God told me, "Get a large scroll and write on it with a normal pen about Mahershalalhashbaz."
 
 2 I chose trustworthy people to witness, Uriah the priest and Zechariah, Jeberechiah's son.

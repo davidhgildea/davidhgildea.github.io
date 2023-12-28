@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 2
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Zechariah/500/2.jpg" alt="Zechariah Chapter 2" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Zechariah Chapter 2.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Zechariah/500/2.jpg" alt="Zechariah Chapter 2" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Zechariah Chapter 2</figcaption>
+</div>
 1 I looked up once more, and saw a man holding a measuring tape.
 
 2 Then I asked, "Where are you going?" And he answered me, "To measure Jerusalem, to find out how wide and how long it is."

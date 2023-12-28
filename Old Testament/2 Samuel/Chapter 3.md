@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 3
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Samuel/500/3.jpg" alt="2 Samuel Chapter 3" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Samuel Chapter 3.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Samuel/500/3.jpg" alt="2 Samuel Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Samuel Chapter 3</figcaption>
+</div>
 1 There was a long war between Saul's family and David's family: but David's family became stronger and stronger, while Saul's family became weaker and weaker.
 
 2 David had sons in Hebron. His first son was Amnon, whose mother was Ahinoam from Jezreel.

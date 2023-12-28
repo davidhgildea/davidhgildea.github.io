@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 1
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Thessalonians/500/1.jpg" alt="1 Thessalonians Chapter 1" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Thessalonians Chapter 1.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Thessalonians/500/1.jpg" alt="1 Thessalonians Chapter 1" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Thessalonians Chapter 1</figcaption>
+</div>
 1 Paul, Silvanus, and Timothy, to the Thessalonian church in God and Jesus Christ: may you have grace and peace from God our Father and Jesus Christ.
 
 2 We always thank God for all of you, remembering you in our prayers.

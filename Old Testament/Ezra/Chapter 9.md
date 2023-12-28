@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 9
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ezra/500/9.jpg" alt="Ezra Chapter 9" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ezra Chapter 9.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ezra/500/9.jpg" alt="Ezra Chapter 9" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ezra Chapter 9</figcaption>
+</div>
 1 After these events, the leaders approached me and reported, "The people of Israel, including the priests and the Levites, have not kept away from the local peoples and their detestable practices, like those of the Canaanites, Hittites, Perizzites, Jebusites, Ammonites, Moabites, Egyptians, and Amorites."
 
 2 They have married women from those nations for themselves and their sons, mixing the sacred race with the local people. Indeed, the leaders and officials have led this wrongdoing.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 15
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Kings/500/15.jpg" alt="1 Kings Chapter 15" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Kings Chapter 15.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Kings/500/15.jpg" alt="1 Kings Chapter 15" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Kings Chapter 15</figcaption>
+</div>
 1 In the eighteenth year of King Jeroboam, son of Nebat, Abijam became king of Judah.
 
 2 He ruled for three years in Jerusalem. His mother was Maachah, the daughter of Abishalom.

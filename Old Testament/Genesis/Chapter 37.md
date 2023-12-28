@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 37
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Genesis/500/37.jpg" alt="Genesis Chapter 37" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Genesis Chapter 37.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Genesis/500/37.jpg" alt="Genesis Chapter 37" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Genesis Chapter 37</figcaption>
+</div>
 1 Jacob lived in the land where his father had been a foreigner, in Canaan.
 
 2 This lists Jacob's family. Seventeen-year-old Joseph was tending sheep with his brothers, the sons of Bilhah and Zilpah, his father's wives. He told his father about the bad things they were doing.

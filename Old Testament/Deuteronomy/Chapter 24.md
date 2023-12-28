@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 24
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Deuteronomy/500/24.jpg" alt="Deuteronomy Chapter 24" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Deuteronomy Chapter 24.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Deuteronomy/500/24.jpg" alt="Deuteronomy Chapter 24" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Deuteronomy Chapter 24</figcaption>
+</div>
 1 When a man gets married and then doesn't like his wife because he sees something wrong with her, he should write her a divorce paper, give it to her, and make her leave his house.
 
 2 When she leaves his house, she can go and become another man's wife.

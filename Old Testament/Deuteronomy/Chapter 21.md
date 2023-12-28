@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 21
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Deuteronomy/500/21.jpg" alt="Deuteronomy Chapter 21" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Deuteronomy Chapter 21.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Deuteronomy/500/21.jpg" alt="Deuteronomy Chapter 21" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Deuteronomy Chapter 21</figcaption>
+</div>
 1 If a dead person is found in the land that God is giving you, lying in the field, and nobody knows who killed him:
 
 2 Then your leaders and judges will come out, and they will measure to the towns around where the person was killed.

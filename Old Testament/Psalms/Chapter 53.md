@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 53
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/53.jpg" alt="Psalms Chapter 53" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 53.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/53.jpg" alt="Psalms Chapter 53" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 53</figcaption>
+</div>
 1 The fool thinks, "There is no God." They are corrupt and do very bad things; no one does good.
 
 2 God watched from heaven to see if any humans were wise and searching for God.

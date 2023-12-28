@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 118
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/118.jpg" alt="Psalms Chapter 118" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 118.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/118.jpg" alt="Psalms Chapter 118" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 118</figcaption>
+</div>
 1 Give thanks to God; for he is good: his kindness lasts forever.
 
 2 Let Israel say now, God's kindness lasts forever.

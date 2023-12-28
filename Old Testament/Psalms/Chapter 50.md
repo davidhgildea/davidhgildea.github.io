@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 50
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/50.jpg" alt="Psalms Chapter 50" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 50.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/50.jpg" alt="Psalms Chapter 50" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 50</figcaption>
+</div>
 1 The powerful God has spoken and called to the earth from where the sun rises to where it sets.
 
 2 From Zion, the perfect place of beauty, God has shone forth.

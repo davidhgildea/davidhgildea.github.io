@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 5
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Chronicles/500/5.jpg" alt="1 Chronicles Chapter 5" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Chronicles Chapter 5.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Chronicles/500/5.jpg" alt="1 Chronicles Chapter 5" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Chronicles Chapter 5</figcaption>
+</div>
 1 Reuben was Israel's first son, but since he dishonored his father's bed, his rights as firstborn were given to Joseph's sons instead, and his family line did not get the firstborn's rights.
 
 2 Judah became stronger than his brothers, and from him came the main leader, but Joseph received the birthright.

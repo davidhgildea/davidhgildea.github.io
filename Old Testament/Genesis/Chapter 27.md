@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 27
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Genesis/500/27.jpg" alt="Genesis Chapter 27" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Genesis Chapter 27.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Genesis/500/27.jpg" alt="Genesis Chapter 27" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Genesis Chapter 27</figcaption>
+</div>
 1 When Isaac got old and could no longer see well, he called for his oldest son Esau and said, "My son." Esau said to him, "Here I am."
 
 2 He said, "Look, I am old and don't know when I will die."

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 105
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/105.jpg" alt="Psalms Chapter 105" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 105.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/105.jpg" alt="Psalms Chapter 105" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 105</figcaption>
+</div>
 1 Give thanks to God; call on his name; tell people about what he has done.
 
 2 Sing to him, sing songs to him; talk about all his amazing works.

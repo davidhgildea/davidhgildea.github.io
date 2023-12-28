@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 6
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Hebrews/500/6.jpg" alt="Hebrews Chapter 6" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Hebrews Chapter 6.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Hebrews/500/6.jpg" alt="Hebrews Chapter 6" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Hebrews Chapter 6</figcaption>
+</div>
 1 So, moving beyond the basic teachings about Christ, let's grow towards complete understanding, without going over the beginning lessons about turning away from useless actions and believing in God again.
 
 2 About the teaching of baptisms, the act of placing hands, the rising of the dead, and forever judgment.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 34
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/34.jpg" alt="Psalms Chapter 34" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 34.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/34.jpg" alt="Psalms Chapter 34" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 34</figcaption>
+</div>
 1 I will always bless God; I will constantly praise him with my words.
 
 2 I will proudly speak of God; the humble will hear and be happy.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 1
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Amos/500/1.jpg" alt="Amos Chapter 1" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Amos Chapter 1.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Amos/500/1.jpg" alt="Amos Chapter 1" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Amos Chapter 1</figcaption>
+</div>
 1 These are the words of Amos, one of the shepherds from Tekoa. He had visions about Israel when Uzziah was king of Judah, and when Jeroboam, Joash's son, was king of Israel. This happened two years before the earthquake.
 
 2 He said, God will roar from Zion and speak loudly from Jerusalem; the shepherds' homes will be sad, and the top of Carmel will dry up.

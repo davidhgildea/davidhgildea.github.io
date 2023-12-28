@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 1
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ezekiel/500/1.jpg" alt="Ezekiel Chapter 1" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ezekiel Chapter 1.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ezekiel/500/1.jpg" alt="Ezekiel Chapter 1" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 1</figcaption>
+</div>
 1 In the thirtieth year, on the fifth day of the fourth month, while I was with the captives by the Chebar River, the sky opened, and I saw visions from God.
 
 2 On the fifth day of the month, during the fifth year of King Jehoiachin's capture,

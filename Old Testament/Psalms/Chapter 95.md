@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 95
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/95.jpg" alt="Psalms Chapter 95" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 95.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/95.jpg" alt="Psalms Chapter 95" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 95</figcaption>
+</div>
 1 Come, let's sing to God: let's shout joyfully to the rock who saves us.
 
 2 Let's come before God with thanksgiving and make a joyful noise to him with songs.

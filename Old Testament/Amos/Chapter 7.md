@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 7
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Amos/500/7.jpg" alt="Amos Chapter 7" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Amos Chapter 7.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Amos/500/7.jpg" alt="Amos Chapter 7" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Amos Chapter 7</figcaption>
+</div>
 1 God showed me this: I saw him create locusts at the start of the crops' second growth, after the king's harvest.
 
 2 When they finished eating the land's grass, I said, "Please God, forgive us. How can Jacob survive? He is too small."

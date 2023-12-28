@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 12
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Chronicles/500/12.jpg" alt="1 Chronicles Chapter 12" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Chronicles Chapter 12.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Chronicles/500/12.jpg" alt="1 Chronicles Chapter 12" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Chronicles Chapter 12</figcaption>
+</div>
 1 These people came to David at Ziklag when he was still hiding from Saul, Kish's son. They were strong warriors who helped in battle.
 
 2 They carried bows and could throw stones and shoot arrows with both their right and left hands, like Saul's relatives from Benjamin.

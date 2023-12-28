@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 33
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Numbers/500/33.jpg" alt="Numbers Chapter 33" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Numbers Chapter 33.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Numbers/500/33.jpg" alt="Numbers Chapter 33" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Numbers Chapter 33</figcaption>
+</div>
 1 These are the travels of the Israelites who left Egypt with their soldiers led by Moses and Aaron.
 
 2 Moses recorded where they traveled from as God instructed; these are their travels based on where they left.

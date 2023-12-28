@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 10
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Matthew/500/10.jpg" alt="Matthew Chapter 10" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Matthew Chapter 10.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Matthew/500/10.jpg" alt="Matthew Chapter 10" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Matthew Chapter 10</figcaption>
+</div>
 1 When he gathered his twelve followers, he gave them authority over evil spirits, to drive them out, and to cure every kind of illness and disease.
 
 2 The twelve apostles' names are: The first is Simon, called Peter, and his brother Andrew; James, Zebedee's son, and his brother John.

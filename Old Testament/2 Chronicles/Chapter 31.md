@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 31
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Chronicles/500/31.jpg" alt="2 Chronicles Chapter 31" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Chronicles Chapter 31.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Chronicles/500/31.jpg" alt="2 Chronicles Chapter 31" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Chronicles Chapter 31</figcaption>
+</div>
 1 After finishing this, all the Israelites there went to the towns of Judah, smashed the idols, cut down the sacred trees, and destroyed the high places and altars throughout Judah and Benjamin, and in Ephraim and Manasseh, until they had completely removed them. Then all the Israelites went back to their own cities and property.
 
 2 Hezekiah organized the priests and Levites by their duties, each person according to their work, for burnt and peace offerings, to serve, give thanks, and praise at the entrance of God's tent.

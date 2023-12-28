@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 40
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/40.jpg" alt="Psalms Chapter 40" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 40.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/40.jpg" alt="Psalms Chapter 40" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 40</figcaption>
+</div>
 1 I waited patiently for God; He turned to me and heard my cry.
 
 2 God lifted me from a terrible pit and from sticky mud, placed my feet on solid ground, and made my steps firm.

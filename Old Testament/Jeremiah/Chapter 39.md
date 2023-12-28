@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 39
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Jeremiah/500/39.jpg" alt="Jeremiah Chapter 39" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Jeremiah Chapter 39.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Jeremiah/500/39.jpg" alt="Jeremiah Chapter 39" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 39</figcaption>
+</div>
 1 In the ninth year when Zedekiah was king of Judah, during the tenth month, Nebuchadnezzar the king of Babylon and his whole army attacked Jerusalem and surrounded it.
 
 2 In the eleventh year of Zedekiah, during the fourth month on the ninth day, the city walls were breached.

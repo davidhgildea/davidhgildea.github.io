@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 39
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ezekiel/500/39.jpg" alt="Ezekiel Chapter 39" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ezekiel Chapter 39.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ezekiel/500/39.jpg" alt="Ezekiel Chapter 39" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 39</figcaption>
+</div>
 1 So, you human messenger, speak against Gog and say, 'This is what God says: Look, I am against you, Gog, ruler of Meshech and Tubal.'
 
 2 I will make you turn back, leaving only a sixth of you, and will lead you from the north to the mountains of Israel.

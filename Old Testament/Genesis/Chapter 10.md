@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 10
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Genesis/500/10.jpg" alt="Genesis Chapter 10" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Genesis Chapter 10.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Genesis/500/10.jpg" alt="Genesis Chapter 10" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Genesis Chapter 10</figcaption>
+</div>
 1 Here are the family lines of Noah's sons: Shem, Ham, and Japheth. These sons had their own children after the flood.
 
 2 Japheth's sons were Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.

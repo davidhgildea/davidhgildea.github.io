@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 34
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Chronicles/500/34.jpg" alt="2 Chronicles Chapter 34" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Chronicles Chapter 34.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Chronicles/500/34.jpg" alt="2 Chronicles Chapter 34" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Chronicles Chapter 34</figcaption>
+</div>
 1 Josiah was eight years old when he became king, and he ruled in Jerusalem for thirty-one years.
 
 2 He did what was good in God's eyes and followed the path of his ancestor David, without turning to the right or to the left.

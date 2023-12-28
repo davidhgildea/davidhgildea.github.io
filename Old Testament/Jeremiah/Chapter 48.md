@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 48
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Jeremiah/500/48.jpg" alt="Jeremiah Chapter 48" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Jeremiah Chapter 48.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Jeremiah/500/48.jpg" alt="Jeremiah Chapter 48" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 48</figcaption>
+</div>
 1 God says this about Moab: "Trouble is coming to Nebo because it's destroyed. Kiriathaim is captured and shamed. Misgab is terrified and upset."
 
 2 Moab will not be praised anymore; in Heshbon, they plan to destroy it. Come, let's wipe it out as a nation. Madmen, you too will be destroyed; the sword will chase you.

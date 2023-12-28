@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 8
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Daniel/500/8.jpg" alt="Daniel Chapter 8" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Daniel Chapter 8.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Daniel/500/8.jpg" alt="Daniel Chapter 8" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Daniel Chapter 8</figcaption>
+</div>
 1 In the third year of King Belshazzar's rule, I, Daniel, had a vision, after my first one.
 
 2 I had a vision and when it happened, I was in the city of Shushan at the palace, located in Elam. In the vision, I was standing by the Ulai River.

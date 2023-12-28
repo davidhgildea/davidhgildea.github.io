@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 34
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ezekiel/500/34.jpg" alt="Ezekiel Chapter 34" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ezekiel Chapter 34.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ezekiel/500/34.jpg" alt="Ezekiel Chapter 34" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 34</figcaption>
+</div>
 1 God's message came to me, saying,
 
 2 Human, speak against Israel's leaders, speak and tell them, God says to the leaders: Trouble to you, Israel's leaders, who only take care of yourselves! Shouldn't leaders take care of the people?

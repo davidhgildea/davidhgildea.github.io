@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 22
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Chronicles/500/22.jpg" alt="1 Chronicles Chapter 22" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Chronicles Chapter 22.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Chronicles/500/22.jpg" alt="1 Chronicles Chapter 22" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Chronicles Chapter 22</figcaption>
+</div>
 1 Then David said, "This is God's house, and this is the altar for Israel's burnt offerings."
 
 2 David ordered to bring together the foreigners in Israel; he assigned stonecutters to shape stones to construct God's house.

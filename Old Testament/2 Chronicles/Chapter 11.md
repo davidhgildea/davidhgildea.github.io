@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 11
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Chronicles/500/11.jpg" alt="2 Chronicles Chapter 11" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Chronicles Chapter 11.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Chronicles/500/11.jpg" alt="2 Chronicles Chapter 11" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Chronicles Chapter 11</figcaption>
+</div>
 1 When Rehoboam arrived in Jerusalem, he assembled 180,000 skilled soldiers from the tribes of Judah and Benjamin to battle against Israel and take back his kingdom.
 
 2 God's message came to Shemaiah, God's man, saying,

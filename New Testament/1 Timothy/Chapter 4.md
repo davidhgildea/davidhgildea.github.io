@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 4
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Timothy/500/4.jpg" alt="1 Timothy Chapter 4" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Timothy Chapter 4.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Timothy/500/4.jpg" alt="1 Timothy Chapter 4" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Timothy Chapter 4</figcaption>
+</div>
 1 The Spirit clearly says that in later times some will turn away from faith, listening to misleading spirits and teachings of demons.
 
 2 Telling lies and pretending to be good, while their consciences are numb as if burned with a hot iron.

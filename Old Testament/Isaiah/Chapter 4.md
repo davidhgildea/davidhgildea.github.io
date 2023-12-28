@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 4
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/4.jpg" alt="Isaiah Chapter 4" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 4.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/4.jpg" alt="Isaiah Chapter 4" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 4</figcaption>
+</div>
 1 On that day, seven women will grab one man and say, "We will eat our own food and wear our own clothes; just let us have your name to remove our shame."
 
 2 On that day, God's branch will be beautiful and glorious, and the earth's produce will be outstanding and attractive for the survivors in Israel.

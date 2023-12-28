@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 3
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Esther/500/3.jpg" alt="Esther Chapter 3" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Esther Chapter 3.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Esther/500/3.jpg" alt="Esther Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Esther Chapter 3</figcaption>
+</div>
 1 After this, King Ahasuerus promoted Haman, son of Hammedatha the Agagite, raised his rank, and gave him a higher seat than all the other princes with him.
 
 2 All the king's workers at the king's gate bowed and showed respect to Haman because the king ordered it. But Mordecai did not bow or show him respect.

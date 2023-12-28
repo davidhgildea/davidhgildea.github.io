@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 1
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Deuteronomy/500/1.jpg" alt="Deuteronomy Chapter 1" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Deuteronomy Chapter 1.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Deuteronomy/500/1.jpg" alt="Deuteronomy Chapter 1" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Deuteronomy Chapter 1</figcaption>
+</div>
 1 These are the words Moses said to all Israel in the desert east of Jordan, near the Red Sea, between Paran, Tophel, Laban, Hazeroth, and Dizahab.
 
 2 It takes eleven days to go from Horeb to Kadeshbarnea by the Mount Seir road.

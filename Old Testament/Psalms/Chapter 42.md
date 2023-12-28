@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 42
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/42.jpg" alt="Psalms Chapter 42" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 42.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/42.jpg" alt="Psalms Chapter 42" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 42</figcaption>
+</div>
 1 Like a deer that longs for streams of water, my soul longs for you, God.
 
 2 I long for God, for the living God. When can I go and meet with God?

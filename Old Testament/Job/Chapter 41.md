@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 41
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Job/500/41.jpg" alt="Job Chapter 41" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Job Chapter 41.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Job/500/41.jpg" alt="Job Chapter 41" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Job Chapter 41</figcaption>
+</div>
 1 Can you catch Leviathan with a fishhook or tie down its tongue with a rope?
 
 2 Can you put a hook in his nose or pierce his jaw with a spike?

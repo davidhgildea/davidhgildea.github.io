@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 2
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Habakkuk/500/2.jpg" alt="Habakkuk Chapter 2" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Habakkuk Chapter 2.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Habakkuk/500/2.jpg" alt="Habakkuk Chapter 2" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Habakkuk Chapter 2</figcaption>
+</div>
 1 I will stand at my guard post and take my position on the watchtower. I will look to see what God will tell me and how I should respond when I am corrected.
 
 2 God answered me, "Write the vision clearly on tablets, so that anyone who reads it can quickly understand."

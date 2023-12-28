@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 15
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Samuel/500/15.jpg" alt="1 Samuel Chapter 15" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Samuel Chapter 15.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Samuel/500/15.jpg" alt="1 Samuel Chapter 15" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Samuel Chapter 15</figcaption>
+</div>
 1 Samuel also said to Saul, "God sent me to anoint you as king over his people, over Israel; so now listen to what God says."
 
 2 God says, "I remember what Amalek did to Israel, how he ambushed them on their journey from Egypt."

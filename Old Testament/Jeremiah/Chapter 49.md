@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 49
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Jeremiah/500/49.jpg" alt="Jeremiah Chapter 49" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Jeremiah Chapter 49.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Jeremiah/500/49.jpg" alt="Jeremiah Chapter 49" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 49</figcaption>
+</div>
 1 About the Ammonites, this is what God says: Does Israel have no children? Do they have no one to inherit their land? Why then does the king of the Ammonites take over the land of Gad, and why do his people live in its towns?
 
 2 So, listen, the time will come, God says, when I will make the sound of war heard in Rabbah of the Ammon people; it will become a ruined mound, and its towns will be set on fire. Then Israel will take over the land from those who took their land, God says.

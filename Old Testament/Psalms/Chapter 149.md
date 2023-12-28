@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 149
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/149.jpg" alt="Psalms Chapter 149" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 149.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/149.jpg" alt="Psalms Chapter 149" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 149</figcaption>
+</div>
 1 Praise God. Sing to God a new song, and praise Him when the faithful gather together.
 
 2 Let Israel be happy with their creator; let Zion's children be joyful in their King.

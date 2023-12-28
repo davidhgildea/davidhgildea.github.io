@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 123
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/123.jpg" alt="Psalms Chapter 123" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 123.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/123.jpg" alt="Psalms Chapter 123" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 123</figcaption>
+</div>
 1 I look up to you, God in the heavens.
 
 2 Just like servants watch their masters' hands, and a girl watches her mistress' hand, we watch for God until He shows us kindness.

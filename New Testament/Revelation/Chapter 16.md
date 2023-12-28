@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 16
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Revelation/500/16.jpg" alt="Revelation Chapter 16" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Revelation Chapter 16.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Revelation/500/16.jpg" alt="Revelation Chapter 16" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Revelation Chapter 16</figcaption>
+</div>
 1 I heard a loud voice from the temple telling the seven angels, "Go and pour out the bowls of God's anger on the earth."
 
 2 The first angel went and poured out his bowl on the earth; and there came a painful and bad sore on the people who had the beast's mark and on those who worshiped its image.

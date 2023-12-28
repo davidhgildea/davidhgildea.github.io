@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 23
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Samuel/500/23.jpg" alt="1 Samuel Chapter 23" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Samuel Chapter 23.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Samuel/500/23.jpg" alt="1 Samuel Chapter 23" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Samuel Chapter 23</figcaption>
+</div>
 1 They informed David, "Look, the Philistines are attacking Keilah and stealing from the grain floors."
 
 2 David asked God, "Should I go and attack these Philistines?" And God said to David, "Go, attack the Philistines, and save Keilah."

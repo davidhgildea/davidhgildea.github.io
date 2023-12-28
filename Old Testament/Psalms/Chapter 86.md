@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 86
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/86.jpg" alt="Psalms Chapter 86" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 86.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/86.jpg" alt="Psalms Chapter 86" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 86</figcaption>
+</div>
 1 Lean down your ear, God, listen to me: I am poor and in need.
 
 2 Keep me safe, because I am devoted to you; my God, rescue your servant who relies on you.

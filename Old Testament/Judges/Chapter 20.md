@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 20
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Judges/500/20.jpg" alt="Judges Chapter 20" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Judges Chapter 20.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Judges/500/20.jpg" alt="Judges Chapter 20" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Judges Chapter 20</figcaption>
+</div>
 1 All the Israelites came together as one group, from Dan to Beersheba including the people of Gilead, to meet with God in Mizpah.
 
 2 The leaders of the people from all the tribes of Israel came together in the meeting, a total of 400,000 soldiers ready for battle.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 13
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/13.jpg" alt="Isaiah Chapter 13" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 13.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/13.jpg" alt="Isaiah Chapter 13" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 13</figcaption>
+</div>
 1 Isaiah, son of Amoz, saw this message about Babylon.
 
 2 Raise a flag on the tall mountain, shout out loud to them, wave your hand, so they may enter the gates of the leaders.

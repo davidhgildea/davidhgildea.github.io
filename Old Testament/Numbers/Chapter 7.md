@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 7
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Numbers/500/7.jpg" alt="Numbers Chapter 7" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Numbers Chapter 7.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Numbers/500/7.jpg" alt="Numbers Chapter 7" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Numbers Chapter 7</figcaption>
+</div>
 1 On the day Moses finished setting up the tent of meeting, he put oil on it, made it holy, and did the same for all its equipment, the altar, and all its tools.
 
 2 The leaders of Israel, the heads of their families, who were in charge of the tribes and oversaw the counting, gave offerings.

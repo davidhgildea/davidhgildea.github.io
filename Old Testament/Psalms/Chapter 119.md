@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 119
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/119.jpg" alt="Psalms Chapter 119" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 119.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/119.jpg" alt="Psalms Chapter 119" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 119</figcaption>
+</div>
 1 Happy are those who are pure in their ways, who follow God's law.
 
 2 Happy are those who follow his instructions and search for him with all their heart.

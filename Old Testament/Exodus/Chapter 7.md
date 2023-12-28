@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 7
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Exodus/500/7.jpg" alt="Exodus Chapter 7" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Exodus Chapter 7.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Exodus/500/7.jpg" alt="Exodus Chapter 7" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Exodus Chapter 7</figcaption>
+</div>
 1 God said to Moses, "Look, I have made you like a god to Pharaoh, and your brother Aaron will be your spokesperson."
 
 2 You will say everything I tell you, and your brother Aaron will tell the Pharaoh to let the Israelites go from his land.

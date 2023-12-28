@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 70
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/70.jpg" alt="Psalms Chapter 70" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 70.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/70.jpg" alt="Psalms Chapter 70" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 70</figcaption>
+</div>
 1 Hurry, God, to save me; hurry to help me, God.
 
 2 May those who want to harm me feel ashamed and confused; may they be turned away and filled with embarrassment.

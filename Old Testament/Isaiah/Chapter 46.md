@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 46
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/46.jpg" alt="Isaiah Chapter 46" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 46.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/46.jpg" alt="Isaiah Chapter 46" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 46</figcaption>
+</div>
 1 Bel bends down, Nebo bows, their idols are on the animals and livestock: your carts carry a heavy load; they weigh down the tired animals.
 
 2 They bend low, they kneel down together; they cannot save the heavy load, but they themselves are carried off as prisoners.

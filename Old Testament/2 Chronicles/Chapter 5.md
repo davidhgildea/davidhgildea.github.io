@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 5
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Chronicles/500/5.jpg" alt="2 Chronicles Chapter 5" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Chronicles Chapter 5.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Chronicles/500/5.jpg" alt="2 Chronicles Chapter 5" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Chronicles Chapter 5</figcaption>
+</div>
 1 So Solomon finished all the work for God's house. He brought in all the special things his father David had given, including the silver, gold, and tools, and placed them in the storerooms of God's house.
 
 2 Solomon gathered the senior leaders of Israel, the top officials of the tribes, and the heads of the families of Israel's children in Jerusalem. They came to move God's covenant chest from David’s city, which is Zion.

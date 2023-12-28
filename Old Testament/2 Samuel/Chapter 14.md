@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 14
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Samuel/500/14.jpg" alt="2 Samuel Chapter 14" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Samuel Chapter 14.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Samuel/500/14.jpg" alt="2 Samuel Chapter 14" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Samuel Chapter 14</figcaption>
+</div>
 1 Joab, Zeruiah's son, noticed that the king felt kindly toward Absalom.
 
 2 Joab sent to Tekoah and brought back a smart woman and said to her, "Please pretend to be grieving. Dress in sad clothes and don't put on any perfume. Act like you have been mourning a death for a long time."

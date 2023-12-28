@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 10
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Zechariah/500/10.jpg" alt="Zechariah Chapter 10" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Zechariah Chapter 10.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Zechariah/500/10.jpg" alt="Zechariah Chapter 10" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Zechariah Chapter 10</figcaption>
+</div>
 1 Ask God for rain when the late rains come; then God will send thunderclouds and give everyone rain for the plants in the fields.
 
 2 The idols have said meaningless things, and the fortune-tellers have seen lies and told untrue dreams; they offer empty comfort. So the people wandered like sheep, distressed because they had no leader.

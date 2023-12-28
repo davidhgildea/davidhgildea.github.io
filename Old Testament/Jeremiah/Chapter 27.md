@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 27
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Jeremiah/500/27.jpg" alt="Jeremiah Chapter 27" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Jeremiah Chapter 27.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Jeremiah/500/27.jpg" alt="Jeremiah Chapter 27" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 27</figcaption>
+</div>
 1 At the start of Jehoiakim's rule, Josiah's son and king of Judah, God gave this message to Jeremiah:
 
 2 God told me, "Make ties and yokes, and put them on your neck."

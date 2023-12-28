@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 11
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Mark/500/11.jpg" alt="Mark Chapter 11" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Mark Chapter 11.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Mark/500/11.jpg" alt="Mark Chapter 11" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Mark Chapter 11</figcaption>
+</div>
 1 When they got close to Jerusalem, near Bethphage and Bethany, by the Mount of Olives, he sent two of his followers.
 
 2 He says to them, "Go into the village ahead of you, and as soon as you enter, you will see a young donkey tied up that no one has ridden. Untie it and bring it here."

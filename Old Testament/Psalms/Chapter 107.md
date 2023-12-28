@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 107
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/107.jpg" alt="Psalms Chapter 107" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 107.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/107.jpg" alt="Psalms Chapter 107" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 107</figcaption>
+</div>
 1 Give thanks to God, because He is good; His love lasts forever.
 
 2 Let those saved by God say so, whom he has saved from the enemy's power.

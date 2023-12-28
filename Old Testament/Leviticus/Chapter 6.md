@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 6
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Leviticus/500/6.jpg" alt="Leviticus Chapter 6" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Leviticus Chapter 6.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Leviticus/500/6.jpg" alt="Leviticus Chapter 6" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Leviticus Chapter 6</figcaption>
+</div>
 1 God spoke to Moses, saying,
 
 2 If someone sins, breaks faith with God, and lies to a friend about something entrusted to them, shared in partnership, stolen, or if they have cheated their friend;

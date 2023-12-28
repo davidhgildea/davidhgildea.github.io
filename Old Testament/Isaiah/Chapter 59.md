@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 59
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/59.jpg" alt="Isaiah Chapter 59" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 59.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/59.jpg" alt="Isaiah Chapter 59" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 59</figcaption>
+</div>
 1 Look, God's hand is not too short to save; nor is his ear too dull to hear.
 
 2 Your wrongs have come between you and God, and your sins have hidden his face from you, so he will not listen.

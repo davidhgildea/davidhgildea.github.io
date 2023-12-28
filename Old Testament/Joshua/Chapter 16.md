@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 16
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Joshua/500/16.jpg" alt="Joshua Chapter 16" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Joshua Chapter 16.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Joshua/500/16.jpg" alt="Joshua Chapter 16" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Joshua Chapter 16</figcaption>
+</div>
 1 Joseph's descendants received land extending from the Jordan at Jericho to the eastern waters of Jericho, reaching to the desert and then to Bethel hill.
 
 2 It goes from Bethel to Luz, and goes through to the edge of Archi to Ataroth.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 42
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Jeremiah/500/42.jpg" alt="Jeremiah Chapter 42" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Jeremiah Chapter 42.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Jeremiah/500/42.jpg" alt="Jeremiah Chapter 42" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 42</figcaption>
+</div>
 1 Then all the army leaders, Johanan son of Kareah, Jezaniah son of Hoshaiah, and everyone, both small and great, came forward.
 
 2 They said to the prophet Jeremiah, "Please listen to our request and pray to God for us, for all of us who remain, because only a few of us are left from many, as you can see."

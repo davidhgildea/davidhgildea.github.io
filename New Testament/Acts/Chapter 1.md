@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 1
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Acts/500/1.jpg" alt="Acts Chapter 1" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Acts Chapter 1.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Acts/500/1.jpg" alt="Acts Chapter 1" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Acts Chapter 1</figcaption>
+</div>
 1 I wrote before, Theophilus, about all Jesus began to do and teach.
 
 2 Until the day he was taken up to heaven, after he had given instructions through the Holy Spirit to the apostles he had chosen.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 51
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Jeremiah/500/51.jpg" alt="Jeremiah Chapter 51" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Jeremiah Chapter 51.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Jeremiah/500/51.jpg" alt="Jeremiah Chapter 51" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 51</figcaption>
+</div>
 1 God says, "Look, I will send a destructive wind against Babylon and those living there who turn against me."
 
 2 God will send to Babylon people who will scatter her, and will empty her land; for in the time of trouble, they will surround her completely.

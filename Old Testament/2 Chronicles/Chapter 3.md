@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 3
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Chronicles/500/3.jpg" alt="2 Chronicles Chapter 3" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Chronicles Chapter 3.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Chronicles/500/3.jpg" alt="2 Chronicles Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Chronicles Chapter 3</figcaption>
+</div>
 1 Solomon started building God's house in Jerusalem on Mount Moriah, where God had shown himself to David, his father, at the spot David had set up on Ornan the Jebusite's threshing floor.
 
 2 He started to build on the second day of the second month, in the fourth year of his rule.

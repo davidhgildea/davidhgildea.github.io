@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 2
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ephesians/500/2.jpg" alt="Ephesians Chapter 2" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ephesians Chapter 2.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ephesians/500/2.jpg" alt="Ephesians Chapter 2" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ephesians Chapter 2</figcaption>
+</div>
 1 God made you alive even when you were dead because of your wrong actions and sins.
 
 2 Before, you lived as the world does, following the ruler of the earthly realm, the spirit that is active in those who disobey.

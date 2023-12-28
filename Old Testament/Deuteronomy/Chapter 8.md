@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 8
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Deuteronomy/500/8.jpg" alt="Deuteronomy Chapter 8" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Deuteronomy Chapter 8.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Deuteronomy/500/8.jpg" alt="Deuteronomy Chapter 8" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Deuteronomy Chapter 8</figcaption>
+</div>
 1 Follow all the commands I give you today so you can live, grow, and take over the land God promised to your ancestors.
 
 2 Remember how God guided you through the wilderness for forty years, to humble and test you, and to see if you would follow His commands.

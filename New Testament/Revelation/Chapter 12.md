@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 12
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Revelation/500/12.jpg" alt="Revelation Chapter 12" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Revelation Chapter 12.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Revelation/500/12.jpg" alt="Revelation Chapter 12" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Revelation Chapter 12</figcaption>
+</div>
 1 In heaven, a great sign appeared: a woman dressed in the sun, with the moon under her feet, and a crown of twelve stars on her head.
 
 2 She was pregnant and cried out in pain as she was about to give birth.

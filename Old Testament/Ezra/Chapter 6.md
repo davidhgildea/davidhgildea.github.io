@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 6
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ezra/500/6.jpg" alt="Ezra Chapter 6" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ezra Chapter 6.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ezra/500/6.jpg" alt="Ezra Chapter 6" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ezra Chapter 6</figcaption>
+</div>
 1 King Darius gave an order, and they searched the records where the Babylon treasures were stored.
 
 2 They found a scroll at Achmetha, in the palace in the Medes' region, with this written record:

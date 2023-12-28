@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 29
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Jeremiah/500/29.jpg" alt="Jeremiah Chapter 29" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Jeremiah Chapter 29.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Jeremiah/500/29.jpg" alt="Jeremiah Chapter 29" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 29</figcaption>
+</div>
 1 This is the message from the letter that the prophet Jeremiah sent from Jerusalem to the remaining elders who were taken as captives, and to the priests, the prophets, and all the people whom Nebuchadnezzar had taken from Jerusalem to Babylon as prisoners.
 
 2 After Jeconiah the king, the queen, the officials, the leaders of Judah and Jerusalem, the carpenters, and the metalworkers left Jerusalem;

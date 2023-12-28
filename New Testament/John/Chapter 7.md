@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 7
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/John/500/7.jpg" alt="John Chapter 7" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">John Chapter 7.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/John/500/7.jpg" alt="John Chapter 7" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">John Chapter 7</figcaption>
+</div>
 1 After this, Jesus stayed in Galilee because he did not want to be in Judea where the Jewish leaders wanted to kill him.
 
 2 The Jewish festival of shelters was coming soon.

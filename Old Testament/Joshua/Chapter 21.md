@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 21
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Joshua/500/21.jpg" alt="Joshua Chapter 21" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Joshua Chapter 21.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Joshua/500/21.jpg" alt="Joshua Chapter 21" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Joshua Chapter 21</figcaption>
+</div>
 1 The leaders of the Levite families approached Priest Eleazar, Joshua son of Nun, and the leaders of the other Israelite families.
 
 2 They talked to them at Shiloh in Canaan, saying, "God told us through Moses to give us cities to live in, with the surrounding land for our animals."

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 4
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ecclesiastes/500/4.jpg" alt="Ecclesiastes Chapter 4" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ecclesiastes Chapter 4.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ecclesiastes/500/4.jpg" alt="Ecclesiastes Chapter 4" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ecclesiastes Chapter 4</figcaption>
+</div>
 1 I went back and saw all the unfair things happening on earth: I saw the tears of the oppressed, with no one to comfort them; the oppressors had the power, but the oppressed had no comforter.
 
 2 So I said that those who have already died are happier than those who are still alive.

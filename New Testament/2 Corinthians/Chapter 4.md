@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 4
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Corinthians/500/4.jpg" alt="2 Corinthians Chapter 4" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Corinthians Chapter 4.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Corinthians/500/4.jpg" alt="2 Corinthians Chapter 4" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Corinthians Chapter 4</figcaption>
+</div>
 1 Because we are given this service and have received kindness, we do not lose heart.
 
 2 We have turned away from secret and shameful ways; we do not use trickery, nor do we distort God's message. Instead, by clearly showing the truth, we prove ourselves to everyone's conscience in God's presence.

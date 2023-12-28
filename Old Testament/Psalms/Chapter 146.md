@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 146
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/146.jpg" alt="Psalms Chapter 146" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 146.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/146.jpg" alt="Psalms Chapter 146" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 146</figcaption>
+</div>
 1 Praise God. Praise God, my soul.
 
 2 As long as I live, I will praise God: I will sing to my God as long as I exist.

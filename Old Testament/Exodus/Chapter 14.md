@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 14
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Exodus/500/14.jpg" alt="Exodus Chapter 14" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Exodus Chapter 14.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Exodus/500/14.jpg" alt="Exodus Chapter 14" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Exodus Chapter 14</figcaption>
+</div>
 1 God spoke to Moses, saying,
 
 2 Tell the Israelites to go and camp in front of Pihahiroth, between Migdol and the sea, across from Baalzephon; you should camp by the sea in front of it.

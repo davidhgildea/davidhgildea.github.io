@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 3
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Acts/500/3.jpg" alt="Acts Chapter 3" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Acts Chapter 3.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Acts/500/3.jpg" alt="Acts Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Acts Chapter 3</figcaption>
+</div>
 1 Peter and John went to the temple together to pray at three in the afternoon.
 
 2 A man who couldn't walk since birth was brought and placed every day at the temple gate named Beautiful to ask for money from those going into the temple.

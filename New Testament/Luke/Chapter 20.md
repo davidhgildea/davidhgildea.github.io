@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 20
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Luke/500/20.jpg" alt="Luke Chapter 20" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Luke Chapter 20.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Luke/500/20.jpg" alt="Luke Chapter 20" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Luke Chapter 20</figcaption>
+</div>
 1 One day, while he was teaching the people in the temple and sharing the good news, the chief priests, the scribes, and the elders approached him.
 
 2 He spoke to him, asking, "Tell us, by what authority do you do these things? Or who gave you this authority?"

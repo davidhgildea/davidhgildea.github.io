@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 6
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Mark/500/6.jpg" alt="Mark Chapter 6" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Mark Chapter 6.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Mark/500/6.jpg" alt="Mark Chapter 6" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Mark Chapter 6</figcaption>
+</div>
 1 He left that place, went to his hometown, and his disciples followed him.
 
 2 When the Sabbath came, he started to teach in the synagogue. Many who heard him were amazed and asked, "Where did this man get these things?" and "What kind of wisdom has been given to him that he can do such great deeds?"

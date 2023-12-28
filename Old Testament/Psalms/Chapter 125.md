@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 125
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/125.jpg" alt="Psalms Chapter 125" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 125.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/125.jpg" alt="Psalms Chapter 125" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 125</figcaption>
+</div>
 1 Those who trust in God will be like Mount Zion, which cannot be moved and stands forever.
 
 2 God is always around his people like mountains surround Jerusalem.

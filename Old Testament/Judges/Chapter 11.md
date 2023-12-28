@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 11
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Judges/500/11.jpg" alt="Judges Chapter 11" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Judges Chapter 11.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Judges/500/11.jpg" alt="Judges Chapter 11" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Judges Chapter 11</figcaption>
+</div>
 1 Jephthah from Gilead was a brave warrior, and his mother was a prostitute. Gilead was Jephthah's father.
 
 2 Gilead's wife had sons for him; when they grew up, they pushed Jephthah out, telling him, "You won't get any share in our father's home because you are the son of a different woman."

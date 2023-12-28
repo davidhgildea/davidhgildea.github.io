@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 14
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/John/500/14.jpg" alt="John Chapter 14" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">John Chapter 14.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/John/500/14.jpg" alt="John Chapter 14" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">John Chapter 14</figcaption>
+</div>
 1 Don't be worried in your heart; you trust in God, trust also in me.
 
 2 In my Father's house, there are many homes. If it wasn't true, I would have told you. I am going to get a place ready for you.

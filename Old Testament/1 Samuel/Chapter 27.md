@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 27
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Samuel/500/27.jpg" alt="1 Samuel Chapter 27" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Samuel Chapter 27.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Samuel/500/27.jpg" alt="1 Samuel Chapter 27" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Samuel Chapter 27</figcaption>
+</div>
 1 David thought to himself, "I will one day die by Saul's hand. The best thing I can do is quickly run away to the Philistine territory; then Saul will give up looking for me in Israel, and I will be safe from him."
 
 2 David got up and went with his six hundred men to Achish, son of Maoch, the king of Gath.

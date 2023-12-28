@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 5
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/5.jpg" alt="Isaiah Chapter 5" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 5.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/5.jpg" alt="Isaiah Chapter 5" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 5</figcaption>
+</div>
 1 I will sing a song for my loved one about his vineyard. My loved one has a vineyard on a fertile hill.
 
 2 He built a fence around it, removed the stones, planted the best vines, built a tower in the middle, and made a winepress in it. He expected it to grow grapes, but it grew wild grapes instead.

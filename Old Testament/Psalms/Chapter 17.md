@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 17
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/17.jpg" alt="Psalms Chapter 17" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 17.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/17.jpg" alt="Psalms Chapter 17" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 17</figcaption>
+</div>
 1 Listen to me, God, hear my cry, pay attention to my prayer that comes from honest lips.
 
 2 Let your decision come from your presence; let your eyes see what is fair.

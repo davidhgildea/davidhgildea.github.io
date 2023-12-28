@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 4
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Mark/500/4.jpg" alt="Mark Chapter 4" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Mark Chapter 4.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Mark/500/4.jpg" alt="Mark Chapter 4" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Mark Chapter 4</figcaption>
+</div>
 1 He started teaching by the sea again, and so many people came to him that he got into a boat and sat on the water, while all the people stayed on the shore.
 
 2 He taught them many things using stories and explained his teachings to them.

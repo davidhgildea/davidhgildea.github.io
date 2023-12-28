@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 11
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Zechariah/500/11.jpg" alt="Zechariah Chapter 11" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Zechariah Chapter 11.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Zechariah/500/11.jpg" alt="Zechariah Chapter 11" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Zechariah Chapter 11</figcaption>
+</div>
 1 Open your doors, Lebanon, so the fire can burn your cedar trees.
 
 2 Cry out, pine tree, because the cedar has fallen; the powerful have been destroyed. Cry out, you oaks of Bashan, because the thick forest has been cut down.

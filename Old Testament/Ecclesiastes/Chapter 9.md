@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 9
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ecclesiastes/500/9.jpg" alt="Ecclesiastes Chapter 9" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ecclesiastes Chapter 9.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ecclesiastes/500/9.jpg" alt="Ecclesiastes Chapter 9" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ecclesiastes Chapter 9</figcaption>
+</div>
 1 I thought deeply about all this and decided to explain that the good and wise people, and what they do, are in God's control. No one can understand whether they will experience love or hate based on what they see around them.
 
 2 Everything happens to everyone: the same thing happens to good and bad people, to those who are pure and those who are not, to those who offer sacrifices and those who do not. Just as it is with the good person, so it is with the sinner; and it is the same for those who make promises and those who are afraid to.

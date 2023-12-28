@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 8
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Kings/500/8.jpg" alt="2 Kings Chapter 8" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Kings Chapter 8.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Kings/500/8.jpg" alt="2 Kings Chapter 8" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Kings Chapter 8</figcaption>
+</div>
 1 Elisha spoke to the woman whose son he had brought back to life, "Get up, take your family and find a place to stay, because God has announced a seven-year famine that will happen in the land."
 
 2 The woman got up and did what the man of God said. She left with her family and lived in the land of the Philistines for seven years.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 36
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ezekiel/500/36.jpg" alt="Ezekiel Chapter 36" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ezekiel Chapter 36.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ezekiel/500/36.jpg" alt="Ezekiel Chapter 36" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 36</figcaption>
+</div>
 1 You, person of God, speak to Israel's mountains and say, "Israel's mountains, listen to God's message:
 
 2 God says: Because the enemy has claimed, "Aha, the ancient high places now belong to us,"

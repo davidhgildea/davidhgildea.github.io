@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 22
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Jeremiah/500/22.jpg" alt="Jeremiah Chapter 22" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Jeremiah Chapter 22.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Jeremiah/500/22.jpg" alt="Jeremiah Chapter 22" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 22</figcaption>
+</div>
 1 God says, "Go to the king of Judah's palace and say this message there.
 
 2 Say, "Listen to God's word, King of Judah, you who sit on David's throne, along with your officials and people who come through these gates."

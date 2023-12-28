@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 45
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/45.jpg" alt="Psalms Chapter 45" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 45.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/45.jpg" alt="Psalms Chapter 45" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 45</figcaption>
+</div>
 1 My heart is overflowing with a noble theme; I am sharing what I have composed about the king: my tongue is like the pen of a skilled writer.
 
 2 You are more beautiful than any person; your words are full of grace; that's why God has blessed you forever.

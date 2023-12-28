@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 35
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Numbers/500/35.jpg" alt="Numbers Chapter 35" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Numbers Chapter 35.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Numbers/500/35.jpg" alt="Numbers Chapter 35" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Numbers Chapter 35</figcaption>
+</div>
 1 God spoke to Moses in the plains of Moab by the Jordan River near Jericho, saying,
 
 2 Tell the Israelites to give the Levites some of their own cities to live in, along with areas around these cities.

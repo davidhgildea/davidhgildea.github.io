@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 2
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Hosea/500/2.jpg" alt="Hosea Chapter 2" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Hosea Chapter 2.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Hosea/500/2.jpg" alt="Hosea Chapter 2" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Hosea Chapter 2</figcaption>
+</div>
 1 Tell your brothers, 'My People,' and your sisters, 'Loved One.'
 
 2 Ask your mother to change her ways, for she is not my wife and I am not her husband. She must stop being unfaithful and not act like an adulterer anymore.

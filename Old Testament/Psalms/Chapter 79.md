@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 79
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/79.jpg" alt="Psalms Chapter 79" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 79.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/79.jpg" alt="Psalms Chapter 79" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 79</figcaption>
+</div>
 1 God, foreigners have entered your land; they have made your holy temple dirty; they have turned Jerusalem into ruins.
 
 2 They gave your servants' dead bodies as food to the birds of the sky, and your holy people's flesh to the earth's animals.

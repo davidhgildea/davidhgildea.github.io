@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 1
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 John/500/1.jpg" alt="1 John Chapter 1" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 John Chapter 1.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 John/500/1.jpg" alt="1 John Chapter 1" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 John Chapter 1</figcaption>
+</div>
 1 What was there from the start, which we have heard, seen with our own eyes, and touched with our hands, is about the message of life.
 
 2 The life appeared, we have seen it, and we tell you about it. We show you the eternal life that was with God and was shown to us.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 11
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Chronicles/500/11.jpg" alt="1 Chronicles Chapter 11" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Chronicles Chapter 11.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Chronicles/500/11.jpg" alt="1 Chronicles Chapter 11" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Chronicles Chapter 11</figcaption>
+</div>
 1 All Israel came to David in Hebron and said, "Look, we are your own flesh and bone."
 
 2 Even before, when Saul was king, you were the one who led Israel: and God told you, "You will take care of my people Israel, and you will lead them."

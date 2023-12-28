@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 47
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/47.jpg" alt="Psalms Chapter 47" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 47.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/47.jpg" alt="Psalms Chapter 47" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 47</figcaption>
+</div>
 1 Clap your hands, everyone; shout to God with happy voices.
 
 2 God is supreme and awesome; he is a mighty ruler over the whole earth.

@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 1
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Numbers/500/1.jpg" alt="Numbers Chapter 1" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Numbers Chapter 1.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Numbers/500/1.jpg" alt="Numbers Chapter 1" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Numbers Chapter 1</figcaption>
+</div>
 1 God spoke to Moses in the Sinai wilderness, in the meeting tent, on the first day of the second month, in the second year after leaving Egypt, saying,
 
 2 Count all the members of Israel's community by family groups, according to their fathers' houses, and list the names of all the men one by one.

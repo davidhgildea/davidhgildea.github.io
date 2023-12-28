@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 28
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Exodus/500/28.jpg" alt="Exodus Chapter 28" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Exodus Chapter 28.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Exodus/500/28.jpg" alt="Exodus Chapter 28" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Exodus Chapter 28</figcaption>
+</div>
 1 Choose your brother Aaron and his sons, Nadab, Abihu, Eleazar, and Ithamar, from the Israelites to serve me as priests.
 
 2 Make special clothes for your brother Aaron that are beautiful and glorious.

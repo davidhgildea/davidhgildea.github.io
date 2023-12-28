@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 11
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Luke/500/11.jpg" alt="Luke Chapter 11" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Luke Chapter 11.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Luke/500/11.jpg" alt="Luke Chapter 11" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Luke Chapter 11</figcaption>
+</div>
 1 As he was praying in a certain place, when he stopped, one of his followers asked him, "Teach us to pray, just like John taught his followers."
 
 2 He told them, "When you pray, say, 'Father in heaven, your name is holy. Your kingdom come. Your will be done on earth as it is in heaven.'"

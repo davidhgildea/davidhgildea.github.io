@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 121
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/121.jpg" alt="Psalms Chapter 121" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 121.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/121.jpg" alt="Psalms Chapter 121" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 121</figcaption>
+</div>
 1 I will look up to the hills, where my help comes from.
 
 2 My help comes from God, who made heaven and earth.

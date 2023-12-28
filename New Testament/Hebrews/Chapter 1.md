@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 1
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Hebrews/500/1.jpg" alt="Hebrews Chapter 1" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Hebrews Chapter 1.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Hebrews/500/1.jpg" alt="Hebrews Chapter 1" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Hebrews Chapter 1</figcaption>
+</div>
 1 God spoke to our ancestors through the prophets at different times and in various ways in the past.
 
 2 In these last days, God has spoken to us through his Son, whom he made the heir of everything and who also created the universe.

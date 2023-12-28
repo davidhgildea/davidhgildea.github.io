@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 6
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Numbers/500/6.jpg" alt="Numbers Chapter 6" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Numbers Chapter 6.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Numbers/500/6.jpg" alt="Numbers Chapter 6" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Numbers Chapter 6</figcaption>
+</div>
 1 God spoke to Moses, saying,
 
 2 Tell the people of Israel, if a man or woman chooses to make a special promise to become a Nazarite, dedicated to God.

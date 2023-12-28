@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 5
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Zechariah/500/5.jpg" alt="Zechariah Chapter 5" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Zechariah Chapter 5.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Zechariah/500/5.jpg" alt="Zechariah Chapter 5" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Zechariah Chapter 5</figcaption>
+</div>
 1 Then I turned, raised my eyes, and saw a flying scroll.
 
 2 He asked me, "What do you see?" I replied, "I see a flying scroll; it is twenty units long and ten units wide."

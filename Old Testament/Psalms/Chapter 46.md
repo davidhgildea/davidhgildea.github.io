@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 46
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/46.jpg" alt="Psalms Chapter 46" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 46.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/46.jpg" alt="Psalms Chapter 46" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 46</figcaption>
+</div>
 1 God is our safe place and power, always there to help in times of trouble.
 
 2 So we won't be afraid, even if the earth is taken away, and even if the mountains are moved into the sea's center.

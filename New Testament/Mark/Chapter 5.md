@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 5
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Mark/500/5.jpg" alt="Mark Chapter 5" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Mark Chapter 5.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Mark/500/5.jpg" alt="Mark Chapter 5" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Mark Chapter 5</figcaption>
+</div>
 1 They crossed the sea and reached the land of the Gadarenes.
 
 2 As soon as he stepped out of the boat, a man with an evil spirit came from the tombs to meet him.

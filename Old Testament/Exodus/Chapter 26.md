@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 26
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Exodus/500/26.jpg" alt="Exodus Chapter 26" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Exodus Chapter 26.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Exodus/500/26.jpg" alt="Exodus Chapter 26" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Exodus Chapter 26</figcaption>
+</div>
 1 Make the tabernacle with ten curtains of fine linen, blue, purple, and red, and with skilled work of cherubim on them.
 
 2 One curtain should be twenty-eight cubits long and four cubits wide, and all the curtains should be the same size.

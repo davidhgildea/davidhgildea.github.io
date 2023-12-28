@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 8
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Ezekiel/500/8.jpg" alt="Ezekiel Chapter 8" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Ezekiel Chapter 8.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Ezekiel/500/8.jpg" alt="Ezekiel Chapter 8" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 8</figcaption>
+</div>
 1 In the sixth year, the sixth month, and on the fifth day, while I was sitting in my house and the leaders of Judah were sitting before me, the power of God came over me.
 
 2 I saw something that looked like fire below his waist, and from his waist up, he shone brightly, like amber.

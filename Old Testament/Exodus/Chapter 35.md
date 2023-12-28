@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 35
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Exodus/500/35.jpg" alt="Exodus Chapter 35" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Exodus Chapter 35.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Exodus/500/35.jpg" alt="Exodus Chapter 35" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Exodus Chapter 35</figcaption>
+</div>
 1 Moses brought all the Israelites together and told them, "These are the commands God has given for you to follow."
 
 2 Work for six days, but the seventh day is a holy day for you, a day of rest for God. Anyone who works on that day will be put to death.

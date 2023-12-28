@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 147
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/147.jpg" alt="Psalms Chapter 147" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 147.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/147.jpg" alt="Psalms Chapter 147" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 147</figcaption>
+</div>
 1 Praise God: because it is good to sing to our God; it is enjoyable; and praise looks good.
 
 2 God builds up Jerusalem; he brings together Israel's scattered people.

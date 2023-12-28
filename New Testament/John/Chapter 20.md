@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 20
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/John/500/20.jpg" alt="John Chapter 20" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">John Chapter 20.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/John/500/20.jpg" alt="John Chapter 20" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">John Chapter 20</figcaption>
+</div>
 1 Mary Magdalene came to the tomb early on the first day of the week, while it was still dark, and saw that the stone had been removed from the tomb.
 
 2 She ran to Simon Peter and the other disciple, who Jesus loved, and said to them, "They have taken away God from the tomb, and we don't know where they have put him."

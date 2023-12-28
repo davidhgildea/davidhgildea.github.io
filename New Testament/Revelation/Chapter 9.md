@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 9
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Revelation/500/9.jpg" alt="Revelation Chapter 9" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Revelation Chapter 9.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Revelation/500/9.jpg" alt="Revelation Chapter 9" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Revelation Chapter 9</figcaption>
+</div>
 1 The fifth angel blew his trumpet, and I saw a star fall from the sky to the earth. He was given the key to the bottomless pit.
 
 2 He opened the endless pit; smoke came out like from a big furnace; it made the sun and air dark.

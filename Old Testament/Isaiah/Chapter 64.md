@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 64
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/64.jpg" alt="Isaiah Chapter 64" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 64.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/64.jpg" alt="Isaiah Chapter 64" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 64</figcaption>
+</div>
 1 I wish you would tear open the skies and come down, so that the mountains would melt before you.
 
 2 Just like a fire melts things and boiling water bubbles, so you show your power to your enemies, making nations shake before you.

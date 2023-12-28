@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 3
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Thessalonians/500/3.jpg" alt="1 Thessalonians Chapter 3" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Thessalonians Chapter 3.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Thessalonians/500/3.jpg" alt="1 Thessalonians Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Thessalonians Chapter 3</figcaption>
+</div>
 1 So when we couldn't wait any longer, we decided to stay alone in Athens.
 
 2 We sent Timothy, our brother, who serves God and works with us to spread the good news about Christ, to strengthen and encourage you in your faith.

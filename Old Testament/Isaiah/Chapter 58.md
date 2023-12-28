@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 58
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Isaiah/500/58.jpg" alt="Isaiah Chapter 58" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Isaiah Chapter 58.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Isaiah/500/58.jpg" alt="Isaiah Chapter 58" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Isaiah Chapter 58</figcaption>
+</div>
 1 Shout loudly, don't hold back, raise your voice like a trumpet, and show my people their wrongs, and the family of Jacob their sins.
 
 2 They look for me every day and enjoy learning my ways, like a country that did what's right and didn't ignore their God's laws: they want to know my fair laws; they love to come close to God.

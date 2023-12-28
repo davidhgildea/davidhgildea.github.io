@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 74
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Psalms/500/74.jpg" alt="Psalms Chapter 74" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Psalms Chapter 74.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Psalms/500/74.jpg" alt="Psalms Chapter 74" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Psalms Chapter 74</figcaption>
+</div>
 1 God, why have you rejected us forever? Why is your anger burning against the sheep of your field?
 
 2 Remember your people whom you long ago bought; the tribe you saved, which is your heritage; this Mount Zion where you live.

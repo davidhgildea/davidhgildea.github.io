@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 6
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Deuteronomy/500/6.jpg" alt="Deuteronomy Chapter 6" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Deuteronomy Chapter 6.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Deuteronomy/500/6.jpg" alt="Deuteronomy Chapter 6" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Deuteronomy Chapter 6</figcaption>
+</div>
 1 Here are the rules, laws, and decisions that God told you to learn, so you can follow them in the land you are going to make your own.
 
 2 So you will respect God, follow all His rules and commands that I give to you, you, your son, and your grandson, as long as you live; and so that you may have a long life.

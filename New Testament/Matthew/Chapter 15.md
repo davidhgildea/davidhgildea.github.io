@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 15
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Matthew/500/15.jpg" alt="Matthew Chapter 15" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Matthew Chapter 15.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Matthew/500/15.jpg" alt="Matthew Chapter 15" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Matthew Chapter 15</figcaption>
+</div>
 1 Some teachers of the law and Pharisees from Jerusalem came to Jesus and asked,
 
 2 Why do your followers break the elders' tradition? They don't wash their hands before eating bread.

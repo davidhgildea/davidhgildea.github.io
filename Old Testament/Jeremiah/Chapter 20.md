@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 20
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Jeremiah/500/20.jpg" alt="Jeremiah Chapter 20" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Jeremiah Chapter 20.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Jeremiah/500/20.jpg" alt="Jeremiah Chapter 20" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 20</figcaption>
+</div>
 1 Now Pashur, the priest Immer's son and head officer in God's house, heard Jeremiah's prophecies.
 
 2 Then Pashur hit Jeremiah the prophet and put him in the stocks near the upper gate of Benjamin next to God's house.

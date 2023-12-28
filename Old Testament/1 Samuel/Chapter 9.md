@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 9
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Samuel/500/9.jpg" alt="1 Samuel Chapter 9" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Samuel Chapter 9.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Samuel/500/9.jpg" alt="1 Samuel Chapter 9" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Samuel Chapter 9</figcaption>
+</div>
 1 There was a man from the tribe of Benjamin named Kish. He was the son of Abiel, the grandson of Zeror, the great-grandson of Bechorath, and the great-great-grandson of Aphiah. He was a strong and influential man.
 
 2 He had a son named Saul, a fine young man and handsome. There was no one more handsome in Israel than him. He was taller than everyone else from the shoulders up.

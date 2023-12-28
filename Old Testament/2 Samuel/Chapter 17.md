@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 17
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/2 Samuel/500/17.jpg" alt="2 Samuel Chapter 17" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">2 Samuel Chapter 17.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/2 Samuel/500/17.jpg" alt="2 Samuel Chapter 17" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">2 Samuel Chapter 17</figcaption>
+</div>
 1 Ahithophel said to Absalom, "Let me pick twelve thousand men and go after David tonight."
 
 2 I will attack him when he is tired and his hands are weak, making him scared. Everyone with him will run away, and I will strike down only the king.

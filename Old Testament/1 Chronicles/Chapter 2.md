@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 2
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Chronicles/500/2.jpg" alt="1 Chronicles Chapter 2" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Chronicles Chapter 2.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Chronicles/500/2.jpg" alt="1 Chronicles Chapter 2" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Chronicles Chapter 2</figcaption>
+</div>
 1 These are Israel's sons: Reuben, Simeon, Levi, Judah, Issachar, and Zebulun.
 
 2 Dan, Joseph, Benjamin, Naphtali, Gad, Asher.

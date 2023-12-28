@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 13
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/1 Chronicles/500/13.jpg" alt="1 Chronicles Chapter 13" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">1 Chronicles Chapter 13.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/1 Chronicles/500/13.jpg" alt="1 Chronicles Chapter 13" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">1 Chronicles Chapter 13</figcaption>
+</div>
 1 David talked with the leaders of thousands and hundreds, and with every chief.
 
 2 David said to all the people of Israel, "If it seems good to you and it is God's will, let's send a message to our brothers everywhere who remain in the land of Israel, and to the priests and Levites in their towns and surrounding areas, so they can join us."

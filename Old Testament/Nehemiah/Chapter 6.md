@@ -10,10 +10,10 @@ layout: default
 
 # Chapter 6
 
-<figure style="float: right; margin-right: 10px;">
-    <img src="/assets/Image/Nehemiah/500/6.jpg" alt="Nehemiah Chapter 6" style="width: 300px; height: 300px; float: right;padding-left: 10px;"/>
-    <figcaption style="clear: both;text-align: right;">Nehemiah Chapter 6.</figcaption>
-</figure>
+<div style="clear: both; text-align: right;">
+    <img src="/assets/Image/Nehemiah/500/6.jpg" alt="Nehemiah Chapter 6" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <figcaption style="font-size: 14px;">Nehemiah Chapter 6</figcaption>
+</div>
 1 When Sanballat, Tobiah, Geshem the Arabian, and our other enemies heard that I had built the wall with no gaps left (though I had not yet installed the doors in the gates at that time),
 
 2 Sanballat and Geshem sent me a message, saying, "Come, let's meet in one of the villages on the plain of Ono." But they planned to hurt me.
