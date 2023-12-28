@@ -11,7 +11,7 @@ layout: default
 # Chapter 21
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Acts/500/21.jpg" alt="Acts Chapter 21" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Acts/500/21.jpg" alt="Acts Chapter 21" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Acts Chapter 21</figcaption>
 </div>
 1 After we had left them and set sail, we went straight to Kos, then the next day to Rhodes, and from there to Patara.

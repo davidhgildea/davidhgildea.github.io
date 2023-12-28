@@ -11,7 +11,7 @@ layout: default
 # Chapter 2
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/2 Thessalonians/500/2.jpg" alt="2 Thessalonians Chapter 2" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/2 Thessalonians/500/2.jpg" alt="2 Thessalonians Chapter 2" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">2 Thessalonians Chapter 2</figcaption>
 </div>
 1 We ask you, friends, because of the coming of our Lord Jesus Christ and our meeting with him,

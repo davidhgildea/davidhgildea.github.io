@@ -11,7 +11,7 @@ layout: default
 # Chapter 9
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Isaiah/500/9.jpg" alt="Isaiah Chapter 9" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Isaiah/500/9.jpg" alt="Isaiah Chapter 9" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Isaiah Chapter 9</figcaption>
 </div>
 1 Still, the gloom won't be as heavy as the trouble she first had, when God at first only slightly punished the land of Zebulun and Naphtali, and later punished it much more harshly by the sea, past Jordan, in the area of the nations.

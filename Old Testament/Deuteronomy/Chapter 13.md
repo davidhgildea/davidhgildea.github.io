@@ -11,7 +11,7 @@ layout: default
 # Chapter 13
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Deuteronomy/500/13.jpg" alt="Deuteronomy Chapter 13" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Deuteronomy/500/13.jpg" alt="Deuteronomy Chapter 13" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Deuteronomy Chapter 13</figcaption>
 </div>
 1 If a prophet or someone who dreams of visions appears among you, and gives you a sign or a miracle,

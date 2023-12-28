@@ -11,7 +11,7 @@ layout: default
 # Chapter 42
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Psalms/500/42.jpg" alt="Psalms Chapter 42" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Psalms/500/42.jpg" alt="Psalms Chapter 42" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Psalms Chapter 42</figcaption>
 </div>
 1 Like a deer that longs for streams of water, my soul longs for you, God.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 24
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/2 Kings/500/24.jpg" alt="2 Kings Chapter 24" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/2 Kings/500/24.jpg" alt="2 Kings Chapter 24" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">2 Kings Chapter 24</figcaption>
 </div>
 1 During his reign, King Nebuchadnezzar of Babylon attacked, and Jehoiakim served him for three years; then he changed his mind and fought against him.

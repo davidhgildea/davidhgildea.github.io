@@ -11,7 +11,7 @@ layout: default
 # Chapter 22
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Matthew/500/22.jpg" alt="Matthew Chapter 22" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Matthew/500/22.jpg" alt="Matthew Chapter 22" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Matthew Chapter 22</figcaption>
 </div>
 1 Jesus answered and told them another story using parables. He said,

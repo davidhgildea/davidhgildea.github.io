@@ -11,7 +11,7 @@ layout: default
 # Chapter 9
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Revelation/500/9.jpg" alt="Revelation Chapter 9" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Revelation/500/9.jpg" alt="Revelation Chapter 9" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Revelation Chapter 9</figcaption>
 </div>
 1 The fifth angel blew his trumpet, and I saw a star fall from the sky to the earth. He was given the key to the bottomless pit.

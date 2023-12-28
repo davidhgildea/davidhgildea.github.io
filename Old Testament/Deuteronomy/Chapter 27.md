@@ -11,7 +11,7 @@ layout: default
 # Chapter 27
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Deuteronomy/500/27.jpg" alt="Deuteronomy Chapter 27" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Deuteronomy/500/27.jpg" alt="Deuteronomy Chapter 27" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Deuteronomy Chapter 27</figcaption>
 </div>
 1 Moses and the leaders of Israel told the people, "Follow all the rules I give you today."

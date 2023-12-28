@@ -11,7 +11,7 @@ layout: default
 # Chapter 11
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Mark/500/11.jpg" alt="Mark Chapter 11" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Mark/500/11.jpg" alt="Mark Chapter 11" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Mark Chapter 11</figcaption>
 </div>
 1 When they got close to Jerusalem, near Bethphage and Bethany, by the Mount of Olives, he sent two of his followers.

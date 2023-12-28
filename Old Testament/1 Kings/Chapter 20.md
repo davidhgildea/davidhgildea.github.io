@@ -11,7 +11,7 @@ layout: default
 # Chapter 20
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/1 Kings/500/20.jpg" alt="1 Kings Chapter 20" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/1 Kings/500/20.jpg" alt="1 Kings Chapter 20" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">1 Kings Chapter 20</figcaption>
 </div>
 1 Benhadad, the king of Syria, brought all his army together. He was joined by thirty-two kings, with their horses and chariots. He advanced and laid siege to Samaria and attacked it.

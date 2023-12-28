@@ -11,7 +11,7 @@ layout: default
 # Chapter 3
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Leviticus/500/3.jpg" alt="Leviticus Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Leviticus/500/3.jpg" alt="Leviticus Chapter 3" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Leviticus Chapter 3</figcaption>
 </div>
 1 If his gift is a peace offering sacrifice from the cattle, whether male or female, he must present one without any defects to God.

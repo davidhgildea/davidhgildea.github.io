@@ -11,7 +11,7 @@ layout: default
 # Chapter 29
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Proverbs/500/29.jpg" alt="Proverbs Chapter 29" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Proverbs/500/29.jpg" alt="Proverbs Chapter 29" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Proverbs Chapter 29</figcaption>
 </div>
 1 Anyone who keeps making the same mistakes and refuses to accept correction will suddenly be ruined beyond repair.

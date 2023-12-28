@@ -11,7 +11,7 @@ layout: default
 # Chapter 143
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Psalms/500/143.jpg" alt="Psalms Chapter 143" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Psalms/500/143.jpg" alt="Psalms Chapter 143" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Psalms Chapter 143</figcaption>
 </div>
 1 Listen to my prayer, God, pay attention to my requests: answer me because you are faithful and just.

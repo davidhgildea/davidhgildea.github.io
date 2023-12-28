@@ -11,7 +11,7 @@ layout: default
 # Chapter 4
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Revelation/500/4.jpg" alt="Revelation Chapter 4" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Revelation/500/4.jpg" alt="Revelation Chapter 4" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Revelation Chapter 4</figcaption>
 </div>
 1 After this, I saw that a door in heaven was open: and the first sound I heard was like a trumpet speaking to me; it said, "Come up here, and I will show you what must happen after this."

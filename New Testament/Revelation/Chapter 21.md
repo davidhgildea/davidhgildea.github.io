@@ -11,7 +11,7 @@ layout: default
 # Chapter 21
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Revelation/500/21.jpg" alt="Revelation Chapter 21" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Revelation/500/21.jpg" alt="Revelation Chapter 21" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Revelation Chapter 21</figcaption>
 </div>
 1 I saw a new sky and a new land because the first sky and the first land had gone, and there was no sea anymore.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 6
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Hebrews/500/6.jpg" alt="Hebrews Chapter 6" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Hebrews/500/6.jpg" alt="Hebrews Chapter 6" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Hebrews Chapter 6</figcaption>
 </div>
 1 So, moving beyond the basic teachings about Christ, let's grow towards complete understanding, without going over the beginning lessons about turning away from useless actions and believing in God again.

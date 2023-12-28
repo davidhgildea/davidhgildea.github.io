@@ -11,7 +11,7 @@ layout: default
 # Chapter 9
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Mark/500/9.jpg" alt="Mark Chapter 9" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Mark/500/9.jpg" alt="Mark Chapter 9" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Mark Chapter 9</figcaption>
 </div>
 1 He told them, "Truly, I tell you, some standing here won't die before they see God's kingdom come with power."

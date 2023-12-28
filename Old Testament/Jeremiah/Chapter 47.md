@@ -11,7 +11,7 @@ layout: default
 # Chapter 47
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Jeremiah/500/47.jpg" alt="Jeremiah Chapter 47" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Jeremiah/500/47.jpg" alt="Jeremiah Chapter 47" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Jeremiah Chapter 47</figcaption>
 </div>
 1 God's message came to Jeremiah the prophet about the Philistines before the Pharaoh attacked Gaza.

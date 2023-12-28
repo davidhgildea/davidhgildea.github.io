@@ -11,7 +11,7 @@ layout: default
 # Chapter 34
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Job/500/34.jpg" alt="Job Chapter 34" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Job/500/34.jpg" alt="Job Chapter 34" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Job Chapter 34</figcaption>
 </div>
 1 Elihu replied and said,

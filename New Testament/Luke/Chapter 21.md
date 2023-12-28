@@ -11,7 +11,7 @@ layout: default
 # Chapter 21
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Luke/500/21.jpg" alt="Luke Chapter 21" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Luke/500/21.jpg" alt="Luke Chapter 21" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Luke Chapter 21</figcaption>
 </div>
 1 He looked up and saw the wealthy people putting their gifts into the treasury.

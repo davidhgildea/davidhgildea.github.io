@@ -11,7 +11,7 @@ layout: default
 # Chapter 4
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/2 Samuel/500/4.jpg" alt="2 Samuel Chapter 4" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/2 Samuel/500/4.jpg" alt="2 Samuel Chapter 4" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">2 Samuel Chapter 4</figcaption>
 </div>
 1 When Saul's son learned that Abner had died in Hebron, he felt weak, and all the Israelites were upset.

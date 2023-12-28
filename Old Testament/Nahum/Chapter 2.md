@@ -11,7 +11,7 @@ layout: default
 # Chapter 2
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Nahum/500/2.jpg" alt="Nahum Chapter 2" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Nahum/500/2.jpg" alt="Nahum Chapter 2" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Nahum Chapter 2</figcaption>
 </div>
 1 The destroyer has come before you: guard the fortress, watch the road, strengthen your waist, and power up greatly.

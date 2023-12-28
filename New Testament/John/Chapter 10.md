@@ -11,7 +11,7 @@ layout: default
 # Chapter 10
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/John/500/10.jpg" alt="John Chapter 10" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/John/500/10.jpg" alt="John Chapter 10" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">John Chapter 10</figcaption>
 </div>
 1 Truly, truly, I tell you, anyone who does not enter the sheep pen by the gate but climbs in by another way is a thief and a robber.

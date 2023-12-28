@@ -11,7 +11,7 @@ layout: default
 # Chapter 139
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Psalms/500/139.jpg" alt="Psalms Chapter 139" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Psalms/500/139.jpg" alt="Psalms Chapter 139" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Psalms Chapter 139</figcaption>
 </div>
 1 God, you have looked into my heart and know everything about me.

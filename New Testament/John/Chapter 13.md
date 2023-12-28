@@ -11,7 +11,7 @@ layout: default
 # Chapter 13
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/John/500/13.jpg" alt="John Chapter 13" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/John/500/13.jpg" alt="John Chapter 13" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">John Chapter 13</figcaption>
 </div>
 1 Before the Passover feast, when Jesus realized his time had come to leave this world and go to the Father, he showed endless love for his followers who were in the world.

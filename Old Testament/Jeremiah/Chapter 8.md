@@ -11,7 +11,7 @@ layout: default
 # Chapter 8
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Jeremiah/500/8.jpg" alt="Jeremiah Chapter 8" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Jeremiah/500/8.jpg" alt="Jeremiah Chapter 8" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Jeremiah Chapter 8</figcaption>
 </div>
 1 At that time, God says, they will take out the bones of the kings of Judah, the bones of the princes, the bones of the priests, the bones of the prophets, and the bones of the people of Jerusalem from their graves.

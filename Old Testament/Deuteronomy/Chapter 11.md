@@ -11,7 +11,7 @@ layout: default
 # Chapter 11
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Deuteronomy/500/11.jpg" alt="Deuteronomy Chapter 11" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Deuteronomy/500/11.jpg" alt="Deuteronomy Chapter 11" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Deuteronomy Chapter 11</figcaption>
 </div>
 1 So you must love God, follow his instructions, laws, decisions, and commands always.

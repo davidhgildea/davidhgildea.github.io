@@ -11,7 +11,7 @@ layout: default
 # Chapter 74
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Psalms/500/74.jpg" alt="Psalms Chapter 74" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Psalms/500/74.jpg" alt="Psalms Chapter 74" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Psalms Chapter 74</figcaption>
 </div>
 1 God, why have you rejected us forever? Why is your anger burning against the sheep of your field?

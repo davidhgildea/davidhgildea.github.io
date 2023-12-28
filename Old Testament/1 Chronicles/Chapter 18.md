@@ -11,7 +11,7 @@ layout: default
 # Chapter 18
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/1 Chronicles/500/18.jpg" alt="1 Chronicles Chapter 18" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/1 Chronicles/500/18.jpg" alt="1 Chronicles Chapter 18" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">1 Chronicles Chapter 18</figcaption>
 </div>
 1 After this, David defeated the Philistines, overpowered them, and captured Gath and its surrounding towns from the Philistines.

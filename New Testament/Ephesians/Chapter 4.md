@@ -11,7 +11,7 @@ layout: default
 # Chapter 4
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Ephesians/500/4.jpg" alt="Ephesians Chapter 4" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Ephesians/500/4.jpg" alt="Ephesians Chapter 4" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Ephesians Chapter 4</figcaption>
 </div>
 1 So I, a prisoner for God, ask you to live a life that reflects the calling you have received.

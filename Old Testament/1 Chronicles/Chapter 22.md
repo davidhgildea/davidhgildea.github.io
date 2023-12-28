@@ -11,7 +11,7 @@ layout: default
 # Chapter 22
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/1 Chronicles/500/22.jpg" alt="1 Chronicles Chapter 22" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/1 Chronicles/500/22.jpg" alt="1 Chronicles Chapter 22" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">1 Chronicles Chapter 22</figcaption>
 </div>
 1 Then David said, "This is God's house, and this is the altar for Israel's burnt offerings."

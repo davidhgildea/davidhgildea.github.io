@@ -11,7 +11,7 @@ layout: default
 # Chapter 48
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Genesis/500/48.jpg" alt="Genesis Chapter 48" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Genesis/500/48.jpg" alt="Genesis Chapter 48" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Genesis Chapter 48</figcaption>
 </div>
 1 After these events, someone informed Joseph, "Look, your father is ill," so he brought his two sons, Manasseh and Ephraim, with him.

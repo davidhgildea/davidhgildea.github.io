@@ -11,7 +11,7 @@ layout: default
 # Chapter 3
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Numbers/500/3.jpg" alt="Numbers Chapter 3" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Numbers/500/3.jpg" alt="Numbers Chapter 3" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Numbers Chapter 3</figcaption>
 </div>
 1 These are also the family records of Aaron and Moses when God spoke to Moses on Mount Sinai.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 18
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Luke/500/18.jpg" alt="Luke Chapter 18" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Luke/500/18.jpg" alt="Luke Chapter 18" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Luke Chapter 18</figcaption>
 </div>
 1 He told them a story to show that they should always pray and never give up.

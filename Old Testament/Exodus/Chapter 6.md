@@ -11,7 +11,7 @@ layout: default
 # Chapter 6
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Exodus/500/6.jpg" alt="Exodus Chapter 6" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Exodus/500/6.jpg" alt="Exodus Chapter 6" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Exodus Chapter 6</figcaption>
 </div>
 1 Then God told Moses, "Now you will see what I will do to Pharaoh: he will let the people go because of my powerful action, and he will force them to leave his land."

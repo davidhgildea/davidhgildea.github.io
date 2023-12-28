@@ -11,7 +11,7 @@ layout: default
 # Chapter 28
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Jeremiah/500/28.jpg" alt="Jeremiah Chapter 28" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Jeremiah/500/28.jpg" alt="Jeremiah Chapter 28" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Jeremiah Chapter 28</figcaption>
 </div>
 1 That year, when Zedekiah started ruling Judah, in the fourth year, fifth month, the prophet Hananiah, Azur's son from Gibeon, spoke to me in God's house with priests and everyone there, saying,

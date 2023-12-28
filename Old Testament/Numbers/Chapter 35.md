@@ -11,7 +11,7 @@ layout: default
 # Chapter 35
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Numbers/500/35.jpg" alt="Numbers Chapter 35" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Numbers/500/35.jpg" alt="Numbers Chapter 35" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Numbers Chapter 35</figcaption>
 </div>
 1 God spoke to Moses in the plains of Moab by the Jordan River near Jericho, saying,

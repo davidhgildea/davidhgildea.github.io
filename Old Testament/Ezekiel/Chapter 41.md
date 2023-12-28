@@ -11,7 +11,7 @@ layout: default
 # Chapter 41
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Ezekiel/500/41.jpg" alt="Ezekiel Chapter 41" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/Ezekiel/500/41.jpg" alt="Ezekiel Chapter 41" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Ezekiel Chapter 41</figcaption>
 </div>
 1 Later, he took me to the temple and measured the entrance posts, which were six cubits wide on one side and six cubits wide on the other side, the same width as the tent.

@@ -11,7 +11,7 @@ layout: default
 # Chapter 13
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/1 Chronicles/500/13.jpg" alt="1 Chronicles Chapter 13" class="chapter-image" style="max-width: 25%; height: auto;"/>
+    <img src="/assets/Image/1 Chronicles/500/13.jpg" alt="1 Chronicles Chapter 13" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">1 Chronicles Chapter 13</figcaption>
 </div>
 1 David talked with the leaders of thousands and hundreds, and with every chief.
