@@ -1,35 +1,27 @@
 ---
-title: Home
+title: The Bible
+nav_order: 1
 layout: home
+theme: just-the-docs
 ---
+# The Bible - Simplified English Edition
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+## Unlocking Timeless Wisdom in a Clearer Voice
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Prepare to embark on a spiritual journey with The Bible - Simplified English Edition, a contemporary rendition of sacred scriptures. Our mission is to make the profound teachings and historical narratives of the Bible accessible to everyone, regardless of their background or level of understanding.
 
-More specifically, the created site:
+### Key Features of Our Edition:
+- Clarity in Language: Experience the Bible like never before with our easy-to-understand translation that maintains the original essence.
+- Ideal for Those Whose Second Language is English: Whether English is your second language or you're seeking a simplified reading experience, "The Bible - Simplified English Edition" is tailored to help you grasp its teachings with ease.
+- Beautiful Illustrations: Discover the added dimension of beauty as each chapter is accompanied by a stunning illustration, enhancing your reading experience.
+- Audio: Enhance your experience further with an audio rendition of each chapter. Click on the speaker icon beside the chapter title to listen.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+### Navigating The Bible - Simplified English Edition:
+- Old Testament: Delve into the rich history and foundational teachings that have shaped faith.
+- New Testament: Discover the life and teachings of Jesus Christ and the birth of the Church.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+### For Readers New and Seasoned:
+Whether you're taking your first steps into the Bible or revisiting its pages as a seasoned reader, "The Bible - Simplified English Edition" offers an accessible perspective that resonates with both heart and mind.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+### Start Your Journey Today:
+Begin reading now and let the timeless wisdom of "The Bible - Simplified English Edition" shine in a new light.
