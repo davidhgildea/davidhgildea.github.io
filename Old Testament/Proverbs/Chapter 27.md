@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 27
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Proverbs/500/27.jpg" alt="Proverbs Chapter 27" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Proverbs Chapter 27</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Proverbs/500/27.jpg" alt="Proverbs Chapter 27" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Proverbs Chapter 27</figcaption>
+</figure>
 1 Don't brag about tomorrow; you don't know what the day will bring.
 
 2 Let someone else praise you, not your own mouth; an outsider, not your own lips.

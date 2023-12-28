@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 7
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Joshua/500/7.jpg" alt="Joshua Chapter 7" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Joshua Chapter 7</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Joshua/500/7.jpg" alt="Joshua Chapter 7" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Joshua Chapter 7</figcaption>
+</figure>
 1 The Israelites did wrong with the cursed item, because Achan, son of Carmi, grandson of Zabdi, great-grandson of Zerah, from the tribe of Judah, took the cursed item, and God became angry with the Israelites.
 
 2 Joshua sent men from Jericho to Ai, near Bethaven, east of Bethel, and told them, "Go and look at the land." The men went and saw Ai.

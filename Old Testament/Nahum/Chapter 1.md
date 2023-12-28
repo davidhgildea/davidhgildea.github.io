@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 1
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Nahum/500/1.jpg" alt="Nahum Chapter 1" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Nahum Chapter 1</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Nahum/500/1.jpg" alt="Nahum Chapter 1" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Nahum Chapter 1</figcaption>
+</figure>
 1 The message about Nineveh. The vision that Nahum from Elkosh saw.
 
 2 God is jealous, and God takes revenge; God takes revenge and is very angry; God will punish those against him, and he keeps anger for his enemies.

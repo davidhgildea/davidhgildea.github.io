@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 25
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Isaiah/500/25.jpg" alt="Isaiah Chapter 25" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Isaiah Chapter 25</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Isaiah/500/25.jpg" alt="Isaiah Chapter 25" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 25</figcaption>
+</figure>
 1 God, you are my God; I will lift you up, I will praise your name; because you have done amazing things; your long-ago plans are faithful and true.
 
 2 You have turned a city into a pile of rubble; a fortified city into ruins. A place where foreigners lived, it will no longer be a city; it will never be rebuilt.

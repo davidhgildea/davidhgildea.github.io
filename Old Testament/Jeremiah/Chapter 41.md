@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 41
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Jeremiah/500/41.jpg" alt="Jeremiah Chapter 41" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Jeremiah Chapter 41</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Jeremiah/500/41.jpg" alt="Jeremiah Chapter 41" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 41</figcaption>
+</figure>
 1 In the seventh month, Ishmael son of Nethaniah, grandson of Elishama of royal descent, and ten leaders with him, went to see Gedaliah son of Ahikam at Mizpah. There, they all ate bread together in Mizpah.
 
 2 Ishmael, Nethaniah's son, and the ten men with him stood up, attacked Gedaliah, Ahikam's son, Shaphan's grandson, with a sword, and killed him. Gedaliah was the one the king of Babylon had appointed to govern the land.

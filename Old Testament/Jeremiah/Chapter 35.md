@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 35
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Jeremiah/500/35.jpg" alt="Jeremiah Chapter 35" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Jeremiah Chapter 35</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Jeremiah/500/35.jpg" alt="Jeremiah Chapter 35" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 35</figcaption>
+</figure>
 1 God's message came to Jeremiah when Jehoiakim son of Josiah was king of Judah, saying,
 
 2 Go to the Rechabites' house, talk to them, bring them to God's house, into a room, and offer them wine to drink.

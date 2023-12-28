@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 43
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Isaiah/500/43.jpg" alt="Isaiah Chapter 43" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Isaiah Chapter 43</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Isaiah/500/43.jpg" alt="Isaiah Chapter 43" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 43</figcaption>
+</figure>
 1 But now, God who made you, Jacob, and shaped you, Israel, says: Don't be afraid, for I have saved you; I have called you by your name; you are mine.
 
 2 When you go through the waters, I will be with you; and when you go through the rivers, they won't flood you: when you walk through the fire, you won't be burned; and the flame won't set you on fire.

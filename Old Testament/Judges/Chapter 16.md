@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 16
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Judges/500/16.jpg" alt="Judges Chapter 16" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Judges Chapter 16</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Judges/500/16.jpg" alt="Judges Chapter 16" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Judges Chapter 16</figcaption>
+</figure>
 1 Samson went to Gaza, saw a prostitute there, and slept with her.
 
 2 The people of Gaza were told, "Samson has come here." So they surrounded him and set a trap at the city gate all night, staying silent, thinking, "In the morning, when it's light, we will kill him."

@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 12
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/1 Kings/500/12.jpg" alt="1 Kings Chapter 12" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">1 Kings Chapter 12</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/1 Kings/500/12.jpg" alt="1 Kings Chapter 12" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Kings Chapter 12</figcaption>
+</figure>
 1 Rehoboam went to Shechem because all Israel had gathered there to make him king.
 
 2 When Jeroboam, son of Nebat, was still in Egypt, he heard about it. He had run away from King Solomon and was living in Egypt.

@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 28
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Isaiah/500/28.jpg" alt="Isaiah Chapter 28" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Isaiah Chapter 28</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Isaiah/500/28.jpg" alt="Isaiah Chapter 28" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 28</figcaption>
+</figure>
 1 Trouble is coming for the proud crown, for the drunk people of Ephraim, whose beautiful glory is like a dying flower, on the head of the rich valleys of those drunk with wine.
 
 2 Look, God has a powerful and strong one who, like a hailstorm and a destructive storm, like a big flood of overflowing waters, will throw down to the ground with force.

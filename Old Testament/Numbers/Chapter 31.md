@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 31
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Numbers/500/31.jpg" alt="Numbers Chapter 31" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Numbers Chapter 31</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Numbers/500/31.jpg" alt="Numbers Chapter 31" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Numbers Chapter 31</figcaption>
+</figure>
 1 God spoke to Moses, saying,
 
 2 Get justice for the Israelites against the Midianites; then you will join your ancestors.

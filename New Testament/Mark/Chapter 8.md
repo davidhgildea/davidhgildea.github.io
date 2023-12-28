@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 8
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Mark/500/8.jpg" alt="Mark Chapter 8" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Mark Chapter 8</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Mark/500/8.jpg" alt="Mark Chapter 8" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Mark Chapter 8</figcaption>
+</figure>
 1 During that time, there was a large crowd with nothing to eat, so Jesus called his followers to him and said to them,
 
 2 I feel sorry for all these people because they have been with me for three days and have nothing to eat.

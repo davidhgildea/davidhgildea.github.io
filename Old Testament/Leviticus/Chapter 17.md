@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 17
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Leviticus/500/17.jpg" alt="Leviticus Chapter 17" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Leviticus Chapter 17</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Leviticus/500/17.jpg" alt="Leviticus Chapter 17" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Leviticus Chapter 17</figcaption>
+</figure>
 1 God spoke to Moses, saying,
 
 2 Talk to Aaron, his sons, and all the people of Israel, and tell them this is what God has commanded.

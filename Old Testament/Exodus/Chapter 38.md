@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 38
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Exodus/500/38.jpg" alt="Exodus Chapter 38" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Exodus Chapter 38</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Exodus/500/38.jpg" alt="Exodus Chapter 38" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Exodus Chapter 38</figcaption>
+</figure>
 1 He made the altar for burnt offerings from acacia wood: it was five cubits long and five cubits wide, forming a square, and it was three cubits high.
 
 2 He made horns on its four corners; the horns were part of it, and he covered it with bronze.

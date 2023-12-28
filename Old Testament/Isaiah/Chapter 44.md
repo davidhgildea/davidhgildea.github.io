@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 44
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Isaiah/500/44.jpg" alt="Isaiah Chapter 44" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Isaiah Chapter 44</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Isaiah/500/44.jpg" alt="Isaiah Chapter 44" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 44</figcaption>
+</figure>
 1 Listen now, Jacob my servant, and Israel, whom I have chosen:
 
 2 God who created you and shaped you from birth, who will support you, says: Do not be afraid, Jacob, my servant, and Jesurun, whom I have selected.

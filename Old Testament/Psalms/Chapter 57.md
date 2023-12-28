@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 57
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Psalms/500/57.jpg" alt="Psalms Chapter 57" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Psalms Chapter 57</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Psalms/500/57.jpg" alt="Psalms Chapter 57" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 57</figcaption>
+</figure>
 1 Have mercy on me, God, have mercy on me, for my soul trusts in you; yes, under the protection of your wings I will find shelter until these disasters have passed.
 
 2 I will call out to God above all; to God who does everything for me.

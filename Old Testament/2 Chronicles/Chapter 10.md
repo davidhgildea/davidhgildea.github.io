@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 10
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/2 Chronicles/500/10.jpg" alt="2 Chronicles Chapter 10" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">2 Chronicles Chapter 10</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/2 Chronicles/500/10.jpg" alt="2 Chronicles Chapter 10" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Chronicles Chapter 10</figcaption>
+</figure>
 1 Rehoboam went to Shechem because all the people of Israel had come there to make him king.
 
 2 When Jeroboam, Nebat's son, who had fled to Egypt to avoid King Solomon, heard this, he came back from Egypt.

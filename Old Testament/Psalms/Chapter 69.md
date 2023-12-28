@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 69
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Psalms/500/69.jpg" alt="Psalms Chapter 69" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Psalms Chapter 69</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Psalms/500/69.jpg" alt="Psalms Chapter 69" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 69</figcaption>
+</figure>
 1 Help me, God; the waters have come up to my soul.
 
 2 I am sinking in deep mud where I can't stand; I've come into deep waters where the floods sweep over me.

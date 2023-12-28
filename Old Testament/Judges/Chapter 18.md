@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 18
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Judges/500/18.jpg" alt="Judges Chapter 18" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Judges Chapter 18</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Judges/500/18.jpg" alt="Judges Chapter 18" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Judges Chapter 18</figcaption>
+</figure>
 1 During that time, Israel had no king. The Danites were looking for land to live on because they had not yet received a share of land among Israel's tribes.
 
 2 The Danites sent five brave family men from Zorah and Eshtaol to explore the land. They told them, "Go and look over the land." When they reached Mount Ephraim and Micah's house, they stayed there.

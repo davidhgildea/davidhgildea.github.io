@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 12
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Jeremiah/500/12.jpg" alt="Jeremiah Chapter 12" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Jeremiah Chapter 12</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Jeremiah/500/12.jpg" alt="Jeremiah Chapter 12" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 12</figcaption>
+</figure>
 1 You are right, God, when I speak with you. But let me ask you about your decisions: Why do bad people succeed? Why are all the cheaters happy?
 
 2 You have planted them, and they have taken root; they grow and produce fruit. You are on their lips, but far from their hearts.

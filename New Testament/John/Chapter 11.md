@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 11
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/John/500/11.jpg" alt="John Chapter 11" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">John Chapter 11</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/John/500/11.jpg" alt="John Chapter 11" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">John Chapter 11</figcaption>
+</figure>
 1 A man named Lazarus from the town of Bethany, where Mary and her sister Martha lived, was sick.
 
 2 Mary, who put perfume on Jesus and dried his feet with her hair, had a brother named Lazarus who was ill.

@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 12
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/2 Corinthians/500/12.jpg" alt="2 Corinthians Chapter 12" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">2 Corinthians Chapter 12</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/2 Corinthians/500/12.jpg" alt="2 Corinthians Chapter 12" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Corinthians Chapter 12</figcaption>
+</figure>
 1 It's not really good for me to boast, but I will talk about visions and messages from God.
 
 2 Fourteen years ago, I knew a man connected to Christ. I don't know if he was in his body or out of it, but God knows. He was taken up to the third heaven.

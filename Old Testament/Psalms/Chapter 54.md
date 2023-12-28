@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 54
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Psalms/500/54.jpg" alt="Psalms Chapter 54" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Psalms Chapter 54</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Psalms/500/54.jpg" alt="Psalms Chapter 54" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 54</figcaption>
+</figure>
 1 God, save me because of your name and decide about me with your power.
 
 2 Listen to my prayer, God; pay attention to what I say.

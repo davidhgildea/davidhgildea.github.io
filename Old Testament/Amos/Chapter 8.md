@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 8
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Amos/500/8.jpg" alt="Amos Chapter 8" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Amos Chapter 8</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Amos/500/8.jpg" alt="Amos Chapter 8" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Amos Chapter 8</figcaption>
+</figure>
 1 God showed me this: Look, a basket of summer fruit.
 
 2 He asked, "Amos, what do you see?" I answered, "A basket of summer fruit." Then God told me, "The end has come for my people Israel; I will not spare them anymore."

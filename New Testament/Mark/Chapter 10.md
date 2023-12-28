@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 10
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Mark/500/10.jpg" alt="Mark Chapter 10" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Mark Chapter 10</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Mark/500/10.jpg" alt="Mark Chapter 10" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Mark Chapter 10</figcaption>
+</figure>
 1 He got up from there and went to the region of Judea across the Jordan. People came to him again, and as usual, he taught them.
 
 2 The Pharisees went to him and asked, "Is it okay for a man to divorce his wife?" to test him.

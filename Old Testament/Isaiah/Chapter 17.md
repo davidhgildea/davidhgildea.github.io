@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 17
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Isaiah/500/17.jpg" alt="Isaiah Chapter 17" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Isaiah Chapter 17</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Isaiah/500/17.jpg" alt="Isaiah Chapter 17" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 17</figcaption>
+</figure>
 1 The load Damascus carries: Look, Damascus will no longer be a city, but will become a pile of ruins.
 
 2 The cities of Aroer are abandoned: they will become places for flocks to rest, with no one to scare them.

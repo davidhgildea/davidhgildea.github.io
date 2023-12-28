@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 122
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Psalms/500/122.jpg" alt="Psalms Chapter 122" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Psalms Chapter 122</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Psalms/500/122.jpg" alt="Psalms Chapter 122" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 122</figcaption>
+</figure>
 1 I was happy when they told me, "Let's go to God's house."
 
 2 We will stand inside your gates, Jerusalem.

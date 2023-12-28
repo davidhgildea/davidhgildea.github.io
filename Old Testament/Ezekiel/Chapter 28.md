@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 28
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Ezekiel/500/28.jpg" alt="Ezekiel Chapter 28" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Ezekiel Chapter 28</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Ezekiel/500/28.jpg" alt="Ezekiel Chapter 28" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ezekiel Chapter 28</figcaption>
+</figure>
 1 God's message came to me again, saying,
 
 2 Human, tell the ruler of Tyre, "God says: Because you are proud and claim, 'I am a god, I sit on a god's throne surrounded by the seas,' but you are just a human, not a god, even though you think you have a god's mind."

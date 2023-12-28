@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 26
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Matthew/500/26.jpg" alt="Matthew Chapter 26" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Matthew Chapter 26</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Matthew/500/26.jpg" alt="Matthew Chapter 26" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Matthew Chapter 26</figcaption>
+</figure>
 1 After Jesus said all this, he spoke to his followers.
 
 2 You know that in two days the Passover feast will happen, and the Son of Man will be betrayed to be crucified.

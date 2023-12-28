@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 28
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Psalms/500/28.jpg" alt="Psalms Chapter 28" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Psalms Chapter 28</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Psalms/500/28.jpg" alt="Psalms Chapter 28" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 28</figcaption>
+</figure>
 1 I will call out to you, God my rock; do not ignore me, or if you stay silent, I will be like those who fall into the grave.
 
 2 Listen to my pleas for help, when I call to you, when I raise my hands toward your sacred place.

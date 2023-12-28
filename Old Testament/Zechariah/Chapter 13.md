@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 13
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Zechariah/500/13.jpg" alt="Zechariah Chapter 13" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Zechariah Chapter 13</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Zechariah/500/13.jpg" alt="Zechariah Chapter 13" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Zechariah Chapter 13</figcaption>
+</figure>
 1 On that day, there will be a spring made available to David's family and to the people of Jerusalem for cleansing from sin and impurity.
 
 2 On that day, God says, I will remove the idols from the land, and they will be forgotten. I will also get rid of the false prophets and evil spirits from the land.

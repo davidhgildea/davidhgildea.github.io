@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 81
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Psalms/500/81.jpg" alt="Psalms Chapter 81" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Psalms Chapter 81</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Psalms/500/81.jpg" alt="Psalms Chapter 81" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 81</figcaption>
+</figure>
 1 Sing loudly to God, our strength; make happy sounds to the God of Jacob.
 
 2 Sing a song, and bring the drum, the lovely harp with the zither.

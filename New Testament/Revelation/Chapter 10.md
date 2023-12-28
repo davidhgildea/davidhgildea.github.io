@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 10
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Revelation/500/10.jpg" alt="Revelation Chapter 10" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Revelation Chapter 10</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Revelation/500/10.jpg" alt="Revelation Chapter 10" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Revelation Chapter 10</figcaption>
+</figure>
 1 I saw another powerful angel come down from heaven, dressed in a cloud, with a rainbow on his head, his face shining like the sun, and his feet like pillars of fire.
 
 2 He held an open small book in his hand, and he put his right foot on the sea and his left foot on the land.

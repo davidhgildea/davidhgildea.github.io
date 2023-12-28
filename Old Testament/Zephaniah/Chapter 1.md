@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 1
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Zephaniah/500/1.jpg" alt="Zephaniah Chapter 1" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Zephaniah Chapter 1</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Zephaniah/500/1.jpg" alt="Zephaniah Chapter 1" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Zephaniah Chapter 1</figcaption>
+</figure>
 1 God's message came to Zephaniah, Cushi's son, Gedaliah's grandson, Amariah's great-grandson, and Hizkiah's great-great-grandson, during Josiah's time, Amon's son, who was king of Judah.
 
 2 I will completely destroy everything from the land, says God.

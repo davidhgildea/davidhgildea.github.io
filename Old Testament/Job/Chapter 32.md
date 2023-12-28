@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 32
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Job/500/32.jpg" alt="Job Chapter 32" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Job Chapter 32</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Job/500/32.jpg" alt="Job Chapter 32" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Job Chapter 32</figcaption>
+</figure>
 1 These three men stopped answering Job because he thought he was right.
 
 2 Elihu, Barachel's son from the Buzite family, became very angry with Job because Job made himself look right instead of God.

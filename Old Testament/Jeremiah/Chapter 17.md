@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 17
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Jeremiah/500/17.jpg" alt="Jeremiah Chapter 17" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Jeremiah Chapter 17</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Jeremiah/500/17.jpg" alt="Jeremiah Chapter 17" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 17</figcaption>
+</figure>
 1 Judah's sin is deeply engraved on their hearts and on your altars' corners as if written with an iron pen and diamond tip.
 
 2 While their children recall their altars and sacred gardens near the green trees on the tall hills.

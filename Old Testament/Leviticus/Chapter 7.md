@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 7
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Leviticus/500/7.jpg" alt="Leviticus Chapter 7" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Leviticus Chapter 7</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Leviticus/500/7.jpg" alt="Leviticus Chapter 7" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Leviticus Chapter 7</figcaption>
+</figure>
 1 This is the rule for the guilt offering: it is very holy.
 
 2 In the spot where they kill the burnt sacrifice, they must also kill the guilt sacrifice, and its blood should be sprinkled all around the altar.

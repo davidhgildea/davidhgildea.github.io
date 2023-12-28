@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 4
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Nehemiah/500/4.jpg" alt="Nehemiah Chapter 4" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Nehemiah Chapter 4</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Nehemiah/500/4.jpg" alt="Nehemiah Chapter 4" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Nehemiah Chapter 4</figcaption>
+</figure>
 1 But when Sanballat heard that we were building the wall, he became very angry, was greatly upset, and made fun of the Jews.
 
 2 He spoke to his brothers and Samaria's army, asking, "What can these weak Jews do? Can they rebuild their defenses? Can they offer sacrifices? Can they finish in one day? Can they bring the burned stones back to life from the rubble piles?"

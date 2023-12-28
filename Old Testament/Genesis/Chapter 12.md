@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 12
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Genesis/500/12.jpg" alt="Genesis Chapter 12" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Genesis Chapter 12</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Genesis/500/12.jpg" alt="Genesis Chapter 12" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 12</figcaption>
+</figure>
 1 God told Abram, "Leave your country, your relatives, and your father's home, and go to a land I will show you."
 
 2 I will make you into a great nation, and I will bless you, and make your name great; and you will be a blessing.

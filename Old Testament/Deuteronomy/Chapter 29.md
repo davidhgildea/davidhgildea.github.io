@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 29
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Deuteronomy/500/29.jpg" alt="Deuteronomy Chapter 29" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Deuteronomy Chapter 29</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Deuteronomy/500/29.jpg" alt="Deuteronomy Chapter 29" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Deuteronomy Chapter 29</figcaption>
+</figure>
 1 These are the words of the agreement that God told Moses to create with the people of Israel in Moab, in addition to the agreement he made with them at Horeb.
 
 2 Moses spoke to all Israel, saying, "You have seen everything God did in Egypt to Pharaoh, his officials, and his land right before your eyes."

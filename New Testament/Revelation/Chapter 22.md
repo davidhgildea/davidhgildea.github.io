@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 22
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Revelation/500/22.jpg" alt="Revelation Chapter 22" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Revelation Chapter 22</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Revelation/500/22.jpg" alt="Revelation Chapter 22" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Revelation Chapter 22</figcaption>
+</figure>
 1 He showed me a clear river of life-giving water, as bright as crystal, flowing from God's throne and the Lamb's.
 
 2 In the middle of the city's main street and on both sides of the river stood the tree of life. It produced twelve kinds of fruit, giving fresh fruit each month. The tree's leaves were used to heal the nations.

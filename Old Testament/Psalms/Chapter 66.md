@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 66
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Psalms/500/66.jpg" alt="Psalms Chapter 66" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Psalms Chapter 66</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Psalms/500/66.jpg" alt="Psalms Chapter 66" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 66</figcaption>
+</figure>
 1 Celebrate happily before God, all you lands.
 
 2 Sing to honor God's name; make your praises of him wonderful.

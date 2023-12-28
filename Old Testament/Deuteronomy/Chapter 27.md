@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 27
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Deuteronomy/500/27.jpg" alt="Deuteronomy Chapter 27" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Deuteronomy Chapter 27</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Deuteronomy/500/27.jpg" alt="Deuteronomy Chapter 27" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Deuteronomy Chapter 27</figcaption>
+</figure>
 1 Moses and the leaders of Israel told the people, "Follow all the rules I give you today."
 
 2 On the day you cross the Jordan into the land God is giving you, you must set up large stones and cover them with plaster.

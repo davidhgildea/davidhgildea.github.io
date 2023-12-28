@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 1
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/2 Samuel/500/1.jpg" alt="2 Samuel Chapter 1" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">2 Samuel Chapter 1</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/2 Samuel/500/1.jpg" alt="2 Samuel Chapter 1" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Samuel Chapter 1</figcaption>
+</figure>
 1 After Saul died and David came back from defeating the Amalekites, David stayed in Ziklag for two days.
 
 2 On the third day, a man left Saul's camp with torn clothes and dirt on his head. When he reached David, he fell to the ground to show respect.

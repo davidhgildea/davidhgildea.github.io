@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 27
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Acts/500/27.jpg" alt="Acts Chapter 27" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Acts Chapter 27</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Acts/500/27.jpg" alt="Acts Chapter 27" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Acts Chapter 27</figcaption>
+</figure>
 1 When it was decided that we would sail to Italy, they handed Paul and some other prisoners over to a man named Julius, who was a captain in Augustus' army.
 
 2 We got on a boat from Adramyttium and set sail to pass by the coasts of Asia, with a man named Aristarchus from Thessalonica in Macedonia joining us.

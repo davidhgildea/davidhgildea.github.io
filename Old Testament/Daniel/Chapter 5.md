@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 5
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Daniel/500/5.jpg" alt="Daniel Chapter 5" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Daniel Chapter 5</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Daniel/500/5.jpg" alt="Daniel Chapter 5" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Daniel Chapter 5</figcaption>
+</figure>
 1 King Belshazzar made a huge feast for a thousand of his nobles and drank wine in front of them.
 
 2 While Belshazzar was drinking wine, he ordered to bring the gold and silver cups that Nebuchadnezzar, his father, had taken from the temple in Jerusalem. He wanted the king, his leaders, his wives, and his mistresses to drink from them.

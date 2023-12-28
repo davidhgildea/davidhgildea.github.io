@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 1
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Matthew/500/1.jpg" alt="Matthew Chapter 1" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Matthew Chapter 1</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Matthew/500/1.jpg" alt="Matthew Chapter 1" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Matthew Chapter 1</figcaption>
+</figure>
 1 This book lists Jesus Christ's ancestors. He was from David's and Abraham's family.
 
 2 Abraham had a son named Isaac; Isaac had a son named Jacob; and Jacob had sons, including Judas and his brothers.

@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 22
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Isaiah/500/22.jpg" alt="Isaiah Chapter 22" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Isaiah Chapter 22</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Isaiah/500/22.jpg" alt="Isaiah Chapter 22" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 22</figcaption>
+</figure>
 1 The trouble with the Valley of Vision. What's wrong with you that you've all gone up to the rooftops?
 
 2 You are busy and noisy, a city full of chaos, a city of joy: your dead were not killed by the sword, nor died in war.

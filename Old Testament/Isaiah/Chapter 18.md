@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 18
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Isaiah/500/18.jpg" alt="Isaiah Chapter 18" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Isaiah Chapter 18</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Isaiah/500/18.jpg" alt="Isaiah Chapter 18" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 18</figcaption>
+</figure>
 1 Trouble comes to the land with many winged insects, which is past the rivers of Ethiopia.
 
 2 God sends messengers over the sea, in boats made of reeds on the waters, telling them, "Go quickly to a nation that is spread out and stripped, to a people feared from the start until now; a country measured and crushed, whose land rivers have ruined!"

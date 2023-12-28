@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 12
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Matthew/500/12.jpg" alt="Matthew Chapter 12" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Matthew Chapter 12</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Matthew/500/12.jpg" alt="Matthew Chapter 12" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Matthew Chapter 12</figcaption>
+</figure>
 1 One Sabbath, Jesus walked through the grain fields, and his hungry disciples started to pick and eat some heads of grain.
 
 2 When the Pharisees saw this, they said to him, "Look, your disciples are doing what is not allowed on the Sabbath day."

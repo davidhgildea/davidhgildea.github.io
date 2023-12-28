@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 22
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Luke/500/22.jpg" alt="Luke Chapter 22" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Luke Chapter 22</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Luke/500/22.jpg" alt="Luke Chapter 22" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Luke Chapter 22</figcaption>
+</figure>
 1 The time for the Feast of Unleavened Bread, also known as Passover, was near.
 
 2 The high priests and teachers of the law wanted to find a way to kill him; they were afraid of the people.

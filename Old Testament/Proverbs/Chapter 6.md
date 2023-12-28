@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 6
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Proverbs/500/6.jpg" alt="Proverbs Chapter 6" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Proverbs Chapter 6</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Proverbs/500/6.jpg" alt="Proverbs Chapter 6" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Proverbs Chapter 6</figcaption>
+</figure>
 1 My son, if you promise to pay for your friend, if you have shaken hands with a stranger,
 
 2 You are trapped by what you said, caught by your own words.

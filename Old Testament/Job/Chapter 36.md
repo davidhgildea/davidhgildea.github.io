@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 36
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Job/500/36.jpg" alt="Job Chapter 36" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Job Chapter 36</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Job/500/36.jpg" alt="Job Chapter 36" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Job Chapter 36</figcaption>
+</figure>
 1 Elihu continued and spoke,
 
 2 Let me speak a bit more, for I still have things to say about God.

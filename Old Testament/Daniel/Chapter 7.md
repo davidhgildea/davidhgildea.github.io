@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 7
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Daniel/500/7.jpg" alt="Daniel Chapter 7" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Daniel Chapter 7</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Daniel/500/7.jpg" alt="Daniel Chapter 7" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Daniel Chapter 7</figcaption>
+</figure>
 1 In the first year of King Belshazzar of Babylon, Daniel had a dream and saw visions while on his bed. After that, he wrote down the dream and explained the main points.
 
 2 Daniel spoke and said, "In my night vision, I saw the four winds of heaven stirring up the great sea."

@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 5
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Hosea/500/5.jpg" alt="Hosea Chapter 5" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Hosea Chapter 5</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Hosea/500/5.jpg" alt="Hosea Chapter 5" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Hosea Chapter 5</figcaption>
+</figure>
 1 Listen, priests, pay attention, people of Israel, and hear this, royal house, because God will judge you. You have been traps at Mizpah and nets on Tabor.
 
 2 The rebels are skilled at killing, even though I have warned them all.

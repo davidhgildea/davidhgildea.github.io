@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 49
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Isaiah/500/49.jpg" alt="Isaiah Chapter 49" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Isaiah Chapter 49</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Isaiah/500/49.jpg" alt="Isaiah Chapter 49" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 49</figcaption>
+</figure>
 1 Listen, islands, to me; pay attention, you people from far away. God has called me from before I was born; from my mother's womb, he has spoken my name.
 
 2 God has made my mouth like a sharp sword; he has hidden me in the shadow of his hand and made me like a smooth arrow stored in his quiver.

@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 63
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Isaiah/500/63.jpg" alt="Isaiah Chapter 63" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Isaiah Chapter 63</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Isaiah/500/63.jpg" alt="Isaiah Chapter 63" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 63</figcaption>
+</figure>
 1 Who is this coming from Edom, with colorful clothes from Bozrah, looking splendid in his clothes, moving in his great strength? I am the one who speaks what is right, powerful to save.
 
 2 Why are you wearing red clothes and look like someone who has been stomping grapes?

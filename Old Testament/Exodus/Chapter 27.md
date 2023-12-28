@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 27
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Exodus/500/27.jpg" alt="Exodus Chapter 27" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Exodus Chapter 27</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Exodus/500/27.jpg" alt="Exodus Chapter 27" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Exodus Chapter 27</figcaption>
+</figure>
 1 Make an altar from acacia wood, five cubits long and five cubits wide; the altar should be square, and its height should be three cubits.
 
 2 Make horns for it on its four corners, and the horns will be made from the same material. Cover it with bronze.

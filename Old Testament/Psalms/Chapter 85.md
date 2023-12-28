@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 85
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Psalms/500/85.jpg" alt="Psalms Chapter 85" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Psalms Chapter 85</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Psalms/500/85.jpg" alt="Psalms Chapter 85" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 85</figcaption>
+</figure>
 1 God, you have been good to your land; you have freed Jacob's captives.
 
 2 You have forgiven your people's sins; you have covered all their wrongs. Pause and think about that.

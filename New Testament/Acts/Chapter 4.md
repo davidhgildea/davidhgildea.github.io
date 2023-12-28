@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 4
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Acts/500/4.jpg" alt="Acts Chapter 4" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Acts Chapter 4</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Acts/500/4.jpg" alt="Acts Chapter 4" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Acts Chapter 4</figcaption>
+</figure>
 1 While they were talking to the people, the priests, the temple leader, and the Sadducees confronted them.
 
 2 They were upset because they taught the people and proclaimed through Jesus that the dead would rise again.

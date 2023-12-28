@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 24
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Exodus/500/24.jpg" alt="Exodus Chapter 24" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Exodus Chapter 24</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Exodus/500/24.jpg" alt="Exodus Chapter 24" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Exodus Chapter 24</figcaption>
+</figure>
 1 He told Moses, "Go up to God, you, Aaron, Nadab, Abihu, and seventy of Israel's elders, and worship from a distance."
 
 2 Only Moses will go close to God; others will not, nor will the people go up with him.

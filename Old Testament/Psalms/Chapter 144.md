@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 144
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Psalms/500/144.jpg" alt="Psalms Chapter 144" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Psalms Chapter 144</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Psalms/500/144.jpg" alt="Psalms Chapter 144" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 144</figcaption>
+</figure>
 1 God blesses me with strength, teaches my hands to fight, and my fingers for battle.
 
 2 My goodness and my protector; my strong tower and my rescuer; my shield and the one I trust; who brings my people under my rule.

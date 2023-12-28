@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 5
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Ephesians/500/5.jpg" alt="Ephesians Chapter 5" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Ephesians Chapter 5</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Ephesians/500/5.jpg" alt="Ephesians Chapter 5" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ephesians Chapter 5</figcaption>
+</figure>
 1 So be like God, as beloved children.
 
 2 Live in love, just as Christ loved us and gave himself for us, as a gift and sacrifice to God that is like a pleasing aroma.

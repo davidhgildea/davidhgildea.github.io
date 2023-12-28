@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 13
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Proverbs/500/13.jpg" alt="Proverbs Chapter 13" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Proverbs Chapter 13</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Proverbs/500/13.jpg" alt="Proverbs Chapter 13" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Proverbs Chapter 13</figcaption>
+</figure>
 1 A smart son listens to his father's teaching, but someone who mocks does not listen to correction.
 
 2 A person will enjoy benefits from the good things they say, but those who break rules will experience harm.

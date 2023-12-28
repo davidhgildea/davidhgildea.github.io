@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 6
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Luke/500/6.jpg" alt="Luke Chapter 6" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Luke Chapter 6</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Luke/500/6.jpg" alt="Luke Chapter 6" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Luke Chapter 6</figcaption>
+</figure>
 1 On the second Saturday following the first, Jesus walked through the grain fields. His followers picked some heads of grain, rubbed them in their hands, and ate them.
 
 2 Some Pharisees asked them, "Why are you doing what's not allowed on the Sabbath?"

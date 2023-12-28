@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 9
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Daniel/500/9.jpg" alt="Daniel Chapter 9" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Daniel Chapter 9</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Daniel/500/9.jpg" alt="Daniel Chapter 9" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Daniel Chapter 9</figcaption>
+</figure>
 1 In the first year of Darius, son of Ahasuerus, from the Medes' family, who became king of the Chaldean land;
 
 2 In the first year of his rule, I, Daniel, learned from the writings the number of years God told the prophet Jeremiah that Jerusalem would be in ruins, which was seventy years.

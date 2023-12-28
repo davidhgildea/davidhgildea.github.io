@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 23
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Jeremiah/500/23.jpg" alt="Jeremiah Chapter 23" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Jeremiah Chapter 23</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Jeremiah/500/23.jpg" alt="Jeremiah Chapter 23" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 23</figcaption>
+</figure>
 1 God says, "Trouble will come to the leaders who ruin and disperse the sheep of my land!"
 
 2 So this is what God of Israel says to the leaders who take care of my people: You have scattered my sheep and made them run away, and you did not care for them. Look, I will punish you for the bad things you've done, says God.

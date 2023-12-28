@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 2
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Jonah/500/2.jpg" alt="Jonah Chapter 2" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Jonah Chapter 2</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Jonah/500/2.jpg" alt="Jonah Chapter 2" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jonah Chapter 2</figcaption>
+</figure>
 1 Then Jonah prayed to God from inside the fish.
 
 2 I called out to God because of my suffering, and he listened to me; from deep inside the grave I cried, and you heard my voice.

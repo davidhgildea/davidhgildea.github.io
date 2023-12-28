@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 21
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Ezekiel/500/21.jpg" alt="Ezekiel Chapter 21" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Ezekiel Chapter 21</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Ezekiel/500/21.jpg" alt="Ezekiel Chapter 21" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ezekiel Chapter 21</figcaption>
+</figure>
 1 God's message came to me, saying,
 
 2 Human, look toward Jerusalem, speak your message to the sacred places, and tell of coming troubles for the land of Israel.

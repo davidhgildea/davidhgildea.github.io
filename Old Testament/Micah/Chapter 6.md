@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 6
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Micah/500/6.jpg" alt="Micah Chapter 6" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Micah Chapter 6</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Micah/500/6.jpg" alt="Micah Chapter 6" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Micah Chapter 6</figcaption>
+</figure>
 1 Listen to what God says; stand up, argue your case before the mountains, and let the hills hear what you say.
 
 2 Listen, mountains, to God's argument, and you solid grounds of the earth: for God has a dispute with his people, and he will speak to Israel about it.

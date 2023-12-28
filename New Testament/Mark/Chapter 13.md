@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 13
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Mark/500/13.jpg" alt="Mark Chapter 13" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Mark Chapter 13</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Mark/500/13.jpg" alt="Mark Chapter 13" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Mark Chapter 13</figcaption>
+</figure>
 1 As he left the temple, one of his disciples said to him, "Teacher, look at the size of these stones and these buildings!"
 
 2 Jesus answered him, "Do you see these large buildings? Not one stone will be left on top of another; every one will be thrown down."

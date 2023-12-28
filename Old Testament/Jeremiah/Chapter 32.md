@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 32
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Jeremiah/500/32.jpg" alt="Jeremiah Chapter 32" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Jeremiah Chapter 32</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Jeremiah/500/32.jpg" alt="Jeremiah Chapter 32" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 32</figcaption>
+</figure>
 1 The message that came to Jeremiah from God in the tenth year of Zedekiah, the king of Judah, which was the eighteenth year of Nebuchadnezzar.
 
 2 At that time, the Babylonian king's army surrounded Jerusalem, and the prophet Jeremiah was confined in the prison yard inside the king of Judah's palace.

@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 26
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Jeremiah/500/26.jpg" alt="Jeremiah Chapter 26" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Jeremiah Chapter 26</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Jeremiah/500/26.jpg" alt="Jeremiah Chapter 26" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 26</figcaption>
+</figure>
 1 At the start of Jehoiakim's rule, the son of King Josiah of Judah, God sent this message:
 
 2 God says, "Stand in the yard of God's house, and talk to all the people from the towns of Judah who come to worship in God's house. Tell them everything I tell you to say; don't leave out a single word."

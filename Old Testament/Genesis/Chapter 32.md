@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 32
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Genesis/500/32.jpg" alt="Genesis Chapter 32" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Genesis Chapter 32</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Genesis/500/32.jpg" alt="Genesis Chapter 32" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 32</figcaption>
+</figure>
 1 Jacob continued his journey, and God's angels met him.
 
 2 When Jacob saw them, he said, "This is God's group," and he named that place Mahanaim.

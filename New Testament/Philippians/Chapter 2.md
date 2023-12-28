@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 2
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Philippians/500/2.jpg" alt="Philippians Chapter 2" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Philippians Chapter 2</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Philippians/500/2.jpg" alt="Philippians Chapter 2" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Philippians Chapter 2</figcaption>
+</figure>
 1 So, if there is any comfort from being united with Christ, if any love brings comfort, if we share in the Spirit, if there is any warmth and kindness,
 
 2 Make my joy complete by agreeing with each other, sharing the same love, and being united in thoughts and purpose.

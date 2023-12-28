@@ -10,12 +10,10 @@ layout: default
 
 # Chapter 9
 
-<div style="clear: both; text-align: right;">
-    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-        <img src="/assets/Image/Acts/500/9.jpg" alt="Acts Chapter 9" class="chapter-image">
-    </div>
-    <figcaption style="font-size: 14px; text-align: right;">Acts Chapter 9</figcaption>
-</div>
+<figure style="max-width: 50%; margin-left: 10%; display: block;">
+    <img src="/assets/Image/Acts/500/9.jpg" alt="Acts Chapter 9" class="chapter-image" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Acts Chapter 9</figcaption>
+</figure>
 1 Saul, still making threats and wanting to kill the followers of the Lord, went to the high priest.
 
 2 He asked for letters to the Damascus places of worship, so that if he found anyone who followed this path, man or woman, he could take them tied up to Jerusalem.
