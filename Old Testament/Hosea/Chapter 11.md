@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 11
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Hosea/500/11.jpg" alt="Hosea Chapter 11" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Hosea Chapter 11</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Hosea/500/11.jpg" alt="Hosea Chapter 11" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Hosea Chapter 11</figcaption>
 </figure>
+</div>
 1 When Israel was young, I loved him and called my son out of Egypt.
 
 2 When they were called, they ignored it; they made sacrifices to false gods and burned incense to idols.

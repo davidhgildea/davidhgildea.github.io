@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 2
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Esther/500/2.jpg" alt="Esther Chapter 2" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Esther Chapter 2</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Esther/500/2.jpg" alt="Esther Chapter 2" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Esther Chapter 2</figcaption>
 </figure>
+</div>
 1 After this, when King Ahasuerus calmed down, he remembered Vashti, what she did, and the decision made against her.
 
 2 The king's servants who served him suggested, "Let's look for beautiful young women for the king."

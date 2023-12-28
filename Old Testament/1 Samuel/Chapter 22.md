@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 22
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Samuel/500/22.jpg" alt="1 Samuel Chapter 22" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Samuel Chapter 22</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Samuel/500/22.jpg" alt="1 Samuel Chapter 22" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Samuel Chapter 22</figcaption>
 </figure>
+</div>
 1 David left that place and went to the cave of Adullam. When his brothers and his father's family heard about it, they went down there to be with him.
 
 2 Everyone in trouble, in debt, or unhappy gathered around him, and he became their leader. About four hundred men were with him.

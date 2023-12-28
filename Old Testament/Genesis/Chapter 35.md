@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 35
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Genesis/500/35.jpg" alt="Genesis Chapter 35" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 35</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Genesis/500/35.jpg" alt="Genesis Chapter 35" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Genesis Chapter 35</figcaption>
 </figure>
+</div>
 1 God told Jacob, "Get up and go to Bethel to live. There, build an altar to God who showed Himself to you when you were running away from your brother Esau."
 
 2 Jacob told his family and everyone with him, "Get rid of the foreign gods you have, make yourselves clean, and change your clothes."

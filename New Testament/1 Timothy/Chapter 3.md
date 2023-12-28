@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 3
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Timothy/500/3.jpg" alt="1 Timothy Chapter 3" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Timothy Chapter 3</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Timothy/500/3.jpg" alt="1 Timothy Chapter 3" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Timothy Chapter 3</figcaption>
 </figure>
+</div>
 1 It is true that if someone wants to be a leader in the church, they want to do a good thing.
 
 2 A church leader must be without fault, married to one woman, watchful, clear-minded, well-behaved, welcoming to guests, and skilled in teaching.

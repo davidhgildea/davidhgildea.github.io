@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 11
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Genesis/500/11.jpg" alt="Genesis Chapter 11" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 11</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Genesis/500/11.jpg" alt="Genesis Chapter 11" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Genesis Chapter 11</figcaption>
 </figure>
+</div>
 1 Everyone on earth spoke the same language.
 
 2 As they traveled from the east, they found a flat area in the land of Shinar and they settled there.

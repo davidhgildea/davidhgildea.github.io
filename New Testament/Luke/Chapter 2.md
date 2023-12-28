@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 2
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Luke/500/2.jpg" alt="Luke Chapter 2" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Luke Chapter 2</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Luke/500/2.jpg" alt="Luke Chapter 2" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Luke Chapter 2</figcaption>
 </figure>
+</div>
 1 At that time, Caesar Augustus ordered that everyone in the world should be counted and taxed.
 
 2 This tax first happened when Cyrenius was the ruler of Syria.

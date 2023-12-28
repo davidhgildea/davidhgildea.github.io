@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 24
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Acts/500/24.jpg" alt="Acts Chapter 24" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Acts Chapter 24</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Acts/500/24.jpg" alt="Acts Chapter 24" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Acts Chapter 24</figcaption>
 </figure>
+</div>
 1 Five days later, the high priest Ananias came down with some elders and a speaker named Tertullus, who accused Paul to the governor.
 
 2 When he was brought out, Tertullus started to accuse him, saying, "Because of you we have much peace, and good things are done for our nation by your care."

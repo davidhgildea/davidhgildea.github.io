@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 111
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/111.jpg" alt="Psalms Chapter 111" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 111</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Psalms/500/111.jpg" alt="Psalms Chapter 111" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Psalms Chapter 111</figcaption>
 </figure>
+</div>
 1 Praise God. I will praise God with all my heart, among the good people and the gathered crowd.
 
 2 God's works are great, and all who enjoy them seek them out.

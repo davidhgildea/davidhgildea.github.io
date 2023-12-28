@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 9
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Leviticus/500/9.jpg" alt="Leviticus Chapter 9" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Leviticus Chapter 9</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Leviticus/500/9.jpg" alt="Leviticus Chapter 9" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Leviticus Chapter 9</figcaption>
 </figure>
+</div>
 1 On the eighth day, Moses called Aaron, his sons, and Israel's elders.
 
 2 He told Aaron, "Take a young calf for a sin offering and a perfect ram for a burnt offering, and present them to God."

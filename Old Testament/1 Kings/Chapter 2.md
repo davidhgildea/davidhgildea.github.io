@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 2
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Kings/500/2.jpg" alt="1 Kings Chapter 2" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Kings Chapter 2</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Kings/500/2.jpg" alt="1 Kings Chapter 2" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Kings Chapter 2</figcaption>
 </figure>
+</div>
 1 David's time to die was near, so he told his son Solomon,
 
 2 I am going the same way everyone on earth goes: so be strong and act like a man.

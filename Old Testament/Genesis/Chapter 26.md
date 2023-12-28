@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 26
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Genesis/500/26.jpg" alt="Genesis Chapter 26" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 26</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Genesis/500/26.jpg" alt="Genesis Chapter 26" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Genesis Chapter 26</figcaption>
 </figure>
+</div>
 1 There was not enough food in the country, in addition to the earlier food shortage during Abraham's time. Isaac went to see Abimelech, the king of the Philistines, in Gerar.
 
 2 God appeared to him and said, "Do not go down to Egypt; live in the land I will tell you about."

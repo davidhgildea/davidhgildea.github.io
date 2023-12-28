@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 34
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/34.jpg" alt="Isaiah Chapter 34" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 34</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Isaiah/500/34.jpg" alt="Isaiah Chapter 34" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Isaiah Chapter 34</figcaption>
 </figure>
+</div>
 1 Come close, all you countries, to listen; and pay attention, all you peoples: let the earth and everything on it hear; the world and all that comes out of it.
 
 2 God is angry with all nations and furious with their armies; he has completely destroyed them and handed them over to be killed.

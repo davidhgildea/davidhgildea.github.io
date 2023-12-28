@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 23
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Luke/500/23.jpg" alt="Luke Chapter 23" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Luke Chapter 23</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Luke/500/23.jpg" alt="Luke Chapter 23" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Luke Chapter 23</figcaption>
 </figure>
+</div>
 1 The whole crowd got up and took him to Pilate.
 
 2 They started to accuse him, saying, "We caught this man corrupting the nation and telling people not to pay taxes to Caesar, claiming he is Christ, a king."

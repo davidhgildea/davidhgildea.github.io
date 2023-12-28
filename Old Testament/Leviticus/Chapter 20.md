@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 20
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Leviticus/500/20.jpg" alt="Leviticus Chapter 20" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Leviticus Chapter 20</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Leviticus/500/20.jpg" alt="Leviticus Chapter 20" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Leviticus Chapter 20</figcaption>
 </figure>
+</div>
 1 God spoke to Moses, saying,
 
 2 Tell the Israelites, if anyone, whether they are from Israel or a foreigner living in Israel, gives one of their children to Molech, they must be put to death; the locals must stone them.

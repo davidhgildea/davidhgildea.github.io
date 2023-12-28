@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 1
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Job/500/1.jpg" alt="Job Chapter 1" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Job Chapter 1</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Job/500/1.jpg" alt="Job Chapter 1" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Job Chapter 1</figcaption>
 </figure>
+</div>
 1 In the land of Uz, there lived a man named Job. He was blameless and honest, feared God, and avoided evil.
 
 2 He had seven sons and three daughters.

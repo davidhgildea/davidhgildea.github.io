@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 4
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Kings/500/4.jpg" alt="1 Kings Chapter 4" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Kings Chapter 4</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Kings/500/4.jpg" alt="1 Kings Chapter 4" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Kings Chapter 4</figcaption>
 </figure>
+</div>
 1 King Solomon ruled over all Israel.
 
 2 God had leaders. Azariah, son of Zadok the priest, was one of them.

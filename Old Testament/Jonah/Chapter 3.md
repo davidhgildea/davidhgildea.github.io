@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 3
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Jonah/500/3.jpg" alt="Jonah Chapter 3" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jonah Chapter 3</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Jonah/500/3.jpg" alt="Jonah Chapter 3" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Jonah Chapter 3</figcaption>
 </figure>
+</div>
 1 God spoke to Jonah again, saying,
 
 2 Get up, go to Nineveh, that big city, and tell them the message I have given you.

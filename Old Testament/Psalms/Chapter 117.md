@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 117
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/117.jpg" alt="Psalms Chapter 117" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 117</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Psalms/500/117.jpg" alt="Psalms Chapter 117" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Psalms Chapter 117</figcaption>
 </figure>
+</div>
 1 Praise God, all nations; praise Him, all people.
 
 2 God's loving kindness to us is great, and His truth lasts forever. Praise God.

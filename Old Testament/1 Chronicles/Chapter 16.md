@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 16
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Chronicles/500/16.jpg" alt="1 Chronicles Chapter 16" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Chronicles Chapter 16</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Chronicles/500/16.jpg" alt="1 Chronicles Chapter 16" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Chronicles Chapter 16</figcaption>
 </figure>
+</div>
 1 They brought God's ark and placed it inside the tent David set up for it; they gave burnt sacrifices and peace offerings to God.
 
 2 After David finished giving the burnt offerings and the peace offerings, he blessed the people in God's name.

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 27
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Chronicles/500/27.jpg" alt="1 Chronicles Chapter 27" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Chronicles Chapter 27</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Chronicles/500/27.jpg" alt="1 Chronicles Chapter 27" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Chronicles Chapter 27</figcaption>
 </figure>
+</div>
 1 The Israelite people were organized by their families, with leaders and commanders for groups of one thousand and one hundred, and officials who worked for the king on different tasks. These groups took turns each month over the year, with each group having twenty-four thousand members.
 
 2 For the first division in the first month, Jashobeam son of Zabdiel was in charge, and his division had 24,000 men.

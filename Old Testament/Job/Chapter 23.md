@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 23
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Job/500/23.jpg" alt="Job Chapter 23" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Job Chapter 23</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Job/500/23.jpg" alt="Job Chapter 23" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Job Chapter 23</figcaption>
 </figure>
+</div>
 1 Then Job replied,
 
 2 Today my complaint is harsh; my suffering is worse than my groans.

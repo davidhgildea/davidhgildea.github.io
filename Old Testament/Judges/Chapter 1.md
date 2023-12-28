@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 1
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Judges/500/1.jpg" alt="Judges Chapter 1" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Judges Chapter 1</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Judges/500/1.jpg" alt="Judges Chapter 1" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Judges Chapter 1</figcaption>
 </figure>
+</div>
 1 After Joshua died, the Israelites asked God, "Who will lead us in battle against the Canaanites first?"
 
 2 God said, "Judah will move forward: see, I have given him control of the land."

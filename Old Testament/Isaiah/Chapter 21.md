@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 21
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/21.jpg" alt="Isaiah Chapter 21" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 21</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Isaiah/500/21.jpg" alt="Isaiah Chapter 21" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Isaiah Chapter 21</figcaption>
 </figure>
+</div>
 1 The heavy message about the sea desert. Like storms in the south move through; it comes from the desert, from a scary land.
 
 2 A terrible vision is told to me; the cheater cheats, and the destroyer destroys. Attack, Elam: surround, Media; I have ended all its groaning.

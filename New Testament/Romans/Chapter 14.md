@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 14
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Romans/500/14.jpg" alt="Romans Chapter 14" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Romans Chapter 14</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Romans/500/14.jpg" alt="Romans Chapter 14" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Romans Chapter 14</figcaption>
 </figure>
+</div>
 1 Welcome those who are weak in faith, but don't argue over doubtful issues.
 
 2 One person believes they can eat everything, but another, who is weak, eats only vegetables.

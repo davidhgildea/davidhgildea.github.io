@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 33
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ezekiel/500/33.jpg" alt="Ezekiel Chapter 33" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ezekiel Chapter 33</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Ezekiel/500/33.jpg" alt="Ezekiel Chapter 33" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 33</figcaption>
 </figure>
+</div>
 1 God spoke to me again, saying,
 
 2 Human, tell your people, "When God sends war to a country, and the people choose someone from their area to be their lookout:

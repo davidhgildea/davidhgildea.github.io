@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 6
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Revelation/500/6.jpg" alt="Revelation Chapter 6" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Revelation Chapter 6</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Revelation/500/6.jpg" alt="Revelation Chapter 6" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Revelation Chapter 6</figcaption>
 </figure>
+</div>
 1 I saw the Lamb open a seal, and I heard what sounded like thunder. One of the four creatures said, "Come and see."
 
 2 I saw a white horse, and its rider had a bow. He was given a crown and rode out to win many battles and gain victory.

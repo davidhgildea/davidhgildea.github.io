@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 24
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Leviticus/500/24.jpg" alt="Leviticus Chapter 24" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Leviticus Chapter 24</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Leviticus/500/24.jpg" alt="Leviticus Chapter 24" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Leviticus Chapter 24</figcaption>
 </figure>
+</div>
 1 God spoke to Moses, saying,
 
 2 Tell the Israelites to bring you pure, crushed olive oil for the lamps so they will keep burning all the time.

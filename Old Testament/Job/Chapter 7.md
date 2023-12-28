@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 7
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Job/500/7.jpg" alt="Job Chapter 7" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Job Chapter 7</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Job/500/7.jpg" alt="Job Chapter 7" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Job Chapter 7</figcaption>
 </figure>
+</div>
 1 Doesn't everyone have a set time to live on earth? Aren't their days like those of a worker?
 
 2 Like a worker who really wants rest, and like an employee eager for their pay.

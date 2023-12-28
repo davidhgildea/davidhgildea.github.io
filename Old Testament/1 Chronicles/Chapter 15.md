@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 15
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Chronicles/500/15.jpg" alt="1 Chronicles Chapter 15" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Chronicles Chapter 15</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Chronicles/500/15.jpg" alt="1 Chronicles Chapter 15" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Chronicles Chapter 15</figcaption>
 </figure>
+</div>
 1 David built himself homes in the city of David, made a spot ready for God's ark, and set up a tent for it.
 
 2 David said, only the Levites should carry God's ark because God chose them to carry it and to serve Him forever.

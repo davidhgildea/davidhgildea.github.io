@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 138
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/138.jpg" alt="Psalms Chapter 138" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 138</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Psalms/500/138.jpg" alt="Psalms Chapter 138" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Psalms Chapter 138</figcaption>
 </figure>
+</div>
 1 I will praise you with all my heart; I will sing praises to you before other gods.
 
 2 I will worship facing your holy temple and thank your name for your kindness and truth; because you have made your word greater than your name.

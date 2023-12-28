@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 26
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Numbers/500/26.jpg" alt="Numbers Chapter 26" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Numbers Chapter 26</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Numbers/500/26.jpg" alt="Numbers Chapter 26" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Numbers Chapter 26</figcaption>
 </figure>
+</div>
 1 After the plague, God spoke to Moses and Eleazar, Aaron's son the priest, saying,
 
 2 Count all the Israelites who are 20 years old and above, from each family, who can fight in battles.

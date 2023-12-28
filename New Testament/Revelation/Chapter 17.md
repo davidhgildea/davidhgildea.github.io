@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 17
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Revelation/500/17.jpg" alt="Revelation Chapter 17" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Revelation Chapter 17</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Revelation/500/17.jpg" alt="Revelation Chapter 17" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Revelation Chapter 17</figcaption>
 </figure>
+</div>
 1 One of the seven angels, who had the seven bowls, came and spoke to me. He said, "Come here; I will show you the punishment of the great prostitute who sits on many waters."
 
 2 The rulers of the world have sinned with her, and the people of the world have become drunk with the wine of her sins.

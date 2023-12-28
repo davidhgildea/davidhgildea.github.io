@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 2
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Nahum/500/2.jpg" alt="Nahum Chapter 2" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Nahum Chapter 2</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Nahum/500/2.jpg" alt="Nahum Chapter 2" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Nahum Chapter 2</figcaption>
 </figure>
+</div>
 1 The destroyer has come before you: guard the fortress, watch the road, strengthen your waist, and power up greatly.
 
 2 God has taken away Jacob's greatness, just like Israel's; because the enemies have stripped them bare and ruined their vine branches.

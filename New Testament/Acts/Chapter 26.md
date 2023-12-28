@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 26
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Acts/500/26.jpg" alt="Acts Chapter 26" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Acts Chapter 26</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Acts/500/26.jpg" alt="Acts Chapter 26" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Acts Chapter 26</figcaption>
 </figure>
+</div>
 1 Then Agrippa told Paul, "You may now speak for yourself." So Paul reached out his hand and began to explain his side.
 
 2 I am happy, King Agrippa, because today I get to explain to you everything the Jews accuse me of.

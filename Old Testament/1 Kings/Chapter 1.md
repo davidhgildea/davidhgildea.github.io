@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 1
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Kings/500/1.jpg" alt="1 Kings Chapter 1" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Kings Chapter 1</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Kings/500/1.jpg" alt="1 Kings Chapter 1" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Kings Chapter 1</figcaption>
 </figure>
+</div>
 1 King David was old and very weak; they put clothes on him, but he could not get warm.
 
 2 So his servants told him, "Let's find a young woman for our king. She will take care of him, lie close to him, and keep him warm."

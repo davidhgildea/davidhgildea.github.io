@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 2
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Timothy/500/2.jpg" alt="1 Timothy Chapter 2" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Timothy Chapter 2</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Timothy/500/2.jpg" alt="1 Timothy Chapter 2" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Timothy Chapter 2</figcaption>
 </figure>
+</div>
 1 I encourage, then, that above all, requests, prayers, asking for others, and thanks should be given for everyone.
 
 2 For rulers and all in power; so we can live quietly and peacefully with true faith and honesty.

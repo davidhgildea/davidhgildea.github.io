@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 11
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Romans/500/11.jpg" alt="Romans Chapter 11" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Romans Chapter 11</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Romans/500/11.jpg" alt="Romans Chapter 11" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Romans Chapter 11</figcaption>
 </figure>
+</div>
 1 So I ask, has God rejected his people? No way! For I am also an Israelite, a descendant of Abraham, from the tribe of Benjamin.
 
 2 God has not rejected his people whom he knew before. Don't you know what the scripture says about Elijah? How he pleads with God against Israel, saying,

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 2
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ezra/500/2.jpg" alt="Ezra Chapter 2" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ezra Chapter 2</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Ezra/500/2.jpg" alt="Ezra Chapter 2" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Ezra Chapter 2</figcaption>
 </figure>
+</div>
 1 These are the children from the province who returned from being captives when Nebuchadnezzar, the king of Babylon, took them to Babylon. They went back to Jerusalem and Judah, each to their own city.
 
 2 These people came with Zerubbabel: Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mizpar, Bigvai, Rehum, Baanah. This is how many men from Israel there were:

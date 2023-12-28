@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 3
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Kings/500/3.jpg" alt="2 Kings Chapter 3" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Kings Chapter 3</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/2 Kings/500/3.jpg" alt="2 Kings Chapter 3" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">2 Kings Chapter 3</figcaption>
 </figure>
+</div>
 1 Jehoram, Ahab's son, started to rule over Israel in Samaria during Jehoshaphat's eighteenth year as Judah's king, and he ruled for twelve years.
 
 2 He did bad things in God's eyes, but not as much as his father and mother did. He got rid of the Baal statue his father had made.

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 20
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Revelation/500/20.jpg" alt="Revelation Chapter 20" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Revelation Chapter 20</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Revelation/500/20.jpg" alt="Revelation Chapter 20" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Revelation Chapter 20</figcaption>
 </figure>
+</div>
 1 I saw an angel come down from heaven with a key to the endless pit and a big chain in his hand.
 
 2 He grabbed the dragon, the ancient snake called the Devil, or Satan, and tied him up for a thousand years.

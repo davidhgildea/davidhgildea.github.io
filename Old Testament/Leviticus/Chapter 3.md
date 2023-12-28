@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 3
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Leviticus/500/3.jpg" alt="Leviticus Chapter 3" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Leviticus Chapter 3</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Leviticus/500/3.jpg" alt="Leviticus Chapter 3" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Leviticus Chapter 3</figcaption>
 </figure>
+</div>
 1 If his gift is a peace offering sacrifice from the cattle, whether male or female, he must present one without any defects to God.
 
 2 He must put his hand on the head of his offering and kill it at the entrance of the meeting tent. Then the sons of Aaron, who are priests, will splash its blood on all sides of the altar.

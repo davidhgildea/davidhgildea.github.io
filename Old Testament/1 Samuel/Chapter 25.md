@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 25
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Samuel/500/25.jpg" alt="1 Samuel Chapter 25" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Samuel Chapter 25</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Samuel/500/25.jpg" alt="1 Samuel Chapter 25" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Samuel Chapter 25</figcaption>
 </figure>
+</div>
 1 Samuel died; all the people of Israel met, mourned him, and buried him at his home in Ramah. Then David left and went to the Paran wilderness.
 
 2 In Maon, there was a man with a lot of property in Carmel. He was very rich, with three thousand sheep and one thousand goats, and he was cutting the wool off his sheep in Carmel.

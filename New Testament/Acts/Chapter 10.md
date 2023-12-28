@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 10
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Acts/500/10.jpg" alt="Acts Chapter 10" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Acts Chapter 10</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Acts/500/10.jpg" alt="Acts Chapter 10" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Acts Chapter 10</figcaption>
 </figure>
+</div>
 1 In Caesarea there was a man named Cornelius, a captain of the Italian group.
 
 2 A religious man who respected God with his whole family, gave lots of charity to others, and always prayed to God.

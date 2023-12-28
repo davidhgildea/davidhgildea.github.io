@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 1
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Corinthians/500/1.jpg" alt="2 Corinthians Chapter 1" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Corinthians Chapter 1</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/2 Corinthians/500/1.jpg" alt="2 Corinthians Chapter 1" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">2 Corinthians Chapter 1</figcaption>
 </figure>
+</div>
 1 Paul, a messenger of Jesus Christ chosen by God, and Timothy our brother, to God's church in Corinth and all God's holy people throughout Achaia:
 
 2 May you have kindness and peace from God our Father and from Jesus Christ.

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 6
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Jeremiah/500/6.jpg" alt="Jeremiah Chapter 6" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 6</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Jeremiah/500/6.jpg" alt="Jeremiah Chapter 6" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 6</figcaption>
 </figure>
+</div>
 1 People of Benjamin, come together to escape from Jerusalem. Sound the horn in Tekoa, and light a beacon in Bethhaccerem. Danger is coming from the north, bringing huge ruin.
 
 2 I have compared Zion's daughter to a lovely and gentle woman.

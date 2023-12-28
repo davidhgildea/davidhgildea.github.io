@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 5
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Joshua/500/5.jpg" alt="Joshua Chapter 5" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Joshua Chapter 5</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Joshua/500/5.jpg" alt="Joshua Chapter 5" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Joshua Chapter 5</figcaption>
 </figure>
+</div>
 1 When all the Amorite kings west of the Jordan and all the Canaanite kings by the sea learned that God had dried up the Jordan River so the Israelites could cross, their hearts sank, and they lost their courage because of the Israelites.
 
 2 At that time, God told Joshua, "Make sharp knives and circumcise the Israelites once more."

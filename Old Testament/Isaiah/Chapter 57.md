@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 57
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/57.jpg" alt="Isaiah Chapter 57" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 57</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Isaiah/500/57.jpg" alt="Isaiah Chapter 57" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Isaiah Chapter 57</figcaption>
 </figure>
+</div>
 1 Good people die, and nobody cares: and kind-hearted people are taken away, with no one understanding that they were spared from coming evil.
 
 2 He will find peace: they will rest in their beds, each living righteously.

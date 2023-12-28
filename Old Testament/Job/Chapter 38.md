@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 38
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Job/500/38.jpg" alt="Job Chapter 38" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Job Chapter 38</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Job/500/38.jpg" alt="Job Chapter 38" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Job Chapter 38</figcaption>
 </figure>
+</div>
 1 Then God answered Job from the storm and said,
 
 2 Who is this who gives advice with words but has no understanding?

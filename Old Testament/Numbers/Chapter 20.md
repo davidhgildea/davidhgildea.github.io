@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 20
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Numbers/500/20.jpg" alt="Numbers Chapter 20" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Numbers Chapter 20</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Numbers/500/20.jpg" alt="Numbers Chapter 20" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Numbers Chapter 20</figcaption>
 </figure>
+</div>
 1 The Israelites, all of them, came to the Zin desert in the first month. They stayed in Kadesh where Miriam died and was buried.
 
 2 The people had no water and they complained to Moses and Aaron.

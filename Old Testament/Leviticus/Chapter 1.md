@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 1
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Leviticus/500/1.jpg" alt="Leviticus Chapter 1" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Leviticus Chapter 1</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Leviticus/500/1.jpg" alt="Leviticus Chapter 1" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Leviticus Chapter 1</figcaption>
 </figure>
+</div>
 1 God called to Moses and spoke to him from the tent where people gather, saying,
 
 2 Talk to the people of Israel and tell them: If anyone wants to give an offering to God, it should be a farm animal from the herd or flock.

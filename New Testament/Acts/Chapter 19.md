@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 19
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Acts/500/19.jpg" alt="Acts Chapter 19" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Acts Chapter 19</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Acts/500/19.jpg" alt="Acts Chapter 19" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Acts Chapter 19</figcaption>
 </figure>
+</div>
 1 While Apollos was in Corinth, Paul traveled through the inland areas and arrived in Ephesus, where he met some disciples.
 
 2 He asked them, "Did you receive the Holy Spirit after you believed?" They replied, "We haven't even heard if there is a Holy Spirit."

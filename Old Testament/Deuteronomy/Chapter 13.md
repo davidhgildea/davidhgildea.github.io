@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 13
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Deuteronomy/500/13.jpg" alt="Deuteronomy Chapter 13" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Deuteronomy Chapter 13</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Deuteronomy/500/13.jpg" alt="Deuteronomy Chapter 13" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Deuteronomy Chapter 13</figcaption>
 </figure>
+</div>
 1 If a prophet or someone who dreams of visions appears among you, and gives you a sign or a miracle,
 
 2 If the sign or miracle happens that he told you about, saying, "Let's follow other gods you don't know and worship them,"

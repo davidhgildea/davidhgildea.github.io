@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 5
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Romans/500/5.jpg" alt="Romans Chapter 5" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Romans Chapter 5</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Romans/500/5.jpg" alt="Romans Chapter 5" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Romans Chapter 5</figcaption>
 </figure>
+</div>
 1 Because we are made right with God by faith, we have peace with God through our Lord Jesus Christ.
 
 2 Through faith in him, we have been brought into this favor in which we now stand, and we celebrate in expectation of God's glory.

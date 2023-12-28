@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 27
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/27.jpg" alt="Isaiah Chapter 27" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 27</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Isaiah/500/27.jpg" alt="Isaiah Chapter 27" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Isaiah Chapter 27</figcaption>
 </figure>
+</div>
 1 On that day, God with His fierce, mighty sword will punish Leviathan, the sharp serpent, even Leviathan, the twisted serpent; and He will kill the sea dragon.
 
 2 On that day, sing to her, "A vineyard of red wine."

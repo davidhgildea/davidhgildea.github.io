@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 12
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Acts/500/12.jpg" alt="Acts Chapter 12" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Acts Chapter 12</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Acts/500/12.jpg" alt="Acts Chapter 12" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Acts Chapter 12</figcaption>
 </figure>
+</div>
 1 At that time, King Herod started to bother some people from the church.
 
 2 He killed James, John's brother, with a sword.

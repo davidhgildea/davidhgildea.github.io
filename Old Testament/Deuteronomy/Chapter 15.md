@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 15
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Deuteronomy/500/15.jpg" alt="Deuteronomy Chapter 15" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Deuteronomy Chapter 15</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Deuteronomy/500/15.jpg" alt="Deuteronomy Chapter 15" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Deuteronomy Chapter 15</figcaption>
 </figure>
+</div>
 1 Every seven years, you must forgive debts.
 
 2 This is how the release works: Everyone who has lent something to their neighbor must forgive the debt; they must not demand it back from their neighbor or relative, because it is known as God's time for forgiveness.

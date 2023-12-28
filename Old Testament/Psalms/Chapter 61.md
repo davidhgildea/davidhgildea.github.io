@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 61
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/61.jpg" alt="Psalms Chapter 61" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 61</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Psalms/500/61.jpg" alt="Psalms Chapter 61" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Psalms Chapter 61</figcaption>
 </figure>
+</div>
 1 Listen to my cry, God; pay attention to my prayer.
 
 2 From the farthest part of the earth, I will call to you when I am feeling too weak: take me to the place that is stronger than I am.

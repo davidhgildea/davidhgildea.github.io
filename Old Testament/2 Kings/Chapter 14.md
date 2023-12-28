@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 14
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Kings/500/14.jpg" alt="2 Kings Chapter 14" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Kings Chapter 14</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/2 Kings/500/14.jpg" alt="2 Kings Chapter 14" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">2 Kings Chapter 14</figcaption>
 </figure>
+</div>
 1 Amaziah, son of Joash, became king of Judah in the second year of Joash, son of Jehoahaz, king of Israel.
 
 2 He was 25 years old when he became king and ruled for 29 years in Jerusalem. His mother's name was Jehoaddan from Jerusalem.

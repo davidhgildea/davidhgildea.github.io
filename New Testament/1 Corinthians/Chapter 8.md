@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 8
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Corinthians/500/8.jpg" alt="1 Corinthians Chapter 8" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Corinthians Chapter 8</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Corinthians/500/8.jpg" alt="1 Corinthians Chapter 8" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Corinthians Chapter 8</figcaption>
 </figure>
+</div>
 1 About food given to idols, we understand that we all have knowledge. Knowledge makes one proud, but love builds up.
 
 2 If someone thinks they know something, they don't know it as well as they should.

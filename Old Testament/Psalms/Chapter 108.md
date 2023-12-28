@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 108
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/108.jpg" alt="Psalms Chapter 108" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 108</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Psalms/500/108.jpg" alt="Psalms Chapter 108" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Psalms Chapter 108</figcaption>
 </figure>
+</div>
 1 God, my heart is steady; I will sing and praise you with all my heart.
 
 2 Wake up, stringed instruments and harp: I will wake up early.

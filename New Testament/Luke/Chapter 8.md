@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 8
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Luke/500/8.jpg" alt="Luke Chapter 8" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Luke Chapter 8</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Luke/500/8.jpg" alt="Luke Chapter 8" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Luke Chapter 8</figcaption>
 </figure>
+</div>
 1 After that, he traveled to every city and village, teaching and sharing the good news of God's kingdom, and the twelve were with him.
 
 2 Some women who were healed from evil spirits and sicknesses, including Mary called Magdalene who had seven demons come out of her,

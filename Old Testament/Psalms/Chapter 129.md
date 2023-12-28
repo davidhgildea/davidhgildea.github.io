@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 129
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/129.jpg" alt="Psalms Chapter 129" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 129</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Psalms/500/129.jpg" alt="Psalms Chapter 129" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Psalms Chapter 129</figcaption>
 </figure>
+</div>
 1 They have troubled me often since I was young, let Israel say now.
 
 2 They have troubled me often since I was young, but they have not beaten me.

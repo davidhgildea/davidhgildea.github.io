@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 5
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Job/500/5.jpg" alt="Job Chapter 5" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Job Chapter 5</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Job/500/5.jpg" alt="Job Chapter 5" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Job Chapter 5</figcaption>
 </figure>
+</div>
 1 Call now; see if anyone will answer you; to which holy person will you turn?
 
 2 Anger kills the foolish person, and jealousy kills the naive one.

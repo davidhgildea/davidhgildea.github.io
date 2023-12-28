@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 6
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Genesis/500/6.jpg" alt="Genesis Chapter 6" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 6</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Genesis/500/6.jpg" alt="Genesis Chapter 6" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Genesis Chapter 6</figcaption>
 </figure>
+</div>
 1 When people started to increase in number on the earth and they had daughters,
 
 2 God's sons noticed that human women were beautiful, so they married any they wanted.

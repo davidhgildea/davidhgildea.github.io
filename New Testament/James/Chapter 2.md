@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 2
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/James/500/2.jpg" alt="James Chapter 2" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">James Chapter 2</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/James/500/2.jpg" alt="James Chapter 2" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">James Chapter 2</figcaption>
 </figure>
+</div>
 1 My brothers and sisters, do not combine faith in our Lord Jesus Christ, who is glorious, with favoritism.
 
 2 If a man wearing a gold ring and fine clothes comes into your meeting, and a poor man in dirty clothes also comes in;

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 33
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Chronicles/500/33.jpg" alt="2 Chronicles Chapter 33" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Chronicles Chapter 33</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/2 Chronicles/500/33.jpg" alt="2 Chronicles Chapter 33" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">2 Chronicles Chapter 33</figcaption>
 </figure>
+</div>
 1 Manasseh was twelve years old when he became king, and he ruled for fifty-five years in Jerusalem.
 
 2 But did what was bad in God's eyes, just like the horrible things the non-Israelites did, whom God had driven out before the Israelites.

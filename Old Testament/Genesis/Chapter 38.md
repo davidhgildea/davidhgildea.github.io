@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 38
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Genesis/500/38.jpg" alt="Genesis Chapter 38" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 38</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Genesis/500/38.jpg" alt="Genesis Chapter 38" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Genesis Chapter 38</figcaption>
 </figure>
+</div>
 1 At that time, Judah left his brothers and stayed with a man from Adullam named Hirah.
 
 2 Judah saw a Canaanite man's daughter named Shuah; he married her and slept with her.

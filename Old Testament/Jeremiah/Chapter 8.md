@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 8
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Jeremiah/500/8.jpg" alt="Jeremiah Chapter 8" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 8</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Jeremiah/500/8.jpg" alt="Jeremiah Chapter 8" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 8</figcaption>
 </figure>
+</div>
 1 At that time, God says, they will take out the bones of the kings of Judah, the bones of the princes, the bones of the priests, the bones of the prophets, and the bones of the people of Jerusalem from their graves.
 
 2 They will lay them out under the sun, and the moon, and all the stars in the sky, which they loved, served, followed, sought after, and worshipped. They won't be collected or buried; they will become like waste on the ground.

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 5
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Galatians/500/5.jpg" alt="Galatians Chapter 5" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Galatians Chapter 5</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Galatians/500/5.jpg" alt="Galatians Chapter 5" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Galatians Chapter 5</figcaption>
 </figure>
+</div>
 1 Stay strong in the freedom that Christ has given us, and don't get tied up again in slavery.
 
 2 Listen, I, Paul, tell you that if you get circumcised, Christ will be of no benefit to you.

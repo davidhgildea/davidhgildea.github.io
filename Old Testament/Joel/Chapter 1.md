@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 1
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Joel/500/1.jpg" alt="Joel Chapter 1" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Joel Chapter 1</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Joel/500/1.jpg" alt="Joel Chapter 1" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Joel Chapter 1</figcaption>
 </figure>
+</div>
 1 God's message that came to Joel, Pethuel's son.
 
 2 Listen, old men, and all who live in the land, pay attention. Has anything like this happened in your time or in your ancestors' time?

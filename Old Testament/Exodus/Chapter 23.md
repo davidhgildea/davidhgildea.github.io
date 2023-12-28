@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 23
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Exodus/500/23.jpg" alt="Exodus Chapter 23" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Exodus Chapter 23</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Exodus/500/23.jpg" alt="Exodus Chapter 23" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Exodus Chapter 23</figcaption>
 </figure>
+</div>
 1 Do not spread false rumors or join hands with the wicked to be an unfair witness.
 
 2 Do not follow a crowd to do wrong; nor should you agree with many to make unfair decisions.

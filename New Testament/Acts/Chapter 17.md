@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 17
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Acts/500/17.jpg" alt="Acts Chapter 17" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Acts Chapter 17</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Acts/500/17.jpg" alt="Acts Chapter 17" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Acts Chapter 17</figcaption>
 </figure>
+</div>
 1 After they traveled through Amphipolis and Apollonia, they arrived in Thessalonica, where there was a Jewish synagogue.
 
 2 Paul, as he usually did, met with them and for three Saturdays discussed the scriptures with them.

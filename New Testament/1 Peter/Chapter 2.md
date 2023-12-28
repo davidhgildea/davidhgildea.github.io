@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 2
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Peter/500/2.jpg" alt="1 Peter Chapter 2" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Peter Chapter 2</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Peter/500/2.jpg" alt="1 Peter Chapter 2" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Peter Chapter 2</figcaption>
 </figure>
+</div>
 1 So put away all meanness, trickery, pretending, jealousy, and talking about others badly.
 
 2 Like new babies, crave pure spiritual milk so you can grow because of it.

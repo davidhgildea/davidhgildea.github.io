@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 96
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/96.jpg" alt="Psalms Chapter 96" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 96</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Psalms/500/96.jpg" alt="Psalms Chapter 96" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Psalms Chapter 96</figcaption>
 </figure>
+</div>
 1 Sing a new song to God; let everyone on earth sing to God.
 
 2 Sing to God, praise His name; show His salvation every day.

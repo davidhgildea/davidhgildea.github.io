@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 22
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/22.jpg" alt="Psalms Chapter 22" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 22</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Psalms/500/22.jpg" alt="Psalms Chapter 22" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Psalms Chapter 22</figcaption>
 </figure>
+</div>
 1 My God, my God, why have you left me alone? Why are you so far from saving me and from hearing my cries?
 
 2 God, I call out for help during the day, but you do not hear me; and at night, I don't stay quiet.

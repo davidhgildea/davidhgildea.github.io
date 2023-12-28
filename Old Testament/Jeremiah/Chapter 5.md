@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 5
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Jeremiah/500/5.jpg" alt="Jeremiah Chapter 5" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 5</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Jeremiah/500/5.jpg" alt="Jeremiah Chapter 5" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 5</figcaption>
 </figure>
+</div>
 1 Go through Jerusalem's streets, look carefully, and search in its open spaces to see if you can find one person who acts justly and seeks truth; if so, I will forgive the city.
 
 2 Even though they say, "God is alive", they are truly lying when they swear.

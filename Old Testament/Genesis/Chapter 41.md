@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 41
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Genesis/500/41.jpg" alt="Genesis Chapter 41" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 41</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Genesis/500/41.jpg" alt="Genesis Chapter 41" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Genesis Chapter 41</figcaption>
 </figure>
+</div>
 1 After two whole years, Pharaoh had a dream: he was standing by the river.
 
 2 Look, seven healthy and fat cows came out of the river and they ate in a grassy field.

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 6
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Exodus/500/6.jpg" alt="Exodus Chapter 6" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Exodus Chapter 6</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Exodus/500/6.jpg" alt="Exodus Chapter 6" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Exodus Chapter 6</figcaption>
 </figure>
+</div>
 1 Then God told Moses, "Now you will see what I will do to Pharaoh: he will let the people go because of my powerful action, and he will force them to leave his land."
 
 2 God spoke to Moses and told him, "I am God."

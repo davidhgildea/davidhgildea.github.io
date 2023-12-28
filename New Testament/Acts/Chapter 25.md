@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 25
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Acts/500/25.jpg" alt="Acts Chapter 25" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Acts Chapter 25</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Acts/500/25.jpg" alt="Acts Chapter 25" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Acts Chapter 25</figcaption>
 </figure>
+</div>
 1 When Festus arrived in the area, three days later he went up from Caesarea to Jerusalem.
 
 2 The high priest and the Jewish leaders told him about Paul and asked him.

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 1
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ruth/500/1.jpg" alt="Ruth Chapter 1" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ruth Chapter 1</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Ruth/500/1.jpg" alt="Ruth Chapter 1" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Ruth Chapter 1</figcaption>
 </figure>
+</div>
 1 During the time when judges led, a famine struck the land. A man from Bethlehem in Judah moved to live in Moab with his wife and two sons.
 
 2 The man's name was Elimelech, his wife was Naomi, and their two sons were Mahlon and Chilion, from Bethlehem in Judah. They went to live in the land of Moab and stayed there.

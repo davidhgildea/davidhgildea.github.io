@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 12
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Romans/500/12.jpg" alt="Romans Chapter 12" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Romans Chapter 12</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Romans/500/12.jpg" alt="Romans Chapter 12" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Romans Chapter 12</figcaption>
 </figure>
+</div>
 1 I ask you, friends, because of God's kindness, to offer your bodies as a living and holy sacrifice that pleases God, which is a sensible way to serve Him.
 
 2 Do not follow this world's ways: instead, change by renewing your mind to know God's good, pleasing, and perfect will.

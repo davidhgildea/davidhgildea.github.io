@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 21
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Kings/500/21.jpg" alt="2 Kings Chapter 21" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Kings Chapter 21</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/2 Kings/500/21.jpg" alt="2 Kings Chapter 21" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">2 Kings Chapter 21</figcaption>
 </figure>
+</div>
 1 Manasseh was twelve when he started to rule, and he ruled for fifty-five years in Jerusalem. His mother was named Hephzibah.
 
 2 He did evil things that God hated, imitating the wicked practices of the nations that God had thrown out before the Israelites.

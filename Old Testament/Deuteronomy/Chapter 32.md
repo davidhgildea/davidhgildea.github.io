@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 32
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Deuteronomy/500/32.jpg" alt="Deuteronomy Chapter 32" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Deuteronomy Chapter 32</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Deuteronomy/500/32.jpg" alt="Deuteronomy Chapter 32" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Deuteronomy Chapter 32</figcaption>
 </figure>
+</div>
 1 Listen, heavens, and I will talk; and listen, earth, to what I say.
 
 2 My teaching will fall like rain, my words will settle like dew, like a light rain on new plants, and like showers on the grass.

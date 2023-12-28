@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 14
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Revelation/500/14.jpg" alt="Revelation Chapter 14" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Revelation Chapter 14</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Revelation/500/14.jpg" alt="Revelation Chapter 14" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Revelation Chapter 14</figcaption>
 </figure>
+</div>
 1 I looked and saw a Lamb standing on Mount Zion, and with him were 144,000 people with his Father's name on their foreheads.
 
 2 I heard a voice from heaven like the sound of many waters and like loud thunder. I also heard the sound of musicians playing their harps.

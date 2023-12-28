@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 3
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Song of Solomon/500/3.jpg" alt="Song of Solomon Chapter 3" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Song of Solomon Chapter 3</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Song of Solomon/500/3.jpg" alt="Song of Solomon Chapter 3" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Song of Solomon Chapter 3</figcaption>
 </figure>
+</div>
 1 At night in my bed, I searched for the one my soul loves: I searched for him, but did not find him.
 
 2 I will get up now and walk through the city, in the streets and squares, looking for the one my heart loves. I looked for him but did not find him.

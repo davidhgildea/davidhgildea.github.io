@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 62
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/62.jpg" alt="Isaiah Chapter 62" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 62</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Isaiah/500/62.jpg" alt="Isaiah Chapter 62" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Isaiah Chapter 62</figcaption>
 </figure>
+</div>
 1 For Zion's sake, I will not keep quiet, and for Jerusalem's sake, I will not stop working until its goodness shines out like the dawn, and its rescue blazes like a burning lamp.
 
 2 People from other nations will see how good you are, and all rulers will see your honor. You will be given a new name chosen by God.

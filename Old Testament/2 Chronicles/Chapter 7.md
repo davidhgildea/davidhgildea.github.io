@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 7
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Chronicles/500/7.jpg" alt="2 Chronicles Chapter 7" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Chronicles Chapter 7</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/2 Chronicles/500/7.jpg" alt="2 Chronicles Chapter 7" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">2 Chronicles Chapter 7</figcaption>
 </figure>
+</div>
 1 After Solomon finished praying, fire fell from the sky and burned up the offering and sacrifices; and God's glory filled the temple.
 
 2 The priests could not go into God's house because God's glory filled it.

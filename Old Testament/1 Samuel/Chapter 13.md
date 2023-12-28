@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 13
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Samuel/500/13.jpg" alt="1 Samuel Chapter 13" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Samuel Chapter 13</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Samuel/500/13.jpg" alt="1 Samuel Chapter 13" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Samuel Chapter 13</figcaption>
 </figure>
+</div>
 1 Saul was king for one year; after two years as king of Israel,
 
 2 Saul picked 3,000 Israeli soldiers; 2,000 stayed with Saul in Michmash and Bethel, 1,000 were with Jonathan in Gibeah of Benjamin, and he sent the others home.

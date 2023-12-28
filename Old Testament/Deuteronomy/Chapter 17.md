@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 17
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Deuteronomy/500/17.jpg" alt="Deuteronomy Chapter 17" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Deuteronomy Chapter 17</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Deuteronomy/500/17.jpg" alt="Deuteronomy Chapter 17" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Deuteronomy Chapter 17</figcaption>
 </figure>
+</div>
 1 Do not offer to God any bull or sheep that has a defect or any bad quality, because that is something God hates.
 
 2 If you find someone in any of your towns that God gave you, man or woman, who has done evil in God's eyes by breaking his agreement,

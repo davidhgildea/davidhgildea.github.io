@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 34
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Numbers/500/34.jpg" alt="Numbers Chapter 34" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Numbers Chapter 34</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Numbers/500/34.jpg" alt="Numbers Chapter 34" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Numbers Chapter 34</figcaption>
 </figure>
+</div>
 1 And God spoke to Moses, saying,
 
 2 Tell the Israelites, when you enter the land of Canaan, this is the land that will be your inheritance, the land of Canaan and its borders.

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 11
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/11.jpg" alt="Psalms Chapter 11" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 11</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Psalms/500/11.jpg" alt="Psalms Chapter 11" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Psalms Chapter 11</figcaption>
 </figure>
+</div>
 1 I trust in God; why do you tell me to run away like a bird to the mountains?
 
 2 Look, the evil ones pull back their bows, they put their arrows on the strings to secretly shoot at the good-hearted.

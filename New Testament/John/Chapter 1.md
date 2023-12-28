@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 1
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/John/500/1.jpg" alt="John Chapter 1" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">John Chapter 1</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/John/500/1.jpg" alt="John Chapter 1" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">John Chapter 1</figcaption>
 </figure>
+</div>
 1 At the start, the Word existed, the Word was with God, and the Word was God.
 
 2 He was with God from the start.

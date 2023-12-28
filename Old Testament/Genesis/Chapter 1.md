@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 1
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Genesis/500/1.jpg" alt="Genesis Chapter 1" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 1</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Genesis/500/1.jpg" alt="Genesis Chapter 1" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Genesis Chapter 1</figcaption>
 </figure>
+</div>
 1 At the start, God made the sky and the earth.
 
 2 The earth had no shape and was empty; darkness covered the deep water. And God's Spirit was moving over the water.

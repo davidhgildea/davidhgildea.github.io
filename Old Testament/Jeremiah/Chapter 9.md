@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 9
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Jeremiah/500/9.jpg" alt="Jeremiah Chapter 9" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 9</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Jeremiah/500/9.jpg" alt="Jeremiah Chapter 9" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 9</figcaption>
 </figure>
+</div>
 1 I wish my head were full of water, and my eyes were a stream of tears, so I could cry day and night for the people who have been killed.
 
 2 I wish I had a traveler's shelter in the desert so I could leave my people and get away from them; they are all unfaithful, a group of liars.

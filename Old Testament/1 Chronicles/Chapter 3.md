@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 3
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Chronicles/500/3.jpg" alt="1 Chronicles Chapter 3" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Chronicles Chapter 3</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Chronicles/500/3.jpg" alt="1 Chronicles Chapter 3" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Chronicles Chapter 3</figcaption>
 </figure>
+</div>
 1 These were David's sons born in Hebron: the first, Amnon, with Ahinoam from Jezreel; the second, Daniel, with Abigail from Carmel.
 
 2 The third, Absalom, Maachah's son and Talmai the king of Geshur's grandson; the fourth, Adonijah, Haggith's son.

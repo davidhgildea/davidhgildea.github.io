@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 15
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Romans/500/15.jpg" alt="Romans Chapter 15" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Romans Chapter 15</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Romans/500/15.jpg" alt="Romans Chapter 15" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Romans Chapter 15</figcaption>
 </figure>
+</div>
 1 We who are strong should help those who are weak and not just make ourselves happy.
 
 2 Everyone should try to please their neighbor for their neighbor's good, to help them grow.

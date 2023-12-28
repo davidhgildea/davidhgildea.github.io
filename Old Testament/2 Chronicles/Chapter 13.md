@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 13
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Chronicles/500/13.jpg" alt="2 Chronicles Chapter 13" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Chronicles Chapter 13</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/2 Chronicles/500/13.jpg" alt="2 Chronicles Chapter 13" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">2 Chronicles Chapter 13</figcaption>
 </figure>
+</div>
 1 Abijah began to rule over Judah in the eighteenth year of King Jeroboam's reign.
 
 2 He ruled for three years in Jerusalem. His mother was Michaiah, Uriel of Gibeah's daughter. Abijah and Jeroboam were at war.

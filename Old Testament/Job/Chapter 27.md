@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 27
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Job/500/27.jpg" alt="Job Chapter 27" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Job Chapter 27</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Job/500/27.jpg" alt="Job Chapter 27" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Job Chapter 27</figcaption>
 </figure>
+</div>
 1 Job kept on speaking his story, and said,
 
 2 God lives, who has taken away my justice; and the Almighty, who has troubled my soul.

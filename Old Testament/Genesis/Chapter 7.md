@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 7
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Genesis/500/7.jpg" alt="Genesis Chapter 7" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 7</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Genesis/500/7.jpg" alt="Genesis Chapter 7" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Genesis Chapter 7</figcaption>
 </figure>
+</div>
 1 God said to Noah, "You and your family come into the ark because I have seen you are good in this time."
 
 2 Take seven pairs of every clean animal, a male and its mate, and one pair of every unclean animal, a male and its mate.

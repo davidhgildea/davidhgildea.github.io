@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 32
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/32.jpg" alt="Psalms Chapter 32" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 32</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Psalms/500/32.jpg" alt="Psalms Chapter 32" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Psalms Chapter 32</figcaption>
 </figure>
+</div>
 1 Happy is the person whose wrongdoings are forgiven, and whose sins are hidden.
 
 2 Happy is the person whom God does not blame for wrongdoing, and who is honest in their heart.

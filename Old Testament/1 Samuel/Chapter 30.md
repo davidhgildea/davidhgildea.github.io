@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 30
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Samuel/500/30.jpg" alt="1 Samuel Chapter 30" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Samuel Chapter 30</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Samuel/500/30.jpg" alt="1 Samuel Chapter 30" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Samuel Chapter 30</figcaption>
 </figure>
+</div>
 1 When David and his men arrived at Ziklag on the third day, they found that the Amalekites had attacked the south and Ziklag, defeating Ziklag and setting it on fire.
 
 2 They captured the women there without killing anyone, big or small, and took them away before continuing on their journey.

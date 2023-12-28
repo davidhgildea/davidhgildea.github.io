@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 31
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Jeremiah/500/31.jpg" alt="Jeremiah Chapter 31" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 31</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Jeremiah/500/31.jpg" alt="Jeremiah Chapter 31" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 31</figcaption>
 </figure>
+</div>
 1 At that time, says God, I will be the God of all the families of Israel, and they will be my people.
 
 2 God says, "The people saved from the sword found kindness in the desert; this happened to Israel when I led them to a place of rest."

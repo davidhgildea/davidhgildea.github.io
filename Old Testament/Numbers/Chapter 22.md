@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 22
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Numbers/500/22.jpg" alt="Numbers Chapter 22" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Numbers Chapter 22</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Numbers/500/22.jpg" alt="Numbers Chapter 22" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Numbers Chapter 22</figcaption>
 </figure>
+</div>
 1 The Israelites moved on and camped in the Moab plains near the Jordan River across from Jericho.
 
 2 Balak, Zippor's son, saw everything Israel did to the Amorites.

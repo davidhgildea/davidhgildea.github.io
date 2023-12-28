@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 12
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Hebrews/500/12.jpg" alt="Hebrews Chapter 12" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Hebrews Chapter 12</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Hebrews/500/12.jpg" alt="Hebrews Chapter 12" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Hebrews Chapter 12</figcaption>
 </figure>
+</div>
 1 Since we are surrounded by so many examples, let's get rid of every burden and the sin that trips us up, and run with endurance the race ahead of us.
 
 2 Focusing on Jesus, the starter and completer of our faith; who, because of the joy awaiting him, went through the suffering of the cross, ignored its disgrace, and is now seated at the place of honor beside God's throne.

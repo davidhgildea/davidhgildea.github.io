@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 3
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Isaiah/500/3.jpg" alt="Isaiah Chapter 3" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Isaiah Chapter 3</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Isaiah/500/3.jpg" alt="Isaiah Chapter 3" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Isaiah Chapter 3</figcaption>
 </figure>
+</div>
 1 Look, God will remove from Jerusalem and Judah all support, the entire supply of bread, and all the water.
 
 2 The strong man, the soldier, the judge, the prophet, the wise person, and the elder,

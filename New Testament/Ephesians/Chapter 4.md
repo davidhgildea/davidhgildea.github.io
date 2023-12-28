@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 4
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ephesians/500/4.jpg" alt="Ephesians Chapter 4" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ephesians Chapter 4</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Ephesians/500/4.jpg" alt="Ephesians Chapter 4" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Ephesians Chapter 4</figcaption>
 </figure>
+</div>
 1 So I, a prisoner for God, ask you to live a life that reflects the calling you have received.
 
 2 With complete humility and gentleness, with patience, tolerating each other in love;

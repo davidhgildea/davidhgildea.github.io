@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 4
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Thessalonians/500/4.jpg" alt="1 Thessalonians Chapter 4" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Thessalonians Chapter 4</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Thessalonians/500/4.jpg" alt="1 Thessalonians Chapter 4" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Thessalonians Chapter 4</figcaption>
 </figure>
+</div>
 1 We ask you, friends, and encourage you in Jesus' name, to live as we taught you, so you can please God and keep growing in it.
 
 2 You know the commands we gave you from Jesus.

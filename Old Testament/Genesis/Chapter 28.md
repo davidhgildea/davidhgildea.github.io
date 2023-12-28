@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 28
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Genesis/500/28.jpg" alt="Genesis Chapter 28" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Genesis Chapter 28</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Genesis/500/28.jpg" alt="Genesis Chapter 28" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Genesis Chapter 28</figcaption>
 </figure>
+</div>
 1 Isaac called Jacob, blessed him, gave him instructions, and said to him, "You must not marry any of the Canaanite women."
 
 2 Get up, go to Padanaram, to your grandfather Bethuel's house; and get a wife from there among your uncle Laban's daughters.

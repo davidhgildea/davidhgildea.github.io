@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 1
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Malachi/500/1.jpg" alt="Malachi Chapter 1" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Malachi Chapter 1</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Malachi/500/1.jpg" alt="Malachi Chapter 1" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Malachi Chapter 1</figcaption>
 </figure>
+</div>
 1 God's message for Israel through Malachi.
 
 2 God says, "I have loved you. But you ask, 'How have you loved us?' Wasn't Esau Jacob's brother? But I loved Jacob.

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 24
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/2 Kings/500/24.jpg" alt="2 Kings Chapter 24" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">2 Kings Chapter 24</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/2 Kings/500/24.jpg" alt="2 Kings Chapter 24" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">2 Kings Chapter 24</figcaption>
 </figure>
+</div>
 1 During his reign, King Nebuchadnezzar of Babylon attacked, and Jehoiakim served him for three years; then he changed his mind and fought against him.
 
 2 God sent groups of Chaldeans, Syrians, Moabites, and Ammonites to destroy Judah, as God had said through the prophets.

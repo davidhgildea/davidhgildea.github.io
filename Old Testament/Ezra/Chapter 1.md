@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 1
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ezra/500/1.jpg" alt="Ezra Chapter 1" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ezra Chapter 1</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Ezra/500/1.jpg" alt="Ezra Chapter 1" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Ezra Chapter 1</figcaption>
 </figure>
+</div>
 1 In the first year of Cyrus, king of Persia, to fulfill what God had said through Jeremiah, God moved Cyrus's heart to announce to his entire kingdom, and also to write down, saying,
 
 2 Cyrus, king of Persia, says, "God of heaven has given me all the kingdoms of the earth and has told me to build a house for him in Jerusalem, in Judah."

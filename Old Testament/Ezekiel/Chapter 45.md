@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 45
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ezekiel/500/45.jpg" alt="Ezekiel Chapter 45" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ezekiel Chapter 45</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Ezekiel/500/45.jpg" alt="Ezekiel Chapter 45" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 45</figcaption>
 </figure>
+</div>
 1 Also, when you divide the land to inherit it, you must set aside a special gift for God, a holy part of the land. It will be 25,000 units long and 10,000 units wide. All around this holy area will be considered sacred.
 
 2 The sacred area will be a square, 500 units long and 500 units wide, with a 50-unit border around it.

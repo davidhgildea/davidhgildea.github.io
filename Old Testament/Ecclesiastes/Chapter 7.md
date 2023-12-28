@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 7
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ecclesiastes/500/7.jpg" alt="Ecclesiastes Chapter 7" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ecclesiastes Chapter 7</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Ecclesiastes/500/7.jpg" alt="Ecclesiastes Chapter 7" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Ecclesiastes Chapter 7</figcaption>
 </figure>
+</div>
 1 Having a good reputation is better than having expensive perfume, and the day someone dies is better than the day they are born.
 
 2 It is better to visit a place where people are sad because of death than a place where people are celebrating. This is because everyone will die someday, and the living should think about this.

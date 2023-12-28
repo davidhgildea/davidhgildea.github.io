@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 32
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Numbers/500/32.jpg" alt="Numbers Chapter 32" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Numbers Chapter 32</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Numbers/500/32.jpg" alt="Numbers Chapter 32" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Numbers Chapter 32</figcaption>
 </figure>
+</div>
 1 The Reubenites and Gadites had many animals. When they saw the land of Jazer and Gilead, they noticed it was good for animals.
 
 2 The descendants of Gad and Reuben came and spoke to Moses, Eleazar the priest, and the leaders of the people, saying,

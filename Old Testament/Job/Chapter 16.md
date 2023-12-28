@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 16
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Job/500/16.jpg" alt="Job Chapter 16" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Job Chapter 16</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Job/500/16.jpg" alt="Job Chapter 16" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Job Chapter 16</figcaption>
 </figure>
+</div>
 1 Then Job replied and spoke,
 
 2 I have heard many things like this: you are all terrible at comforting.

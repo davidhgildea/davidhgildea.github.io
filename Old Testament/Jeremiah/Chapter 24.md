@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 24
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Jeremiah/500/24.jpg" alt="Jeremiah Chapter 24" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 24</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Jeremiah/500/24.jpg" alt="Jeremiah Chapter 24" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 24</figcaption>
 </figure>
+</div>
 1 God showed me two baskets of figs in front of the temple. This was after King Nebuchadnezzar of Babylon took away Jeconiah, son of King Jehoiakim of Judah, the Judah leaders, carpenters, and metalworkers from Jerusalem to Babylon.
 
 2 One basket had very good figs, just like the first ripe ones, and the other basket had very bad figs that could not be eaten because they were so bad.

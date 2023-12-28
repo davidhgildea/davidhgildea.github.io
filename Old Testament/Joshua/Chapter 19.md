@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 19
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Joshua/500/19.jpg" alt="Joshua Chapter 19" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Joshua Chapter 19</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Joshua/500/19.jpg" alt="Joshua Chapter 19" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Joshua Chapter 19</figcaption>
 </figure>
+</div>
 1 The second choice was for the tribe of Simeon's descendants, according to their families. Their land was inside the land given to Judah's descendants.
 
 2 They received Beersheba, Sheba, and Moladah as their inheritance.

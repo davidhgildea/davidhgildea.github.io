@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 19
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Psalms/500/19.jpg" alt="Psalms Chapter 19" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Psalms Chapter 19</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Psalms/500/19.jpg" alt="Psalms Chapter 19" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Psalms Chapter 19</figcaption>
 </figure>
+</div>
 1 The skies show God's greatness; and the sky displays what his hands have made.
 
 2 Every day speaks, and every night teaches knowledge.

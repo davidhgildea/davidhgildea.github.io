@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 34
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Job/500/34.jpg" alt="Job Chapter 34" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Job Chapter 34</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Job/500/34.jpg" alt="Job Chapter 34" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Job Chapter 34</figcaption>
 </figure>
+</div>
 1 Elihu replied and said,
 
 2 Listen to me, you wise people; pay attention, you who have understanding.

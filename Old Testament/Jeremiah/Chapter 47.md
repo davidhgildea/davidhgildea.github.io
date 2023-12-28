@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 47
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Jeremiah/500/47.jpg" alt="Jeremiah Chapter 47" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Jeremiah Chapter 47</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Jeremiah/500/47.jpg" alt="Jeremiah Chapter 47" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Jeremiah Chapter 47</figcaption>
 </figure>
+</div>
 1 God's message came to Jeremiah the prophet about the Philistines before the Pharaoh attacked Gaza.
 
 2 God says, "Look, waters are coming from the north, becoming a flooding river, flooding the land and everything in it; the city and everyone living there. Then people will scream, and everyone in the land will wail."

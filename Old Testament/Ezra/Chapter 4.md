@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 4
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ezra/500/4.jpg" alt="Ezra Chapter 4" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ezra Chapter 4</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Ezra/500/4.jpg" alt="Ezra Chapter 4" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Ezra Chapter 4</figcaption>
 </figure>
+</div>
 1 When the enemies of Judah and Benjamin found out that the exiles were building a temple for the God of Israel;
 
 2 Then they approached Zerubbabel and the leaders, and proposed to them, "Let us help you build, because we follow your God just as you do, and we have been offering sacrifices to Him since the time King Esarhaddon of Assyria settled us here."

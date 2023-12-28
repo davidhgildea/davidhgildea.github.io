@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 23
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Matthew/500/23.jpg" alt="Matthew Chapter 23" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Matthew Chapter 23</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Matthew/500/23.jpg" alt="Matthew Chapter 23" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Matthew Chapter 23</figcaption>
 </figure>
+</div>
 1 Jesus spoke to the crowd and to his followers.
 
 2 The teachers of the Law and the Pharisees have authority like Moses.

@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 26
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ezekiel/500/26.jpg" alt="Ezekiel Chapter 26" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ezekiel Chapter 26</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Ezekiel/500/26.jpg" alt="Ezekiel Chapter 26" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Ezekiel Chapter 26</figcaption>
 </figure>
+</div>
 1 In the eleventh year, on the first day of the month, God's message came to me.
 
 2 Human, because Tyre has said against Jerusalem, "Aha, she is destroyed, the one who was the door to the nations: she has come to me: I will grow rich, now that she is ruined:"

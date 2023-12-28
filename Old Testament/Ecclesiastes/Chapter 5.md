@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 5
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/Ecclesiastes/500/5.jpg" alt="Ecclesiastes Chapter 5" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">Ecclesiastes Chapter 5</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/Ecclesiastes/500/5.jpg" alt="Ecclesiastes Chapter 5" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">Ecclesiastes Chapter 5</figcaption>
 </figure>
+</div>
 1 Be careful when you enter God's house, and be eager to listen rather than to offer the foolish sacrifice of those who don't realize they're doing wrong.
 
 2 Don't speak without thinking, and don't be quick to say anything before God. God is in heaven and you are on earth, so use only a few words.

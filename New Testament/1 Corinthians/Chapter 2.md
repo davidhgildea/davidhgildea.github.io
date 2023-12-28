@@ -10,10 +10,12 @@ layout: default
 
 # Chapter 2
 
-<figure style="max-width: 50%; margin-left: 10%; display: block;">
-    <img src="/assets/Image/1 Corinthians/500/2.jpg" alt="1 Corinthians Chapter 2" class="chapter-image" style="width: 100%;float: right; height: auto;">
-    <figcaption style="font-size: 14px; text-align: center; margin-top: 10px;">1 Corinthians Chapter 2</figcaption>
+<div style="text-align: left; clear: both;">
+<figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
+    <img src="/assets/Image/1 Corinthians/500/2.jpg" alt="1 Corinthians Chapter 2" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 14px;">1 Corinthians Chapter 2</figcaption>
 </figure>
+</div>
 1 When I came to you, friends, I did not use fancy talking or great wisdom to tell you about God.
 
 2 I decided to focus only on knowing about Jesus Christ and his crucifixion when I was with you.
