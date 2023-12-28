@@ -11,7 +11,7 @@ layout: default
 # Chapter 12
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/John/500/12.jpg" alt="John Chapter 12" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/John/500/12.jpg" alt="John Chapter 12" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">John Chapter 12</figcaption>
 </div>
 1 Six days before Passover, Jesus went to Bethany, where Lazarus lived, whom he had brought back to life after death.

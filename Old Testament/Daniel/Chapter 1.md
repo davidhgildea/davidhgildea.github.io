@@ -11,7 +11,7 @@ layout: default
 # Chapter 1
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Daniel/500/1.jpg" alt="Daniel Chapter 1" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/Daniel/500/1.jpg" alt="Daniel Chapter 1" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Daniel Chapter 1</figcaption>
 </div>
 1 In the third year that Jehoiakim was king of Judah, Nebuchadnezzar the king of Babylon came to Jerusalem and surrounded it.

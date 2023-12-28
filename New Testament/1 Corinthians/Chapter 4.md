@@ -11,7 +11,7 @@ layout: default
 # Chapter 4
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/1 Corinthians/500/4.jpg" alt="1 Corinthians Chapter 4" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/1 Corinthians/500/4.jpg" alt="1 Corinthians Chapter 4" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">1 Corinthians Chapter 4</figcaption>
 </div>
 1 Think of us as Christ's servants and as keepers of God's secrets.

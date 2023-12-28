@@ -11,7 +11,7 @@ layout: default
 # Chapter 2
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/2 Timothy/500/2.jpg" alt="2 Timothy Chapter 2" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/2 Timothy/500/2.jpg" alt="2 Timothy Chapter 2" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">2 Timothy Chapter 2</figcaption>
 </div>
 1 You, my child, be strong in the grace that is in Jesus Christ.

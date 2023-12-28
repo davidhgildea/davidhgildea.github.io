@@ -11,7 +11,7 @@ layout: default
 # Chapter 7
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/1 Chronicles/500/7.jpg" alt="1 Chronicles Chapter 7" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/1 Chronicles/500/7.jpg" alt="1 Chronicles Chapter 7" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">1 Chronicles Chapter 7</figcaption>
 </div>
 1 Issachar had four sons: Tola, Puah, Jashub, and Shimrom.

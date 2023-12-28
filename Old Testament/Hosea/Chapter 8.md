@@ -11,7 +11,7 @@ layout: default
 # Chapter 8
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Hosea/500/8.jpg" alt="Hosea Chapter 8" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/Hosea/500/8.jpg" alt="Hosea Chapter 8" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Hosea Chapter 8</figcaption>
 </div>
 1 Put the trumpet to your lips. An eagle swoops on God's house because they broke my agreement and disobeyed my laws.

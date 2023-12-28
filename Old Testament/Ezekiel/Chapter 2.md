@@ -11,7 +11,7 @@ layout: default
 # Chapter 2
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Ezekiel/500/2.jpg" alt="Ezekiel Chapter 2" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/Ezekiel/500/2.jpg" alt="Ezekiel Chapter 2" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Ezekiel Chapter 2</figcaption>
 </div>
 1 He said to me, "Human, stand on your feet, and I will talk to you."

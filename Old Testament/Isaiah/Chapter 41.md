@@ -11,7 +11,7 @@ layout: default
 # Chapter 41
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Isaiah/500/41.jpg" alt="Isaiah Chapter 41" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/Isaiah/500/41.jpg" alt="Isaiah Chapter 41" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Isaiah Chapter 41</figcaption>
 </div>
 1 Stay quiet before me, islands; and let the people get their strength back: let them approach; then let them talk: let's come close to make a decision together.

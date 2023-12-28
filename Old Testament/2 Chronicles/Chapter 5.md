@@ -11,7 +11,7 @@ layout: default
 # Chapter 5
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/2 Chronicles/500/5.jpg" alt="2 Chronicles Chapter 5" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/2 Chronicles/500/5.jpg" alt="2 Chronicles Chapter 5" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">2 Chronicles Chapter 5</figcaption>
 </div>
 1 So Solomon finished all the work for God's house. He brought in all the special things his father David had given, including the silver, gold, and tools, and placed them in the storerooms of God's house.

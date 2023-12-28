@@ -11,7 +11,7 @@ layout: default
 # Chapter 6
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Jeremiah/500/6.jpg" alt="Jeremiah Chapter 6" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/Jeremiah/500/6.jpg" alt="Jeremiah Chapter 6" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Jeremiah Chapter 6</figcaption>
 </div>
 1 People of Benjamin, come together to escape from Jerusalem. Sound the horn in Tekoa, and light a beacon in Bethhaccerem. Danger is coming from the north, bringing huge ruin.

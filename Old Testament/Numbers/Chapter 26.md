@@ -11,7 +11,7 @@ layout: default
 # Chapter 26
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Numbers/500/26.jpg" alt="Numbers Chapter 26" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/Numbers/500/26.jpg" alt="Numbers Chapter 26" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Numbers Chapter 26</figcaption>
 </div>
 1 After the plague, God spoke to Moses and Eleazar, Aaron's son the priest, saying,

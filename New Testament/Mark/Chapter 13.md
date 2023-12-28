@@ -11,7 +11,7 @@ layout: default
 # Chapter 13
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Mark/500/13.jpg" alt="Mark Chapter 13" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/Mark/500/13.jpg" alt="Mark Chapter 13" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Mark Chapter 13</figcaption>
 </div>
 1 As he left the temple, one of his disciples said to him, "Teacher, look at the size of these stones and these buildings!"

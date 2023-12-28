@@ -11,7 +11,7 @@ layout: default
 # Chapter 10
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Leviticus/500/10.jpg" alt="Leviticus Chapter 10" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/Leviticus/500/10.jpg" alt="Leviticus Chapter 10" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Leviticus Chapter 10</figcaption>
 </div>
 1 Nadab and Abihu, Aaron's sons, each took a censer, added fire and incense, and offered unauthorized fire to God, which He had not instructed them to do.

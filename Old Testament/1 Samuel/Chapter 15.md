@@ -11,7 +11,7 @@ layout: default
 # Chapter 15
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/1 Samuel/500/15.jpg" alt="1 Samuel Chapter 15" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/1 Samuel/500/15.jpg" alt="1 Samuel Chapter 15" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">1 Samuel Chapter 15</figcaption>
 </div>
 1 Samuel also said to Saul, "God sent me to anoint you as king over his people, over Israel; so now listen to what God says."

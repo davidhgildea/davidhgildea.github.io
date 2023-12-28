@@ -11,7 +11,7 @@ layout: default
 # Chapter 43
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Isaiah/500/43.jpg" alt="Isaiah Chapter 43" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/Isaiah/500/43.jpg" alt="Isaiah Chapter 43" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Isaiah Chapter 43</figcaption>
 </div>
 1 But now, God who made you, Jacob, and shaped you, Israel, says: Don't be afraid, for I have saved you; I have called you by your name; you are mine.

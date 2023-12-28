@@ -11,7 +11,7 @@ layout: default
 # Chapter 14
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/John/500/14.jpg" alt="John Chapter 14" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/John/500/14.jpg" alt="John Chapter 14" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">John Chapter 14</figcaption>
 </div>
 1 Don't be worried in your heart; you trust in God, trust also in me.

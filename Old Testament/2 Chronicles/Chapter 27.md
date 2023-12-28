@@ -11,7 +11,7 @@ layout: default
 # Chapter 27
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/2 Chronicles/500/27.jpg" alt="2 Chronicles Chapter 27" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/2 Chronicles/500/27.jpg" alt="2 Chronicles Chapter 27" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">2 Chronicles Chapter 27</figcaption>
 </div>
 1 Jotham was 25 years old when he became king, and he ruled for 16 years in Jerusalem. His mother's name was Jerushah, and she was the daughter of Zadok.

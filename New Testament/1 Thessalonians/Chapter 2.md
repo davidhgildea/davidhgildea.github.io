@@ -11,7 +11,7 @@ layout: default
 # Chapter 2
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/1 Thessalonians/500/2.jpg" alt="1 Thessalonians Chapter 2" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/1 Thessalonians/500/2.jpg" alt="1 Thessalonians Chapter 2" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">1 Thessalonians Chapter 2</figcaption>
 </div>
 1 You know, friends, that our visit to you was not a waste.

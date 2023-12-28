@@ -11,7 +11,7 @@ layout: default
 # Chapter 50
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Isaiah/500/50.jpg" alt="Isaiah Chapter 50" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/Isaiah/500/50.jpg" alt="Isaiah Chapter 50" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">Isaiah Chapter 50</figcaption>
 </div>
 1 God says, "Where is your mother's divorce paper that I sent away? Who is the one I sold you to because of my debts? Look, because of your wrongs you sold yourselves, and because of your mistakes your mother was sent away.

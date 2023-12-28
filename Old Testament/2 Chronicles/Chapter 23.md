@@ -11,7 +11,7 @@ layout: default
 # Chapter 23
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/2 Chronicles/500/23.jpg" alt="2 Chronicles Chapter 23" class="chapter-image" style="max-width: 100%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+    <img src="/assets/Image/2 Chronicles/500/23.jpg" alt="2 Chronicles Chapter 23" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
     <figcaption style="font-size: 14px;">2 Chronicles Chapter 23</figcaption>
 </div>
 1 In the seventh year, Jehoiada became stronger and made a promise with the leaders of the army: Azariah son of Jeroham, Ishmael son of Jehohanan, Azariah son of Obed, Maaseiah son of Adaiah, and Elishaphat son of Zichri.
