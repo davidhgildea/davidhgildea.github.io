@@ -11,8 +11,10 @@ layout: default
 # Chapter 51
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Psalms/500/51.jpg" alt="Psalms Chapter 51" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Psalms Chapter 51</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Psalms/500/51.jpg" alt="Psalms Chapter 51" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Psalms Chapter 51</figcaption>
 </div>
 1 Be kind to me, God, because of your love; because of your great compassion, wipe away my wrongdoings.
 

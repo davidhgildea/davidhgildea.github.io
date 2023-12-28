@@ -11,8 +11,10 @@ layout: default
 # Chapter 10
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Job/500/10.jpg" alt="Job Chapter 10" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Job Chapter 10</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Job/500/10.jpg" alt="Job Chapter 10" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Job Chapter 10</figcaption>
 </div>
 1 I am tired of my life; I will not hold back my complaints; I will speak from my heart's bitterness.
 

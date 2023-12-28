@@ -11,8 +11,10 @@ layout: default
 # Chapter 10
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Deuteronomy/500/10.jpg" alt="Deuteronomy Chapter 10" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Deuteronomy Chapter 10</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Deuteronomy/500/10.jpg" alt="Deuteronomy Chapter 10" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Deuteronomy Chapter 10</figcaption>
 </div>
 1 At that time, God told me, "Cut two stone tablets like the first ones and come up the mountain to meet me, and make a wooden box."
 

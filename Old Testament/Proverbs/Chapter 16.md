@@ -11,8 +11,10 @@ layout: default
 # Chapter 16
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Proverbs/500/16.jpg" alt="Proverbs Chapter 16" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Proverbs Chapter 16</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Proverbs/500/16.jpg" alt="Proverbs Chapter 16" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Proverbs Chapter 16</figcaption>
 </div>
 1 A person plans in their heart and speaks with their tongue, but God decides both.
 

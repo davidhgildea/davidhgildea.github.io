@@ -11,8 +11,10 @@ layout: default
 # Chapter 18
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Jeremiah/500/18.jpg" alt="Jeremiah Chapter 18" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Jeremiah Chapter 18</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Jeremiah/500/18.jpg" alt="Jeremiah Chapter 18" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Jeremiah Chapter 18</figcaption>
 </div>
 1 The message that came to Jeremiah from God said,
 

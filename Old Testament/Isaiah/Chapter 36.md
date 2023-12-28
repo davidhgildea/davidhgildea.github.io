@@ -11,8 +11,10 @@ layout: default
 # Chapter 36
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Isaiah/500/36.jpg" alt="Isaiah Chapter 36" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Isaiah Chapter 36</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Isaiah/500/36.jpg" alt="Isaiah Chapter 36" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Isaiah Chapter 36</figcaption>
 </div>
 1 In the fourteenth year of King Hezekiah's rule, Sennacherib, the king of Assyria, attacked all the fortified cities of Judah and captured them.
 

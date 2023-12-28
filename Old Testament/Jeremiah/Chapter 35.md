@@ -11,8 +11,10 @@ layout: default
 # Chapter 35
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Jeremiah/500/35.jpg" alt="Jeremiah Chapter 35" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Jeremiah Chapter 35</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Jeremiah/500/35.jpg" alt="Jeremiah Chapter 35" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Jeremiah Chapter 35</figcaption>
 </div>
 1 God's message came to Jeremiah when Jehoiakim son of Josiah was king of Judah, saying,
 

@@ -11,8 +11,10 @@ layout: default
 # Chapter 29
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Numbers/500/29.jpg" alt="Numbers Chapter 29" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Numbers Chapter 29</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Numbers/500/29.jpg" alt="Numbers Chapter 29" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Numbers Chapter 29</figcaption>
 </div>
 1 In the seventh month, on the first day, you will gather for a sacred meeting; you won't do any regular work: it's a day for you to blow trumpets.
 

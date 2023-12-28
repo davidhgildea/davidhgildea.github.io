@@ -11,8 +11,10 @@ layout: default
 # Chapter 13
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/1 Corinthians/500/13.jpg" alt="1 Corinthians Chapter 13" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">1 Corinthians Chapter 13</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/1 Corinthians/500/13.jpg" alt="1 Corinthians Chapter 13" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">1 Corinthians Chapter 13</figcaption>
 </div>
 1 If I speak in human and angel languages but don't have love, I am only a loud horn or a clanging cymbal.
 

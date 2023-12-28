@@ -11,8 +11,10 @@ layout: default
 # Chapter 1
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Hosea/500/1.jpg" alt="Hosea Chapter 1" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Hosea Chapter 1</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Hosea/500/1.jpg" alt="Hosea Chapter 1" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Hosea Chapter 1</figcaption>
 </div>
 1 God's message came to Hosea, Beeri's son, when Uzziah, Jotham, Ahaz, and Hezekiah were kings of Judah, and during Jeroboam, Joash's son, was king of Israel.
 

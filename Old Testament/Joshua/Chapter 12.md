@@ -11,8 +11,10 @@ layout: default
 # Chapter 12
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Joshua/500/12.jpg" alt="Joshua Chapter 12" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Joshua Chapter 12</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Joshua/500/12.jpg" alt="Joshua Chapter 12" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Joshua Chapter 12</figcaption>
 </div>
 1 These are the kings of the country that the Israelites defeated and whose land they took over, on the east side of the Jordan River, from the Arnon River to Mount Hermon, and all the eastern plains.
 

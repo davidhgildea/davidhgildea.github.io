@@ -11,8 +11,10 @@ layout: default
 # Chapter 8
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Nehemiah/500/8.jpg" alt="Nehemiah Chapter 8" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Nehemiah Chapter 8</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Nehemiah/500/8.jpg" alt="Nehemiah Chapter 8" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Nehemiah Chapter 8</figcaption>
 </div>
 1 All the people came together as one in the street by the water gate and asked Ezra the scribe to bring out the Book of Moses's Law, which God had given to Israel.
 

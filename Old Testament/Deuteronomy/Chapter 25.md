@@ -11,8 +11,10 @@ layout: default
 # Chapter 25
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Deuteronomy/500/25.jpg" alt="Deuteronomy Chapter 25" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Deuteronomy Chapter 25</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Deuteronomy/500/25.jpg" alt="Deuteronomy Chapter 25" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Deuteronomy Chapter 25</figcaption>
 </div>
 1 If people have a dispute and go to court, the judges should decide the case, declare the innocent person right, and find the guilty person at fault.
 

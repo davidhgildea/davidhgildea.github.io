@@ -11,8 +11,10 @@ layout: default
 # Chapter 1
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Micah/500/1.jpg" alt="Micah Chapter 1" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Micah Chapter 1</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Micah/500/1.jpg" alt="Micah Chapter 1" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Micah Chapter 1</figcaption>
 </div>
 1 God's message that came to Micah of Morasheth during the time of Jotham, Ahaz, and Hezekiah, the kings of Judah, was about Samaria and Jerusalem.
 

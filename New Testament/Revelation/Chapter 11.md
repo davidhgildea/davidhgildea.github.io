@@ -11,8 +11,10 @@ layout: default
 # Chapter 11
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Revelation/500/11.jpg" alt="Revelation Chapter 11" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Revelation Chapter 11</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Revelation/500/11.jpg" alt="Revelation Chapter 11" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Revelation Chapter 11</figcaption>
 </div>
 1 I was given a stick like a measuring rod, and the angel stood and said, "Get up and measure God's temple, the altar, and the people who worship there."
 

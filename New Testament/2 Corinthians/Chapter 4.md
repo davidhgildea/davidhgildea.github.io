@@ -11,8 +11,10 @@ layout: default
 # Chapter 4
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/2 Corinthians/500/4.jpg" alt="2 Corinthians Chapter 4" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">2 Corinthians Chapter 4</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/2 Corinthians/500/4.jpg" alt="2 Corinthians Chapter 4" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">2 Corinthians Chapter 4</figcaption>
 </div>
 1 Because we are given this service and have received kindness, we do not lose heart.
 

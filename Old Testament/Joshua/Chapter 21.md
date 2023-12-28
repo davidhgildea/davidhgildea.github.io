@@ -11,8 +11,10 @@ layout: default
 # Chapter 21
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Joshua/500/21.jpg" alt="Joshua Chapter 21" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Joshua Chapter 21</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Joshua/500/21.jpg" alt="Joshua Chapter 21" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Joshua Chapter 21</figcaption>
 </div>
 1 The leaders of the Levite families approached Priest Eleazar, Joshua son of Nun, and the leaders of the other Israelite families.
 

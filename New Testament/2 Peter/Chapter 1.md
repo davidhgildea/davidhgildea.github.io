@@ -11,8 +11,10 @@ layout: default
 # Chapter 1
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/2 Peter/500/1.jpg" alt="2 Peter Chapter 1" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">2 Peter Chapter 1</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/2 Peter/500/1.jpg" alt="2 Peter Chapter 1" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">2 Peter Chapter 1</figcaption>
 </div>
 1 Simon Peter, a servant and apostle of Jesus Christ, writes to those who share our valuable faith, given through the goodness of God and Jesus Christ our Savior.
 

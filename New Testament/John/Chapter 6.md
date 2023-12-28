@@ -11,8 +11,10 @@ layout: default
 # Chapter 6
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/John/500/6.jpg" alt="John Chapter 6" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">John Chapter 6</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/John/500/6.jpg" alt="John Chapter 6" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">John Chapter 6</figcaption>
 </div>
 1 After this, Jesus crossed the Sea of Galilee, also called the Sea of Tiberias.
 

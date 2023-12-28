@@ -11,8 +11,10 @@ layout: default
 # Chapter 147
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Psalms/500/147.jpg" alt="Psalms Chapter 147" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Psalms Chapter 147</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Psalms/500/147.jpg" alt="Psalms Chapter 147" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Psalms Chapter 147</figcaption>
 </div>
 1 Praise God: because it is good to sing to our God; it is enjoyable; and praise looks good.
 

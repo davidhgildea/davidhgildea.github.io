@@ -11,8 +11,10 @@ layout: default
 # Chapter 73
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Psalms/500/73.jpg" alt="Psalms Chapter 73" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Psalms Chapter 73</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Psalms/500/73.jpg" alt="Psalms Chapter 73" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Psalms Chapter 73</figcaption>
 </div>
 1 God is truly good to Israel and to those who have a pure heart.
 

@@ -11,8 +11,10 @@ layout: default
 # Chapter 31
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Jeremiah/500/31.jpg" alt="Jeremiah Chapter 31" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Jeremiah Chapter 31</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Jeremiah/500/31.jpg" alt="Jeremiah Chapter 31" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Jeremiah Chapter 31</figcaption>
 </div>
 1 At that time, says God, I will be the God of all the families of Israel, and they will be my people.
 

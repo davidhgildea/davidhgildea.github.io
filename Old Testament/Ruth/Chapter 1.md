@@ -11,8 +11,10 @@ layout: default
 # Chapter 1
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Ruth/500/1.jpg" alt="Ruth Chapter 1" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Ruth Chapter 1</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Ruth/500/1.jpg" alt="Ruth Chapter 1" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Ruth Chapter 1</figcaption>
 </div>
 1 During the time when judges led, a famine struck the land. A man from Bethlehem in Judah moved to live in Moab with his wife and two sons.
 

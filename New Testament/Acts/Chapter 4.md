@@ -11,8 +11,10 @@ layout: default
 # Chapter 4
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Acts/500/4.jpg" alt="Acts Chapter 4" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Acts Chapter 4</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Acts/500/4.jpg" alt="Acts Chapter 4" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Acts Chapter 4</figcaption>
 </div>
 1 While they were talking to the people, the priests, the temple leader, and the Sadducees confronted them.
 

@@ -11,8 +11,10 @@ layout: default
 # Chapter 33
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Job/500/33.jpg" alt="Job Chapter 33" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Job Chapter 33</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Job/500/33.jpg" alt="Job Chapter 33" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Job Chapter 33</figcaption>
 </div>
 1 So Job, please listen to what I say and pay attention to all my words.
 

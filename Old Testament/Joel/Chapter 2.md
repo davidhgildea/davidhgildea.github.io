@@ -11,8 +11,10 @@ layout: default
 # Chapter 2
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Joel/500/2.jpg" alt="Joel Chapter 2" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Joel Chapter 2</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Joel/500/2.jpg" alt="Joel Chapter 2" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Joel Chapter 2</figcaption>
 </div>
 1 Play the trumpet in Zion, and ring the alarm on my holy mountain: let everyone in the land shake with fear: for the day of God is coming, for it is very near.
 

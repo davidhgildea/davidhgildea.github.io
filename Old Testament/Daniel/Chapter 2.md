@@ -11,8 +11,10 @@ layout: default
 # Chapter 2
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Daniel/500/2.jpg" alt="Daniel Chapter 2" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Daniel Chapter 2</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Daniel/500/2.jpg" alt="Daniel Chapter 2" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Daniel Chapter 2</figcaption>
 </div>
 1 In the second year of Nebuchadnezzar's rule, he had dreams that upset his mind, and he could not sleep.
 

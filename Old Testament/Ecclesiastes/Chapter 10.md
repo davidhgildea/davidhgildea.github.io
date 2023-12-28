@@ -11,8 +11,10 @@ layout: default
 # Chapter 10
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Ecclesiastes/500/10.jpg" alt="Ecclesiastes Chapter 10" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Ecclesiastes Chapter 10</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Ecclesiastes/500/10.jpg" alt="Ecclesiastes Chapter 10" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Ecclesiastes Chapter 10</figcaption>
 </div>
 1 Dead flies make the perfumer's oil give off a bad smell; similarly, a little foolishness can ruin the respect of someone known for wisdom and honor.
 

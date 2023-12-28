@@ -11,8 +11,10 @@ layout: default
 # Chapter 45
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Genesis/500/45.jpg" alt="Genesis Chapter 45" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Genesis Chapter 45</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Genesis/500/45.jpg" alt="Genesis Chapter 45" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Genesis Chapter 45</figcaption>
 </div>
 1 Joseph could not hold back in front of everyone present; he shouted, "Everyone leave me!" No one stayed with him when Joseph revealed his identity to his brothers.
 

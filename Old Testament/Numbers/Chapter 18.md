@@ -11,8 +11,10 @@ layout: default
 # Chapter 18
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Numbers/500/18.jpg" alt="Numbers Chapter 18" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Numbers Chapter 18</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Numbers/500/18.jpg" alt="Numbers Chapter 18" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Numbers Chapter 18</figcaption>
 </div>
 1 God said to Aaron, "You, your sons, and your family must take responsibility for any wrongs done to the holy place, and you and your sons must also take responsibility for the mistakes in your priestly duties."
 

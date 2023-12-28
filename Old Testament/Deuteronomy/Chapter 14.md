@@ -11,8 +11,10 @@ layout: default
 # Chapter 14
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Deuteronomy/500/14.jpg" alt="Deuteronomy Chapter 14" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Deuteronomy Chapter 14</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Deuteronomy/500/14.jpg" alt="Deuteronomy Chapter 14" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Deuteronomy Chapter 14</figcaption>
 </div>
 1 You are God's children: do not cut yourselves or shave the front of your head for the dead.
 

@@ -11,8 +11,10 @@ layout: default
 # Chapter 13
 
 <div style="clear: both; text-align: right;">
-    <img src="/assets/Image/Luke/500/13.jpg" alt="Luke Chapter 13" class="chapter-image" style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
-    <figcaption style="font-size: 14px;">Luke Chapter 13</figcaption>
+    <div style="max-width: 50%; height: auto; float: right; margin: 0 0 10px 10px; padding-left: 10%;">
+        <img src="/assets/Image/Luke/500/13.jpg" alt="Luke Chapter 13" class="chapter-image">
+    </div>
+    <figcaption style="font-size: 14px; text-align: right;">Luke Chapter 13</figcaption>
 </div>
 1 At that time, some people told Jesus about the Galileans whose blood Pilate had mixed with their sacrifices.
 
