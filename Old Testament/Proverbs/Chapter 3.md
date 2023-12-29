@@ -13,9 +13,9 @@ layout: default
 ---
 
 <div style='display: block;'>
-  <img src='assets/Image/audiobook_icon.png' alt='Audiobook Icon' style='height: 32px; margin-top: 8px;' />
+  <img src='assets/images/audiobook_icon.png' alt='Audiobook Icon' style='height: 32px; margin-top: 8px;' />
   <audio controls style='display: block; margin-top: 8px;'>
-    <source src='/assets/Audio/Proverbs/3.mp3' type='audio/mp3'>
+    <source src='/assets/audio/{book}/{chapter}.wav' type='audio/wav'>
     Your browser does not support the audio element.
   </audio>
 </div>
