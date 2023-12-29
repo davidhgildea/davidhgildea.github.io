@@ -10,6 +10,18 @@ layout: default
 
 # Chapter 20
 
+---
+
+<div style='display: block;'>
+  <img src='assets/images/audiobook_icon.png' alt='Audiobook Icon' style='height: 32px; margin-top: 8px;' />
+  <audio controls style='display: block; margin-top: 8px;'>
+    <source src='/assets/audio/{book}/{chapter}.wav' type='audio/wav'>
+    Your browser does not support the audio element.
+  </audio>
+</div>
+
+---
+
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
     <img src="/assets/Image/2 Chronicles/500/20.jpg" alt="2 Chronicles Chapter 20" style="width: 100%; height: auto;" />

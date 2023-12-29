@@ -10,6 +10,18 @@ layout: default
 
 # Chapter 32
 
+---
+
+<div style='display: block;'>
+  <img src='assets/images/audiobook_icon.png' alt='Audiobook Icon' style='height: 32px; margin-top: 8px;' />
+  <audio controls style='display: block; margin-top: 8px;'>
+    <source src='/assets/audio/{book}/{chapter}.wav' type='audio/wav'>
+    Your browser does not support the audio element.
+  </audio>
+</div>
+
+---
+
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
     <img src="/assets/Image/Isaiah/500/32.jpg" alt="Isaiah Chapter 32" style="width: 100%; height: auto;" />
