@@ -12,10 +12,10 @@ layout: default
 
 ---
 
-<div style='display: block;'>
-  <img src='assets/images/audiobook_icon.png' alt='Audiobook Icon' style='height: 32px; margin-top: 8px;' />
-  <audio controls style='display: block; margin-top: 8px;'>
-    <source src='/assets/audio/{book}/{chapter}.wav' type='audio/wav'>
+<div style='display: flex; align-items: center;'>
+  <img src='/assets/image/audiobook_icon.png' alt='Audiobook Icon' style='height: 100%; max-height: 52px; padding-right: 10px;' />
+  <audio controls>
+    <source src='/assets/audio/Exodus/21.mp3' type='audio/mp3'>
     Your browser does not support the audio element.
   </audio>
 </div>
