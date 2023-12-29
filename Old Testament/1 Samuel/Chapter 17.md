@@ -13,9 +13,9 @@ layout: default
 ---
 
 <div style='display: flex; align-items: center;'>
-  <img src='/assets/image/audiobook_icon.png' alt='Audiobook Icon' style='height: 100%; max-height: 52px; padding-right: 10px;' />
+  <img src='/assets/Image/audiobook_icon.png' alt='Audiobook Icon' style='height: 100%; max-height: 52px; padding-right: 10px;' />
   <audio controls>
-    <source src='/assets/audio/1 Samuel/17.mp3' type='audio/mp3'>
+    <source src='/assets/Audio/1 Samuel/17.mp3' type='audio/mp3'>
     Your browser does not support the audio element.
   </audio>
 </div>
