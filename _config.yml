@@ -1,5 +1,5 @@
 title: The Bible - Simplified English Edition
-description: 
+description: The Bible - Simplified English Edition
 theme: just-the-docs
 
 url: https://simplified.bible
@@ -12,7 +12,7 @@ favicon_ico: "/assets/logo/favicon.ico"
 # Footer content
 # appears at the bottom of every page's main content
 # Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust
-# markup / liquid-based content.
+markup / liquid-based content.
 footer_content: "Copyright &copy; 2023"
 
 
@@ -44,11 +44,6 @@ search:
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
   button: false
-
-# Google Analytics Tracking (optional)
-# Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-GS1PJ45T73'")
-ga_tracking: G-GS1PJ45T73
-ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 
 
