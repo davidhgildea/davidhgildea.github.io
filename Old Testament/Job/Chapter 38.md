@@ -10,6 +10,18 @@ layout: default
 
 # Chapter 38
 
+---
+
+<div style='display: block;'>
+  <img src='assets/images/audiobook_icon.png' alt='Audiobook Icon' style='height: 32px; margin-top: 8px;' />
+  <audio controls style='display: block; margin-top: 8px;'>
+    <source src='/assets/audio/{book}/{chapter}.wav' type='audio/wav'>
+    Your browser does not support the audio element.
+  </audio>
+</div>
+
+---
+
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
     <img src="/assets/Image/Job/500/38.jpg" alt="Job Chapter 38" style="width: 100%; height: auto;" />
