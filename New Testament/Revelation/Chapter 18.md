@@ -12,10 +12,10 @@ layout: default
 
 ---
 
-<div style='display: block;'>
-  <img src='assets/Image/audiobook_icon.png' alt='Audiobook Icon' style='height: 32px; margin-top: 8px;' />
-  <audio controls style='display: block; margin-top: 8px;'>
-    <source src='/assets/Audio/Revelation/18.mp3' type='audio/mp3'>
+<div style='display: flex; align-items: center;'>
+  <img src='/assets/image/audiobook_icon.png' alt='Audiobook Icon' style='height: 100%; max-height: 52px; padding-right: 10px;' />
+  <audio controls>
+    <source src='/assets/audio/Revelation/18.mp3' type='audio/mp3'>
     Your browser does not support the audio element.
   </audio>
 </div>
