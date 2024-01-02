@@ -1,2512 +1,3777 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://simplified.bible/</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>http://localhost:4000/New%20Testament/1%20Corinthians/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Hebrews/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Song%20of%20Solomon/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%201.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Ephesians/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%202.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/James/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%203.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/John/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%204.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Ruth/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%205.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Colossians/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%206.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Jude/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%207.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Luke/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%208.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Mark/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%209.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2010.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2011.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Philemon/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2012.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2013.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Obadiah/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2014.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Zephaniah/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2015.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/1%20John/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2016.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Philippians/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2017.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2018.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Revelation/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2019.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Nehemiah/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2020.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Nahum/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2021.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/1%20Peter/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2022.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Micah/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2023.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Malachi/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2024.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Romans/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2025.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2026.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Lamentations/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2027.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/1%20Thessalonians/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2028.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Titus/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2029.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Judges/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2030.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2031.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Joshua/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2032.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Jonah/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2033.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/1%20Timothy/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2034.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Joel/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2035.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Kings/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2036.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2037.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2038.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2039.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2040.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/2%20Corinthians/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2041.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Kings/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2042.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2043.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Samuel/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2044.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Hosea/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2045.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Haggai/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2046.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Habakkuk/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2047.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Amos/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2048.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2049.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Genesis/Chapter%2050.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Ezra/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Zechariah/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%201.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%202.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/3%20John/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%203.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/2%20John/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%204.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%205.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/2%20Peter/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%206.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Daniel/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%207.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%208.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Esther/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%209.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/2%20Thessalonians/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2010.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/2%20Timothy/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2011.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Ecclesiastes/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2012.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Galatians/Chapter%201.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2013.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Ecclesiastes/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2014.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Esther/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2015.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Daniel/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2016.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/1%20Corinthians/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2017.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Zechariah/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2018.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2019.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2020.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Ezra/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2021.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2022.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2023.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Samuel/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2024.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Hosea/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2025.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Kings/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2026.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/2%20Corinthians/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2027.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2028.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2029.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2030.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2031.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Kings/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2032.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2033.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2034.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Joshua/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2035.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Judges/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2036.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Romans/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2037.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2038.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Revelation/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2039.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Nehemiah/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Exodus/Chapter%2040.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/Chapter%201.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/Chapter%202.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/Chapter%203.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Mark/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/Chapter%204.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Hebrews/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/Chapter%205.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Luke/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/Chapter%206.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/John/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/Chapter%207.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%2010.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/Chapter%208.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20100.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/Chapter%209.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20101.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/Chapter%2010.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20102.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/Chapter%2011.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20103.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/Chapter%2012.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20104.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/Chapter%2013.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20105.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/Chapter%2014.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20106.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/Chapter%2015.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20107.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/Chapter%2016.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20108.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/Chapter%2017.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20109.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/Chapter%2018.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Ecclesiastes/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/Chapter%2019.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/1%20Corinthians/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/Chapter%2020.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Samuel/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/Chapter%2021.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/Chapter%2022.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/Chapter%2023.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Romans/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/Chapter%2024.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/Chapter%2025.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/Chapter%2026.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Leviticus/Chapter%2027.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Nehemiah/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%201.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Hebrews/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%202.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Joshua/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%203.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Mark/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%204.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%205.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Revelation/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%206.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%207.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Kings/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%208.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%209.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%2010.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Zechariah/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%2011.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%2012.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%2013.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Kings/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%2014.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Hosea/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%2015.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Luke/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%2016.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%2017.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%2018.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%2019.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Daniel/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%2020.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%2021.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/John/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%2022.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/2%20Corinthians/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%2023.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Judges/Chapter%2011.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%2024.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20110.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%2025.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20111.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%2026.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20112.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%2027.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20113.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%2028.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20114.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%2029.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20115.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%2030.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20116.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%2031.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20117.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%2032.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20118.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%2033.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20119.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%2034.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%2035.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Romans/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Numbers/Chapter%2036.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/1%20Corinthians/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%201.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%202.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Daniel/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%203.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%204.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%205.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%206.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%207.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Samuel/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%208.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%209.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%2010.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%2011.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Ecclesiastes/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%2012.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Kings/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%2013.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Judges/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%2014.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Zechariah/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%2015.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Kings/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%2016.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Nehemiah/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%2017.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%2018.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%2019.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/John/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%2020.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%2021.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%2022.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Revelation/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%2023.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Joshua/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%2024.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Hosea/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%2025.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%2026.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Hebrews/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%2027.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Mark/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%2028.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%2029.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/2%20Corinthians/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%2030.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Luke/Chapter%2012.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%2031.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20120.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%2032.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20121.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%2033.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20122.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%2034.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20123.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Joshua/</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20124.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Joshua/Chapter%201.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20125.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Joshua/Chapter%202.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20126.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Joshua/Chapter%203.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20127.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Joshua/Chapter%204.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20128.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Joshua/Chapter%205.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20129.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Joshua/Chapter%206.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Revelation/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Joshua/Chapter%207.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Nehemiah/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Joshua/Chapter%208.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Zechariah/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Joshua/Chapter%209.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Judges/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Joshua/Chapter%2010.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Kings/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Joshua/Chapter%2011.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Luke/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Joshua/Chapter%2012.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Joshua/Chapter%2013.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Samuel/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Joshua/Chapter%2014.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Joshua/Chapter%2015.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Joshua/Chapter%2016.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Joshua/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Joshua/Chapter%2017.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Joshua/Chapter%2018.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Joshua/Chapter%2019.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/1%20Corinthians/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Joshua/Chapter%2020.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Joshua/Chapter%2021.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Kings/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Joshua/Chapter%2022.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Joshua/Chapter%2023.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Joshua/Chapter%2024.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Judges/</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Judges/Chapter%201.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Judges/Chapter%202.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Hosea/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Judges/Chapter%203.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Mark/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Judges/Chapter%204.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/2%20Corinthians/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Judges/Chapter%205.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Judges/Chapter%206.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Hebrews/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Judges/Chapter%207.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Judges/Chapter%208.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Judges/Chapter%209.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Judges/Chapter%2010.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Judges/Chapter%2011.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/John/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Judges/Chapter%2012.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Romans/Chapter%2013.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Judges/Chapter%2013.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20130.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Judges/Chapter%2014.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20131.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Judges/Chapter%2015.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20132.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Judges/Chapter%2016.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20133.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Judges/Chapter%2017.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20134.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Judges/Chapter%2018.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20135.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Judges/Chapter%2019.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20136.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Judges/Chapter%2020.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20137.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Judges/Chapter%2021.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20138.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Ruth/</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20139.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Ruth/Chapter%201.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Mark/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Ruth/Chapter%202.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Joshua/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Ruth/Chapter%203.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Ruth/Chapter%204.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%201.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%202.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Samuel/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%203.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Hosea/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%204.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Kings/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%205.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%206.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Luke/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%207.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Zechariah/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%208.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%209.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%2010.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%2011.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/John/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%2012.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%2013.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Kings/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%2014.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%2015.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%2016.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%2017.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%2018.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Revelation/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%2019.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%2020.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Romans/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%2021.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Judges/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%2022.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/1%20Corinthians/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%2023.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%2024.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%2014.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%2025.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20140.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%2026.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20141.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%2027.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20142.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%2028.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20143.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%2029.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20144.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%2030.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20145.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%2031.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20146.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Samuel/</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20147.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Samuel/Chapter%201.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20148.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Samuel/Chapter%202.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20149.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Samuel/Chapter%203.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%2015.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Samuel/Chapter%204.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/1%20Corinthians/Chapter%2015.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Samuel/Chapter%205.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%2015.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Samuel/Chapter%206.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/John/Chapter%2015.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Samuel/Chapter%207.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Revelation/Chapter%2015.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Samuel/Chapter%208.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2015.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Samuel/Chapter%209.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/Chapter%2015.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Samuel/Chapter%2010.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2015.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Samuel/Chapter%2011.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2015.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Samuel/Chapter%2012.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2015.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Samuel/Chapter%2013.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Luke/Chapter%2015.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Samuel/Chapter%2014.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%2015.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Samuel/Chapter%2015.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2015.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Samuel/Chapter%2016.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%2015.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Samuel/Chapter%2017.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2015.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Samuel/Chapter%2018.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Kings/Chapter%2015.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Samuel/Chapter%2019.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%2015.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Samuel/Chapter%2020.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2015.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Samuel/Chapter%2021.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Romans/Chapter%2015.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Samuel/Chapter%2022.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Kings/Chapter%2015.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Samuel/Chapter%2023.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%2015.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Samuel/Chapter%2024.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Judges/Chapter%2015.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Kings/</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%2015.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Kings/Chapter%201.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%2015.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Kings/Chapter%202.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Mark/Chapter%2015.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Kings/Chapter%203.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Joshua/Chapter%2015.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Kings/Chapter%204.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Samuel/Chapter%2015.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Kings/Chapter%205.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%20150.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Kings/Chapter%206.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Mark/Chapter%2016.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Kings/Chapter%207.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Joshua/Chapter%2016.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Kings/Chapter%208.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%2016.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Kings/Chapter%209.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Romans/Chapter%2016.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Kings/Chapter%2010.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%2016.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Kings/Chapter%2011.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2016.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Kings/Chapter%2012.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Judges/Chapter%2016.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Kings/Chapter%2013.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%2016.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Kings/Chapter%2014.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/1%20Corinthians/Chapter%2016.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Kings/Chapter%2015.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2016.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Kings/Chapter%2016.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2016.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Kings/Chapter%2017.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Samuel/Chapter%2016.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Kings/Chapter%2018.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%2016.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Kings/Chapter%2019.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Kings/Chapter%2016.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Kings/Chapter%2020.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Luke/Chapter%2016.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Kings/Chapter%2021.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%2016.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Kings/Chapter%2022.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%2016.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Kings/</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Revelation/Chapter%2016.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Kings/Chapter%201.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/John/Chapter%2016.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Kings/Chapter%202.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%2016.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Kings/Chapter%203.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2016.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Kings/Chapter%204.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2016.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Kings/Chapter%205.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2016.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Kings/Chapter%206.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/Chapter%2016.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Kings/Chapter%207.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2016.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Kings/Chapter%208.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Kings/Chapter%2016.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Kings/Chapter%209.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%2016.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Kings/Chapter%2010.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%2017.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Kings/Chapter%2011.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/Chapter%2017.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Kings/Chapter%2012.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2017.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Kings/Chapter%2013.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%2017.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Kings/Chapter%2014.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2017.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Kings/Chapter%2015.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Kings/Chapter%2017.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Kings/Chapter%2016.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Revelation/Chapter%2017.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Kings/Chapter%2017.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Kings/Chapter%2017.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Kings/Chapter%2018.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%2017.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Kings/Chapter%2019.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%2017.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Kings/Chapter%2020.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Luke/Chapter%2017.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Kings/Chapter%2021.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2017.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Kings/Chapter%2022.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2017.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Kings/Chapter%2023.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%2017.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Kings/Chapter%2024.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2017.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Kings/Chapter%2025.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2017.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2017.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%201.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Judges/Chapter%2017.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%202.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%2017.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%203.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%2017.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%204.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%2017.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%205.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Joshua/Chapter%2017.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%206.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Samuel/Chapter%2017.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%207.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/John/Chapter%2017.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%208.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Revelation/Chapter%2018.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%209.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2018.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%2010.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%2018.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%2011.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%2018.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%2012.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%2018.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%2013.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Samuel/Chapter%2018.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%2014.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2018.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%2015.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%2018.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%2016.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/John/Chapter%2018.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%2017.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/Chapter%2018.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%2018.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2018.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%2019.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Kings/Chapter%2018.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%2020.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2018.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%2021.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%2018.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%2022.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Luke/Chapter%2018.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%2023.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2018.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%2024.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Judges/Chapter%2018.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%2025.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%2018.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%2026.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2018.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%2027.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2018.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%2028.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%2018.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%2029.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Kings/Chapter%2018.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%2018.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%201.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Joshua/Chapter%2018.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%202.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Revelation/Chapter%2019.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%203.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Luke/Chapter%2019.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%204.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%2019.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%205.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%2019.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%206.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%2019.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%207.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/John/Chapter%2019.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%208.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Samuel/Chapter%2019.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%209.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%2019.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%2010.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%2019.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%2011.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%2019.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%2012.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Kings/Chapter%2019.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%2013.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/Chapter%2019.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%2014.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%2019.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%2015.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2019.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%2016.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2019.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%2017.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2019.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%2018.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2019.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%2019.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Kings/Chapter%2019.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%2020.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2019.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%2021.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2019.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%2022.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Judges/Chapter%2019.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%2023.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Joshua/Chapter%2019.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%2024.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2019.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%2025.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%2019.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%2026.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Titus/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%2027.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/1%20Thessalonians/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%2028.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Romans/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%2029.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Joshua/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%2030.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/2%20Thessalonians/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%2031.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Zechariah/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%2032.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/1%20Corinthians/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%2033.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Ecclesiastes/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%2034.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%2035.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Ezra/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%2036.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Revelation/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Ezra/</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Ezra/Chapter%201.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Hebrews/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Ezra/Chapter%202.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Kings/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Ezra/Chapter%203.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/James/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Ezra/Chapter%204.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Ezra/Chapter%205.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Ezra/Chapter%206.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Ezra/Chapter%207.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Galatians/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Ezra/Chapter%208.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Lamentations/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Ezra/Chapter%209.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Hosea/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Ezra/Chapter%2010.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Philippians/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Nehemiah/</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Kings/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Nehemiah/Chapter%201.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Nehemiah/Chapter%202.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Nehemiah/Chapter%203.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Ruth/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Nehemiah/Chapter%204.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Malachi/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Nehemiah/Chapter%205.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Nehemiah/Chapter%206.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Nehemiah/Chapter%207.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Nehemiah/Chapter%208.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Song%20of%20Solomon/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Nehemiah/Chapter%209.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/1%20Peter/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Nehemiah/Chapter%2010.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Micah/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Nehemiah/Chapter%2011.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Nahum/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Nehemiah/Chapter%2012.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Nehemiah/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Nehemiah/Chapter%2013.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Mark/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Esther/</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/1%20John/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Esther/Chapter%201.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Jonah/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Esther/Chapter%202.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Joel/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Esther/Chapter%203.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Samuel/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Esther/Chapter%204.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Daniel/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Esther/Chapter%205.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/1%20Timothy/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Esther/Chapter%206.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/John/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Esther/Chapter%207.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Haggai/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Esther/Chapter%208.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/2%20Corinthians/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Esther/Chapter%209.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/2%20Timothy/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Esther/Chapter%2010.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Habakkuk/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%201.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Esther/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%202.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Luke/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%203.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%204.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Ephesians/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%205.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Zephaniah/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%206.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/2%20Peter/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%207.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Amos/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%208.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%209.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2010.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2011.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Judges/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2012.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2013.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Colossians/Chapter%202.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2014.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%2020.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2015.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2020.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2016.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Luke/Chapter%2020.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2017.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/John/Chapter%2020.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2018.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%2020.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2019.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2020.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2020.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Samuel/Chapter%2020.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2021.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%2020.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2022.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/Chapter%2020.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2023.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Kings/Chapter%2020.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2024.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Revelation/Chapter%2020.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2025.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Judges/Chapter%2020.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2026.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Joshua/Chapter%2020.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2027.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2020.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2028.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%2020.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2029.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%2020.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2030.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2020.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2031.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%2020.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2032.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%2020.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2033.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Kings/Chapter%2020.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2034.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2020.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2035.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2020.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2036.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%2020.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2037.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2020.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2038.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2021.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2039.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2021.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2040.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/John/Chapter%2021.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2041.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%2021.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Job/Chapter%2042.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%2021.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Psalms/</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/New%20Testament/Luke/Chapter%2021.html</loc>
 </url>
 <url>
-  <loc>https://simplified.bible/Old%20Testament/Psalms/Chapter%201.html</loc>
-  <lastmod>2023-12-31T12:22:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2021.html</loc>
 </url>
-
-
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Samuel/Chapter%2021.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%2021.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Kings/Chapter%2021.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2021.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/Chapter%2021.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Revelation/Chapter%2021.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%2021.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2021.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Judges/Chapter%2021.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Joshua/Chapter%2021.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%2021.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2021.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%2021.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%2021.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Kings/Chapter%2021.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2021.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%2021.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%2022.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Kings/Chapter%2022.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2022.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%2022.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%2022.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Joshua/Chapter%2022.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2022.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Revelation/Chapter%2022.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%2022.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2022.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/Chapter%2022.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%2022.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Kings/Chapter%2022.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Luke/Chapter%2022.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%2022.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Samuel/Chapter%2022.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%2022.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2022.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2022.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%2022.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2022.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2022.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%2023.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Luke/Chapter%2023.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%2023.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2023.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%2023.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Kings/Chapter%2023.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2023.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%2023.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2023.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Joshua/Chapter%2023.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%2023.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2023.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%2023.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2023.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Samuel/Chapter%2023.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%2023.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2023.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2023.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/Chapter%2023.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%2023.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2024.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2024.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/Chapter%2024.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%2024.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2024.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Samuel/Chapter%2024.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%2024.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%2024.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%2024.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%2024.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2024.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2024.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Joshua/Chapter%2024.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%2024.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Kings/Chapter%2024.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%2024.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Luke/Chapter%2024.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2024.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2024.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%2024.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2025.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2025.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%2025.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%2025.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2025.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2025.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%2025.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/Chapter%2025.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2025.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%2025.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2025.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%2025.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Kings/Chapter%2025.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%2025.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%2025.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2025.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%2025.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%2026.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%2026.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%2026.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2026.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2026.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/Chapter%2026.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2026.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%2026.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%2026.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2026.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2026.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2026.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2026.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%2026.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%2026.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%2026.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%2027.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2027.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%2027.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2027.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%2027.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%2027.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%2027.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2027.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/Chapter%2027.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%2027.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2027.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2027.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%2027.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2027.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%2027.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2027.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%2028.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2028.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%2028.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%2028.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%2028.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%2028.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%2028.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2028.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%2028.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2028.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%2028.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2028.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2028.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2028.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2028.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2029.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%2029.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2029.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%2029.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2029.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%2029.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2029.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%2029.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%2029.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2029.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2029.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2029.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%2029.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Titus/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ruth/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/1%20Peter/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Malachi/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Micah/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Philippians/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Hebrews/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Lamentations/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezra/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/1%20Corinthians/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Revelation/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Judges/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jonah/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Joel/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Kings/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Zechariah/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Colossians/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/John/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Nahum/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Zephaniah/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Joshua/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Galatians/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Nehemiah/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Mark/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/1%20John/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Luke/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/2%20Timothy/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/2%20Corinthians/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Habakkuk/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Samuel/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Romans/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/2%20Thessalonians/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ecclesiastes/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/1%20Thessalonians/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Song%20of%20Solomon/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/2%20Peter/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/1%20Timothy/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Amos/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Kings/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Hosea/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Esther/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Daniel/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Ephesians/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/James/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%203.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2030.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%2030.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%2030.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2030.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2030.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%2030.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2030.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%2030.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2030.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2030.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2030.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%2030.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2031.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2031.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%2031.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%2031.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2031.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%2031.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2031.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2031.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%2031.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%2031.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2031.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2031.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%2032.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%2032.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2032.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2032.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2032.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%2032.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2032.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2032.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2032.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2032.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2033.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2033.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2033.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%2033.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2033.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%2033.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2033.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2033.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%2033.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2033.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2034.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2034.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2034.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2034.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%2034.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2034.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%2034.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%2034.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2034.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2034.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%2035.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2035.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2035.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2035.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2035.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2035.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2035.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%2035.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2035.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2036.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2036.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%2036.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2036.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%2036.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2036.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2036.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2036.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2036.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2037.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2037.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2037.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2037.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2037.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2037.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2037.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2038.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2038.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2038.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2038.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2038.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2038.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2038.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2039.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2039.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2039.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2039.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2039.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2039.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2039.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Zechariah/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Luke/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Lamentations/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Amos/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Judges/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/2%20Corinthians/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ruth/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Philippians/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/1%20Peter/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Galatians/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Song%20of%20Solomon/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Hebrews/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ecclesiastes/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Esther/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/1%20Thessalonians/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Nehemiah/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Mark/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/1%20John/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/John/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Hosea/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Kings/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/1%20Timothy/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Colossians/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Micah/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Revelation/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Ephesians/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Samuel/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jonah/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Malachi/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Daniel/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/2%20Timothy/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Kings/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezra/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/1%20Corinthians/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/James/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Joshua/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Romans/Chapter%204.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2040.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%2040.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2040.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2040.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2040.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2040.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2040.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2041.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2041.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2041.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2041.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2041.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2041.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2042.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2042.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2042.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2042.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2042.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%2042.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2043.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2043.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2043.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2043.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2043.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2044.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2044.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2044.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2044.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2044.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2045.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2045.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2045.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2045.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2045.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2046.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2046.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2046.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2046.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2046.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2047.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2047.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2047.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2047.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2047.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2048.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2048.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2048.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2048.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%2048.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2049.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2049.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2049.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2049.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Joshua/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Romans/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/2%20Corinthians/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Hebrews/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Daniel/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ecclesiastes/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Ephesians/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/1%20Timothy/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Song%20of%20Solomon/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Revelation/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Luke/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Judges/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezra/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Amos/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/John/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Nehemiah/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Mark/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/1%20John/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Lamentations/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Hosea/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/1%20Peter/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Kings/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/James/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Galatians/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Micah/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Samuel/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Kings/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/1%20Corinthians/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/1%20Thessalonians/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Zechariah/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Esther/Chapter%205.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2050.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%2050.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2050.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2050.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2051.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2051.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2051.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2052.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%2052.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2052.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2053.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2053.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2054.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2054.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2055.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2055.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2056.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2056.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2057.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2057.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2058.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2058.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2059.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2059.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Hosea/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/2%20Corinthians/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Mark/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Zechariah/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Nehemiah/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Samuel/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Amos/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/John/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Judges/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Joshua/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Micah/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Luke/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezra/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Ephesians/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Galatians/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/1%20Timothy/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Kings/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Song%20of%20Solomon/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Revelation/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Hebrews/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Kings/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/1%20Corinthians/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Daniel/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ecclesiastes/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Esther/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Romans/Chapter%206.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2060.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2060.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2061.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2061.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2062.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2062.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2063.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2063.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2064.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2064.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2065.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2065.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%2066.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2066.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2067.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2068.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2069.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/1%20Corinthians/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Micah/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Mark/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Luke/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Nehemiah/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Hebrews/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Revelation/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Romans/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Joshua/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Kings/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/John/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Zechariah/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Song%20of%20Solomon/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Judges/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Hosea/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Kings/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Samuel/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Amos/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezra/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/2%20Corinthians/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Daniel/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ecclesiastes/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Esther/Chapter%207.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2070.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2071.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2072.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2073.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2074.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2075.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2076.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2077.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2078.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2079.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/2%20Corinthians/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Nehemiah/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Song%20of%20Solomon/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Kings/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Hebrews/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Judges/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Zechariah/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Joshua/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/John/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Kings/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Luke/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Samuel/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Romans/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Amos/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Mark/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Daniel/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Hosea/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Revelation/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ecclesiastes/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/1%20Corinthians/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Esther/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezra/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%208.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2080.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2081.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2082.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2083.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2084.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2085.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2086.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2087.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2088.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2089.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Hosea/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezra/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Esther/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Amos/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ecclesiastes/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Samuel/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Daniel/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Kings/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Joshua/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Hebrews/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Judges/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Acts/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Kings/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/2%20Corinthians/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Nehemiah/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/John/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Romans/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Numbers/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Luke/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Zechariah/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/1%20Corinthians/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Revelation/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Mark/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Matthew/Chapter%209.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2090.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2091.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2092.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2093.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2094.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2095.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2096.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2097.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2098.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/Chapter%2099.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Chronicles/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Kings/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/1%20Samuel/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Chronicles/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Kings/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/2%20Samuel/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Amos/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Daniel/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Deuteronomy/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ecclesiastes/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/John/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Exodus/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezekiel/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ezra/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Genesis/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Habakkuk/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Haggai/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Hosea/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Isaiah/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jeremiah/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Job/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Joel/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Jude/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Romans/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Proverbs/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Luke/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Revelation/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Matthew/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Philippians/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Mark/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Philemon/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Esther/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Psalms/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Jonah/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/James/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Hebrews/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Joshua/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Ruth/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Judges/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Galatians/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Ephesians/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Colossians/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Acts/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Lamentations/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Leviticus/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Malachi/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Song%20of%20Solomon/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/3%20John/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/2%20Timothy/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/2%20Thessalonians/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/2%20Peter/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/2%20John/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/2%20Corinthians/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Micah/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Nahum/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/1%20Timothy/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/1%20Thessalonians/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/1%20Peter/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/1%20John/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Nehemiah/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Numbers/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Zechariah/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/1%20Corinthians/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Obadiah/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/New%20Testament/Titus/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/Zephaniah/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Old%20Testament/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
 </urlset>

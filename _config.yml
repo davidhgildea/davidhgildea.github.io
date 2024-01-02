@@ -51,4 +51,9 @@ ga_tracking: G-GS1PJ45T73
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 
+url: "https://simplified.bible" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
+
+
 
