@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Privacy Policy
-nav_order: 99
+nav_exclude: true
 ---
 
 # Privacy Policy
