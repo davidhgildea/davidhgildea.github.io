@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Terms of Service
-nav_order: 100
+nav_exclude: true
 ---
 
 # Terms of Service
