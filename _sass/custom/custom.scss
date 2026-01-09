@@ -51,9 +51,9 @@ body {
 .site-logo {
   max-width: 160% !important;
   max-height: 300px !important;
-  width: auto !important;
-  height: auto !important;
-  background-image: none !important;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: left center !important;
 }
 
 // ===== Sidebar =====
