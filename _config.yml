@@ -8,10 +8,10 @@ logo: "/assets/logo/logo.jpg"
 favicon_ico: "/assets/logo/favicon.ico"
 
 # Aux links (top right corner)
-#aux_links:
-# "Learn English with LexiVerses":
-#   - "https://lexiverses.app"
-#aux_links_new_tab: true
+aux_links:
+ "Learn English through Scripture":
+   - "https://www.lexiverses.com"
+aux_links_new_tab: true
 
 # Footer content
 footer_content: 'Copyright &copy; 2024 | <a href="/privacy">Privacy Policy</a> | <a href="/terms">Terms of Service</a> | <a href="https://www.lexiverses.com">Learn English with LexiVerses</a>'
