@@ -47,6 +47,12 @@ body {
   background-color: $color-bg-cream;
 }
 
+// ===== Logo Sizing =====
+.site-logo {
+  max-width: 160%;
+  max-height: 200px !important;
+}
+
 // ===== Sidebar =====
 .side-bar {
   background-color: $color-bg-parchment;
