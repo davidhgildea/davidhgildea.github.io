@@ -1,0 +1,249 @@
+// ===== LexiVerses Theme for Simplified Bible =====
+
+// Import Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800&family=Merriweather:ital,wght@0,400;1,400&display=swap');
+
+// ===== Color Variables =====
+$color-primary: #2D3A5C;
+$color-primary-dark: #1E2840;
+$color-primary-light: #4A5A7C;
+$color-gold: #C98A2E;
+$color-gold-light: #E8B84A;
+$color-gold-dark: #A67325;
+$color-text: #3D2E1E;
+$color-text-light: #6B5A48;
+$color-bg-cream: #FAF8F3;
+$color-bg-parchment: #F5EFE0;
+$color-border: #E0D5C7;
+
+// ===== Override Theme Variables =====
+:root {
+  // Typography
+  --body-font-family: 'Nunito', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --mono-font-family: 'SF Mono', Monaco, Consolas, monospace;
+  --body-font-size: 16px;
+  --body-line-height: 1.7;
+  
+  // Colors - Light theme
+  --body-background-color: #{$color-bg-cream};
+  --sidebar-color: #{$color-bg-parchment};
+  --body-text-color: #{$color-text};
+  --body-heading-color: #{$color-primary};
+  --link-color: #{$color-gold-dark};
+  --nav-child-link-color: #{$color-text-light};
+  --search-background-color: white;
+  --search-result-preview-color: #{$color-text-light};
+  --border-color: #{$color-border};
+  
+  // Code
+  --code-background-color: #{$color-bg-parchment};
+  
+  // Buttons
+  --btn-primary-color: #{$color-gold};
+}
+
+// ===== Global Styles =====
+body {
+  background-color: $color-bg-cream;
+}
+
+// ===== Sidebar =====
+.side-bar {
+  background-color: $color-bg-parchment;
+  border-right: 1px solid $color-border;
+}
+
+.site-title {
+  font-weight: 800 !important;
+  color: $color-primary !important;
+  font-size: 1.5rem !important;
+}
+
+// Navigation links
+.nav-list-item {
+  .nav-list-link {
+    color: $color-text;
+    font-weight: 500;
+    
+    &:hover {
+      color: $color-gold;
+      background-color: rgba($color-gold, 0.1);
+    }
+    
+    &.active {
+      color: $color-gold-dark;
+      font-weight: 700;
+      background-color: rgba($color-gold, 0.15);
+    }
+  }
+}
+
+// Child nav items
+.nav-list-item .nav-list .nav-list-item .nav-list-link {
+  color: $color-text-light;
+  
+  &:hover {
+    color: $color-gold;
+  }
+  
+  &.active {
+    color: $color-gold-dark;
+    font-weight: 600;
+  }
+}
+
+// ===== Main Content =====
+.main {
+  background-color: $color-bg-cream;
+}
+
+.main-content {
+  h1, h2, h3, h4, h5, h6 {
+    color: $color-primary;
+    font-weight: 700;
+  }
+  
+  h1 {
+    border-bottom: 2px solid $color-border;
+    padding-bottom: 0.5rem;
+  }
+  
+  a {
+    color: $color-gold-dark;
+    text-decoration: underline;
+    text-decoration-color: rgba($color-gold, 0.4);
+    text-underline-offset: 2px;
+    
+    &:hover {
+      color: $color-gold;
+      text-decoration-color: $color-gold;
+    }
+  }
+  
+  // Scripture verse styling
+  p {
+    line-height: 1.8;
+    color: $color-text;
+  }
+  
+  // Verse numbers (if you use superscript)
+  sup {
+    color: $color-gold-dark;
+    font-weight: 700;
+    margin-right: 0.25em;
+  }
+  
+  // Blockquotes for special passages
+  blockquote {
+    border-left: 4px solid $color-gold;
+    background-color: $color-bg-parchment;
+    padding: 1rem 1.5rem;
+    margin: 1.5rem 0;
+    font-style: italic;
+    color: $color-text-light;
+  }
+}
+
+// ===== Search =====
+.search-input {
+  background-color: white;
+  border: 1px solid $color-border;
+  border-radius: 8px;
+  
+  &:focus {
+    border-color: $color-gold;
+    box-shadow: 0 0 0 3px rgba($color-gold, 0.2);
+  }
+}
+
+.search-results {
+  background-color: white;
+  border: 1px solid $color-border;
+  border-radius: 8px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+.search-result {
+  &:hover {
+    background-color: $color-bg-parchment;
+  }
+  
+  .search-result-title {
+    color: $color-primary;
+  }
+  
+  .search-result-rel-url {
+    color: $color-gold-dark;
+  }
+}
+
+// ===== Breadcrumbs =====
+.breadcrumb-nav-list-item {
+  color: $color-text-light;
+  
+  a {
+    color: $color-gold-dark;
+    
+    &:hover {
+      color: $color-gold;
+    }
+  }
+}
+
+// ===== Table of Contents =====
+.toc-list {
+  .toc-list-item {
+    a {
+      color: $color-text-light;
+      
+      &:hover {
+        color: $color-gold;
+      }
+    }
+  }
+}
+
+// ===== Footer =====
+.site-footer {
+  border-top: 1px solid $color-border;
+  color: $color-text-light;
+  background-color: $color-bg-parchment;
+  
+  a {
+    color: $color-gold-dark;
+  }
+}
+
+// ===== Mobile Menu Button =====
+.site-button {
+  color: $color-primary;
+  
+  &:hover {
+    background-color: rgba($color-gold, 0.1);
+  }
+}
+
+// ===== Selection Color =====
+::selection {
+  background-color: rgba($color-gold, 0.3);
+  color: $color-text;
+}
+
+// ===== Scrollbar (Webkit) =====
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: $color-bg-cream;
+}
+
+::-webkit-scrollbar-thumb {
+  background: $color-border;
+  border-radius: 4px;
+  
+  &:hover {
+    background: $color-text-light;
+  }
+}
