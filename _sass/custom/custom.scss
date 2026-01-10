@@ -16,6 +16,17 @@ $color-bg-cream: #FAF8F3;
 $color-bg-parchment: #F5EFE0;
 $color-border: #E0D5C7;
 
+// Fix site title being cut off on desktop
+@media (min-width: 769px) {
+  .site-header {
+    padding-top: 1rem !important;
+  }
+  
+  .site-title {
+    padding-top: 0.5rem !important;
+  }
+}
+
 // ===== Override Theme Variables =====
 :root {
   // Typography
