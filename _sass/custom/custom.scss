@@ -19,11 +19,12 @@ $color-border: #E0D5C7;
 // Fix site title being cut off on desktop
 @media (min-width: 769px) {
   .site-header {
-    padding-top: 2rem !important;
+    padding-top: 1rem !important;
   }
   
   .site-title {
-    padding-top: 2rem !important;
+    padding-top: 1rem !important;
+    
   }
 }
 
@@ -73,7 +74,7 @@ body {
 .site-title {
   font-weight: 800 !important;
   color: $color-primary !important;
-  font-size: 1.5rem !important;
+  font-size: 1rem !important;
 }
 
 // Navigation links
