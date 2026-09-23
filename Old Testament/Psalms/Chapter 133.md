@@ -1,37 +1,94 @@
 ---
-title: Psalms Chapter 133
-parent: Psalms
-grand_parent: Old Testament
+title: "Psalms 133"
+parent: "Psalms"
+grand_parent: "Old Testament"
 nav_order: 133
+nav_exclude: true
 layout: default
+description: "Psalms 133 in plain English: Look, it's good and nice when brothers live together in peace! It is like fine oil on the head, flowing down onto the beard…"
 ---
 
-## Psalms
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Chapter",
+  "name": "Psalms 133",
+  "headline": "Psalms 133 \u2013 Simplified Bible",
+  "description": "Psalms 133 in plain English: Look, it\u0027s good and nice when brothers live together in peace! It is like fine oil on the head, flowing down onto the beard\u2026",
+  "url": "https://simplified.bible/Old%20Testament/Psalms/Chapter%20133.html",
+  "inLanguage": "en",
+  "position": 133,
+  "isPartOf": {
+    "@type": "Book",
+    "name": "Psalms",
+    "url": "https://simplified.bible/Old%20Testament/Psalms/",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "Simplified Bible",
+      "url": "https://simplified.bible/",
+      "inLanguage": "en",
+      "isBasedOn": {
+        "@type": "Book",
+        "name": "King James Version",
+        "alternateName": "KJV"
+      }
+    }
+  },
+  "isBasedOn": {
+    "@type": "Book",
+    "name": "King James Version",
+    "alternateName": "KJV"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Simplified Bible",
+    "url": "https://simplified.bible/"
+  },
+  "license": "https://simplified.bible/about/#quoting",
+  "audio": {
+    "@type": "AudioObject",
+    "contentUrl": "https://simplified.bible/assets/Audio/Psalms/133.mp3",
+    "encodingFormat": "audio/mpeg"
+  },
+  "image": "https://simplified.bible/assets/Image/Psalms/500/133.jpg",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://simplified.bible/text/psalms/133.txt",
+    "encodingFormat": "text/plain"
+  }
+}
+</script>
 
-# Chapter 133
+# Psalms 133
 
----
+<p class="chapter-intro">Psalms chapter 133 from the <a href="/about/">Simplified Bible</a>, a plain-English version of the King James Version (KJV).</p>
 
-<div style='display: flex; align-items: center;'>
-  <img src='/assets/Image/audiobook_icon.png' alt='Audiobook Icon' style='height: 100%; max-height: 52px; padding-right: 10px;' />
-  <audio controls>
-    <source src='/assets/Audio/Psalms/133.mp3' type='audio/mp3'>
-    Your browser does not support the audio element.
+<div class="chapter-audio" style="display: flex; align-items: center;">
+  <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
+  <audio controls preload="none" title="Psalms 133 audio">
+    <source src="/assets/Audio/Psalms/133.mp3" type="audio/mpeg">
+    <a href="/assets/Audio/Psalms/133.mp3">Listen to Psalms 133 (MP3)</a>
   </audio>
 </div>
 
----
-
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/133.jpg" alt="Psalms Chapter 133" style="width: 100%; height: auto;" />
-    <figcaption style="font-size: 14px;">Psalms Chapter 133</figcaption>
+    <img src="/assets/Image/Psalms/500/133.jpg" alt="Illustration for Psalms 133" style="width: 100%; height: auto;" loading="lazy" />
+    <figcaption style="font-size: 14px;">Psalms 133</figcaption>
 </figure>
 </div>
-1 Look, it's good and nice when brothers live together in peace!
 
-2 It is like fine oil on the head, flowing down onto the beard, even Aaron's beard, reaching down to the collar of his robes.
+<p class="verse" id="v1"><a class="verse-num" href="#v1" aria-label="Psalms 133:1">1</a> Look, it&#39;s good and nice when brothers live together in peace!</p>
 
-3 Like the dew from Mount Hermon or the dew on Zion's hills, there God gives the blessing of eternal life.
+<p class="verse" id="v2"><a class="verse-num" href="#v2" aria-label="Psalms 133:2">2</a> It is like fine oil on the head, flowing down onto the beard, even Aaron&#39;s beard, reaching down to the collar of his robes.</p>
 
+<p class="verse" id="v3"><a class="verse-num" href="#v3" aria-label="Psalms 133:3">3</a> Like the dew from Mount Hermon or the dew on Zion&#39;s hills, there God gives the blessing of eternal life.</p>
 
+<hr>
+
+<p class="chapter-cite">Cite as: <em>Psalms 133:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/133.txt">Plain text of Psalms 133</a>.</p>
+
+<nav class="chapter-nav" aria-label="Previous and next chapter">
+  <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%20132.html" rel="prev">&larr; Psalms 132</a>
+  <a class="chapter-next" href="/Old%20Testament/Psalms/Chapter%20134.html" rel="next">Psalms 134 &rarr;</a>
+</nav>

@@ -1,49 +1,106 @@
 ---
-title: Psalms Chapter 113
-parent: Psalms
-grand_parent: Old Testament
+title: "Psalms 113"
+parent: "Psalms"
+grand_parent: "Old Testament"
 nav_order: 113
+nav_exclude: true
 layout: default
+description: "Psalms 113 in plain English: Praise God. All you who serve God, praise God's name. God's name is blessed from now on and forever. From sunrise to sunset…"
 ---
 
-## Psalms
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Chapter",
+  "name": "Psalms 113",
+  "headline": "Psalms 113 \u2013 Simplified Bible",
+  "description": "Psalms 113 in plain English: Praise God. All you who serve God, praise God\u0027s name. God\u0027s name is blessed from now on and forever. From sunrise to sunset\u2026",
+  "url": "https://simplified.bible/Old%20Testament/Psalms/Chapter%20113.html",
+  "inLanguage": "en",
+  "position": 113,
+  "isPartOf": {
+    "@type": "Book",
+    "name": "Psalms",
+    "url": "https://simplified.bible/Old%20Testament/Psalms/",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "Simplified Bible",
+      "url": "https://simplified.bible/",
+      "inLanguage": "en",
+      "isBasedOn": {
+        "@type": "Book",
+        "name": "King James Version",
+        "alternateName": "KJV"
+      }
+    }
+  },
+  "isBasedOn": {
+    "@type": "Book",
+    "name": "King James Version",
+    "alternateName": "KJV"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Simplified Bible",
+    "url": "https://simplified.bible/"
+  },
+  "license": "https://simplified.bible/about/#quoting",
+  "audio": {
+    "@type": "AudioObject",
+    "contentUrl": "https://simplified.bible/assets/Audio/Psalms/113.mp3",
+    "encodingFormat": "audio/mpeg"
+  },
+  "image": "https://simplified.bible/assets/Image/Psalms/500/113.jpg",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://simplified.bible/text/psalms/113.txt",
+    "encodingFormat": "text/plain"
+  }
+}
+</script>
 
-# Chapter 113
+# Psalms 113
 
----
+<p class="chapter-intro">Psalms chapter 113 from the <a href="/about/">Simplified Bible</a>, a plain-English version of the King James Version (KJV).</p>
 
-<div style='display: flex; align-items: center;'>
-  <img src='/assets/Image/audiobook_icon.png' alt='Audiobook Icon' style='height: 100%; max-height: 52px; padding-right: 10px;' />
-  <audio controls>
-    <source src='/assets/Audio/Psalms/113.mp3' type='audio/mp3'>
-    Your browser does not support the audio element.
+<div class="chapter-audio" style="display: flex; align-items: center;">
+  <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
+  <audio controls preload="none" title="Psalms 113 audio">
+    <source src="/assets/Audio/Psalms/113.mp3" type="audio/mpeg">
+    <a href="/assets/Audio/Psalms/113.mp3">Listen to Psalms 113 (MP3)</a>
   </audio>
 </div>
 
----
-
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/113.jpg" alt="Psalms Chapter 113" style="width: 100%; height: auto;" />
-    <figcaption style="font-size: 14px;">Psalms Chapter 113</figcaption>
+    <img src="/assets/Image/Psalms/500/113.jpg" alt="Illustration for Psalms 113" style="width: 100%; height: auto;" loading="lazy" />
+    <figcaption style="font-size: 14px;">Psalms 113</figcaption>
 </figure>
 </div>
-1 Praise God. All you who serve God, praise God's name.
 
-2 God's name is blessed from now on and forever.
+<p class="verse" id="v1"><a class="verse-num" href="#v1" aria-label="Psalms 113:1">1</a> Praise God. All you who serve God, praise God&#39;s name.</p>
 
-3 From sunrise to sunset, God's name should be praised.
+<p class="verse" id="v2"><a class="verse-num" href="#v2" aria-label="Psalms 113:2">2</a> God&#39;s name is blessed from now on and forever.</p>
 
-4 God is greater than all countries, and his greatness is higher than the skies.
+<p class="verse" id="v3"><a class="verse-num" href="#v3" aria-label="Psalms 113:3">3</a> From sunrise to sunset, God&#39;s name should be praised.</p>
 
-5 Who is like God, our God, who lives on high?
+<p class="verse" id="v4"><a class="verse-num" href="#v4" aria-label="Psalms 113:4">4</a> God is greater than all countries, and his greatness is higher than the skies.</p>
 
-6 God bows down to look at the things in heaven and on earth.
+<p class="verse" id="v5"><a class="verse-num" href="#v5" aria-label="Psalms 113:5">5</a> Who is like God, our God, who lives on high?</p>
 
-7 He lifts the poor from the ground and raises the needy from the dirt.
+<p class="verse" id="v6"><a class="verse-num" href="#v6" aria-label="Psalms 113:6">6</a> God bows down to look at the things in heaven and on earth.</p>
 
-8 So he can place him with leaders, with his people's leaders.
+<p class="verse" id="v7"><a class="verse-num" href="#v7" aria-label="Psalms 113:7">7</a> He lifts the poor from the ground and raises the needy from the dirt.</p>
 
-9 God helps the woman with no children to have a family and be happy with her kids. Praise God.
+<p class="verse" id="v8"><a class="verse-num" href="#v8" aria-label="Psalms 113:8">8</a> So he can place him with leaders, with his people&#39;s leaders.</p>
 
+<p class="verse" id="v9"><a class="verse-num" href="#v9" aria-label="Psalms 113:9">9</a> God helps the woman with no children to have a family and be happy with her kids. Praise God.</p>
 
+<hr>
+
+<p class="chapter-cite">Cite as: <em>Psalms 113:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/113.txt">Plain text of Psalms 113</a>.</p>
+
+<nav class="chapter-nav" aria-label="Previous and next chapter">
+  <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%20112.html" rel="prev">&larr; Psalms 112</a>
+  <a class="chapter-next" href="/Old%20Testament/Psalms/Chapter%20114.html" rel="next">Psalms 114 &rarr;</a>
+</nav>

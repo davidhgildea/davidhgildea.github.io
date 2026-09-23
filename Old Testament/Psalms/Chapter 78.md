@@ -1,175 +1,232 @@
 ---
-title: Psalms Chapter 78
-parent: Psalms
-grand_parent: Old Testament
+title: "Psalms 78"
+parent: "Psalms"
+grand_parent: "Old Testament"
 nav_order: 78
+nav_exclude: true
 layout: default
+description: "Psalms 78 in plain English: Listen, my people, to my teaching; pay attention to what I say. I will speak in simple stories; I will share ancient secrets.…"
 ---
 
-## Psalms
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Chapter",
+  "name": "Psalms 78",
+  "headline": "Psalms 78 \u2013 Simplified Bible",
+  "description": "Psalms 78 in plain English: Listen, my people, to my teaching; pay attention to what I say. I will speak in simple stories; I will share ancient secrets.\u2026",
+  "url": "https://simplified.bible/Old%20Testament/Psalms/Chapter%2078.html",
+  "inLanguage": "en",
+  "position": 78,
+  "isPartOf": {
+    "@type": "Book",
+    "name": "Psalms",
+    "url": "https://simplified.bible/Old%20Testament/Psalms/",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "Simplified Bible",
+      "url": "https://simplified.bible/",
+      "inLanguage": "en",
+      "isBasedOn": {
+        "@type": "Book",
+        "name": "King James Version",
+        "alternateName": "KJV"
+      }
+    }
+  },
+  "isBasedOn": {
+    "@type": "Book",
+    "name": "King James Version",
+    "alternateName": "KJV"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Simplified Bible",
+    "url": "https://simplified.bible/"
+  },
+  "license": "https://simplified.bible/about/#quoting",
+  "audio": {
+    "@type": "AudioObject",
+    "contentUrl": "https://simplified.bible/assets/Audio/Psalms/78.mp3",
+    "encodingFormat": "audio/mpeg"
+  },
+  "image": "https://simplified.bible/assets/Image/Psalms/500/78.jpg",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://simplified.bible/text/psalms/78.txt",
+    "encodingFormat": "text/plain"
+  }
+}
+</script>
 
-# Chapter 78
+# Psalms 78
 
----
+<p class="chapter-intro">Psalms chapter 78 from the <a href="/about/">Simplified Bible</a>, a plain-English version of the King James Version (KJV).</p>
 
-<div style='display: flex; align-items: center;'>
-  <img src='/assets/Image/audiobook_icon.png' alt='Audiobook Icon' style='height: 100%; max-height: 52px; padding-right: 10px;' />
-  <audio controls>
-    <source src='/assets/Audio/Psalms/78.mp3' type='audio/mp3'>
-    Your browser does not support the audio element.
+<div class="chapter-audio" style="display: flex; align-items: center;">
+  <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
+  <audio controls preload="none" title="Psalms 78 audio">
+    <source src="/assets/Audio/Psalms/78.mp3" type="audio/mpeg">
+    <a href="/assets/Audio/Psalms/78.mp3">Listen to Psalms 78 (MP3)</a>
   </audio>
 </div>
 
----
-
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/78.jpg" alt="Psalms Chapter 78" style="width: 100%; height: auto;" />
-    <figcaption style="font-size: 14px;">Psalms Chapter 78</figcaption>
+    <img src="/assets/Image/Psalms/500/78.jpg" alt="Illustration for Psalms 78" style="width: 100%; height: auto;" loading="lazy" />
+    <figcaption style="font-size: 14px;">Psalms 78</figcaption>
 </figure>
 </div>
-1 Listen, my people, to my teaching; pay attention to what I say.
 
-2 I will speak in simple stories; I will share ancient secrets.
+<p class="verse" id="v1"><a class="verse-num" href="#v1" aria-label="Psalms 78:1">1</a> Listen, my people, to my teaching; pay attention to what I say.</p>
 
-3 We have heard and understand, and our fathers have shared it with us.
+<p class="verse" id="v2"><a class="verse-num" href="#v2" aria-label="Psalms 78:2">2</a> I will speak in simple stories; I will share ancient secrets.</p>
 
-4 We won't hide them from their children, but show the next generation God's praises, his power, and the amazing things he has done.
+<p class="verse" id="v3"><a class="verse-num" href="#v3" aria-label="Psalms 78:3">3</a> We have heard and understand, and our fathers have shared it with us.</p>
 
-5 God set up a witness in Jacob and set a rule in Israel, which he told our ancestors to teach to their children.
+<p class="verse" id="v4"><a class="verse-num" href="#v4" aria-label="Psalms 78:4">4</a> We won&#39;t hide them from their children, but show the next generation God&#39;s praises, his power, and the amazing things he has done.</p>
 
-6 So future generations might learn about them, the children yet to be born, who will rise and tell their own children.
+<p class="verse" id="v5"><a class="verse-num" href="#v5" aria-label="Psalms 78:5">5</a> God set up a witness in Jacob and set a rule in Israel, which he told our ancestors to teach to their children.</p>
 
-7 So they would put their hope in God, remember what God has done, and follow his commands.
+<p class="verse" id="v6"><a class="verse-num" href="#v6" aria-label="Psalms 78:6">6</a> So future generations might learn about them, the children yet to be born, who will rise and tell their own children.</p>
 
-8 They should not be like their ancestors, a stubborn and rebellious group; a generation that did not stay true in their heart, and were not loyal to God.
+<p class="verse" id="v7"><a class="verse-num" href="#v7" aria-label="Psalms 78:7">7</a> So they would put their hope in God, remember what God has done, and follow his commands.</p>
 
-9 The Ephraim people, ready with weapons and bows, ran away when the battle came.
+<p class="verse" id="v8"><a class="verse-num" href="#v8" aria-label="Psalms 78:8">8</a> They should not be like their ancestors, a stubborn and rebellious group; a generation that did not stay true in their heart, and were not loyal to God.</p>
 
-10 They did not keep God's agreement and did not follow His rules.
+<p class="verse" id="v9"><a class="verse-num" href="#v9" aria-label="Psalms 78:9">9</a> The Ephraim people, ready with weapons and bows, ran away when the battle came.</p>
 
-11 They forgot what God had done and the amazing things he had shown them.
+<p class="verse" id="v10"><a class="verse-num" href="#v10" aria-label="Psalms 78:10">10</a> They did not keep God&#39;s agreement and did not follow His rules.</p>
 
-12 God did amazing things where their ancestors could see, in Egypt, in the Zoan area.
+<p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Psalms 78:11">11</a> They forgot what God had done and the amazing things he had shown them.</p>
 
-13 He split the sea and let them walk through; he made the waters pile up.
+<p class="verse" id="v12"><a class="verse-num" href="#v12" aria-label="Psalms 78:12">12</a> God did amazing things where their ancestors could see, in Egypt, in the Zoan area.</p>
 
-14 During the day, God guided them with a cloud, and all night with a fire's light.
+<p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Psalms 78:13">13</a> He split the sea and let them walk through; he made the waters pile up.</p>
 
-15 He split the rocks in the desert and gave them water as if from deep springs.
+<p class="verse" id="v14"><a class="verse-num" href="#v14" aria-label="Psalms 78:14">14</a> During the day, God guided them with a cloud, and all night with a fire&#39;s light.</p>
 
-16 He made water flow from the rock, creating streams that ran like rivers.
+<p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="Psalms 78:15">15</a> He split the rocks in the desert and gave them water as if from deep springs.</p>
 
-17 They sinned even more against God by angering the Almighty in the desert.
+<p class="verse" id="v16"><a class="verse-num" href="#v16" aria-label="Psalms 78:16">16</a> He made water flow from the rock, creating streams that ran like rivers.</p>
 
-18 They tested God in their hearts by asking for food for their cravings.
+<p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="Psalms 78:17">17</a> They sinned even more against God by angering the Almighty in the desert.</p>
 
-19 Yes, they spoke against God, asking, "Can God set up a table in the desert?"
+<p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="Psalms 78:18">18</a> They tested God in their hearts by asking for food for their cravings.</p>
 
-20 Look, he hit the rock, and water rushed out, and rivers flooded; can he also give bread? Can he supply meat for his people?
+<p class="verse" id="v19"><a class="verse-num" href="#v19" aria-label="Psalms 78:19">19</a> Yes, they spoke against God, asking, &quot;Can God set up a table in the desert?&quot;</p>
 
-21 So God heard this and became angry; a fire started against Jacob, and anger rose against Israel.
+<p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="Psalms 78:20">20</a> Look, he hit the rock, and water rushed out, and rivers flooded; can he also give bread? Can he supply meat for his people?</p>
 
-22 Because they did not believe in God, and did not trust in his help.
+<p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Psalms 78:21">21</a> So God heard this and became angry; a fire started against Jacob, and anger rose against Israel.</p>
 
-23 Even though he told the clouds from above and opened the gates of the sky,
+<p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Psalms 78:22">22</a> Because they did not believe in God, and did not trust in his help.</p>
 
-24 God sent down manna for them to eat and gave them grain from heaven.
+<p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Psalms 78:23">23</a> Even though he told the clouds from above and opened the gates of the sky,</p>
 
-25 People ate the food of angels: God gave them all the food they needed.
+<p class="verse" id="v24"><a class="verse-num" href="#v24" aria-label="Psalms 78:24">24</a> God sent down manna for them to eat and gave them grain from heaven.</p>
 
-26 He sent an east wind from the sky, and with his power, he brought the south wind.
+<p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Psalms 78:25">25</a> People ate the food of angels: God gave them all the food they needed.</p>
 
-27 God made meat fall on them like dust, and birds with feathers like the sand of the sea.
+<p class="verse" id="v26"><a class="verse-num" href="#v26" aria-label="Psalms 78:26">26</a> He sent an east wind from the sky, and with his power, he brought the south wind.</p>
 
-28 He dropped it right into their camp, all around where they lived.
+<p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="Psalms 78:27">27</a> God made meat fall on them like dust, and birds with feathers like the sand of the sea.</p>
 
-29 They ate and were fully satisfied because God gave them what they wanted.
+<p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="Psalms 78:28">28</a> He dropped it right into their camp, all around where they lived.</p>
 
-30 They did not turn away from their desire. But while their food was still in their mouths,
+<p class="verse" id="v29"><a class="verse-num" href="#v29" aria-label="Psalms 78:29">29</a> They ate and were fully satisfied because God gave them what they wanted.</p>
 
-31 God's anger fell on them, killed the strongest among them, and struck down Israel's best men.
+<p class="verse" id="v30"><a class="verse-num" href="#v30" aria-label="Psalms 78:30">30</a> They did not turn away from their desire. But while their food was still in their mouths,</p>
 
-32 Despite everything, they kept sinning and didn't trust in his amazing works.
+<p class="verse" id="v31"><a class="verse-num" href="#v31" aria-label="Psalms 78:31">31</a> God&#39;s anger fell on them, killed the strongest among them, and struck down Israel&#39;s best men.</p>
 
-33 So he made their days vanish in empty pursuits and their years in distress.
+<p class="verse" id="v32"><a class="verse-num" href="#v32" aria-label="Psalms 78:32">32</a> Despite everything, they kept sinning and didn&#39;t trust in his amazing works.</p>
 
-34 When God punished them, they looked for him; they returned and eagerly sought God.
+<p class="verse" id="v33"><a class="verse-num" href="#v33" aria-label="Psalms 78:33">33</a> So he made their days vanish in empty pursuits and their years in distress.</p>
 
-35 They remembered God was their strong protector, and the supreme God was the one who saved them.
+<p class="verse" id="v34"><a class="verse-num" href="#v34" aria-label="Psalms 78:34">34</a> When God punished them, they looked for him; they returned and eagerly sought God.</p>
 
-36 Still, they praised him with their words and lied to him with their tongues.
+<p class="verse" id="v35"><a class="verse-num" href="#v35" aria-label="Psalms 78:35">35</a> They remembered God was their strong protector, and the supreme God was the one who saved them.</p>
 
-37 Their hearts were not true to God, nor did they stay faithful to His agreement.
+<p class="verse" id="v36"><a class="verse-num" href="#v36" aria-label="Psalms 78:36">36</a> Still, they praised him with their words and lied to him with their tongues.</p>
 
-38 He, filled with kindness, forgave their wrongs and did not destroy them. Often, he calmed his anger and did not unleash all his fury.
+<p class="verse" id="v37"><a class="verse-num" href="#v37" aria-label="Psalms 78:37">37</a> Their hearts were not true to God, nor did they stay faithful to His agreement.</p>
 
-39 He remembered they were only human, like a breeze that passes and doesn't return.
+<p class="verse" id="v38"><a class="verse-num" href="#v38" aria-label="Psalms 78:38">38</a> He, filled with kindness, forgave their wrongs and did not destroy them. Often, he calmed his anger and did not unleash all his fury.</p>
 
-40 How often did they upset God in the wilderness and make him sad in the desert!
+<p class="verse" id="v39"><a class="verse-num" href="#v39" aria-label="Psalms 78:39">39</a> He remembered they were only human, like a breeze that passes and doesn&#39;t return.</p>
 
-41 Yes, they turned away and tested God, and restricted the Holy One of Israel.
+<p class="verse" id="v40"><a class="verse-num" href="#v40" aria-label="Psalms 78:40">40</a> How often did they upset God in the wilderness and make him sad in the desert!</p>
 
-42 They forgot how God helped them or the time he saved them from their enemy.
+<p class="verse" id="v41"><a class="verse-num" href="#v41" aria-label="Psalms 78:41">41</a> Yes, they turned away and tested God, and restricted the Holy One of Israel.</p>
 
-43 He showed his signs in Egypt and his miracles in the land of Zoan.
+<p class="verse" id="v42"><a class="verse-num" href="#v42" aria-label="Psalms 78:42">42</a> They forgot how God helped them or the time he saved them from their enemy.</p>
 
-44 God turned their rivers into blood; and their streams, so they could not drink.
+<p class="verse" id="v43"><a class="verse-num" href="#v43" aria-label="Psalms 78:43">43</a> He showed his signs in Egypt and his miracles in the land of Zoan.</p>
 
-45 He sent many kinds of flies among them, which ate them up; and frogs, which ruined them.
+<p class="verse" id="v44"><a class="verse-num" href="#v44" aria-label="Psalms 78:44">44</a> God turned their rivers into blood; and their streams, so they could not drink.</p>
 
-46 He also gave their crops to the caterpillars and their work to the locusts.
+<p class="verse" id="v45"><a class="verse-num" href="#v45" aria-label="Psalms 78:45">45</a> He sent many kinds of flies among them, which ate them up; and frogs, which ruined them.</p>
 
-47 He ruined their grape plants with hailstones, and their fig trees with cold.
+<p class="verse" id="v46"><a class="verse-num" href="#v46" aria-label="Psalms 78:46">46</a> He also gave their crops to the caterpillars and their work to the locusts.</p>
 
-48 He let hail kill their cattle and lightning strike their sheep.
+<p class="verse" id="v47"><a class="verse-num" href="#v47" aria-label="Psalms 78:47">47</a> He ruined their grape plants with hailstones, and their fig trees with cold.</p>
 
-49 He sent his fierce anger, wrath, fury, and distress by sending harmful angels to them.
+<p class="verse" id="v48"><a class="verse-num" href="#v48" aria-label="Psalms 78:48">48</a> He let hail kill their cattle and lightning strike their sheep.</p>
 
-50 He paved a path for his anger; he did not save their lives from death but handed them over to disease.
+<p class="verse" id="v49"><a class="verse-num" href="#v49" aria-label="Psalms 78:49">49</a> He sent his fierce anger, wrath, fury, and distress by sending harmful angels to them.</p>
 
-51 God struck down all the firstborn in Egypt, the strongest in the homes of Ham.
+<p class="verse" id="v50"><a class="verse-num" href="#v50" aria-label="Psalms 78:50">50</a> He paved a path for his anger; he did not save their lives from death but handed them over to disease.</p>
 
-52 He led his people out like sheep and guided them through the desert like a herd.
+<p class="verse" id="v51"><a class="verse-num" href="#v51" aria-label="Psalms 78:51">51</a> God struck down all the firstborn in Egypt, the strongest in the homes of Ham.</p>
 
-53 He guided them safely so they were not afraid, but the sea covered their enemies.
+<p class="verse" id="v52"><a class="verse-num" href="#v52" aria-label="Psalms 78:52">52</a> He led his people out like sheep and guided them through the desert like a herd.</p>
 
-54 He led them to the edge of his holy place, to the mountain his hand had acquired.
+<p class="verse" id="v53"><a class="verse-num" href="#v53" aria-label="Psalms 78:53">53</a> He guided them safely so they were not afraid, but the sea covered their enemies.</p>
 
-55 He drove out the nations before them, divided their land as an inheritance with measured lines, and allowed the tribes of Israel to settle in their homes.
+<p class="verse" id="v54"><a class="verse-num" href="#v54" aria-label="Psalms 78:54">54</a> He led them to the edge of his holy place, to the mountain his hand had acquired.</p>
 
-56 They tested and angered God, and did not follow his teachings.
+<p class="verse" id="v55"><a class="verse-num" href="#v55" aria-label="Psalms 78:55">55</a> He drove out the nations before them, divided their land as an inheritance with measured lines, and allowed the tribes of Israel to settle in their homes.</p>
 
-57 They turned back and were unfaithful like their ancestors; they were unreliable like a bow that does not shoot straight.
+<p class="verse" id="v56"><a class="verse-num" href="#v56" aria-label="Psalms 78:56">56</a> They tested and angered God, and did not follow his teachings.</p>
 
-58 They made God angry with their worship places and caused him to be jealous with their carved idols.
+<p class="verse" id="v57"><a class="verse-num" href="#v57" aria-label="Psalms 78:57">57</a> They turned back and were unfaithful like their ancestors; they were unreliable like a bow that does not shoot straight.</p>
 
-59 When God heard this, he was angry and strongly disliked Israel.
+<p class="verse" id="v58"><a class="verse-num" href="#v58" aria-label="Psalms 78:58">58</a> They made God angry with their worship places and caused him to be jealous with their carved idols.</p>
 
-60 God left the tent at Shiloh, where He had lived among people.
+<p class="verse" id="v59"><a class="verse-num" href="#v59" aria-label="Psalms 78:59">59</a> When God heard this, he was angry and strongly disliked Israel.</p>
 
-61 He allowed his power to be captured and his honor to fall into the hands of the enemy.
+<p class="verse" id="v60"><a class="verse-num" href="#v60" aria-label="Psalms 78:60">60</a> God left the tent at Shiloh, where He had lived among people.</p>
 
-62 He let his people be defeated in battle; and he was angry with his chosen ones.
+<p class="verse" id="v61"><a class="verse-num" href="#v61" aria-label="Psalms 78:61">61</a> He allowed his power to be captured and his honor to fall into the hands of the enemy.</p>
 
-63 The fire killed their young men, and their young women did not get married.
+<p class="verse" id="v62"><a class="verse-num" href="#v62" aria-label="Psalms 78:62">62</a> He let his people be defeated in battle; and he was angry with his chosen ones.</p>
 
-64 Their priests were killed by the sword, and their widows did not mourn.
+<p class="verse" id="v63"><a class="verse-num" href="#v63" aria-label="Psalms 78:63">63</a> The fire killed their young men, and their young women did not get married.</p>
 
-65 Then God woke up like someone who has been asleep, like a strong man shouting because he's had wine.
+<p class="verse" id="v64"><a class="verse-num" href="#v64" aria-label="Psalms 78:64">64</a> Their priests were killed by the sword, and their widows did not mourn.</p>
 
-66 He struck his enemies from behind; he gave them lasting shame.
+<p class="verse" id="v65"><a class="verse-num" href="#v65" aria-label="Psalms 78:65">65</a> Then God woke up like someone who has been asleep, like a strong man shouting because he&#39;s had wine.</p>
 
-67 He turned away from Joseph's tent and did not choose the Ephraim tribe.
+<p class="verse" id="v66"><a class="verse-num" href="#v66" aria-label="Psalms 78:66">66</a> He struck his enemies from behind; he gave them lasting shame.</p>
 
-68 God chose the tribe of Judah and Mount Zion, which he loved.
+<p class="verse" id="v67"><a class="verse-num" href="#v67" aria-label="Psalms 78:67">67</a> He turned away from Joseph&#39;s tent and did not choose the Ephraim tribe.</p>
 
-69 He built his holy place tall like palaces, like the earth, which he set up to last forever.
+<p class="verse" id="v68"><a class="verse-num" href="#v68" aria-label="Psalms 78:68">68</a> God chose the tribe of Judah and Mount Zion, which he loved.</p>
 
-70 God chose David, his servant, and brought him from tending sheep.
+<p class="verse" id="v69"><a class="verse-num" href="#v69" aria-label="Psalms 78:69">69</a> He built his holy place tall like palaces, like the earth, which he set up to last forever.</p>
 
-71 God took him from caring for pregnant ewes to lead Jacob's people and Israel his heritage.
+<p class="verse" id="v70"><a class="verse-num" href="#v70" aria-label="Psalms 78:70">70</a> God chose David, his servant, and brought him from tending sheep.</p>
 
-72 He took care of them with all his honest heart and led them with the skill of his hands.
+<p class="verse" id="v71"><a class="verse-num" href="#v71" aria-label="Psalms 78:71">71</a> God took him from caring for pregnant ewes to lead Jacob&#39;s people and Israel his heritage.</p>
 
+<p class="verse" id="v72"><a class="verse-num" href="#v72" aria-label="Psalms 78:72">72</a> He took care of them with all his honest heart and led them with the skill of his hands.</p>
 
+<hr>
+
+<p class="chapter-cite">Cite as: <em>Psalms 78:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/78.txt">Plain text of Psalms 78</a>.</p>
+
+<nav class="chapter-nav" aria-label="Previous and next chapter">
+  <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2077.html" rel="prev">&larr; Psalms 77</a>
+  <a class="chapter-next" href="/Old%20Testament/Psalms/Chapter%2079.html" rel="next">Psalms 79 &rarr;</a>
+</nav>

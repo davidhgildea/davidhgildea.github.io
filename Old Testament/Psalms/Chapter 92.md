@@ -1,61 +1,118 @@
 ---
-title: Psalms Chapter 92
-parent: Psalms
-grand_parent: Old Testament
+title: "Psalms 92"
+parent: "Psalms"
+grand_parent: "Old Testament"
 nav_order: 92
+nav_exclude: true
 layout: default
+description: "Psalms 92 in plain English: It is good to give thanks to God and to sing praises to your name, O Most High. To show your kindness in the morning, and your…"
 ---
 
-## Psalms
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Chapter",
+  "name": "Psalms 92",
+  "headline": "Psalms 92 \u2013 Simplified Bible",
+  "description": "Psalms 92 in plain English: It is good to give thanks to God and to sing praises to your name, O Most High. To show your kindness in the morning, and your\u2026",
+  "url": "https://simplified.bible/Old%20Testament/Psalms/Chapter%2092.html",
+  "inLanguage": "en",
+  "position": 92,
+  "isPartOf": {
+    "@type": "Book",
+    "name": "Psalms",
+    "url": "https://simplified.bible/Old%20Testament/Psalms/",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "Simplified Bible",
+      "url": "https://simplified.bible/",
+      "inLanguage": "en",
+      "isBasedOn": {
+        "@type": "Book",
+        "name": "King James Version",
+        "alternateName": "KJV"
+      }
+    }
+  },
+  "isBasedOn": {
+    "@type": "Book",
+    "name": "King James Version",
+    "alternateName": "KJV"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Simplified Bible",
+    "url": "https://simplified.bible/"
+  },
+  "license": "https://simplified.bible/about/#quoting",
+  "audio": {
+    "@type": "AudioObject",
+    "contentUrl": "https://simplified.bible/assets/Audio/Psalms/92.mp3",
+    "encodingFormat": "audio/mpeg"
+  },
+  "image": "https://simplified.bible/assets/Image/Psalms/500/92.jpg",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://simplified.bible/text/psalms/92.txt",
+    "encodingFormat": "text/plain"
+  }
+}
+</script>
 
-# Chapter 92
+# Psalms 92
 
----
+<p class="chapter-intro">Psalms chapter 92 from the <a href="/about/">Simplified Bible</a>, a plain-English version of the King James Version (KJV).</p>
 
-<div style='display: flex; align-items: center;'>
-  <img src='/assets/Image/audiobook_icon.png' alt='Audiobook Icon' style='height: 100%; max-height: 52px; padding-right: 10px;' />
-  <audio controls>
-    <source src='/assets/Audio/Psalms/92.mp3' type='audio/mp3'>
-    Your browser does not support the audio element.
+<div class="chapter-audio" style="display: flex; align-items: center;">
+  <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
+  <audio controls preload="none" title="Psalms 92 audio">
+    <source src="/assets/Audio/Psalms/92.mp3" type="audio/mpeg">
+    <a href="/assets/Audio/Psalms/92.mp3">Listen to Psalms 92 (MP3)</a>
   </audio>
 </div>
 
----
-
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/92.jpg" alt="Psalms Chapter 92" style="width: 100%; height: auto;" />
-    <figcaption style="font-size: 14px;">Psalms Chapter 92</figcaption>
+    <img src="/assets/Image/Psalms/500/92.jpg" alt="Illustration for Psalms 92" style="width: 100%; height: auto;" loading="lazy" />
+    <figcaption style="font-size: 14px;">Psalms 92</figcaption>
 </figure>
 </div>
-1 It is good to give thanks to God and to sing praises to your name, O Most High.
 
-2 To show your kindness in the morning, and your faithfulness every night.
+<p class="verse" id="v1"><a class="verse-num" href="#v1" aria-label="Psalms 92:1">1</a> It is good to give thanks to God and to sing praises to your name, O Most High.</p>
 
-3 Play music on a ten-stringed instrument, on the psaltery, and on the harp, with a majestic tune.
+<p class="verse" id="v2"><a class="verse-num" href="#v2" aria-label="Psalms 92:2">2</a> To show your kindness in the morning, and your faithfulness every night.</p>
 
-4 For you, God, have made me happy with what you have done; I will celebrate the things your hands have created.
+<p class="verse" id="v3"><a class="verse-num" href="#v3" aria-label="Psalms 92:3">3</a> Play music on a ten-stringed instrument, on the psaltery, and on the harp, with a majestic tune.</p>
 
-5 God, how great are your works! Your thoughts are very deep.
+<p class="verse" id="v4"><a class="verse-num" href="#v4" aria-label="Psalms 92:4">4</a> For you, God, have made me happy with what you have done; I will celebrate the things your hands have created.</p>
 
-6 A thoughtless person does not know; a fool does not understand this.
+<p class="verse" id="v5"><a class="verse-num" href="#v5" aria-label="Psalms 92:5">5</a> God, how great are your works! Your thoughts are very deep.</p>
 
-7 When the bad grow like grass, and all who do wrong thrive, it is so they can be destroyed forever.
+<p class="verse" id="v6"><a class="verse-num" href="#v6" aria-label="Psalms 92:6">6</a> A thoughtless person does not know; a fool does not understand this.</p>
 
-8 But you, God, are the highest forever.
+<p class="verse" id="v7"><a class="verse-num" href="#v7" aria-label="Psalms 92:7">7</a> When the bad grow like grass, and all who do wrong thrive, it is so they can be destroyed forever.</p>
 
-9 Look, your enemies, God, look, your enemies will die; all the doers of wrong will be spread out.
+<p class="verse" id="v8"><a class="verse-num" href="#v8" aria-label="Psalms 92:8">8</a> But you, God, are the highest forever.</p>
 
-10 You will lift my strength like a wild ox's horn: I will be blessed with new oil.
+<p class="verse" id="v9"><a class="verse-num" href="#v9" aria-label="Psalms 92:9">9</a> Look, your enemies, God, look, your enemies will die; all the doers of wrong will be spread out.</p>
 
-11 I will see what I wish happen to my enemies, and I will hear what I wish for the wicked who oppose me.
+<p class="verse" id="v10"><a class="verse-num" href="#v10" aria-label="Psalms 92:10">10</a> You will lift my strength like a wild ox&#39;s horn: I will be blessed with new oil.</p>
 
-12 Good people will thrive like palm trees; they will grow strong like cedar trees in Lebanon.
+<p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Psalms 92:11">11</a> I will see what I wish happen to my enemies, and I will hear what I wish for the wicked who oppose me.</p>
 
-13 People planted in God's house will thrive in God's courtyards.
+<p class="verse" id="v12"><a class="verse-num" href="#v12" aria-label="Psalms 92:12">12</a> Good people will thrive like palm trees; they will grow strong like cedar trees in Lebanon.</p>
 
-14 Even in old age, they will still produce fruit; they will stay healthy and strong.
+<p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Psalms 92:13">13</a> People planted in God&#39;s house will thrive in God&#39;s courtyards.</p>
 
-15 To show that God is just: He is my strong support, and there is nothing unfair in Him.
+<p class="verse" id="v14"><a class="verse-num" href="#v14" aria-label="Psalms 92:14">14</a> Even in old age, they will still produce fruit; they will stay healthy and strong.</p>
 
+<p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="Psalms 92:15">15</a> To show that God is just: He is my strong support, and there is nothing unfair in Him.</p>
 
+<hr>
+
+<p class="chapter-cite">Cite as: <em>Psalms 92:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/92.txt">Plain text of Psalms 92</a>.</p>
+
+<nav class="chapter-nav" aria-label="Previous and next chapter">
+  <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2091.html" rel="prev">&larr; Psalms 91</a>
+  <a class="chapter-next" href="/Old%20Testament/Psalms/Chapter%2093.html" rel="next">Psalms 93 &rarr;</a>
+</nav>

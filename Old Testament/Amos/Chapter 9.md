@@ -1,61 +1,118 @@
 ---
-title: Amos Chapter 9
-parent: Amos
-grand_parent: Old Testament
+title: "Amos 9"
+parent: "Amos"
+grand_parent: "Old Testament"
 nav_order: 9
+nav_exclude: true
 layout: default
+description: "Amos 9 in plain English: I saw God standing at the altar. He said, \"Hit the top of the door so the pillars tremble. Chop off their heads, all of them. I…"
 ---
 
-## Amos
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Chapter",
+  "name": "Amos 9",
+  "headline": "Amos 9 \u2013 Simplified Bible",
+  "description": "Amos 9 in plain English: I saw God standing at the altar. He said, \u0022Hit the top of the door so the pillars tremble. Chop off their heads, all of them. I\u2026",
+  "url": "https://simplified.bible/Old%20Testament/Amos/Chapter%209.html",
+  "inLanguage": "en",
+  "position": 9,
+  "isPartOf": {
+    "@type": "Book",
+    "name": "Amos",
+    "url": "https://simplified.bible/Old%20Testament/Amos/",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "Simplified Bible",
+      "url": "https://simplified.bible/",
+      "inLanguage": "en",
+      "isBasedOn": {
+        "@type": "Book",
+        "name": "King James Version",
+        "alternateName": "KJV"
+      }
+    }
+  },
+  "isBasedOn": {
+    "@type": "Book",
+    "name": "King James Version",
+    "alternateName": "KJV"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Simplified Bible",
+    "url": "https://simplified.bible/"
+  },
+  "license": "https://simplified.bible/about/#quoting",
+  "audio": {
+    "@type": "AudioObject",
+    "contentUrl": "https://simplified.bible/assets/Audio/Amos/9.mp3",
+    "encodingFormat": "audio/mpeg"
+  },
+  "image": "https://simplified.bible/assets/Image/Amos/500/9.jpg",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://simplified.bible/text/amos/9.txt",
+    "encodingFormat": "text/plain"
+  }
+}
+</script>
 
-# Chapter 9
+# Amos 9
 
----
+<p class="chapter-intro">Amos chapter 9 from the <a href="/about/">Simplified Bible</a>, a plain-English version of the King James Version (KJV).</p>
 
-<div style='display: flex; align-items: center;'>
-  <img src='/assets/Image/audiobook_icon.png' alt='Audiobook Icon' style='height: 100%; max-height: 52px; padding-right: 10px;' />
-  <audio controls>
-    <source src='/assets/Audio/Amos/9.mp3' type='audio/mp3'>
-    Your browser does not support the audio element.
+<div class="chapter-audio" style="display: flex; align-items: center;">
+  <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
+  <audio controls preload="none" title="Amos 9 audio">
+    <source src="/assets/Audio/Amos/9.mp3" type="audio/mpeg">
+    <a href="/assets/Audio/Amos/9.mp3">Listen to Amos 9 (MP3)</a>
   </audio>
 </div>
 
----
-
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Amos/500/9.jpg" alt="Amos Chapter 9" style="width: 100%; height: auto;" />
-    <figcaption style="font-size: 14px;">Amos Chapter 9</figcaption>
+    <img src="/assets/Image/Amos/500/9.jpg" alt="Illustration for Amos 9" style="width: 100%; height: auto;" loading="lazy" />
+    <figcaption style="font-size: 14px;">Amos 9</figcaption>
 </figure>
 </div>
-1 I saw God standing at the altar. He said, "Hit the top of the door so the pillars tremble. Chop off their heads, all of them. I will kill any who are left with a sword. Those who run won't get far, and those who escape won't be saved."
 
-2 Even if they dig deep into the ground, my hand will still reach and take them; even if they climb up to the sky, I will bring them down.
+<p class="verse" id="v1"><a class="verse-num" href="#v1" aria-label="Amos 9:1">1</a> I saw God standing at the altar. He said, &quot;Hit the top of the door so the pillars tremble. Chop off their heads, all of them. I will kill any who are left with a sword. Those who run won&#39;t get far, and those who escape won&#39;t be saved.&quot;</p>
 
-3 Even if they hide at the top of Carmel, I will find and take them from there; and if they hide from me at the bottom of the sea, I will tell the serpent to bite them.
+<p class="verse" id="v2"><a class="verse-num" href="#v2" aria-label="Amos 9:2">2</a> Even if they dig deep into the ground, my hand will still reach and take them; even if they climb up to the sky, I will bring them down.</p>
 
-4 Even if they are taken captive by their enemies, I will order the sword to kill them. I will watch them for harm, not for their good.
+<p class="verse" id="v3"><a class="verse-num" href="#v3" aria-label="Amos 9:3">3</a> Even if they hide at the top of Carmel, I will find and take them from there; and if they hide from me at the bottom of the sea, I will tell the serpent to bite them.</p>
 
-5 God has the power to touch the land so it will melt, and everyone living there will be sad. The land will rise like a flood and be covered like in the Egypt flood.
+<p class="verse" id="v4"><a class="verse-num" href="#v4" aria-label="Amos 9:4">4</a> Even if they are taken captive by their enemies, I will order the sword to kill them. I will watch them for harm, not for their good.</p>
 
-6 He makes his layers in the sky and sets his group on the earth; he calls the sea's waters and spreads them over the earth: God is his name.
+<p class="verse" id="v5"><a class="verse-num" href="#v5" aria-label="Amos 9:5">5</a> God has the power to touch the land so it will melt, and everyone living there will be sad. The land will rise like a flood and be covered like in the Egypt flood.</p>
 
-7 Aren't you like the children of Ethiopia to me, children of Israel? says God. Didn't I lead Israel out of Egypt? And the Philistines from Caphtor, and the Syrians from Kir?
+<p class="verse" id="v6"><a class="verse-num" href="#v6" aria-label="Amos 9:6">6</a> He makes his layers in the sky and sets his group on the earth; he calls the sea&#39;s waters and spreads them over the earth: God is his name.</p>
 
-8 Look, God is watching the sinful nation, and I will wipe it from the earth; but I will not completely destroy Jacob's descendants, says the Lord.
+<p class="verse" id="v7"><a class="verse-num" href="#v7" aria-label="Amos 9:7">7</a> Aren&#39;t you like the children of Ethiopia to me, children of Israel? says God. Didn&#39;t I lead Israel out of Egypt? And the Philistines from Caphtor, and the Syrians from Kir?</p>
 
-9 Look, I will give an order, and I will shake the people of Israel among all countries, just like corn is shaken in a strainer, but not even the smallest grain will fall to the ground.
+<p class="verse" id="v8"><a class="verse-num" href="#v8" aria-label="Amos 9:8">8</a> Look, God is watching the sinful nation, and I will wipe it from the earth; but I will not completely destroy Jacob&#39;s descendants, says the Lord.</p>
 
-10 Every sinner among my people will die by the sword, those who think harm won't reach or stop us.
+<p class="verse" id="v9"><a class="verse-num" href="#v9" aria-label="Amos 9:9">9</a> Look, I will give an order, and I will shake the people of Israel among all countries, just like corn is shaken in a strainer, but not even the smallest grain will fall to the ground.</p>
 
-11 On that day, I will repair David's fallen shelter, fix its gaps, rebuild its ruins, and restore it like before.
+<p class="verse" id="v10"><a class="verse-num" href="#v10" aria-label="Amos 9:10">10</a> Every sinner among my people will die by the sword, those who think harm won&#39;t reach or stop us.</p>
 
-12 So they can own what's left of Edom, and all nations called by my name, says God who does this.
+<p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Amos 9:11">11</a> On that day, I will repair David&#39;s fallen shelter, fix its gaps, rebuild its ruins, and restore it like before.</p>
 
-13 Look, a time is coming, says God, when the farmer will catch up with the harvester, and the grape crusher will catch up with the one planting seeds; the mountains will drip with sweet wine, and all the hills will flow.
+<p class="verse" id="v12"><a class="verse-num" href="#v12" aria-label="Amos 9:12">12</a> So they can own what&#39;s left of Edom, and all nations called by my name, says God who does this.</p>
 
-14 I will bring back my people Israel from captivity. They will rebuild the ruined cities and live in them. They will plant vineyards and drink their wine; they will also create gardens and eat their fruits.
+<p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Amos 9:13">13</a> Look, a time is coming, says God, when the farmer will catch up with the harvester, and the grape crusher will catch up with the one planting seeds; the mountains will drip with sweet wine, and all the hills will flow.</p>
 
-15 I will put them on their land, and no one will ever remove them from the land I gave them, says God.
+<p class="verse" id="v14"><a class="verse-num" href="#v14" aria-label="Amos 9:14">14</a> I will bring back my people Israel from captivity. They will rebuild the ruined cities and live in them. They will plant vineyards and drink their wine; they will also create gardens and eat their fruits.</p>
 
+<p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="Amos 9:15">15</a> I will put them on their land, and no one will ever remove them from the land I gave them, says God.</p>
 
+<hr>
+
+<p class="chapter-cite">Cite as: <em>Amos 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/amos/9.txt">Plain text of Amos 9</a>.</p>
+
+<nav class="chapter-nav" aria-label="Previous and next chapter">
+  <a class="chapter-prev" href="/Old%20Testament/Amos/Chapter%208.html" rel="prev">&larr; Amos 8</a>
+  <a class="chapter-next" href="/Old%20Testament/Obadiah/Chapter%201.html" rel="next">Obadiah 1 &rarr;</a>
+</nav>

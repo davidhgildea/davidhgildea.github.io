@@ -1,61 +1,118 @@
 ---
-title: Psalms Chapter 144
-parent: Psalms
-grand_parent: Old Testament
+title: "Psalms 144"
+parent: "Psalms"
+grand_parent: "Old Testament"
 nav_order: 144
+nav_exclude: true
 layout: default
+description: "Psalms 144 in plain English: God blesses me with strength, teaches my hands to fight, and my fingers for battle. My goodness and my protector; my strong…"
 ---
 
-## Psalms
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Chapter",
+  "name": "Psalms 144",
+  "headline": "Psalms 144 \u2013 Simplified Bible",
+  "description": "Psalms 144 in plain English: God blesses me with strength, teaches my hands to fight, and my fingers for battle. My goodness and my protector; my strong\u2026",
+  "url": "https://simplified.bible/Old%20Testament/Psalms/Chapter%20144.html",
+  "inLanguage": "en",
+  "position": 144,
+  "isPartOf": {
+    "@type": "Book",
+    "name": "Psalms",
+    "url": "https://simplified.bible/Old%20Testament/Psalms/",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "Simplified Bible",
+      "url": "https://simplified.bible/",
+      "inLanguage": "en",
+      "isBasedOn": {
+        "@type": "Book",
+        "name": "King James Version",
+        "alternateName": "KJV"
+      }
+    }
+  },
+  "isBasedOn": {
+    "@type": "Book",
+    "name": "King James Version",
+    "alternateName": "KJV"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Simplified Bible",
+    "url": "https://simplified.bible/"
+  },
+  "license": "https://simplified.bible/about/#quoting",
+  "audio": {
+    "@type": "AudioObject",
+    "contentUrl": "https://simplified.bible/assets/Audio/Psalms/144.mp3",
+    "encodingFormat": "audio/mpeg"
+  },
+  "image": "https://simplified.bible/assets/Image/Psalms/500/144.jpg",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://simplified.bible/text/psalms/144.txt",
+    "encodingFormat": "text/plain"
+  }
+}
+</script>
 
-# Chapter 144
+# Psalms 144
 
----
+<p class="chapter-intro">Psalms chapter 144 from the <a href="/about/">Simplified Bible</a>, a plain-English version of the King James Version (KJV).</p>
 
-<div style='display: flex; align-items: center;'>
-  <img src='/assets/Image/audiobook_icon.png' alt='Audiobook Icon' style='height: 100%; max-height: 52px; padding-right: 10px;' />
-  <audio controls>
-    <source src='/assets/Audio/Psalms/144.mp3' type='audio/mp3'>
-    Your browser does not support the audio element.
+<div class="chapter-audio" style="display: flex; align-items: center;">
+  <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
+  <audio controls preload="none" title="Psalms 144 audio">
+    <source src="/assets/Audio/Psalms/144.mp3" type="audio/mpeg">
+    <a href="/assets/Audio/Psalms/144.mp3">Listen to Psalms 144 (MP3)</a>
   </audio>
 </div>
 
----
-
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/144.jpg" alt="Psalms Chapter 144" style="width: 100%; height: auto;" />
-    <figcaption style="font-size: 14px;">Psalms Chapter 144</figcaption>
+    <img src="/assets/Image/Psalms/500/144.jpg" alt="Illustration for Psalms 144" style="width: 100%; height: auto;" loading="lazy" />
+    <figcaption style="font-size: 14px;">Psalms 144</figcaption>
 </figure>
 </div>
-1 God blesses me with strength, teaches my hands to fight, and my fingers for battle.
 
-2 My goodness and my protector; my strong tower and my rescuer; my shield and the one I trust; who brings my people under my rule.
+<p class="verse" id="v1"><a class="verse-num" href="#v1" aria-label="Psalms 144:1">1</a> God blesses me with strength, teaches my hands to fight, and my fingers for battle.</p>
 
-3 God, what is a person that you notice them, or a human being that you care for them?
+<p class="verse" id="v2"><a class="verse-num" href="#v2" aria-label="Psalms 144:2">2</a> My goodness and my protector; my strong tower and my rescuer; my shield and the one I trust; who brings my people under my rule.</p>
 
-4 People are like a breath; their days are like a fleeting shadow.
+<p class="verse" id="v3"><a class="verse-num" href="#v3" aria-label="Psalms 144:3">3</a> God, what is a person that you notice them, or a human being that you care for them?</p>
 
-5 Bend your heavens, God, and come down; touch the mountains, and they will smoke.
+<p class="verse" id="v4"><a class="verse-num" href="#v4" aria-label="Psalms 144:4">4</a> People are like a breath; their days are like a fleeting shadow.</p>
 
-6 Send out lightning and make them run away; fire your arrows and wipe them out.
+<p class="verse" id="v5"><a class="verse-num" href="#v5" aria-label="Psalms 144:5">5</a> Bend your heavens, God, and come down; touch the mountains, and they will smoke.</p>
 
-7 Reach down from above; free me and rescue me from deep waters, from the grip of foreigners.
+<p class="verse" id="v6"><a class="verse-num" href="#v6" aria-label="Psalms 144:6">6</a> Send out lightning and make them run away; fire your arrows and wipe them out.</p>
 
-8 They talk nonsense, and their right hand is used for lying.
+<p class="verse" id="v7"><a class="verse-num" href="#v7" aria-label="Psalms 144:7">7</a> Reach down from above; free me and rescue me from deep waters, from the grip of foreigners.</p>
 
-9 I will sing a new song to you, God: on a harp and a ten-stringed instrument I will praise you.
+<p class="verse" id="v8"><a class="verse-num" href="#v8" aria-label="Psalms 144:8">8</a> They talk nonsense, and their right hand is used for lying.</p>
 
-10 He gives salvation to kings and saves his servant David from the deadly sword.
+<p class="verse" id="v9"><a class="verse-num" href="#v9" aria-label="Psalms 144:9">9</a> I will sing a new song to you, God: on a harp and a ten-stringed instrument I will praise you.</p>
 
-11 Save me and rescue me from foreigners whose words are meaningless and whose right hand is dishonest.
+<p class="verse" id="v10"><a class="verse-num" href="#v10" aria-label="Psalms 144:10">10</a> He gives salvation to kings and saves his servant David from the deadly sword.</p>
 
-12 Let our sons be like strong, young plants; let our daughters be like elegant pillars shaped to decorate a palace.
+<p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Psalms 144:11">11</a> Save me and rescue me from foreigners whose words are meaningless and whose right hand is dishonest.</p>
 
-13 Let our barns be full, supplying every kind of provision; let our sheep multiply by thousands and tens of thousands in our fields.
+<p class="verse" id="v12"><a class="verse-num" href="#v12" aria-label="Psalms 144:12">12</a> Let our sons be like strong, young plants; let our daughters be like elegant pillars shaped to decorate a palace.</p>
 
-14 Let our oxen be strong for work; let there be no break-ins or escapes; let there be no complaining in our streets.
+<p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Psalms 144:13">13</a> Let our barns be full, supplying every kind of provision; let our sheep multiply by thousands and tens of thousands in our fields.</p>
 
-15 Happy are the people who are in such a situation; yes, happy are the people whose God is the Lord.
+<p class="verse" id="v14"><a class="verse-num" href="#v14" aria-label="Psalms 144:14">14</a> Let our oxen be strong for work; let there be no break-ins or escapes; let there be no complaining in our streets.</p>
 
+<p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="Psalms 144:15">15</a> Happy are the people who are in such a situation; yes, happy are the people whose God is the Lord.</p>
 
+<hr>
+
+<p class="chapter-cite">Cite as: <em>Psalms 144:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/144.txt">Plain text of Psalms 144</a>.</p>
+
+<nav class="chapter-nav" aria-label="Previous and next chapter">
+  <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%20143.html" rel="prev">&larr; Psalms 143</a>
+  <a class="chapter-next" href="/Old%20Testament/Psalms/Chapter%20145.html" rel="next">Psalms 145 &rarr;</a>
+</nav>

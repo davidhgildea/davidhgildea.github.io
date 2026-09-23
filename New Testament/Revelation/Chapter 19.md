@@ -1,73 +1,130 @@
 ---
-title: Revelation Chapter 19
-parent: Revelation
-grand_parent: New Testament
+title: "Revelation 19"
+parent: "Revelation"
+grand_parent: "New Testament"
 nav_order: 19
+nav_exclude: true
 layout: default
+description: "Revelation 19 in plain English: After this, I heard many people in heaven shouting loudly, \"Hallelujah! Salvation, glory, honor, and power belong to our…"
 ---
 
-## Revelation
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Chapter",
+  "name": "Revelation 19",
+  "headline": "Revelation 19 \u2013 Simplified Bible",
+  "description": "Revelation 19 in plain English: After this, I heard many people in heaven shouting loudly, \u0022Hallelujah! Salvation, glory, honor, and power belong to our\u2026",
+  "url": "https://simplified.bible/New%20Testament/Revelation/Chapter%2019.html",
+  "inLanguage": "en",
+  "position": 19,
+  "isPartOf": {
+    "@type": "Book",
+    "name": "Revelation",
+    "url": "https://simplified.bible/New%20Testament/Revelation/",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "Simplified Bible",
+      "url": "https://simplified.bible/",
+      "inLanguage": "en",
+      "isBasedOn": {
+        "@type": "Book",
+        "name": "King James Version",
+        "alternateName": "KJV"
+      }
+    }
+  },
+  "isBasedOn": {
+    "@type": "Book",
+    "name": "King James Version",
+    "alternateName": "KJV"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Simplified Bible",
+    "url": "https://simplified.bible/"
+  },
+  "license": "https://simplified.bible/about/#quoting",
+  "audio": {
+    "@type": "AudioObject",
+    "contentUrl": "https://simplified.bible/assets/Audio/Revelation/19.mp3",
+    "encodingFormat": "audio/mpeg"
+  },
+  "image": "https://simplified.bible/assets/Image/Revelation/500/19.jpg",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://simplified.bible/text/revelation/19.txt",
+    "encodingFormat": "text/plain"
+  }
+}
+</script>
 
-# Chapter 19
+# Revelation 19
 
----
+<p class="chapter-intro">Revelation chapter 19 from the <a href="/about/">Simplified Bible</a>, a plain-English version of the King James Version (KJV).</p>
 
-<div style='display: flex; align-items: center;'>
-  <img src='/assets/Image/audiobook_icon.png' alt='Audiobook Icon' style='height: 100%; max-height: 52px; padding-right: 10px;' />
-  <audio controls>
-    <source src='/assets/Audio/Revelation/19.mp3' type='audio/mp3'>
-    Your browser does not support the audio element.
+<div class="chapter-audio" style="display: flex; align-items: center;">
+  <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
+  <audio controls preload="none" title="Revelation 19 audio">
+    <source src="/assets/Audio/Revelation/19.mp3" type="audio/mpeg">
+    <a href="/assets/Audio/Revelation/19.mp3">Listen to Revelation 19 (MP3)</a>
   </audio>
 </div>
 
----
-
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Revelation/500/19.jpg" alt="Revelation Chapter 19" style="width: 100%; height: auto;" />
-    <figcaption style="font-size: 14px;">Revelation Chapter 19</figcaption>
+    <img src="/assets/Image/Revelation/500/19.jpg" alt="Illustration for Revelation 19" style="width: 100%; height: auto;" loading="lazy" />
+    <figcaption style="font-size: 14px;">Revelation 19</figcaption>
 </figure>
 </div>
-1 After this, I heard many people in heaven shouting loudly, "Hallelujah! Salvation, glory, honor, and power belong to our God."
 
-2 God's decisions are true and fair: He has judged the great whore who spoiled the earth with her immorality, and has punished her for the killing of His servants.
+<p class="verse" id="v1"><a class="verse-num" href="#v1" aria-label="Revelation 19:1">1</a> After this, I heard many people in heaven shouting loudly, &quot;Hallelujah! Salvation, glory, honor, and power belong to our God.&quot;</p>
 
-3 They said again, "Praise God!" And her smoke went up forever and ever.
+<p class="verse" id="v2"><a class="verse-num" href="#v2" aria-label="Revelation 19:2">2</a> God&#39;s decisions are true and fair: He has judged the great whore who spoiled the earth with her immorality, and has punished her for the killing of His servants.</p>
 
-4 The twenty-four elders and the four creatures bowed and worshipped God on the throne, saying, "Amen; Hallelujah."
+<p class="verse" id="v3"><a class="verse-num" href="#v3" aria-label="Revelation 19:3">3</a> They said again, &quot;Praise God!&quot; And her smoke went up forever and ever.</p>
 
-5 A voice from the throne said, "Praise our God, all his servants and those who respect him, no matter if you are unimportant or important."
+<p class="verse" id="v4"><a class="verse-num" href="#v4" aria-label="Revelation 19:4">4</a> The twenty-four elders and the four creatures bowed and worshipped God on the throne, saying, &quot;Amen; Hallelujah.&quot;</p>
 
-6 I heard what sounded like a huge crowd, like many rivers, and like loud thunder, saying, "Praise God: for God all-powerful rules."
+<p class="verse" id="v5"><a class="verse-num" href="#v5" aria-label="Revelation 19:5">5</a> A voice from the throne said, &quot;Praise our God, all his servants and those who respect him, no matter if you are unimportant or important.&quot;</p>
 
-7 Let's be happy and celebrate, and show respect to God: for the Lamb's wedding has come, and his bride is prepared.
+<p class="verse" id="v6"><a class="verse-num" href="#v6" aria-label="Revelation 19:6">6</a> I heard what sounded like a huge crowd, like many rivers, and like loud thunder, saying, &quot;Praise God: for God all-powerful rules.&quot;</p>
 
-8 She was allowed to wear bright, clean, white fine linen, because this fine linen represents the good deeds of God's people.
+<p class="verse" id="v7"><a class="verse-num" href="#v7" aria-label="Revelation 19:7">7</a> Let&#39;s be happy and celebrate, and show respect to God: for the Lamb&#39;s wedding has come, and his bride is prepared.</p>
 
-9 He said to me, "Write, happy are those invited to the Lamb's wedding dinner." He added, "These words are God's truth."
+<p class="verse" id="v8"><a class="verse-num" href="#v8" aria-label="Revelation 19:8">8</a> She was allowed to wear bright, clean, white fine linen, because this fine linen represents the good deeds of God&#39;s people.</p>
 
-10 I fell at his feet to honor him. But he said to me, "Don't do that: I am a servant like you and your brothers who follow Jesus. Honor God, because following Jesus shows the truth about the future."
+<p class="verse" id="v9"><a class="verse-num" href="#v9" aria-label="Revelation 19:9">9</a> He said to me, &quot;Write, happy are those invited to the Lamb&#39;s wedding dinner.&quot; He added, &quot;These words are God&#39;s truth.&quot;</p>
 
-11 I saw the sky open, and there was a white horse. The rider was named Faithful and True, and he judges and fights fairly.
+<p class="verse" id="v10"><a class="verse-num" href="#v10" aria-label="Revelation 19:10">10</a> I fell at his feet to honor him. But he said to me, &quot;Don&#39;t do that: I am a servant like you and your brothers who follow Jesus. Honor God, because following Jesus shows the truth about the future.&quot;</p>
 
-12 His eyes looked like burning fire, and he wore many crowns on his head. He had a name that only he knew.
+<p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Revelation 19:11">11</a> I saw the sky open, and there was a white horse. The rider was named Faithful and True, and he judges and fights fairly.</p>
 
-13 He wore a robe soaked in blood, and his name is The Word of God.
+<p class="verse" id="v12"><a class="verse-num" href="#v12" aria-label="Revelation 19:12">12</a> His eyes looked like burning fire, and he wore many crowns on his head. He had a name that only he knew.</p>
 
-14 The armies in heaven followed him on white horses, dressed in clean, white, fine linen.
+<p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Revelation 19:13">13</a> He wore a robe soaked in blood, and his name is The Word of God.</p>
 
-15 From his mouth comes a sharp sword to strike down nations. He will rule them with an iron stick, and he steps on the winepress of God's intense anger.
+<p class="verse" id="v14"><a class="verse-num" href="#v14" aria-label="Revelation 19:14">14</a> The armies in heaven followed him on white horses, dressed in clean, white, fine linen.</p>
 
-16 He has a name written on his clothes and on his thigh, King of Kings, and God of Gods.
+<p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="Revelation 19:15">15</a> From his mouth comes a sharp sword to strike down nations. He will rule them with an iron stick, and he steps on the winepress of God&#39;s intense anger.</p>
 
-17 I saw an angel standing in the sun, and he shouted loudly to all the birds flying in the sky, "Come and gather for the great feast of God."
+<p class="verse" id="v16"><a class="verse-num" href="#v16" aria-label="Revelation 19:16">16</a> He has a name written on his clothes and on his thigh, King of Kings, and God of Gods.</p>
 
-18 So that you can eat the meat of kings, commanders, strong men, horses, their riders, and all people, free or slave, small or important.
+<p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="Revelation 19:17">17</a> I saw an angel standing in the sun, and he shouted loudly to all the birds flying in the sky, &quot;Come and gather for the great feast of God.&quot;</p>
 
-19 I saw the beast, the kings of the earth, and their armies come together to fight the one on the horse and his army.
+<p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="Revelation 19:18">18</a> So that you can eat the meat of kings, commanders, strong men, horses, their riders, and all people, free or slave, small or important.</p>
 
-20 The beast was caught, and with it the false prophet who did miracles for it, tricking those who had the beast's mark and worshipped its statue. Both were thrown alive into a fiery lake of sulfur.
+<p class="verse" id="v19"><a class="verse-num" href="#v19" aria-label="Revelation 19:19">19</a> I saw the beast, the kings of the earth, and their armies come together to fight the one on the horse and his army.</p>
 
-21 The rest were killed by the sword of the rider on the horse, the sword that came from his mouth, and all the birds ate their fill of their bodies.
+<p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="Revelation 19:20">20</a> The beast was caught, and with it the false prophet who did miracles for it, tricking those who had the beast&#39;s mark and worshipped its statue. Both were thrown alive into a fiery lake of sulfur.</p>
 
+<p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Revelation 19:21">21</a> The rest were killed by the sword of the rider on the horse, the sword that came from his mouth, and all the birds ate their fill of their bodies.</p>
 
+<hr>
+
+<p class="chapter-cite">Cite as: <em>Revelation 19:1, Simplified Bible (simplified.bible)</em>. <a href="/text/revelation/19.txt">Plain text of Revelation 19</a>.</p>
+
+<nav class="chapter-nav" aria-label="Previous and next chapter">
+  <a class="chapter-prev" href="/New%20Testament/Revelation/Chapter%2018.html" rel="prev">&larr; Revelation 18</a>
+  <a class="chapter-next" href="/New%20Testament/Revelation/Chapter%2020.html" rel="next">Revelation 20 &rarr;</a>
+</nav>

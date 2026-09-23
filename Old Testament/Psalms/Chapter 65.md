@@ -1,57 +1,114 @@
 ---
-title: Psalms Chapter 65
-parent: Psalms
-grand_parent: Old Testament
+title: "Psalms 65"
+parent: "Psalms"
+grand_parent: "Old Testament"
 nav_order: 65
+nav_exclude: true
 layout: default
+description: "Psalms 65 in plain English: Praise is ready for you, God, in Zion; and the promise will be kept to you. You who listen to prayer, everyone will come to…"
 ---
 
-## Psalms
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Chapter",
+  "name": "Psalms 65",
+  "headline": "Psalms 65 \u2013 Simplified Bible",
+  "description": "Psalms 65 in plain English: Praise is ready for you, God, in Zion; and the promise will be kept to you. You who listen to prayer, everyone will come to\u2026",
+  "url": "https://simplified.bible/Old%20Testament/Psalms/Chapter%2065.html",
+  "inLanguage": "en",
+  "position": 65,
+  "isPartOf": {
+    "@type": "Book",
+    "name": "Psalms",
+    "url": "https://simplified.bible/Old%20Testament/Psalms/",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "Simplified Bible",
+      "url": "https://simplified.bible/",
+      "inLanguage": "en",
+      "isBasedOn": {
+        "@type": "Book",
+        "name": "King James Version",
+        "alternateName": "KJV"
+      }
+    }
+  },
+  "isBasedOn": {
+    "@type": "Book",
+    "name": "King James Version",
+    "alternateName": "KJV"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Simplified Bible",
+    "url": "https://simplified.bible/"
+  },
+  "license": "https://simplified.bible/about/#quoting",
+  "audio": {
+    "@type": "AudioObject",
+    "contentUrl": "https://simplified.bible/assets/Audio/Psalms/65.mp3",
+    "encodingFormat": "audio/mpeg"
+  },
+  "image": "https://simplified.bible/assets/Image/Psalms/500/65.jpg",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://simplified.bible/text/psalms/65.txt",
+    "encodingFormat": "text/plain"
+  }
+}
+</script>
 
-# Chapter 65
+# Psalms 65
 
----
+<p class="chapter-intro">Psalms chapter 65 from the <a href="/about/">Simplified Bible</a>, a plain-English version of the King James Version (KJV).</p>
 
-<div style='display: flex; align-items: center;'>
-  <img src='/assets/Image/audiobook_icon.png' alt='Audiobook Icon' style='height: 100%; max-height: 52px; padding-right: 10px;' />
-  <audio controls>
-    <source src='/assets/Audio/Psalms/65.mp3' type='audio/mp3'>
-    Your browser does not support the audio element.
+<div class="chapter-audio" style="display: flex; align-items: center;">
+  <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
+  <audio controls preload="none" title="Psalms 65 audio">
+    <source src="/assets/Audio/Psalms/65.mp3" type="audio/mpeg">
+    <a href="/assets/Audio/Psalms/65.mp3">Listen to Psalms 65 (MP3)</a>
   </audio>
 </div>
 
----
-
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/65.jpg" alt="Psalms Chapter 65" style="width: 100%; height: auto;" />
-    <figcaption style="font-size: 14px;">Psalms Chapter 65</figcaption>
+    <img src="/assets/Image/Psalms/500/65.jpg" alt="Illustration for Psalms 65" style="width: 100%; height: auto;" loading="lazy" />
+    <figcaption style="font-size: 14px;">Psalms 65</figcaption>
 </figure>
 </div>
-1 Praise is ready for you, God, in Zion; and the promise will be kept to you.
 
-2 You who listen to prayer, everyone will come to you.
+<p class="verse" id="v1"><a class="verse-num" href="#v1" aria-label="Psalms 65:1">1</a> Praise is ready for you, God, in Zion; and the promise will be kept to you.</p>
 
-3 Sins overpower me; but you will forgive our wrongdoings.
+<p class="verse" id="v2"><a class="verse-num" href="#v2" aria-label="Psalms 65:2">2</a> You who listen to prayer, everyone will come to you.</p>
 
-4 Happy is the person you choose and bring close to you to live in your spaces; we will be happy with the goodness of your home, your holy place.
+<p class="verse" id="v3"><a class="verse-num" href="#v3" aria-label="Psalms 65:3">3</a> Sins overpower me; but you will forgive our wrongdoings.</p>
 
-5 With amazing acts of justice, you respond to us, God who saves us; you are the trust of everyone on earth, even those far away on the sea.
+<p class="verse" id="v4"><a class="verse-num" href="#v4" aria-label="Psalms 65:4">4</a> Happy is the person you choose and bring close to you to live in your spaces; we will be happy with the goodness of your home, your holy place.</p>
 
-6 God makes the mountains strong with his power.
+<p class="verse" id="v5"><a class="verse-num" href="#v5" aria-label="Psalms 65:5">5</a> With amazing acts of justice, you respond to us, God who saves us; you are the trust of everyone on earth, even those far away on the sea.</p>
 
-7 God calms the sea's roar, the waves' noise, and the uproar of the people.
+<p class="verse" id="v6"><a class="verse-num" href="#v6" aria-label="Psalms 65:6">6</a> God makes the mountains strong with his power.</p>
 
-8 People living in the farthest places fear your signs; you make the sunrise and sunset bring joy.
+<p class="verse" id="v7"><a class="verse-num" href="#v7" aria-label="Psalms 65:7">7</a> God calms the sea&#39;s roar, the waves&#39; noise, and the uproar of the people.</p>
 
-9 You care for the earth and give it water; you make it very fertile with the river of God that is always full of water. You provide crops for the people, for you have made the earth ready.
+<p class="verse" id="v8"><a class="verse-num" href="#v8" aria-label="Psalms 65:8">8</a> People living in the farthest places fear your signs; you make the sunrise and sunset bring joy.</p>
 
-10 You water the land deeply; you level its furrows; you soften it with rain; you bless its crops.
+<p class="verse" id="v9"><a class="verse-num" href="#v9" aria-label="Psalms 65:9">9</a> You care for the earth and give it water; you make it very fertile with the river of God that is always full of water. You provide crops for the people, for you have made the earth ready.</p>
 
-11 You bless the year with your goodness, and your paths overflow with richness.
+<p class="verse" id="v10"><a class="verse-num" href="#v10" aria-label="Psalms 65:10">10</a> You water the land deeply; you level its furrows; you soften it with rain; you bless its crops.</p>
 
-12 Rain falls on the wild fields, and the small hills are happy all around.
+<p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Psalms 65:11">11</a> You bless the year with your goodness, and your paths overflow with richness.</p>
 
-13 Fields are filled with herds; valleys are blanketed with grain. They cheer and sing.
+<p class="verse" id="v12"><a class="verse-num" href="#v12" aria-label="Psalms 65:12">12</a> Rain falls on the wild fields, and the small hills are happy all around.</p>
 
+<p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Psalms 65:13">13</a> Fields are filled with herds; valleys are blanketed with grain. They cheer and sing.</p>
 
+<hr>
+
+<p class="chapter-cite">Cite as: <em>Psalms 65:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/65.txt">Plain text of Psalms 65</a>.</p>
+
+<nav class="chapter-nav" aria-label="Previous and next chapter">
+  <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2064.html" rel="prev">&larr; Psalms 64</a>
+  <a class="chapter-next" href="/Old%20Testament/Psalms/Chapter%2066.html" rel="next">Psalms 66 &rarr;</a>
+</nav>

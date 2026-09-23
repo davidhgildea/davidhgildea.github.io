@@ -1,89 +1,146 @@
 ---
-title: Revelation Chapter 2
-parent: Revelation
-grand_parent: New Testament
+title: "Revelation 2"
+parent: "Revelation"
+grand_parent: "New Testament"
 nav_order: 2
+nav_exclude: true
 layout: default
+description: "Revelation 2 in plain English: Write to the messenger of the Ephesus church: He who holds the seven stars in his right hand and walks among the seven gold…"
 ---
 
-## Revelation
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Chapter",
+  "name": "Revelation 2",
+  "headline": "Revelation 2 \u2013 Simplified Bible",
+  "description": "Revelation 2 in plain English: Write to the messenger of the Ephesus church: He who holds the seven stars in his right hand and walks among the seven gold\u2026",
+  "url": "https://simplified.bible/New%20Testament/Revelation/Chapter%202.html",
+  "inLanguage": "en",
+  "position": 2,
+  "isPartOf": {
+    "@type": "Book",
+    "name": "Revelation",
+    "url": "https://simplified.bible/New%20Testament/Revelation/",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "Simplified Bible",
+      "url": "https://simplified.bible/",
+      "inLanguage": "en",
+      "isBasedOn": {
+        "@type": "Book",
+        "name": "King James Version",
+        "alternateName": "KJV"
+      }
+    }
+  },
+  "isBasedOn": {
+    "@type": "Book",
+    "name": "King James Version",
+    "alternateName": "KJV"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Simplified Bible",
+    "url": "https://simplified.bible/"
+  },
+  "license": "https://simplified.bible/about/#quoting",
+  "audio": {
+    "@type": "AudioObject",
+    "contentUrl": "https://simplified.bible/assets/Audio/Revelation/2.mp3",
+    "encodingFormat": "audio/mpeg"
+  },
+  "image": "https://simplified.bible/assets/Image/Revelation/500/2.jpg",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://simplified.bible/text/revelation/2.txt",
+    "encodingFormat": "text/plain"
+  }
+}
+</script>
 
-# Chapter 2
+# Revelation 2
 
----
+<p class="chapter-intro">Revelation chapter 2 from the <a href="/about/">Simplified Bible</a>, a plain-English version of the King James Version (KJV).</p>
 
-<div style='display: flex; align-items: center;'>
-  <img src='/assets/Image/audiobook_icon.png' alt='Audiobook Icon' style='height: 100%; max-height: 52px; padding-right: 10px;' />
-  <audio controls>
-    <source src='/assets/Audio/Revelation/2.mp3' type='audio/mp3'>
-    Your browser does not support the audio element.
+<div class="chapter-audio" style="display: flex; align-items: center;">
+  <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
+  <audio controls preload="none" title="Revelation 2 audio">
+    <source src="/assets/Audio/Revelation/2.mp3" type="audio/mpeg">
+    <a href="/assets/Audio/Revelation/2.mp3">Listen to Revelation 2 (MP3)</a>
   </audio>
 </div>
 
----
-
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Revelation/500/2.jpg" alt="Revelation Chapter 2" style="width: 100%; height: auto;" />
-    <figcaption style="font-size: 14px;">Revelation Chapter 2</figcaption>
+    <img src="/assets/Image/Revelation/500/2.jpg" alt="Illustration for Revelation 2" style="width: 100%; height: auto;" loading="lazy" />
+    <figcaption style="font-size: 14px;">Revelation 2</figcaption>
 </figure>
 </div>
-1 Write to the messenger of the Ephesus church: He who holds the seven stars in his right hand and walks among the seven gold lampstands says this.
 
-2 I know your actions, your hard work, your patience, and that you cannot tolerate evil people. You have tested those who claim to be apostles but are not, and you have discovered they are liars.
+<p class="verse" id="v1"><a class="verse-num" href="#v1" aria-label="Revelation 2:1">1</a> Write to the messenger of the Ephesus church: He who holds the seven stars in his right hand and walks among the seven gold lampstands says this.</p>
 
-3 You have carried on, been patient, worked hard for my sake, and not given up.
+<p class="verse" id="v2"><a class="verse-num" href="#v2" aria-label="Revelation 2:2">2</a> I know your actions, your hard work, your patience, and that you cannot tolerate evil people. You have tested those who claim to be apostles but are not, and you have discovered they are liars.</p>
 
-4 However, I have something against you, because you have abandoned your first love.
+<p class="verse" id="v3"><a class="verse-num" href="#v3" aria-label="Revelation 2:3">3</a> You have carried on, been patient, worked hard for my sake, and not given up.</p>
 
-5 Remember where you have fallen from, and turn back, and do the first works; or else I will come to you soon, and will take away your candlestick from its place, unless you turn back.
+<p class="verse" id="v4"><a class="verse-num" href="#v4" aria-label="Revelation 2:4">4</a> However, I have something against you, because you have abandoned your first love.</p>
 
-6 But you have this: you hate what the Nicolaitans do, and I also hate it.
+<p class="verse" id="v5"><a class="verse-num" href="#v5" aria-label="Revelation 2:5">5</a> Remember where you have fallen from, and turn back, and do the first works; or else I will come to you soon, and will take away your candlestick from its place, unless you turn back.</p>
 
-7 Whoever has an ear should listen to what the Spirit tells the churches; I will allow those who prevail to eat from the tree of life in God's paradise.
+<p class="verse" id="v6"><a class="verse-num" href="#v6" aria-label="Revelation 2:6">6</a> But you have this: you hate what the Nicolaitans do, and I also hate it.</p>
 
-8 Write to the angel of the church in Smyrna: The one who is the first and the last, who was dead and is now alive, says these things.
+<p class="verse" id="v7"><a class="verse-num" href="#v7" aria-label="Revelation 2:7">7</a> Whoever has an ear should listen to what the Spirit tells the churches; I will allow those who prevail to eat from the tree of life in God&#39;s paradise.</p>
 
-9 I know your actions, troubles, and poverty (but you are rich), and I understand the insults from those who claim to be Jews but are not, instead they belong to Satan's group.
+<p class="verse" id="v8"><a class="verse-num" href="#v8" aria-label="Revelation 2:8">8</a> Write to the angel of the church in Smyrna: The one who is the first and the last, who was dead and is now alive, says these things.</p>
 
-10 Don't be afraid of what you will suffer. The devil will put some of you in jail to test you, and you will face troubles for ten days. Stay faithful even if it means death, and I will give you the reward of life.
+<p class="verse" id="v9"><a class="verse-num" href="#v9" aria-label="Revelation 2:9">9</a> I know your actions, troubles, and poverty (but you are rich), and I understand the insults from those who claim to be Jews but are not, instead they belong to Satan&#39;s group.</p>
 
-11 Anyone with an ear should listen to what the Spirit tells the churches; whoever overcomes will not be harmed by the second death.
+<p class="verse" id="v10"><a class="verse-num" href="#v10" aria-label="Revelation 2:10">10</a> Don&#39;t be afraid of what you will suffer. The devil will put some of you in jail to test you, and you will face troubles for ten days. Stay faithful even if it means death, and I will give you the reward of life.</p>
 
-12 Write to the angel of the church in Pergamos: These words are from the one who has the sharp two-edged sword.
+<p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Revelation 2:11">11</a> Anyone with an ear should listen to what the Spirit tells the churches; whoever overcomes will not be harmed by the second death.</p>
 
-13 I know what you have done and where you live, where Satan has power. You remain true to my name and have not turned away from my faith, even when Antipas, my faithful witness, was killed among you where Satan lives.
+<p class="verse" id="v12"><a class="verse-num" href="#v12" aria-label="Revelation 2:12">12</a> Write to the angel of the church in Pergamos: These words are from the one who has the sharp two-edged sword.</p>
 
-14 But I have some complaints about you, because you have people there who follow Balaam's teaching, which showed Balak how to lead the children of Israel to sin by eating food offered to idols and by committing sexual sins.
+<p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Revelation 2:13">13</a> I know what you have done and where you live, where Satan has power. You remain true to my name and have not turned away from my faith, even when Antipas, my faithful witness, was killed among you where Satan lives.</p>
 
-15 You also have people who follow the Nicolaitanes' teaching, which I hate.
+<p class="verse" id="v14"><a class="verse-num" href="#v14" aria-label="Revelation 2:14">14</a> But I have some complaints about you, because you have people there who follow Balaam&#39;s teaching, which showed Balak how to lead the children of Israel to sin by eating food offered to idols and by committing sexual sins.</p>
 
-16 Change your ways; if not, I will come to you soon, and I will battle against them with the sharp words from my mouth.
+<p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="Revelation 2:15">15</a> You also have people who follow the Nicolaitanes&#39; teaching, which I hate.</p>
 
-17 Anyone who has ears should listen to what the Spirit tells the churches. Whoever wins, I will let them eat the secret bread, and I will give them a white stone with a new name on it, a name that no one knows except the one who gets it.
+<p class="verse" id="v16"><a class="verse-num" href="#v16" aria-label="Revelation 2:16">16</a> Change your ways; if not, I will come to you soon, and I will battle against them with the sharp words from my mouth.</p>
 
-18 Write to the angel of the church in Thyatira: The Son of God, who has eyes like flames of fire and feet like polished brass, says this.
+<p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="Revelation 2:17">17</a> Anyone who has ears should listen to what the Spirit tells the churches. Whoever wins, I will let them eat the secret bread, and I will give them a white stone with a new name on it, a name that no one knows except the one who gets it.</p>
 
-19 I know what you do, your love, help, belief, patience, and actions; and your recent works are greater than your earlier ones.
+<p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="Revelation 2:18">18</a> Write to the angel of the church in Thyatira: The Son of God, who has eyes like flames of fire and feet like polished brass, says this.</p>
 
-20 Nevertheless, I have some complaints about you because you allow that woman Jezebel, who claims to be a prophet, to teach and tempt my followers to sin sexually and to eat food offered to idols.
+<p class="verse" id="v19"><a class="verse-num" href="#v19" aria-label="Revelation 2:19">19</a> I know what you do, your love, help, belief, patience, and actions; and your recent works are greater than your earlier ones.</p>
 
-21 I gave her time to stop her immoral behavior, but she did not repent.
+<p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="Revelation 2:20">20</a> Nevertheless, I have some complaints about you because you allow that woman Jezebel, who claims to be a prophet, to teach and tempt my followers to sin sexually and to eat food offered to idols.</p>
 
-22 Look, I will throw her onto a bed, and those who cheat with her will suffer greatly unless they are sorry for what they have done.
+<p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Revelation 2:21">21</a> I gave her time to stop her immoral behavior, but she did not repent.</p>
 
-23 I will cause her children to die, and all the churches will understand that I am the one who examines minds and hearts. I will reward each of you according to your actions.
+<p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Revelation 2:22">22</a> Look, I will throw her onto a bed, and those who cheat with her will suffer greatly unless they are sorry for what they have done.</p>
 
-24 I tell you and the others in Thyatira, if you don't follow this teaching and haven't explored Satan's deep secrets, as they say, I will not give you any other difficulty.
+<p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Revelation 2:23">23</a> I will cause her children to die, and all the churches will understand that I am the one who examines minds and hearts. I will reward each of you according to your actions.</p>
 
-25 Keep firmly to what you already have until I arrive.
+<p class="verse" id="v24"><a class="verse-num" href="#v24" aria-label="Revelation 2:24">24</a> I tell you and the others in Thyatira, if you don&#39;t follow this teaching and haven&#39;t explored Satan&#39;s deep secrets, as they say, I will not give you any other difficulty.</p>
 
-26 Whoever overcomes and does my work until the end, I will give them authority over the nations.
+<p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Revelation 2:25">25</a> Keep firmly to what you already have until I arrive.</p>
 
-27 He will rule them with an iron rod; like a potter's vessels, they will be shattered, just as I received from my Father.
+<p class="verse" id="v26"><a class="verse-num" href="#v26" aria-label="Revelation 2:26">26</a> Whoever overcomes and does my work until the end, I will give them authority over the nations.</p>
 
-28 I will give him the morning star.
+<p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="Revelation 2:27">27</a> He will rule them with an iron rod; like a potter&#39;s vessels, they will be shattered, just as I received from my Father.</p>
 
-29 Anyone with ears should listen to what the Spirit tells the churches.
+<p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="Revelation 2:28">28</a> I will give him the morning star.</p>
 
+<p class="verse" id="v29"><a class="verse-num" href="#v29" aria-label="Revelation 2:29">29</a> Anyone with ears should listen to what the Spirit tells the churches.</p>
 
+<hr>
+
+<p class="chapter-cite">Cite as: <em>Revelation 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/revelation/2.txt">Plain text of Revelation 2</a>.</p>
+
+<nav class="chapter-nav" aria-label="Previous and next chapter">
+  <a class="chapter-prev" href="/New%20Testament/Revelation/Chapter%201.html" rel="prev">&larr; Revelation 1</a>
+  <a class="chapter-next" href="/New%20Testament/Revelation/Chapter%203.html" rel="next">Revelation 3 &rarr;</a>
+</nav>

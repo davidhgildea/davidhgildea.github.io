@@ -1,10 +1,22 @@
 ---
-title: Ruth
-parent: Old Testament
+title: "Ruth"
+parent: "Old Testament"
 has_children: true
+has_toc: false
 nav_order: 8
 layout: default
-has_toc: true
+description: "Ruth in the Simplified Bible, a plain-English version of the King James Version (KJV). 4 chapters, with audio."
 ---
 
 # Ruth
+
+Ruth in the [Simplified Bible](/about/), a plain-English version of the King James Version (KJV). It has 4 chapters.
+
+## Chapters
+
+<ul class="chapter-list">
+  <li><a href="/Old%20Testament/Ruth/Chapter%201.html">Ruth 1</a></li>
+  <li><a href="/Old%20Testament/Ruth/Chapter%202.html">Ruth 2</a></li>
+  <li><a href="/Old%20Testament/Ruth/Chapter%203.html">Ruth 3</a></li>
+  <li><a href="/Old%20Testament/Ruth/Chapter%204.html">Ruth 4</a></li>
+</ul>

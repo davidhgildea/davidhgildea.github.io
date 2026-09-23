@@ -1,55 +1,112 @@
 ---
-title: Isaiah Chapter 56
-parent: Isaiah
-grand_parent: Old Testament
+title: "Isaiah 56"
+parent: "Isaiah"
+grand_parent: "Old Testament"
 nav_order: 56
+nav_exclude: true
 layout: default
+description: "Isaiah 56 in plain English: God says, \"Keep fair judgment, and do what is right: for my rescue is close to coming, and my goodness will soon be shown.\"…"
 ---
 
-## Isaiah
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Chapter",
+  "name": "Isaiah 56",
+  "headline": "Isaiah 56 \u2013 Simplified Bible",
+  "description": "Isaiah 56 in plain English: God says, \u0022Keep fair judgment, and do what is right: for my rescue is close to coming, and my goodness will soon be shown.\u0022\u2026",
+  "url": "https://simplified.bible/Old%20Testament/Isaiah/Chapter%2056.html",
+  "inLanguage": "en",
+  "position": 56,
+  "isPartOf": {
+    "@type": "Book",
+    "name": "Isaiah",
+    "url": "https://simplified.bible/Old%20Testament/Isaiah/",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "Simplified Bible",
+      "url": "https://simplified.bible/",
+      "inLanguage": "en",
+      "isBasedOn": {
+        "@type": "Book",
+        "name": "King James Version",
+        "alternateName": "KJV"
+      }
+    }
+  },
+  "isBasedOn": {
+    "@type": "Book",
+    "name": "King James Version",
+    "alternateName": "KJV"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Simplified Bible",
+    "url": "https://simplified.bible/"
+  },
+  "license": "https://simplified.bible/about/#quoting",
+  "audio": {
+    "@type": "AudioObject",
+    "contentUrl": "https://simplified.bible/assets/Audio/Isaiah/56.mp3",
+    "encodingFormat": "audio/mpeg"
+  },
+  "image": "https://simplified.bible/assets/Image/Isaiah/500/56.jpg",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://simplified.bible/text/isaiah/56.txt",
+    "encodingFormat": "text/plain"
+  }
+}
+</script>
 
-# Chapter 56
+# Isaiah 56
 
----
+<p class="chapter-intro">Isaiah chapter 56 from the <a href="/about/">Simplified Bible</a>, a plain-English version of the King James Version (KJV).</p>
 
-<div style='display: flex; align-items: center;'>
-  <img src='/assets/Image/audiobook_icon.png' alt='Audiobook Icon' style='height: 100%; max-height: 52px; padding-right: 10px;' />
-  <audio controls>
-    <source src='/assets/Audio/Isaiah/56.mp3' type='audio/mp3'>
-    Your browser does not support the audio element.
+<div class="chapter-audio" style="display: flex; align-items: center;">
+  <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
+  <audio controls preload="none" title="Isaiah 56 audio">
+    <source src="/assets/Audio/Isaiah/56.mp3" type="audio/mpeg">
+    <a href="/assets/Audio/Isaiah/56.mp3">Listen to Isaiah 56 (MP3)</a>
   </audio>
 </div>
 
----
-
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Isaiah/500/56.jpg" alt="Isaiah Chapter 56" style="width: 100%; height: auto;" />
-    <figcaption style="font-size: 14px;">Isaiah Chapter 56</figcaption>
+    <img src="/assets/Image/Isaiah/500/56.jpg" alt="Illustration for Isaiah 56" style="width: 100%; height: auto;" loading="lazy" />
+    <figcaption style="font-size: 14px;">Isaiah 56</figcaption>
 </figure>
 </div>
-1 God says, "Keep fair judgment, and do what is right: for my rescue is close to coming, and my goodness will soon be shown."
 
-2 Happy is the person who does this, and the human who holds on to it; who keeps the Sabbath without ruining it, and stops his hand from doing any bad thing.
+<p class="verse" id="v1"><a class="verse-num" href="#v1" aria-label="Isaiah 56:1">1</a> God says, &quot;Keep fair judgment, and do what is right: for my rescue is close to coming, and my goodness will soon be shown.&quot;</p>
 
-3 A foreigner who has chosen to follow God should not say, "God has totally cut me off from his people." And a eunuch should not say, "Look, I am just a dead tree."
+<p class="verse" id="v2"><a class="verse-num" href="#v2" aria-label="Isaiah 56:2">2</a> Happy is the person who does this, and the human who holds on to it; who keeps the Sabbath without ruining it, and stops his hand from doing any bad thing.</p>
 
-4 God says to the eunuchs who follow my Sabbaths, choose what pleases me, and commit to my promise;
+<p class="verse" id="v3"><a class="verse-num" href="#v3" aria-label="Isaiah 56:3">3</a> A foreigner who has chosen to follow God should not say, &quot;God has totally cut me off from his people.&quot; And a eunuch should not say, &quot;Look, I am just a dead tree.&quot;</p>
 
-5 I will give them a place and a name better than sons and daughters within my house and walls; they will have an everlasting name that will never be taken away.
+<p class="verse" id="v4"><a class="verse-num" href="#v4" aria-label="Isaiah 56:4">4</a> God says to the eunuchs who follow my Sabbaths, choose what pleases me, and commit to my promise;</p>
 
-6 Foreigners who connect with God to serve Him and love His name, becoming His servants, who keep the Sabbath without spoiling it and follow my agreement.
+<p class="verse" id="v5"><a class="verse-num" href="#v5" aria-label="Isaiah 56:5">5</a> I will give them a place and a name better than sons and daughters within my house and walls; they will have an everlasting name that will never be taken away.</p>
 
-7 I will bring them to my holy mountain and give them joy in my house of prayer. Their burnt offerings and sacrifices will be welcome on my altar, for my house will be known as a house of prayer for everyone.
+<p class="verse" id="v6"><a class="verse-num" href="#v6" aria-label="Isaiah 56:6">6</a> Foreigners who connect with God to serve Him and love His name, becoming His servants, who keep the Sabbath without spoiling it and follow my agreement.</p>
 
-8 God, who brings Israel's scattered people together, says, "I will also bring others to join those I have already gathered."
+<p class="verse" id="v7"><a class="verse-num" href="#v7" aria-label="Isaiah 56:7">7</a> I will bring them to my holy mountain and give them joy in my house of prayer. Their burnt offerings and sacrifices will be welcome on my altar, for my house will be known as a house of prayer for everyone.</p>
 
-9 All you wild animals of the fields, come to eat; yes, all you animals in the forests.
+<p class="verse" id="v8"><a class="verse-num" href="#v8" aria-label="Isaiah 56:8">8</a> God, who brings Israel&#39;s scattered people together, says, &quot;I will also bring others to join those I have already gathered.&quot;</p>
 
-10 His guards are blind; they know nothing. They are all silent dogs; they can't bark. They are sleeping, lying down, and enjoy sleeping.
+<p class="verse" id="v9"><a class="verse-num" href="#v9" aria-label="Isaiah 56:9">9</a> All you wild animals of the fields, come to eat; yes, all you animals in the forests.</p>
 
-11 Yes, they are greedy dogs that can never get enough, and they are shepherds who do not understand. They all only look out for themselves, each one for his own profit.
+<p class="verse" id="v10"><a class="verse-num" href="#v10" aria-label="Isaiah 56:10">10</a> His guards are blind; they know nothing. They are all silent dogs; they can&#39;t bark. They are sleeping, lying down, and enjoy sleeping.</p>
 
-12 Come on, they say, let's get wine and get drunk on hard liquor; tomorrow will be like today, and even better.
+<p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Isaiah 56:11">11</a> Yes, they are greedy dogs that can never get enough, and they are shepherds who do not understand. They all only look out for themselves, each one for his own profit.</p>
 
+<p class="verse" id="v12"><a class="verse-num" href="#v12" aria-label="Isaiah 56:12">12</a> Come on, they say, let&#39;s get wine and get drunk on hard liquor; tomorrow will be like today, and even better.</p>
 
+<hr>
+
+<p class="chapter-cite">Cite as: <em>Isaiah 56:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/56.txt">Plain text of Isaiah 56</a>.</p>
+
+<nav class="chapter-nav" aria-label="Previous and next chapter">
+  <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2055.html" rel="prev">&larr; Isaiah 55</a>
+  <a class="chapter-next" href="/Old%20Testament/Isaiah/Chapter%2057.html" rel="next">Isaiah 57 &rarr;</a>
+</nav>

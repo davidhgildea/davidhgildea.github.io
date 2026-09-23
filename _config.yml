@@ -1,5 +1,7 @@
-title: The Bible - Simplified English Edition
-description: The Bible in Simplified English - Easy to read Scripture for English learners
+title: Simplified Bible
+description: "The Simplified Bible: the whole Bible in plain, easy English, simplified from the King James Version (KJV). Free to read and listen to online."
+lang: en
+author: Simplified Bible
 remote_theme: just-the-docs/just-the-docs
 url: https://simplified.bible
 #logo: "/assets/logo/logo_big.png"
@@ -14,7 +16,7 @@ favicon_ico: "/assets/logo/favicon.ico"
 # aux_links_new_tab: true
 
 # Footer content
-footer_content: 'Copyright &copy; 2024 | <a href="/privacy">Privacy Policy</a> | <a href="/terms">Terms of Service</a>'
+footer_content: 'Copyright &copy; 2024&ndash;2026 Simplified Bible | <a href="/about/">About</a> | <a href="/about/#quoting">Usage terms</a> | <a href="/privacy">Privacy Policy</a> | <a href="/terms">Terms of Service</a>'
 
 # Enable or disable the site search
 search_enabled: true
@@ -33,3 +35,4 @@ ga_tracking_anonymize_ip: true
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag

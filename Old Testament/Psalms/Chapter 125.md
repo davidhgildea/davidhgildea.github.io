@@ -1,41 +1,98 @@
 ---
-title: Psalms Chapter 125
-parent: Psalms
-grand_parent: Old Testament
+title: "Psalms 125"
+parent: "Psalms"
+grand_parent: "Old Testament"
 nav_order: 125
+nav_exclude: true
 layout: default
+description: "Psalms 125 in plain English: Those who trust in God will be like Mount Zion, which cannot be moved and stands forever. God is always around his people…"
 ---
 
-## Psalms
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Chapter",
+  "name": "Psalms 125",
+  "headline": "Psalms 125 \u2013 Simplified Bible",
+  "description": "Psalms 125 in plain English: Those who trust in God will be like Mount Zion, which cannot be moved and stands forever. God is always around his people\u2026",
+  "url": "https://simplified.bible/Old%20Testament/Psalms/Chapter%20125.html",
+  "inLanguage": "en",
+  "position": 125,
+  "isPartOf": {
+    "@type": "Book",
+    "name": "Psalms",
+    "url": "https://simplified.bible/Old%20Testament/Psalms/",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "Simplified Bible",
+      "url": "https://simplified.bible/",
+      "inLanguage": "en",
+      "isBasedOn": {
+        "@type": "Book",
+        "name": "King James Version",
+        "alternateName": "KJV"
+      }
+    }
+  },
+  "isBasedOn": {
+    "@type": "Book",
+    "name": "King James Version",
+    "alternateName": "KJV"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Simplified Bible",
+    "url": "https://simplified.bible/"
+  },
+  "license": "https://simplified.bible/about/#quoting",
+  "audio": {
+    "@type": "AudioObject",
+    "contentUrl": "https://simplified.bible/assets/Audio/Psalms/125.mp3",
+    "encodingFormat": "audio/mpeg"
+  },
+  "image": "https://simplified.bible/assets/Image/Psalms/500/125.jpg",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://simplified.bible/text/psalms/125.txt",
+    "encodingFormat": "text/plain"
+  }
+}
+</script>
 
-# Chapter 125
+# Psalms 125
 
----
+<p class="chapter-intro">Psalms chapter 125 from the <a href="/about/">Simplified Bible</a>, a plain-English version of the King James Version (KJV).</p>
 
-<div style='display: flex; align-items: center;'>
-  <img src='/assets/Image/audiobook_icon.png' alt='Audiobook Icon' style='height: 100%; max-height: 52px; padding-right: 10px;' />
-  <audio controls>
-    <source src='/assets/Audio/Psalms/125.mp3' type='audio/mp3'>
-    Your browser does not support the audio element.
+<div class="chapter-audio" style="display: flex; align-items: center;">
+  <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
+  <audio controls preload="none" title="Psalms 125 audio">
+    <source src="/assets/Audio/Psalms/125.mp3" type="audio/mpeg">
+    <a href="/assets/Audio/Psalms/125.mp3">Listen to Psalms 125 (MP3)</a>
   </audio>
 </div>
 
----
-
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/125.jpg" alt="Psalms Chapter 125" style="width: 100%; height: auto;" />
-    <figcaption style="font-size: 14px;">Psalms Chapter 125</figcaption>
+    <img src="/assets/Image/Psalms/500/125.jpg" alt="Illustration for Psalms 125" style="width: 100%; height: auto;" loading="lazy" />
+    <figcaption style="font-size: 14px;">Psalms 125</figcaption>
 </figure>
 </div>
-1 Those who trust in God will be like Mount Zion, which cannot be moved and stands forever.
 
-2 God is always around his people like mountains surround Jerusalem.
+<p class="verse" id="v1"><a class="verse-num" href="#v1" aria-label="Psalms 125:1">1</a> Those who trust in God will be like Mount Zion, which cannot be moved and stands forever.</p>
 
-3 The wicked's stick won't stay on the good people's land, so the good don't start doing wrong.
+<p class="verse" id="v2"><a class="verse-num" href="#v2" aria-label="Psalms 125:2">2</a> God is always around his people like mountains surround Jerusalem.</p>
 
-4 God, be kind to those who are good and to those who are honest in their hearts.
+<p class="verse" id="v3"><a class="verse-num" href="#v3" aria-label="Psalms 125:3">3</a> The wicked&#39;s stick won&#39;t stay on the good people&#39;s land, so the good don&#39;t start doing wrong.</p>
 
-5 Those who choose wrong paths, God will guide with the wrongdoers, but peace will be with Israel.
+<p class="verse" id="v4"><a class="verse-num" href="#v4" aria-label="Psalms 125:4">4</a> God, be kind to those who are good and to those who are honest in their hearts.</p>
 
+<p class="verse" id="v5"><a class="verse-num" href="#v5" aria-label="Psalms 125:5">5</a> Those who choose wrong paths, God will guide with the wrongdoers, but peace will be with Israel.</p>
 
+<hr>
+
+<p class="chapter-cite">Cite as: <em>Psalms 125:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/125.txt">Plain text of Psalms 125</a>.</p>
+
+<nav class="chapter-nav" aria-label="Previous and next chapter">
+  <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%20124.html" rel="prev">&larr; Psalms 124</a>
+  <a class="chapter-next" href="/Old%20Testament/Psalms/Chapter%20126.html" rel="next">Psalms 126 &rarr;</a>
+</nav>

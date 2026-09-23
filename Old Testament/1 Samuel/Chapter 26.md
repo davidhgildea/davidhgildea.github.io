@@ -1,81 +1,138 @@
 ---
-title: 1 Samuel Chapter 26
-parent: 1 Samuel
-grand_parent: Old Testament
+title: "1 Samuel 26"
+parent: "1 Samuel"
+grand_parent: "Old Testament"
 nav_order: 26
+nav_exclude: true
 layout: default
+description: "1 Samuel 26 in plain English: The Ziphites went to Saul in Gibeah and said, \"Isn't David hiding on Hachilah hill, which is near Jeshimon?\" Then Saul got…"
 ---
 
-## 1 Samuel
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Chapter",
+  "name": "1 Samuel 26",
+  "headline": "1 Samuel 26 \u2013 Simplified Bible",
+  "description": "1 Samuel 26 in plain English: The Ziphites went to Saul in Gibeah and said, \u0022Isn\u0027t David hiding on Hachilah hill, which is near Jeshimon?\u0022 Then Saul got\u2026",
+  "url": "https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%2026.html",
+  "inLanguage": "en",
+  "position": 26,
+  "isPartOf": {
+    "@type": "Book",
+    "name": "1 Samuel",
+    "url": "https://simplified.bible/Old%20Testament/1%20Samuel/",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "Simplified Bible",
+      "url": "https://simplified.bible/",
+      "inLanguage": "en",
+      "isBasedOn": {
+        "@type": "Book",
+        "name": "King James Version",
+        "alternateName": "KJV"
+      }
+    }
+  },
+  "isBasedOn": {
+    "@type": "Book",
+    "name": "King James Version",
+    "alternateName": "KJV"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Simplified Bible",
+    "url": "https://simplified.bible/"
+  },
+  "license": "https://simplified.bible/about/#quoting",
+  "audio": {
+    "@type": "AudioObject",
+    "contentUrl": "https://simplified.bible/assets/Audio/1%20Samuel/26.mp3",
+    "encodingFormat": "audio/mpeg"
+  },
+  "image": "https://simplified.bible/assets/Image/1%20Samuel/500/26.jpg",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://simplified.bible/text/1-samuel/26.txt",
+    "encodingFormat": "text/plain"
+  }
+}
+</script>
 
-# Chapter 26
+# 1 Samuel 26
 
----
+<p class="chapter-intro">1 Samuel chapter 26 from the <a href="/about/">Simplified Bible</a>, a plain-English version of the King James Version (KJV).</p>
 
-<div style='display: flex; align-items: center;'>
-  <img src='/assets/Image/audiobook_icon.png' alt='Audiobook Icon' style='height: 100%; max-height: 52px; padding-right: 10px;' />
-  <audio controls>
-    <source src='/assets/Audio/1 Samuel/26.mp3' type='audio/mp3'>
-    Your browser does not support the audio element.
+<div class="chapter-audio" style="display: flex; align-items: center;">
+  <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
+  <audio controls preload="none" title="1 Samuel 26 audio">
+    <source src="/assets/Audio/1%20Samuel/26.mp3" type="audio/mpeg">
+    <a href="/assets/Audio/1%20Samuel/26.mp3">Listen to 1 Samuel 26 (MP3)</a>
   </audio>
 </div>
 
----
-
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/1 Samuel/500/26.jpg" alt="1 Samuel Chapter 26" style="width: 100%; height: auto;" />
-    <figcaption style="font-size: 14px;">1 Samuel Chapter 26</figcaption>
+    <img src="/assets/Image/1%20Samuel/500/26.jpg" alt="Illustration for 1 Samuel 26" style="width: 100%; height: auto;" loading="lazy" />
+    <figcaption style="font-size: 14px;">1 Samuel 26</figcaption>
 </figure>
 </div>
-1 The Ziphites went to Saul in Gibeah and said, "Isn't David hiding on Hachilah hill, which is near Jeshimon?"
 
-2 Then Saul got up and went to the Ziph desert with three thousand selected Israeli men to look for David in the Ziph desert.
+<p class="verse" id="v1"><a class="verse-num" href="#v1" aria-label="1 Samuel 26:1">1</a> The Ziphites went to Saul in Gibeah and said, &quot;Isn&#39;t David hiding on Hachilah hill, which is near Jeshimon?&quot;</p>
 
-3 Saul camped on Hachilah hill, near Jeshimon. David stayed in the wilderness and knew Saul was following him there.
+<p class="verse" id="v2"><a class="verse-num" href="#v2" aria-label="1 Samuel 26:2">2</a> Then Saul got up and went to the Ziph desert with three thousand selected Israeli men to look for David in the Ziph desert.</p>
 
-4 David sent spies and found out that Saul had truly arrived.
+<p class="verse" id="v3"><a class="verse-num" href="#v3" aria-label="1 Samuel 26:3">3</a> Saul camped on Hachilah hill, near Jeshimon. David stayed in the wilderness and knew Saul was following him there.</p>
 
-5 David got up and went to where Saul was camped. He saw where Saul and Abner, son of Ner and leader of Saul's army, were sleeping. Saul was in a circle trench, and his troops were camped around him.
+<p class="verse" id="v4"><a class="verse-num" href="#v4" aria-label="1 Samuel 26:4">4</a> David sent spies and found out that Saul had truly arrived.</p>
 
-6 David spoke to Ahimelech the Hittite and Abishai, Zeruiah's son and Joab's brother, "Who will come with me to see Saul in the camp?" Abishai replied, "I will go with you."
+<p class="verse" id="v5"><a class="verse-num" href="#v5" aria-label="1 Samuel 26:5">5</a> David got up and went to where Saul was camped. He saw where Saul and Abner, son of Ner and leader of Saul&#39;s army, were sleeping. Saul was in a circle trench, and his troops were camped around him.</p>
 
-7 David and Abishai went to the people at night, and saw Saul sleeping in the trench with his spear in the ground by his head, while Abner and the people slept around him.
+<p class="verse" id="v6"><a class="verse-num" href="#v6" aria-label="1 Samuel 26:6">6</a> David spoke to Ahimelech the Hittite and Abishai, Zeruiah&#39;s son and Joab&#39;s brother, &quot;Who will come with me to see Saul in the camp?&quot; Abishai replied, &quot;I will go with you.&quot;</p>
 
-8 Abishai told David, "Today God has given your enemy to you. Please let me strike him with my spear to the ground in one shot, and I won't need to hit him again."
+<p class="verse" id="v7"><a class="verse-num" href="#v7" aria-label="1 Samuel 26:7">7</a> David and Abishai went to the people at night, and saw Saul sleeping in the trench with his spear in the ground by his head, while Abner and the people slept around him.</p>
 
-9 David said to Abishai, "Don't kill him. Who can attack God's chosen one and be innocent?"
+<p class="verse" id="v8"><a class="verse-num" href="#v8" aria-label="1 Samuel 26:8">8</a> Abishai told David, &quot;Today God has given your enemy to you. Please let me strike him with my spear to the ground in one shot, and I won&#39;t need to hit him again.&quot;</p>
 
-10 David also said, "As God lives, God will strike him down, or his time will come to die, or he will go into battle and die."
+<p class="verse" id="v9"><a class="verse-num" href="#v9" aria-label="1 Samuel 26:9">9</a> David said to Abishai, &quot;Don&#39;t kill him. Who can attack God&#39;s chosen one and be innocent?&quot;</p>
 
-11 God won't let me harm his chosen one; please take the spear and the water jug near his head, and let's leave.
+<p class="verse" id="v10"><a class="verse-num" href="#v10" aria-label="1 Samuel 26:10">10</a> David also said, &quot;As God lives, God will strike him down, or his time will come to die, or he will go into battle and die.&quot;</p>
 
-12 David took the spear and the jug of water from near Saul's head; they left without anyone seeing or knowing, since everyone was asleep because God had made them fall into a deep sleep.
+<p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="1 Samuel 26:11">11</a> God won&#39;t let me harm his chosen one; please take the spear and the water jug near his head, and let&#39;s leave.</p>
 
-13 David crossed over and stood on top of a distant hill with a wide space between them.
+<p class="verse" id="v12"><a class="verse-num" href="#v12" aria-label="1 Samuel 26:12">12</a> David took the spear and the jug of water from near Saul&#39;s head; they left without anyone seeing or knowing, since everyone was asleep because God had made them fall into a deep sleep.</p>
 
-14 David called out to the people and to Abner, son of Ner, saying, "Aren't you going to answer, Abner?" Abner replied, "Who are you, shouting to the king?"
+<p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="1 Samuel 26:13">13</a> David crossed over and stood on top of a distant hill with a wide space between them.</p>
 
-15 David said to Abner, "Aren't you a brave man? Who in Israel is like you? So why didn't you protect the king? Someone from the people came to kill the king."
+<p class="verse" id="v14"><a class="verse-num" href="#v14" aria-label="1 Samuel 26:14">14</a> David called out to the people and to Abner, son of Ner, saying, &quot;Aren&#39;t you going to answer, Abner?&quot; Abner replied, &quot;Who are you, shouting to the king?&quot;</p>
 
-16 What you did is not good. As God lives, you should die because you didn't protect your master, God's chosen one. Now, look for the king's spear and the jug of water that was near his head.
+<p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="1 Samuel 26:15">15</a> David said to Abner, &quot;Aren&#39;t you a brave man? Who in Israel is like you? So why didn&#39;t you protect the king? Someone from the people came to kill the king.&quot;</p>
 
-17 Saul recognized David's voice and asked, "Is that your voice, my son David?" David answered, "Yes, it's my voice, my lord, O king."
+<p class="verse" id="v16"><a class="verse-num" href="#v16" aria-label="1 Samuel 26:16">16</a> What you did is not good. As God lives, you should die because you didn&#39;t protect your master, God&#39;s chosen one. Now, look for the king&#39;s spear and the jug of water that was near his head.</p>
 
-18 He asked, "Why does my master chase his servant? What did I do? What wrong is in my hand?"
+<p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="1 Samuel 26:17">17</a> Saul recognized David&#39;s voice and asked, &quot;Is that your voice, my son David?&quot; David answered, &quot;Yes, it&#39;s my voice, my lord, O king.&quot;</p>
 
-19 So now, I ask you, let the king listen to his servant. If God has made you angry with me, let Him take a gift. But if people have done it, let God curse them, because they have forced me away today from God's land, telling me, 'Go worship other gods.'
+<p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="1 Samuel 26:18">18</a> He asked, &quot;Why does my master chase his servant? What did I do? What wrong is in my hand?&quot;</p>
 
-20 So now, don't let my blood spill on the ground in front of God. The king of Israel has come out to chase after me as if I'm just a flea, like someone hunting a bird in the hills.
+<p class="verse" id="v19"><a class="verse-num" href="#v19" aria-label="1 Samuel 26:19">19</a> So now, I ask you, let the king listen to his servant. If God has made you angry with me, let Him take a gift. But if people have done it, let God curse them, because they have forced me away today from God&#39;s land, telling me, &#39;Go worship other gods.&#39;</p>
 
-21 Saul said, "I have sinned. Come back, David my son. I won't hurt you anymore because you valued my life today. I see now that I have been very foolish and made a big mistake."
+<p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="1 Samuel 26:20">20</a> So now, don&#39;t let my blood spill on the ground in front of God. The king of Israel has come out to chase after me as if I&#39;m just a flea, like someone hunting a bird in the hills.</p>
 
-22 David replied, "Look, here is the king's spear! Let one of the young men come and get it."
+<p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="1 Samuel 26:21">21</a> Saul said, &quot;I have sinned. Come back, David my son. I won&#39;t hurt you anymore because you valued my life today. I see now that I have been very foolish and made a big mistake.&quot;</p>
 
-23 God rewards everyone for their goodness and loyalty; although God gave you into my power today, I did not want to harm God's chosen one.
+<p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="1 Samuel 26:22">22</a> David replied, &quot;Look, here is the king&#39;s spear! Let one of the young men come and get it.&quot;</p>
 
-24 Look, just as your life was very valuable to me today, so may my life be valuable in God's sight, and may He rescue me from all troubles.
+<p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="1 Samuel 26:23">23</a> God rewards everyone for their goodness and loyalty; although God gave you into my power today, I did not want to harm God&#39;s chosen one.</p>
 
-25 Saul said to David, "God bless you, my son David. You will do great things and succeed." Then David left and Saul went back to his home.
+<p class="verse" id="v24"><a class="verse-num" href="#v24" aria-label="1 Samuel 26:24">24</a> Look, just as your life was very valuable to me today, so may my life be valuable in God&#39;s sight, and may He rescue me from all troubles.</p>
 
+<p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="1 Samuel 26:25">25</a> Saul said to David, &quot;God bless you, my son David. You will do great things and succeed.&quot; Then David left and Saul went back to his home.</p>
 
+<hr>
+
+<p class="chapter-cite">Cite as: <em>1 Samuel 26:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-samuel/26.txt">Plain text of 1 Samuel 26</a>.</p>
+
+<nav class="chapter-nav" aria-label="Previous and next chapter">
+  <a class="chapter-prev" href="/Old%20Testament/1%20Samuel/Chapter%2025.html" rel="prev">&larr; 1 Samuel 25</a>
+  <a class="chapter-next" href="/Old%20Testament/1%20Samuel/Chapter%2027.html" rel="next">1 Samuel 27 &rarr;</a>
+</nav>

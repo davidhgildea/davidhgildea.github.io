@@ -1,119 +1,176 @@
 ---
-title: Ezra Chapter 10
-parent: Ezra
-grand_parent: Old Testament
+title: "Ezra 10"
+parent: "Ezra"
+grand_parent: "Old Testament"
 nav_order: 10
+nav_exclude: true
 layout: default
+description: "Ezra 10 in plain English: After Ezra prayed and confessed, crying and falling down in front of God's house, a large crowd of men, women, and children from…"
 ---
 
-## Ezra
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Chapter",
+  "name": "Ezra 10",
+  "headline": "Ezra 10 \u2013 Simplified Bible",
+  "description": "Ezra 10 in plain English: After Ezra prayed and confessed, crying and falling down in front of God\u0027s house, a large crowd of men, women, and children from\u2026",
+  "url": "https://simplified.bible/Old%20Testament/Ezra/Chapter%2010.html",
+  "inLanguage": "en",
+  "position": 10,
+  "isPartOf": {
+    "@type": "Book",
+    "name": "Ezra",
+    "url": "https://simplified.bible/Old%20Testament/Ezra/",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "Simplified Bible",
+      "url": "https://simplified.bible/",
+      "inLanguage": "en",
+      "isBasedOn": {
+        "@type": "Book",
+        "name": "King James Version",
+        "alternateName": "KJV"
+      }
+    }
+  },
+  "isBasedOn": {
+    "@type": "Book",
+    "name": "King James Version",
+    "alternateName": "KJV"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Simplified Bible",
+    "url": "https://simplified.bible/"
+  },
+  "license": "https://simplified.bible/about/#quoting",
+  "audio": {
+    "@type": "AudioObject",
+    "contentUrl": "https://simplified.bible/assets/Audio/Ezra/10.mp3",
+    "encodingFormat": "audio/mpeg"
+  },
+  "image": "https://simplified.bible/assets/Image/Ezra/500/10.jpg",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://simplified.bible/text/ezra/10.txt",
+    "encodingFormat": "text/plain"
+  }
+}
+</script>
 
-# Chapter 10
+# Ezra 10
 
----
+<p class="chapter-intro">Ezra chapter 10 from the <a href="/about/">Simplified Bible</a>, a plain-English version of the King James Version (KJV).</p>
 
-<div style='display: flex; align-items: center;'>
-  <img src='/assets/Image/audiobook_icon.png' alt='Audiobook Icon' style='height: 100%; max-height: 52px; padding-right: 10px;' />
-  <audio controls>
-    <source src='/assets/Audio/Ezra/10.mp3' type='audio/mp3'>
-    Your browser does not support the audio element.
+<div class="chapter-audio" style="display: flex; align-items: center;">
+  <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
+  <audio controls preload="none" title="Ezra 10 audio">
+    <source src="/assets/Audio/Ezra/10.mp3" type="audio/mpeg">
+    <a href="/assets/Audio/Ezra/10.mp3">Listen to Ezra 10 (MP3)</a>
   </audio>
 </div>
 
----
-
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Ezra/500/10.jpg" alt="Ezra Chapter 10" style="width: 100%; height: auto;" />
-    <figcaption style="font-size: 14px;">Ezra Chapter 10</figcaption>
+    <img src="/assets/Image/Ezra/500/10.jpg" alt="Illustration for Ezra 10" style="width: 100%; height: auto;" loading="lazy" />
+    <figcaption style="font-size: 14px;">Ezra 10</figcaption>
 </figure>
 </div>
-1 After Ezra prayed and confessed, crying and falling down in front of God's house, a large crowd of men, women, and children from Israel gathered around him because they were all crying a lot.
 
-2 Shechaniah, son of Jehiel and from Elam's family, spoke to Ezra, "We have sinned against God by marrying foreign women from this land, but there is still hope for Israel in this matter."
+<p class="verse" id="v1"><a class="verse-num" href="#v1" aria-label="Ezra 10:1">1</a> After Ezra prayed and confessed, crying and falling down in front of God&#39;s house, a large crowd of men, women, and children from Israel gathered around him because they were all crying a lot.</p>
 
-3 So now, let's make an agreement with God to send away all the foreign wives and their children, based on the advice of my lord and those who respect God's commands; and we'll follow the law in doing this.
+<p class="verse" id="v2"><a class="verse-num" href="#v2" aria-label="Ezra 10:2">2</a> Shechaniah, son of Jehiel and from Elam&#39;s family, spoke to Ezra, &quot;We have sinned against God by marrying foreign women from this land, but there is still hope for Israel in this matter.&quot;</p>
 
-4 Get up; this task is yours to do: we will be with you: be brave and go ahead.
+<p class="verse" id="v3"><a class="verse-num" href="#v3" aria-label="Ezra 10:3">3</a> So now, let&#39;s make an agreement with God to send away all the foreign wives and their children, based on the advice of my lord and those who respect God&#39;s commands; and we&#39;ll follow the law in doing this.</p>
 
-5 Then Ezra stood up and had the lead priests, the Levites, and all Israel promise to do as he said. And they promised.
+<p class="verse" id="v4"><a class="verse-num" href="#v4" aria-label="Ezra 10:4">4</a> Get up; this task is yours to do: we will be with you: be brave and go ahead.</p>
 
-6 Ezra got up from in front of God's house and went into Johanan son of Eliashib's room. There, he didn't eat bread or drink water because he was sad about the sins of the people who were taken away.
+<p class="verse" id="v5"><a class="verse-num" href="#v5" aria-label="Ezra 10:5">5</a> Then Ezra stood up and had the lead priests, the Levites, and all Israel promise to do as he said. And they promised.</p>
 
-7 They announced throughout Judah and Jerusalem to all the exiles that they should come together in Jerusalem.
+<p class="verse" id="v6"><a class="verse-num" href="#v6" aria-label="Ezra 10:6">6</a> Ezra got up from in front of God&#39;s house and went into Johanan son of Eliashib&#39;s room. There, he didn&#39;t eat bread or drink water because he was sad about the sins of the people who were taken away.</p>
 
-8 Anyone who did not come within three days, as the leaders and elders advised, would lose all their belongings and be cut off from the group that had been taken away.
+<p class="verse" id="v7"><a class="verse-num" href="#v7" aria-label="Ezra 10:7">7</a> They announced throughout Judah and Jerusalem to all the exiles that they should come together in Jerusalem.</p>
 
-9 All the men from Judah and Benjamin came to Jerusalem in three days. It was the ninth month, on the twentieth day; and everyone sat in the street by God's house, shaking because of the issue and the heavy rain.
+<p class="verse" id="v8"><a class="verse-num" href="#v8" aria-label="Ezra 10:8">8</a> Anyone who did not come within three days, as the leaders and elders advised, would lose all their belongings and be cut off from the group that had been taken away.</p>
 
-10 Priest Ezra stood up and said to them, "You have done wrong by marrying foreign women, adding to Israel's guilt."
+<p class="verse" id="v9"><a class="verse-num" href="#v9" aria-label="Ezra 10:9">9</a> All the men from Judah and Benjamin came to Jerusalem in three days. It was the ninth month, on the twentieth day; and everyone sat in the street by God&#39;s house, shaking because of the issue and the heavy rain.</p>
 
-11 Now, say sorry to God, the God of your ancestors, and do what makes him happy. Stay away from the local people and from the foreign wives.
+<p class="verse" id="v10"><a class="verse-num" href="#v10" aria-label="Ezra 10:10">10</a> Priest Ezra stood up and said to them, &quot;You have done wrong by marrying foreign women, adding to Israel&#39;s guilt.&quot;</p>
 
-12 Then the whole group replied loudly, "We will do as you have said."
+<p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Ezra 10:11">11</a> Now, say sorry to God, the God of your ancestors, and do what makes him happy. Stay away from the local people and from the foreign wives.</p>
 
-13 There are many people, and it's raining a lot, so we can't stay outside, and we can't finish this job in one or two days because many of us have done wrong in this matter.
+<p class="verse" id="v12"><a class="verse-num" href="#v12" aria-label="Ezra 10:12">12</a> Then the whole group replied loudly, &quot;We will do as you have said.&quot;</p>
 
-14 Let our leaders and everyone who married foreign women in our towns meet at set times, along with the elders and judges of each town, until God's strong anger about this is calmed.
+<p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Ezra 10:13">13</a> There are many people, and it&#39;s raining a lot, so we can&#39;t stay outside, and we can&#39;t finish this job in one or two days because many of us have done wrong in this matter.</p>
 
-15 Jonathan, son of Asahel, and Jahaziah, son of Tikvah, worked on this issue, with Meshullam and Shabbethai the Levite assisting them.
+<p class="verse" id="v14"><a class="verse-num" href="#v14" aria-label="Ezra 10:14">14</a> Let our leaders and everyone who married foreign women in our towns meet at set times, along with the elders and judges of each town, until God&#39;s strong anger about this is calmed.</p>
 
-16 The captives' children did this. Ezra, the priest, with some leaders of the families, grouped by their ancestors' families and each by name, set apart and started to look into the matter on the first day of the tenth month.
+<p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="Ezra 10:15">15</a> Jonathan, son of Asahel, and Jahaziah, son of Tikvah, worked on this issue, with Meshullam and Shabbethai the Levite assisting them.</p>
 
-17 They finished dealing with all the men who had married foreign women by the first day of the first month.
+<p class="verse" id="v16"><a class="verse-num" href="#v16" aria-label="Ezra 10:16">16</a> The captives&#39; children did this. Ezra, the priest, with some leaders of the families, grouped by their ancestors&#39; families and each by name, set apart and started to look into the matter on the first day of the tenth month.</p>
 
-18 Some priests' sons had married foreign women, including Jeshua's descendants—Maaseiah, Eliezer, Jarib, and Gedaliah.
+<p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="Ezra 10:17">17</a> They finished dealing with all the men who had married foreign women by the first day of the first month.</p>
 
-19 They promised to send away their wives and, admitting their guilt, they brought a sheep to make up for their wrong.
+<p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="Ezra 10:18">18</a> Some priests&#39; sons had married foreign women, including Jeshua&#39;s descendants—Maaseiah, Eliezer, Jarib, and Gedaliah.</p>
 
-20 From Immer's sons: Hanani and Zebadiah.
+<p class="verse" id="v19"><a class="verse-num" href="#v19" aria-label="Ezra 10:19">19</a> They promised to send away their wives and, admitting their guilt, they brought a sheep to make up for their wrong.</p>
 
-21 From Harim's sons were Maaseiah, Elijah, Shemaiah, Jehiel, and Uzziah.
+<p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="Ezra 10:20">20</a> From Immer&#39;s sons: Hanani and Zebadiah.</p>
 
-22 The sons of Pashur were Elioenai, Maaseiah, Ishmael, Nethaneel, Jozabad, and Elasah.
+<p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Ezra 10:21">21</a> From Harim&#39;s sons were Maaseiah, Elijah, Shemaiah, Jehiel, and Uzziah.</p>
 
-23 From the Levites: Jozabad, Shimei, Kelaiah (also called Kelita), Pethahiah, Judah, and Eliezer.
+<p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Ezra 10:22">22</a> The sons of Pashur were Elioenai, Maaseiah, Ishmael, Nethaneel, Jozabad, and Elasah.</p>
 
-24 Among the singers was Eliashib; and the gatekeepers were Shallum, Telem, and Uri.
+<p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Ezra 10:23">23</a> From the Levites: Jozabad, Shimei, Kelaiah (also called Kelita), Pethahiah, Judah, and Eliezer.</p>
 
-25 From Israel: sons of Parosh are Ramiah, Jeziah, Malchiah, Miamin, Eleazar, Malchijah, and Benaiah.
+<p class="verse" id="v24"><a class="verse-num" href="#v24" aria-label="Ezra 10:24">24</a> Among the singers was Eliashib; and the gatekeepers were Shallum, Telem, and Uri.</p>
 
-26 The sons of Elam were Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, and Eliah.
+<p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Ezra 10:25">25</a> From Israel: sons of Parosh are Ramiah, Jeziah, Malchiah, Miamin, Eleazar, Malchijah, and Benaiah.</p>
 
-27 From Zattu's descendants were Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Aziza.
+<p class="verse" id="v26"><a class="verse-num" href="#v26" aria-label="Ezra 10:26">26</a> The sons of Elam were Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, and Eliah.</p>
 
-28 From Bebai's sons: Jehohanan, Hananiah, Zabbai, and Athlai.
+<p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="Ezra 10:27">27</a> From Zattu&#39;s descendants were Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Aziza.</p>
 
-29 From Bani's descendants came Meshullam, Malluch, Adaiah, Jashub, Sheal, and Ramoth.
+<p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="Ezra 10:28">28</a> From Bebai&#39;s sons: Jehohanan, Hananiah, Zabbai, and Athlai.</p>
 
-30 From the descendants of Pahathmoab were Adna, Chelal, Benaiah, Maaseiah, Mattaniah, Bezaleel, Binnui, and Manasseh.
+<p class="verse" id="v29"><a class="verse-num" href="#v29" aria-label="Ezra 10:29">29</a> From Bani&#39;s descendants came Meshullam, Malluch, Adaiah, Jashub, Sheal, and Ramoth.</p>
 
-31 From Harim's descendants came Eliezer, Ishijah, Malchiah, Shemaiah, and Shimeon.
+<p class="verse" id="v30"><a class="verse-num" href="#v30" aria-label="Ezra 10:30">30</a> From the descendants of Pahathmoab were Adna, Chelal, Benaiah, Maaseiah, Mattaniah, Bezaleel, Binnui, and Manasseh.</p>
 
-32 Benjamin, Malluch, and Shemariah.
+<p class="verse" id="v31"><a class="verse-num" href="#v31" aria-label="Ezra 10:31">31</a> From Harim&#39;s descendants came Eliezer, Ishijah, Malchiah, Shemaiah, and Shimeon.</p>
 
-33 From Hashum's sons: Mattenai, Mattathah, Zabad, Eliphelet, Jeremai, Manasseh, and Shimei.
+<p class="verse" id="v32"><a class="verse-num" href="#v32" aria-label="Ezra 10:32">32</a> Benjamin, Malluch, and Shemariah.</p>
 
-34 From Bani's descendants: Maadai, Amram, and Uel.
+<p class="verse" id="v33"><a class="verse-num" href="#v33" aria-label="Ezra 10:33">33</a> From Hashum&#39;s sons: Mattenai, Mattathah, Zabad, Eliphelet, Jeremai, Manasseh, and Shimei.</p>
 
-35 Benaiah, Bedeiah, Chelluh,
+<p class="verse" id="v34"><a class="verse-num" href="#v34" aria-label="Ezra 10:34">34</a> From Bani&#39;s descendants: Maadai, Amram, and Uel.</p>
 
-36 Vaniah, Meremoth, Eliashib.
+<p class="verse" id="v35"><a class="verse-num" href="#v35" aria-label="Ezra 10:35">35</a> Benaiah, Bedeiah, Chelluh,</p>
 
-37 Mattaniah, Mattenai, and Jaasau,
+<p class="verse" id="v36"><a class="verse-num" href="#v36" aria-label="Ezra 10:36">36</a> Vaniah, Meremoth, Eliashib.</p>
 
-38 Bani, Binnui, and Shimei,
+<p class="verse" id="v37"><a class="verse-num" href="#v37" aria-label="Ezra 10:37">37</a> Mattaniah, Mattenai, and Jaasau,</p>
 
-39 Shelemiah, Nathan, and Adaiah,
+<p class="verse" id="v38"><a class="verse-num" href="#v38" aria-label="Ezra 10:38">38</a> Bani, Binnui, and Shimei,</p>
 
-40 Machnadebai, Shashai, Sharai,
+<p class="verse" id="v39"><a class="verse-num" href="#v39" aria-label="Ezra 10:39">39</a> Shelemiah, Nathan, and Adaiah,</p>
 
-41 Azareel, Shelemiah, Shemariah,
+<p class="verse" id="v40"><a class="verse-num" href="#v40" aria-label="Ezra 10:40">40</a> Machnadebai, Shashai, Sharai,</p>
 
-42 Shallum, Amariah, and Joseph.
+<p class="verse" id="v41"><a class="verse-num" href="#v41" aria-label="Ezra 10:41">41</a> Azareel, Shelemiah, Shemariah,</p>
 
-43 From Nebo's descendants: Jeiel, Mattithiah, Zabad, Zebina, Jadau, Joel, and Benaiah.
+<p class="verse" id="v42"><a class="verse-num" href="#v42" aria-label="Ezra 10:42">42</a> Shallum, Amariah, and Joseph.</p>
 
-44 All these men married foreign women, and some of them had children with these wives.
+<p class="verse" id="v43"><a class="verse-num" href="#v43" aria-label="Ezra 10:43">43</a> From Nebo&#39;s descendants: Jeiel, Mattithiah, Zabad, Zebina, Jadau, Joel, and Benaiah.</p>
 
+<p class="verse" id="v44"><a class="verse-num" href="#v44" aria-label="Ezra 10:44">44</a> All these men married foreign women, and some of them had children with these wives.</p>
 
+<hr>
+
+<p class="chapter-cite">Cite as: <em>Ezra 10:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezra/10.txt">Plain text of Ezra 10</a>.</p>
+
+<nav class="chapter-nav" aria-label="Previous and next chapter">
+  <a class="chapter-prev" href="/Old%20Testament/Ezra/Chapter%209.html" rel="prev">&larr; Ezra 9</a>
+  <a class="chapter-next" href="/Old%20Testament/Nehemiah/Chapter%201.html" rel="next">Nehemiah 1 &rarr;</a>
+</nav>

@@ -1,10 +1,32 @@
 ---
-title: Zechariah
-parent: Old Testament
+title: "Zechariah"
+parent: "Old Testament"
 has_children: true
+has_toc: false
 nav_order: 38
 layout: default
-has_toc: true
+description: "Zechariah in the Simplified Bible, a plain-English version of the King James Version (KJV). 14 chapters, with audio."
 ---
 
 # Zechariah
+
+Zechariah in the [Simplified Bible](/about/), a plain-English version of the King James Version (KJV). It has 14 chapters.
+
+## Chapters
+
+<ul class="chapter-list">
+  <li><a href="/Old%20Testament/Zechariah/Chapter%201.html">Zechariah 1</a></li>
+  <li><a href="/Old%20Testament/Zechariah/Chapter%202.html">Zechariah 2</a></li>
+  <li><a href="/Old%20Testament/Zechariah/Chapter%203.html">Zechariah 3</a></li>
+  <li><a href="/Old%20Testament/Zechariah/Chapter%204.html">Zechariah 4</a></li>
+  <li><a href="/Old%20Testament/Zechariah/Chapter%205.html">Zechariah 5</a></li>
+  <li><a href="/Old%20Testament/Zechariah/Chapter%206.html">Zechariah 6</a></li>
+  <li><a href="/Old%20Testament/Zechariah/Chapter%207.html">Zechariah 7</a></li>
+  <li><a href="/Old%20Testament/Zechariah/Chapter%208.html">Zechariah 8</a></li>
+  <li><a href="/Old%20Testament/Zechariah/Chapter%209.html">Zechariah 9</a></li>
+  <li><a href="/Old%20Testament/Zechariah/Chapter%2010.html">Zechariah 10</a></li>
+  <li><a href="/Old%20Testament/Zechariah/Chapter%2011.html">Zechariah 11</a></li>
+  <li><a href="/Old%20Testament/Zechariah/Chapter%2012.html">Zechariah 12</a></li>
+  <li><a href="/Old%20Testament/Zechariah/Chapter%2013.html">Zechariah 13</a></li>
+  <li><a href="/Old%20Testament/Zechariah/Chapter%2014.html">Zechariah 14</a></li>
+</ul>

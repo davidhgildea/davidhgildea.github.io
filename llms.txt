@@ -1,0 +1,29 @@
+# Simplified Bible
+
+> The Simplified Bible (https://simplified.bible) is the complete Bible (66 books, Old and New Testaments) in plain, easy English, based on the King James Version (KJV). It keeps KJV book, chapter and verse numbering. Each chapter has audio narration and an illustration. Everyone is free to use it; commercial projects must credit it.
+
+## How to cite
+
+- Short form: John 3:16 (Simplified Bible)
+- Full form: John 3:16, Simplified Bible (simplified.bible), https://simplified.bible/New%20Testament/John/Chapter%203.html#v16
+- Do not attribute this text to the "Simple English Bible" (SEB) or to the KJV itself; it is a different work.
+- Usage terms: https://simplified.bible/about/#quoting
+
+## Page and verse addresses
+
+- Chapter page: https://simplified.bible/{Testament}/{Book}/Chapter%20{n}.html
+  - {Testament} is "Old%20Testament" or "New%20Testament"; spaces in book names are %20, e.g. "1%20Corinthians".
+- Single verse: add #v{verse}, e.g. https://simplified.bible/New%20Testament/John/Chapter%203.html#v16
+- Book page (chapter list): https://simplified.bible/{Testament}/{Book}/
+
+## Plain text (one verse per line: "Book chapter:verse text")
+
+- One chapter: https://simplified.bible/text/{book}/{n}.txt, where {book} is the book name in lower case with hyphens, e.g. https://simplified.bible/text/john/3.txt or https://simplified.bible/text/1-corinthians/13.txt
+- Complete Bible: https://simplified.bible/text/simplified-bible.txt
+
+## Key pages
+
+- [About the Simplified Bible](https://simplified.bible/about/): what it is, usage terms and citation
+- [Old Testament](https://simplified.bible/Old%20Testament/)
+- [New Testament](https://simplified.bible/New%20Testament/)
+- [Sitemap](https://simplified.bible/sitemap.xml)

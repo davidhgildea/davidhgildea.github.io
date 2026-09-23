@@ -6,7 +6,9 @@ nav_exclude: true
 
 # Terms of Service
 
-**Last updated: January 2025**
+**Last updated: September 2026**
+
+These terms cover the Simplified Bible app. For using the Simplified Bible text from this website, see [usage terms](/about/#quoting).
 
 ## Acceptance of Terms
 
@@ -26,7 +28,7 @@ You may use this app for personal, non-commercial purposes. You agree to use the
 
 ## Intellectual Property
 
-The Simplified Bible text, images, and audio content are owned by or licensed to us. You may not reproduce, distribute, or create derivative works from this content without our express written permission.
+The Simplified Bible text, images, and audio content are owned by or licensed to us. Except as allowed by our [usage terms](/about/#quoting), you may not reproduce, distribute, or create derivative works from this content without our express written permission.
 
 ## Disclaimer of Warranties
 

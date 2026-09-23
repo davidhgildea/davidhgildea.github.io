@@ -1,85 +1,142 @@
 ---
-title: Exodus Chapter 15
-parent: Exodus
-grand_parent: Old Testament
+title: "Exodus 15"
+parent: "Exodus"
+grand_parent: "Old Testament"
 nav_order: 15
+nav_exclude: true
 layout: default
+description: "Exodus 15 in plain English: Moses and the Israelites sang this song to God, saying, \"I will sing to God because he has won a great victory: he has thrown…"
 ---
 
-## Exodus
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Chapter",
+  "name": "Exodus 15",
+  "headline": "Exodus 15 \u2013 Simplified Bible",
+  "description": "Exodus 15 in plain English: Moses and the Israelites sang this song to God, saying, \u0022I will sing to God because he has won a great victory: he has thrown\u2026",
+  "url": "https://simplified.bible/Old%20Testament/Exodus/Chapter%2015.html",
+  "inLanguage": "en",
+  "position": 15,
+  "isPartOf": {
+    "@type": "Book",
+    "name": "Exodus",
+    "url": "https://simplified.bible/Old%20Testament/Exodus/",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "Simplified Bible",
+      "url": "https://simplified.bible/",
+      "inLanguage": "en",
+      "isBasedOn": {
+        "@type": "Book",
+        "name": "King James Version",
+        "alternateName": "KJV"
+      }
+    }
+  },
+  "isBasedOn": {
+    "@type": "Book",
+    "name": "King James Version",
+    "alternateName": "KJV"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Simplified Bible",
+    "url": "https://simplified.bible/"
+  },
+  "license": "https://simplified.bible/about/#quoting",
+  "audio": {
+    "@type": "AudioObject",
+    "contentUrl": "https://simplified.bible/assets/Audio/Exodus/15.mp3",
+    "encodingFormat": "audio/mpeg"
+  },
+  "image": "https://simplified.bible/assets/Image/Exodus/500/15.jpg",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://simplified.bible/text/exodus/15.txt",
+    "encodingFormat": "text/plain"
+  }
+}
+</script>
 
-# Chapter 15
+# Exodus 15
 
----
+<p class="chapter-intro">Exodus chapter 15 from the <a href="/about/">Simplified Bible</a>, a plain-English version of the King James Version (KJV).</p>
 
-<div style='display: flex; align-items: center;'>
-  <img src='/assets/Image/audiobook_icon.png' alt='Audiobook Icon' style='height: 100%; max-height: 52px; padding-right: 10px;' />
-  <audio controls>
-    <source src='/assets/Audio/Exodus/15.mp3' type='audio/mp3'>
-    Your browser does not support the audio element.
+<div class="chapter-audio" style="display: flex; align-items: center;">
+  <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
+  <audio controls preload="none" title="Exodus 15 audio">
+    <source src="/assets/Audio/Exodus/15.mp3" type="audio/mpeg">
+    <a href="/assets/Audio/Exodus/15.mp3">Listen to Exodus 15 (MP3)</a>
   </audio>
 </div>
 
----
-
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Exodus/500/15.jpg" alt="Exodus Chapter 15" style="width: 100%; height: auto;" />
-    <figcaption style="font-size: 14px;">Exodus Chapter 15</figcaption>
+    <img src="/assets/Image/Exodus/500/15.jpg" alt="Illustration for Exodus 15" style="width: 100%; height: auto;" loading="lazy" />
+    <figcaption style="font-size: 14px;">Exodus 15</figcaption>
 </figure>
 </div>
-1 Moses and the Israelites sang this song to God, saying, "I will sing to God because he has won a great victory: he has thrown the horse and its rider into the sea."
 
-2 God gives me strength and joy; he saves me. He is my God, and I will make a home for him; he's the God of my ancestors, and I will lift him high.
+<p class="verse" id="v1"><a class="verse-num" href="#v1" aria-label="Exodus 15:1">1</a> Moses and the Israelites sang this song to God, saying, &quot;I will sing to God because he has won a great victory: he has thrown the horse and its rider into the sea.&quot;</p>
 
-3 God is a warrior; God is his name.
+<p class="verse" id="v2"><a class="verse-num" href="#v2" aria-label="Exodus 15:2">2</a> God gives me strength and joy; he saves me. He is my God, and I will make a home for him; he&#39;s the God of my ancestors, and I will lift him high.</p>
 
-4 God threw Pharaoh's chariots and army into the sea: even his top leaders are drowned in the Red Sea.
+<p class="verse" id="v3"><a class="verse-num" href="#v3" aria-label="Exodus 15:3">3</a> God is a warrior; God is his name.</p>
 
-5 The waters covered them; they sank deep down like a stone.
+<p class="verse" id="v4"><a class="verse-num" href="#v4" aria-label="Exodus 15:4">4</a> God threw Pharaoh&#39;s chariots and army into the sea: even his top leaders are drowned in the Red Sea.</p>
 
-6 Your right hand, God, is mighty and wonderful; your right hand, God, has crushed the enemy.
+<p class="verse" id="v5"><a class="verse-num" href="#v5" aria-label="Exodus 15:5">5</a> The waters covered them; they sank deep down like a stone.</p>
 
-7 In your great excellence, you threw down those who opposed you: you unleashed your anger, which burned them up like dry grass.
+<p class="verse" id="v6"><a class="verse-num" href="#v6" aria-label="Exodus 15:6">6</a> Your right hand, God, is mighty and wonderful; your right hand, God, has crushed the enemy.</p>
 
-8 With your strong breath, the waters piled up, the flowing waters stood still like a mound, and the sea's depths became solid.
+<p class="verse" id="v7"><a class="verse-num" href="#v7" aria-label="Exodus 15:7">7</a> In your great excellence, you threw down those who opposed you: you unleashed your anger, which burned them up like dry grass.</p>
 
-9 The enemy said, "I will chase, catch up, and share the goods; I will be fully satisfied with them; I will pull out my sword, and my hand will defeat them."
+<p class="verse" id="v8"><a class="verse-num" href="#v8" aria-label="Exodus 15:8">8</a> With your strong breath, the waters piled up, the flowing waters stood still like a mound, and the sea&#39;s depths became solid.</p>
 
-10 You blew with your wind, and the sea covered them. They sank like lead in the powerful waters.
+<p class="verse" id="v9"><a class="verse-num" href="#v9" aria-label="Exodus 15:9">9</a> The enemy said, &quot;I will chase, catch up, and share the goods; I will be fully satisfied with them; I will pull out my sword, and my hand will defeat them.&quot;</p>
 
-11 Who is like you, God, among the gods? Who is as glorious and holy, awesome in praise, doing amazing things?
+<p class="verse" id="v10"><a class="verse-num" href="#v10" aria-label="Exodus 15:10">10</a> You blew with your wind, and the sea covered them. They sank like lead in the powerful waters.</p>
 
-12 You reached out your right hand, the earth swallowed them up.
+<p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Exodus 15:11">11</a> Who is like you, God, among the gods? Who is as glorious and holy, awesome in praise, doing amazing things?</p>
 
-13 In your mercy, you have led the people you saved; you have guided them with your strength to your holy home.
+<p class="verse" id="v12"><a class="verse-num" href="#v12" aria-label="Exodus 15:12">12</a> You reached out your right hand, the earth swallowed them up.</p>
 
-14 People will hear and be scared; sadness will grip those living in Palestine.
+<p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Exodus 15:13">13</a> In your mercy, you have led the people you saved; you have guided them with your strength to your holy home.</p>
 
-15 The leaders of Edom will be shocked; the strong people of Moab will shake with fear; everyone in Canaan will lose their courage.
+<p class="verse" id="v14"><a class="verse-num" href="#v14" aria-label="Exodus 15:14">14</a> People will hear and be scared; sadness will grip those living in Palestine.</p>
 
-16 They will be very afraid and scared because of your powerful arm; they will be so still like a stone until your people go by, God, until the people you have chosen go by.
+<p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="Exodus 15:15">15</a> The leaders of Edom will be shocked; the strong people of Moab will shake with fear; everyone in Canaan will lose their courage.</p>
 
-17 You will bring them and plant them on your own mountain, the place you made for yourself to live, God, in the sanctuary you have built with your hands.
+<p class="verse" id="v16"><a class="verse-num" href="#v16" aria-label="Exodus 15:16">16</a> They will be very afraid and scared because of your powerful arm; they will be so still like a stone until your people go by, God, until the people you have chosen go by.</p>
 
-18 God will rule forever and ever.
+<p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="Exodus 15:17">17</a> You will bring them and plant them on your own mountain, the place you made for yourself to live, God, in the sanctuary you have built with your hands.</p>
 
-19 Pharaoh's horses, chariots, and riders entered the sea, and God made the sea's waters flow back over them; but the Israelites walked on dry ground through the sea.
+<p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="Exodus 15:18">18</a> God will rule forever and ever.</p>
 
-20 Miriam the prophetess, Aaron's sister, held a tambourine and all the women followed her, playing tambourines and dancing.
+<p class="verse" id="v19"><a class="verse-num" href="#v19" aria-label="Exodus 15:19">19</a> Pharaoh&#39;s horses, chariots, and riders entered the sea, and God made the sea&#39;s waters flow back over them; but the Israelites walked on dry ground through the sea.</p>
 
-21 And Miriam replied, "Sing to God, for He has won a great victory; He has thrown the horse and its rider into the sea."
+<p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="Exodus 15:20">20</a> Miriam the prophetess, Aaron&#39;s sister, held a tambourine and all the women followed her, playing tambourines and dancing.</p>
 
-22 Moses led Israel from the Red Sea into the Shur desert. They traveled for three days without finding water.
+<p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Exodus 15:21">21</a> And Miriam replied, &quot;Sing to God, for He has won a great victory; He has thrown the horse and its rider into the sea.&quot;</p>
 
-23 When they arrived at Marah, they couldn't drink the water because it was bitter. That's why it was named Marah.
+<p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Exodus 15:22">22</a> Moses led Israel from the Red Sea into the Shur desert. They traveled for three days without finding water.</p>
 
-24 The people complained to Moses, asking, "What will we drink?"
+<p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Exodus 15:23">23</a> When they arrived at Marah, they couldn&#39;t drink the water because it was bitter. That&#39;s why it was named Marah.</p>
 
-25 He called out to God, and God showed him a tree. When he threw it into the water, the water became sweet. There he gave them a rule and a law, and there he tested them.
+<p class="verse" id="v24"><a class="verse-num" href="#v24" aria-label="Exodus 15:24">24</a> The people complained to Moses, asking, &quot;What will we drink?&quot;</p>
 
-26 If you listen carefully to God's voice and do what is right to him, obey his commands, and follow all his rules, I will not bring any of these diseases on you that I gave to the Egyptians, because I am God who heals you.
+<p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Exodus 15:25">25</a> He called out to God, and God showed him a tree. When he threw it into the water, the water became sweet. There he gave them a rule and a law, and there he tested them.</p>
 
-27 They arrived at Elim, where there were twelve water wells and seventy palm trees, and they camped there by the water.
+<p class="verse" id="v26"><a class="verse-num" href="#v26" aria-label="Exodus 15:26">26</a> If you listen carefully to God&#39;s voice and do what is right to him, obey his commands, and follow all his rules, I will not bring any of these diseases on you that I gave to the Egyptians, because I am God who heals you.</p>
 
+<p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="Exodus 15:27">27</a> They arrived at Elim, where there were twelve water wells and seventy palm trees, and they camped there by the water.</p>
 
+<hr>
+
+<p class="chapter-cite">Cite as: <em>Exodus 15:1, Simplified Bible (simplified.bible)</em>. <a href="/text/exodus/15.txt">Plain text of Exodus 15</a>.</p>
+
+<nav class="chapter-nav" aria-label="Previous and next chapter">
+  <a class="chapter-prev" href="/Old%20Testament/Exodus/Chapter%2014.html" rel="prev">&larr; Exodus 14</a>
+  <a class="chapter-next" href="/Old%20Testament/Exodus/Chapter%2016.html" rel="next">Exodus 16 &rarr;</a>
+</nav>

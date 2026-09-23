@@ -1,55 +1,112 @@
 ---
-title: Psalms Chapter 2
-parent: Psalms
-grand_parent: Old Testament
+title: "Psalms 2"
+parent: "Psalms"
+grand_parent: "Old Testament"
 nav_order: 2
+nav_exclude: true
 layout: default
+description: "Psalms 2 in plain English: Why do the nations get angry, and the people think up useless plans? The rulers of the world stand together, and the leaders…"
 ---
 
-## Psalms
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Chapter",
+  "name": "Psalms 2",
+  "headline": "Psalms 2 \u2013 Simplified Bible",
+  "description": "Psalms 2 in plain English: Why do the nations get angry, and the people think up useless plans? The rulers of the world stand together, and the leaders\u2026",
+  "url": "https://simplified.bible/Old%20Testament/Psalms/Chapter%202.html",
+  "inLanguage": "en",
+  "position": 2,
+  "isPartOf": {
+    "@type": "Book",
+    "name": "Psalms",
+    "url": "https://simplified.bible/Old%20Testament/Psalms/",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "Simplified Bible",
+      "url": "https://simplified.bible/",
+      "inLanguage": "en",
+      "isBasedOn": {
+        "@type": "Book",
+        "name": "King James Version",
+        "alternateName": "KJV"
+      }
+    }
+  },
+  "isBasedOn": {
+    "@type": "Book",
+    "name": "King James Version",
+    "alternateName": "KJV"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Simplified Bible",
+    "url": "https://simplified.bible/"
+  },
+  "license": "https://simplified.bible/about/#quoting",
+  "audio": {
+    "@type": "AudioObject",
+    "contentUrl": "https://simplified.bible/assets/Audio/Psalms/2.mp3",
+    "encodingFormat": "audio/mpeg"
+  },
+  "image": "https://simplified.bible/assets/Image/Psalms/500/2.jpg",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://simplified.bible/text/psalms/2.txt",
+    "encodingFormat": "text/plain"
+  }
+}
+</script>
 
-# Chapter 2
+# Psalms 2
 
----
+<p class="chapter-intro">Psalms chapter 2 from the <a href="/about/">Simplified Bible</a>, a plain-English version of the King James Version (KJV).</p>
 
-<div style='display: flex; align-items: center;'>
-  <img src='/assets/Image/audiobook_icon.png' alt='Audiobook Icon' style='height: 100%; max-height: 52px; padding-right: 10px;' />
-  <audio controls>
-    <source src='/assets/Audio/Psalms/2.mp3' type='audio/mp3'>
-    Your browser does not support the audio element.
+<div class="chapter-audio" style="display: flex; align-items: center;">
+  <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
+  <audio controls preload="none" title="Psalms 2 audio">
+    <source src="/assets/Audio/Psalms/2.mp3" type="audio/mpeg">
+    <a href="/assets/Audio/Psalms/2.mp3">Listen to Psalms 2 (MP3)</a>
   </audio>
 </div>
 
----
-
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/2.jpg" alt="Psalms Chapter 2" style="width: 100%; height: auto;" />
-    <figcaption style="font-size: 14px;">Psalms Chapter 2</figcaption>
+    <img src="/assets/Image/Psalms/500/2.jpg" alt="Illustration for Psalms 2" style="width: 100%; height: auto;" loading="lazy" />
+    <figcaption style="font-size: 14px;">Psalms 2</figcaption>
 </figure>
 </div>
-1 Why do the nations get angry, and the people think up useless plans?
 
-2 The rulers of the world stand together, and the leaders plan together, against God and his chosen one, saying,
+<p class="verse" id="v1"><a class="verse-num" href="#v1" aria-label="Psalms 2:1">1</a> Why do the nations get angry, and the people think up useless plans?</p>
 
-3 Let's tear off their chains and throw their ropes away from us.
+<p class="verse" id="v2"><a class="verse-num" href="#v2" aria-label="Psalms 2:2">2</a> The rulers of the world stand together, and the leaders plan together, against God and his chosen one, saying,</p>
 
-4 God in heaven will laugh; He will mock them.
+<p class="verse" id="v3"><a class="verse-num" href="#v3" aria-label="Psalms 2:3">3</a> Let&#39;s tear off their chains and throw their ropes away from us.</p>
 
-5 Then he will speak to them angrily and trouble them greatly in his upset.
+<p class="verse" id="v4"><a class="verse-num" href="#v4" aria-label="Psalms 2:4">4</a> God in heaven will laugh; He will mock them.</p>
 
-6 I have placed my king on my holy mountain Zion.
+<p class="verse" id="v5"><a class="verse-num" href="#v5" aria-label="Psalms 2:5">5</a> Then he will speak to them angrily and trouble them greatly in his upset.</p>
 
-7 I will tell the rule: God has said to me, "You are my Son; today I have become your father."
+<p class="verse" id="v6"><a class="verse-num" href="#v6" aria-label="Psalms 2:6">6</a> I have placed my king on my holy mountain Zion.</p>
 
-8 Ask me, and I will give you the nations as your inheritance and the farthest places on earth as your own.
+<p class="verse" id="v7"><a class="verse-num" href="#v7" aria-label="Psalms 2:7">7</a> I will tell the rule: God has said to me, &quot;You are my Son; today I have become your father.&quot;</p>
 
-9 You will break them with an iron rod; you will smash them like a clay pot.
+<p class="verse" id="v8"><a class="verse-num" href="#v8" aria-label="Psalms 2:8">8</a> Ask me, and I will give you the nations as your inheritance and the farthest places on earth as your own.</p>
 
-10 Understand this, you kings: Listen and learn, you rulers of the world.
+<p class="verse" id="v9"><a class="verse-num" href="#v9" aria-label="Psalms 2:9">9</a> You will break them with an iron rod; you will smash them like a clay pot.</p>
 
-11 Serve God with respect, and be happy with caution.
+<p class="verse" id="v10"><a class="verse-num" href="#v10" aria-label="Psalms 2:10">10</a> Understand this, you kings: Listen and learn, you rulers of the world.</p>
 
-12 Show love to the Son, or he may get angry, and you could be destroyed on your path, because his anger can flare up quickly. Happy are those who trust in him.
+<p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Psalms 2:11">11</a> Serve God with respect, and be happy with caution.</p>
 
+<p class="verse" id="v12"><a class="verse-num" href="#v12" aria-label="Psalms 2:12">12</a> Show love to the Son, or he may get angry, and you could be destroyed on your path, because his anger can flare up quickly. Happy are those who trust in him.</p>
 
+<hr>
+
+<p class="chapter-cite">Cite as: <em>Psalms 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/2.txt">Plain text of Psalms 2</a>.</p>
+
+<nav class="chapter-nav" aria-label="Previous and next chapter">
+  <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%201.html" rel="prev">&larr; Psalms 1</a>
+  <a class="chapter-next" href="/Old%20Testament/Psalms/Chapter%203.html" rel="next">Psalms 3 &rarr;</a>
+</nav>

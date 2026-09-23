@@ -1,95 +1,152 @@
 ---
-title: Nehemiah Chapter 3
-parent: Nehemiah
-grand_parent: Old Testament
+title: "Nehemiah 3"
+parent: "Nehemiah"
+grand_parent: "Old Testament"
 nav_order: 3
+nav_exclude: true
 layout: default
+description: "Nehemiah 3 in plain English: Eliashib, the high priest, got up with his fellow priests, and they built the Sheep Gate; they made it holy, and put in its…"
 ---
 
-## Nehemiah
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Chapter",
+  "name": "Nehemiah 3",
+  "headline": "Nehemiah 3 \u2013 Simplified Bible",
+  "description": "Nehemiah 3 in plain English: Eliashib, the high priest, got up with his fellow priests, and they built the Sheep Gate; they made it holy, and put in its\u2026",
+  "url": "https://simplified.bible/Old%20Testament/Nehemiah/Chapter%203.html",
+  "inLanguage": "en",
+  "position": 3,
+  "isPartOf": {
+    "@type": "Book",
+    "name": "Nehemiah",
+    "url": "https://simplified.bible/Old%20Testament/Nehemiah/",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "Simplified Bible",
+      "url": "https://simplified.bible/",
+      "inLanguage": "en",
+      "isBasedOn": {
+        "@type": "Book",
+        "name": "King James Version",
+        "alternateName": "KJV"
+      }
+    }
+  },
+  "isBasedOn": {
+    "@type": "Book",
+    "name": "King James Version",
+    "alternateName": "KJV"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Simplified Bible",
+    "url": "https://simplified.bible/"
+  },
+  "license": "https://simplified.bible/about/#quoting",
+  "audio": {
+    "@type": "AudioObject",
+    "contentUrl": "https://simplified.bible/assets/Audio/Nehemiah/3.mp3",
+    "encodingFormat": "audio/mpeg"
+  },
+  "image": "https://simplified.bible/assets/Image/Nehemiah/500/3.jpg",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://simplified.bible/text/nehemiah/3.txt",
+    "encodingFormat": "text/plain"
+  }
+}
+</script>
 
-# Chapter 3
+# Nehemiah 3
 
----
+<p class="chapter-intro">Nehemiah chapter 3 from the <a href="/about/">Simplified Bible</a>, a plain-English version of the King James Version (KJV).</p>
 
-<div style='display: flex; align-items: center;'>
-  <img src='/assets/Image/audiobook_icon.png' alt='Audiobook Icon' style='height: 100%; max-height: 52px; padding-right: 10px;' />
-  <audio controls>
-    <source src='/assets/Audio/Nehemiah/3.mp3' type='audio/mp3'>
-    Your browser does not support the audio element.
+<div class="chapter-audio" style="display: flex; align-items: center;">
+  <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
+  <audio controls preload="none" title="Nehemiah 3 audio">
+    <source src="/assets/Audio/Nehemiah/3.mp3" type="audio/mpeg">
+    <a href="/assets/Audio/Nehemiah/3.mp3">Listen to Nehemiah 3 (MP3)</a>
   </audio>
 </div>
 
----
-
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Nehemiah/500/3.jpg" alt="Nehemiah Chapter 3" style="width: 100%; height: auto;" />
-    <figcaption style="font-size: 14px;">Nehemiah Chapter 3</figcaption>
+    <img src="/assets/Image/Nehemiah/500/3.jpg" alt="Illustration for Nehemiah 3" style="width: 100%; height: auto;" loading="lazy" />
+    <figcaption style="font-size: 14px;">Nehemiah 3</figcaption>
 </figure>
 </div>
-1 Eliashib, the high priest, got up with his fellow priests, and they built the Sheep Gate; they made it holy, and put in its doors; they made it holy all the way to the Tower of Meah, and to the Tower of Hananeel.
 
-2 Next to him, the men of Jericho built. And beside them, Zaccur, Imri's son, built.
+<p class="verse" id="v1"><a class="verse-num" href="#v1" aria-label="Nehemiah 3:1">1</a> Eliashib, the high priest, got up with his fellow priests, and they built the Sheep Gate; they made it holy, and put in its doors; they made it holy all the way to the Tower of Meah, and to the Tower of Hananeel.</p>
 
-3 The sons of Hassenaah built the fish gate, made its beams, and installed its doors, locks, and bars.
+<p class="verse" id="v2"><a class="verse-num" href="#v2" aria-label="Nehemiah 3:2">2</a> Next to him, the men of Jericho built. And beside them, Zaccur, Imri&#39;s son, built.</p>
 
-4 Next to them, Meremoth, Urijah's son and Koz's grandson, made repairs. Next to them, Meshullam, Berechiah's son and Meshezabeel's grandson, made repairs. Beside them, Zadok, Baana's son, worked on repairs.
+<p class="verse" id="v3"><a class="verse-num" href="#v3" aria-label="Nehemiah 3:3">3</a> The sons of Hassenaah built the fish gate, made its beams, and installed its doors, locks, and bars.</p>
 
-5 Next to them, the people of Tekoa worked on repairs; but their leaders wouldn't help with the work for God.
+<p class="verse" id="v4"><a class="verse-num" href="#v4" aria-label="Nehemiah 3:4">4</a> Next to them, Meremoth, Urijah&#39;s son and Koz&#39;s grandson, made repairs. Next to them, Meshullam, Berechiah&#39;s son and Meshezabeel&#39;s grandson, made repairs. Beside them, Zadok, Baana&#39;s son, worked on repairs.</p>
 
-6 Jehoiada, the son of Paseah, and Meshullam, the son of Besodeiah, fixed the Old Gate. They put in its beams, hung its doors, and installed its locks and bars.
+<p class="verse" id="v5"><a class="verse-num" href="#v5" aria-label="Nehemiah 3:5">5</a> Next to them, the people of Tekoa worked on repairs; but their leaders wouldn&#39;t help with the work for God.</p>
 
-7 Next to them, Melatiah from Gibeon and Jadon from Meronoth, along with the men from Gibeon and Mizpah, fixed the section up to the governor's seat by the river.
+<p class="verse" id="v6"><a class="verse-num" href="#v6" aria-label="Nehemiah 3:6">6</a> Jehoiada, the son of Paseah, and Meshullam, the son of Besodeiah, fixed the Old Gate. They put in its beams, hung its doors, and installed its locks and bars.</p>
 
-8 Next to him, Uzziel, Harhaiah's son and a goldsmith, made repairs. Next to him, Hananiah, the son of a perfumer, also made repairs. Together, they strengthened Jerusalem up to the wide wall.
+<p class="verse" id="v7"><a class="verse-num" href="#v7" aria-label="Nehemiah 3:7">7</a> Next to them, Melatiah from Gibeon and Jadon from Meronoth, along with the men from Gibeon and Mizpah, fixed the section up to the governor&#39;s seat by the river.</p>
 
-9 Rephaiah, Hur's son and leader of half of Jerusalem, fixed the next part.
+<p class="verse" id="v8"><a class="verse-num" href="#v8" aria-label="Nehemiah 3:8">8</a> Next to him, Uzziel, Harhaiah&#39;s son and a goldsmith, made repairs. Next to him, Hananiah, the son of a perfumer, also made repairs. Together, they strengthened Jerusalem up to the wide wall.</p>
 
-10 Next to them, Jedaiah, Harumaph's son, fixed the wall by his house. Next to him, Hattush, Hashabniah's son, also made repairs.
+<p class="verse" id="v9"><a class="verse-num" href="#v9" aria-label="Nehemiah 3:9">9</a> Rephaiah, Hur&#39;s son and leader of half of Jerusalem, fixed the next part.</p>
 
-11 Malchijah, Harim's son, and Hashub, Pahathmoab's son, fixed another section and the oven tower.
+<p class="verse" id="v10"><a class="verse-num" href="#v10" aria-label="Nehemiah 3:10">10</a> Next to them, Jedaiah, Harumaph&#39;s son, fixed the wall by his house. Next to him, Hattush, Hashabniah&#39;s son, also made repairs.</p>
 
-12 Next to him, Shallum, son of Halohesh, who was in charge of half of Jerusalem, fixed the wall with his daughters.
+<p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Nehemiah 3:11">11</a> Malchijah, Harim&#39;s son, and Hashub, Pahathmoab&#39;s son, fixed another section and the oven tower.</p>
 
-13 Hanun and the people of Zanoah fixed the Valley Gate. They built it, put in its doors, locks, and bars, and repaired the wall for a thousand cubits up to the Dung Gate.
+<p class="verse" id="v12"><a class="verse-num" href="#v12" aria-label="Nehemiah 3:12">12</a> Next to him, Shallum, son of Halohesh, who was in charge of half of Jerusalem, fixed the wall with his daughters.</p>
 
-14 Malchiah, Rechab's son and leader of a district of Bethhaccerem, fixed the Dung Gate. He built it, installed its doors, locks, and bars.
+<p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Nehemiah 3:13">13</a> Hanun and the people of Zanoah fixed the Valley Gate. They built it, put in its doors, locks, and bars, and repaired the wall for a thousand cubits up to the Dung Gate.</p>
 
-15 Shallun, Colhozeh's son and leader of a district of Mizpah, fixed the Fountain Gate. He constructed and roofed it, installed its doors, locks, and bars, and rebuilt the wall by the Pool of Siloam near the king's garden, leading to the stairs down from David's City.
+<p class="verse" id="v14"><a class="verse-num" href="#v14" aria-label="Nehemiah 3:14">14</a> Malchiah, Rechab&#39;s son and leader of a district of Bethhaccerem, fixed the Dung Gate. He built it, installed its doors, locks, and bars.</p>
 
-16 After him, Nehemiah son of Azbuk, leader of half of Bethzur, fixed the area opposite King David's tombs, near the constructed pool, and up to the warriors' house.
+<p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="Nehemiah 3:15">15</a> Shallun, Colhozeh&#39;s son and leader of a district of Mizpah, fixed the Fountain Gate. He constructed and roofed it, installed its doors, locks, and bars, and rebuilt the wall by the Pool of Siloam near the king&#39;s garden, leading to the stairs down from David&#39;s City.</p>
 
-17 After him, the Levites, with Rehum son of Bani, made repairs. Next to him, Hashabiah, leader of half of Keilah, made repairs in his area.
+<p class="verse" id="v16"><a class="verse-num" href="#v16" aria-label="Nehemiah 3:16">16</a> After him, Nehemiah son of Azbuk, leader of half of Bethzur, fixed the area opposite King David&#39;s tombs, near the constructed pool, and up to the warriors&#39; house.</p>
 
-18 After him, their relatives fixed it, Bavai son of Henadad, leader of half of Keilah.
+<p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="Nehemiah 3:17">17</a> After him, the Levites, with Rehum son of Bani, made repairs. Next to him, Hashabiah, leader of half of Keilah, made repairs in his area.</p>
 
-19 Ezer son of Jeshua, the leader of Mizpah, fixed the next section near the ascent to the armory at the corner.
+<p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="Nehemiah 3:18">18</a> After him, their relatives fixed it, Bavai son of Henadad, leader of half of Keilah.</p>
 
-20 After him, Baruch, Zabbai's son, worked hard to fix another part of the wall, from the corner to the entrance of Eliashib the high priest's house.
+<p class="verse" id="v19"><a class="verse-num" href="#v19" aria-label="Nehemiah 3:19">19</a> Ezer son of Jeshua, the leader of Mizpah, fixed the next section near the ascent to the armory at the corner.</p>
 
-21 After him, Meremoth, Urijah's son and Koz's grandson, fixed another part, from Eliashib's house entrance to the end of Eliashib's house.
+<p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="Nehemiah 3:20">20</a> After him, Baruch, Zabbai&#39;s son, worked hard to fix another part of the wall, from the corner to the entrance of Eliashib the high priest&#39;s house.</p>
 
-22 After him, the priests, the men from the flat land, made repairs.
+<p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Nehemiah 3:21">21</a> After him, Meremoth, Urijah&#39;s son and Koz&#39;s grandson, fixed another part, from Eliashib&#39;s house entrance to the end of Eliashib&#39;s house.</p>
 
-23 After him, Benjamin and Hashub fixed the area opposite their house. Then, Azariah, son of Maaseiah and grandson of Ananiah, repaired next to his house.
+<p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Nehemiah 3:22">22</a> After him, the priests, the men from the flat land, made repairs.</p>
 
-24 After him, Binnui son of Henadad fixed another section, from Azariah's house to where the wall turns, all the way to the corner.
+<p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Nehemiah 3:23">23</a> After him, Benjamin and Hashub fixed the area opposite their house. Then, Azariah, son of Maaseiah and grandson of Ananiah, repaired next to his house.</p>
 
-25 Palal son of Uzai worked opposite where the wall turns by the tower that stretches from the royal palace near the prison courtyard. Next was Pedaiah son of Parosh.
+<p class="verse" id="v24"><a class="verse-num" href="#v24" aria-label="Nehemiah 3:24">24</a> After him, Binnui son of Henadad fixed another section, from Azariah&#39;s house to where the wall turns, all the way to the corner.</p>
 
-26 Also, the temple workers lived on the Ophel hill, near the Water Gate to the east and the projecting tower.
+<p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Nehemiah 3:25">25</a> Palal son of Uzai worked opposite where the wall turns by the tower that stretches from the royal palace near the prison courtyard. Next was Pedaiah son of Parosh.</p>
 
-27 After them, the people of Tekoa fixed another part, opposite the big tower that extends out, all the way to the Ophel wall.
+<p class="verse" id="v26"><a class="verse-num" href="#v26" aria-label="Nehemiah 3:26">26</a> Also, the temple workers lived on the Ophel hill, near the Water Gate to the east and the projecting tower.</p>
 
-28 The priests fixed the section above the Horse Gate, each one opposite his own house.
+<p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="Nehemiah 3:27">27</a> After them, the people of Tekoa fixed another part, opposite the big tower that extends out, all the way to the Ophel wall.</p>
 
-29 After them, Zadok the son of Immer fixed the area opposite his house. Next, Shemaiah the son of Shechaniah, who was in charge of the east gate, also made repairs.
+<p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="Nehemiah 3:28">28</a> The priests fixed the section above the Horse Gate, each one opposite his own house.</p>
 
-30 After him, Hananiah, Shelemiah's son, and Hanun, Zalaph's sixth son, fixed another section. Then Meshullam, Berechiah's son, made repairs opposite his room.
+<p class="verse" id="v29"><a class="verse-num" href="#v29" aria-label="Nehemiah 3:29">29</a> After them, Zadok the son of Immer fixed the area opposite his house. Next, Shemaiah the son of Shechaniah, who was in charge of the east gate, also made repairs.</p>
 
-31 After him, Malchiah the son of a goldsmith fixed the wall by the area where the Nethinims and merchants live, near the Miphkad Gate, and up to the corner.
+<p class="verse" id="v30"><a class="verse-num" href="#v30" aria-label="Nehemiah 3:30">30</a> After him, Hananiah, Shelemiah&#39;s son, and Hanun, Zalaph&#39;s sixth son, fixed another section. Then Meshullam, Berechiah&#39;s son, made repairs opposite his room.</p>
 
-32 The goldsmiths and merchants fixed the area from the corner to the Sheep Gate.
+<p class="verse" id="v31"><a class="verse-num" href="#v31" aria-label="Nehemiah 3:31">31</a> After him, Malchiah the son of a goldsmith fixed the wall by the area where the Nethinims and merchants live, near the Miphkad Gate, and up to the corner.</p>
 
+<p class="verse" id="v32"><a class="verse-num" href="#v32" aria-label="Nehemiah 3:32">32</a> The goldsmiths and merchants fixed the area from the corner to the Sheep Gate.</p>
 
+<hr>
+
+<p class="chapter-cite">Cite as: <em>Nehemiah 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/nehemiah/3.txt">Plain text of Nehemiah 3</a>.</p>
+
+<nav class="chapter-nav" aria-label="Previous and next chapter">
+  <a class="chapter-prev" href="/Old%20Testament/Nehemiah/Chapter%202.html" rel="prev">&larr; Nehemiah 2</a>
+  <a class="chapter-next" href="/Old%20Testament/Nehemiah/Chapter%204.html" rel="next">Nehemiah 4 &rarr;</a>
+</nav>
