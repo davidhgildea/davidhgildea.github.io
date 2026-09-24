@@ -51,8 +51,6 @@ description: "Luke 7 in plain English: After finishing all his teachings in fron
 
 # Luke 7
 
-<p class="chapter-intro">Luke chapter 7 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Luke 7 audio">
@@ -169,8 +167,6 @@ description: "Luke 7 in plain English: After finishing all his teachings in fron
 <p class="verse" id="v50"><a class="verse-num" href="#v50" aria-label="Luke 7:50">50</a> He told the woman, &quot;Your faith has saved you; go in peace.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Luke 7:1, Simplified Bible (simplified.bible)</em>. <a href="/text/luke/7.txt">Plain text of Luke 7</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Luke/Chapter%206.html" rel="prev">&larr; Luke 6</a>

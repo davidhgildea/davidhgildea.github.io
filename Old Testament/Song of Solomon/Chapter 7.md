@@ -51,8 +51,6 @@ description: "Song of Solomon 7 in plain English: Your feet are lovely in sandal
 
 # Song of Solomon 7
 
-<p class="chapter-intro">Song of Solomon chapter 7 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Song of Solomon 7 audio">
@@ -95,8 +93,6 @@ description: "Song of Solomon 7 in plain English: Your feet are lovely in sandal
 <p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Song of Solomon 7:13">13</a> The mandrakes smell sweet, and at our gates there are all kinds of nice fruits, both new and old, that I have saved for you, my dear.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Song of Solomon 7:1, Simplified Bible (simplified.bible)</em>. <a href="/text/song-of-solomon/7.txt">Plain text of Song of Solomon 7</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Song%20of%20Solomon/Chapter%206.html" rel="prev">&larr; Song of Solomon 6</a>

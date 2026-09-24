@@ -51,8 +51,6 @@ description: "Luke 15 in plain English: All the tax collectors and sinners came 
 
 # Luke 15
 
-<p class="chapter-intro">Luke chapter 15 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Luke 15 audio">
@@ -133,8 +131,6 @@ description: "Luke 15 in plain English: All the tax collectors and sinners came 
 <p class="verse" id="v32"><a class="verse-num" href="#v32" aria-label="Luke 15:32">32</a> It was right for us to celebrate and be happy: because your brother was dead, and now he is alive; he was lost, and now he is found.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Luke 15:1, Simplified Bible (simplified.bible)</em>. <a href="/text/luke/15.txt">Plain text of Luke 15</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Luke/Chapter%2014.html" rel="prev">&larr; Luke 14</a>

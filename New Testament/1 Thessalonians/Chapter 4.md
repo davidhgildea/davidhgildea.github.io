@@ -51,8 +51,6 @@ description: "1 Thessalonians 4 in plain English: We ask you, friends, and encou
 
 # 1 Thessalonians 4
 
-<p class="chapter-intro">1 Thessalonians chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Thessalonians 4 audio">
@@ -105,8 +103,6 @@ description: "1 Thessalonians 4 in plain English: We ask you, friends, and encou
 <p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="1 Thessalonians 4:18">18</a> Therefore, encourage each other with these words.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Thessalonians 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-thessalonians/4.txt">Plain text of 1 Thessalonians 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/1%20Thessalonians/Chapter%203.html" rel="prev">&larr; 1 Thessalonians 3</a>

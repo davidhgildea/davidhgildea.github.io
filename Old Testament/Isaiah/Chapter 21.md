@@ -51,8 +51,6 @@ description: "Isaiah 21 in plain English: The heavy message about the sea desert
 
 # Isaiah 21
 
-<p class="chapter-intro">Isaiah chapter 21 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 21 audio">
@@ -103,8 +101,6 @@ description: "Isaiah 21 in plain English: The heavy message about the sea desert
 <p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="Isaiah 21:17">17</a> The remaining archers from the strong warriors of Kedar&#39;s descendants will decrease because God of Israel has said so.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 21:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/21.txt">Plain text of Isaiah 21</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2020.html" rel="prev">&larr; Isaiah 20</a>

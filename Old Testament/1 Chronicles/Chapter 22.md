@@ -51,8 +51,6 @@ description: "1 Chronicles 22 in plain English: Then David said, \"This is God's
 
 # 1 Chronicles 22
 
-<p class="chapter-intro">1 Chronicles chapter 22 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Chronicles 22 audio">
@@ -107,8 +105,6 @@ description: "1 Chronicles 22 in plain English: Then David said, \"This is God's
 <p class="verse" id="v19"><a class="verse-num" href="#v19" aria-label="1 Chronicles 22:19">19</a> Focus your heart and soul on searching for God; get up and build the holy place for God, to put the ark of God&#39;s agreement and God&#39;s sacred items in the temple made for God&#39;s name.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Chronicles 22:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-chronicles/22.txt">Plain text of 1 Chronicles 22</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Chronicles/Chapter%2021.html" rel="prev">&larr; 1 Chronicles 21</a>

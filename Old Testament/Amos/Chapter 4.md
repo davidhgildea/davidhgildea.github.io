@@ -51,8 +51,6 @@ description: "Amos 4 in plain English: Listen to this message, you cows of Basha
 
 # Amos 4
 
-<p class="chapter-intro">Amos chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Amos 4 audio">
@@ -95,8 +93,6 @@ description: "Amos 4 in plain English: Listen to this message, you cows of Basha
 <p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Amos 4:13">13</a> Look, the one who shapes the mountains, makes the wind, and tells people their thoughts, who turns dawn into darkness and walks on the high parts of the land, God, the commander of heavenly armies, is his name.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Amos 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/amos/4.txt">Plain text of Amos 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Amos/Chapter%203.html" rel="prev">&larr; Amos 3</a>

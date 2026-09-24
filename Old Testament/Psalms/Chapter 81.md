@@ -51,8 +51,6 @@ description: "Psalms 81 in plain English: Sing loudly to God, our strength; make
 
 # Psalms 81
 
-<p class="chapter-intro">Psalms chapter 81 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 81 audio">
@@ -101,8 +99,6 @@ description: "Psalms 81 in plain English: Sing loudly to God, our strength; make
 <p class="verse" id="v16"><a class="verse-num" href="#v16" aria-label="Psalms 81:16">16</a> He should have given them the best wheat to eat, and I should have satisfied you with honey from the rock.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 81:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/81.txt">Plain text of Psalms 81</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2080.html" rel="prev">&larr; Psalms 80</a>

@@ -51,8 +51,6 @@ description: "1 Samuel 15 in plain English: Samuel also said to Saul, \"God sent
 
 # 1 Samuel 15
 
-<p class="chapter-intro">1 Samuel chapter 15 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Samuel 15 audio">
@@ -139,8 +137,6 @@ description: "1 Samuel 15 in plain English: Samuel also said to Saul, \"God sent
 <p class="verse" id="v35"><a class="verse-num" href="#v35" aria-label="1 Samuel 15:35">35</a> Samuel did not visit Saul again until Saul died. But Samuel felt sad for Saul, and God wished he had not made Saul king over Israel.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Samuel 15:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-samuel/15.txt">Plain text of 1 Samuel 15</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Samuel/Chapter%2014.html" rel="prev">&larr; 1 Samuel 14</a>

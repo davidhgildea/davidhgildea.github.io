@@ -51,8 +51,6 @@ description: "Isaiah 14 in plain English: God will show mercy to Jacob and will 
 
 # Isaiah 14
 
-<p class="chapter-intro">Isaiah chapter 14 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 14 audio">
@@ -133,8 +131,6 @@ description: "Isaiah 14 in plain English: God will show mercy to Jacob and will 
 <p class="verse" id="v32"><a class="verse-num" href="#v32" aria-label="Isaiah 14:32">32</a> What should we tell the nation&#39;s messengers? That God has established Zion, and his needy people will find safety in it.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 14:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/14.txt">Plain text of Isaiah 14</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2013.html" rel="prev">&larr; Isaiah 13</a>

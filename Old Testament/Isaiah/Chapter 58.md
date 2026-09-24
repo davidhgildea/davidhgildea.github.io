@@ -51,8 +51,6 @@ description: "Isaiah 58 in plain English: Shout loudly, don't hold back, raise y
 
 # Isaiah 58
 
-<p class="chapter-intro">Isaiah chapter 58 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 58 audio">
@@ -97,8 +95,6 @@ description: "Isaiah 58 in plain English: Shout loudly, don't hold back, raise y
 <p class="verse" id="v14"><a class="verse-num" href="#v14" aria-label="Isaiah 58:14">14</a> You will enjoy being close to God; He will let you triumph on the earth&#39;s high places and give you the blessings of your ancestor Jacob: this is God&#39;s promise.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 58:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/58.txt">Plain text of Isaiah 58</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2057.html" rel="prev">&larr; Isaiah 57</a>

@@ -51,8 +51,6 @@ description: "Ezekiel 3 in plain English: He also told me, \"Human, eat what you
 
 # Ezekiel 3
 
-<p class="chapter-intro">Ezekiel chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 3 audio">
@@ -123,8 +121,6 @@ description: "Ezekiel 3 in plain English: He also told me, \"Human, eat what you
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="Ezekiel 3:27">27</a> But when I talk to you, I will open your mouth, and you will tell them, &#39;This is what God says: Whoever wants to listen, let them listen; and whoever doesn&#39;t, let them not listen.&#39; They are stubborn people.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/3.txt">Plain text of Ezekiel 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%202.html" rel="prev">&larr; Ezekiel 2</a>

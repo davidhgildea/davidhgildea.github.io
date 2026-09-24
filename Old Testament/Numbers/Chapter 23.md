@@ -51,8 +51,6 @@ description: "Numbers 23 in plain English: Balaam said to Balak, \"Make me seven
 
 # Numbers 23
 
-<p class="chapter-intro">Numbers chapter 23 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Numbers 23 audio">
@@ -129,8 +127,6 @@ description: "Numbers 23 in plain English: Balaam said to Balak, \"Make me seven
 <p class="verse" id="v30"><a class="verse-num" href="#v30" aria-label="Numbers 23:30">30</a> Balak did what Balaam told him to do, and sacrificed a bull and a sheep on each altar.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Numbers 23:1, Simplified Bible (simplified.bible)</em>. <a href="/text/numbers/23.txt">Plain text of Numbers 23</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Numbers/Chapter%2022.html" rel="prev">&larr; Numbers 22</a>

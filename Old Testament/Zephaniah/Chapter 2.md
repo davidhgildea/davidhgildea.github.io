@@ -51,8 +51,6 @@ description: "Zephaniah 2 in plain English: Come together, yes, come together, u
 
 # Zephaniah 2
 
-<p class="chapter-intro">Zephaniah chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Zephaniah 2 audio">
@@ -99,8 +97,6 @@ description: "Zephaniah 2 in plain English: Come together, yes, come together, u
 <p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="Zephaniah 2:15">15</a> This happy city lived without worries, and thought to herself, &quot;I am alone and there&#39;s no one like me.&quot; But look how it&#39;s now empty, a spot where animals rest! Everyone who goes by will hiss and shake their head.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Zephaniah 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/zephaniah/2.txt">Plain text of Zephaniah 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Zephaniah/Chapter%201.html" rel="prev">&larr; Zephaniah 1</a>

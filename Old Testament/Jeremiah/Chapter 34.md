@@ -51,8 +51,6 @@ description: "Jeremiah 34 in plain English: God gave a message to Jeremiah when 
 
 # Jeremiah 34
 
-<p class="chapter-intro">Jeremiah chapter 34 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 34 audio">
@@ -113,8 +111,6 @@ description: "Jeremiah 34 in plain English: God gave a message to Jeremiah when 
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Jeremiah 34:22">22</a> Look, I will give an order, says God, and make them come back to this city; they will attack it, capture it, and burn it down. I will turn the towns of Judah into empty ruins.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 34:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/34.txt">Plain text of Jeremiah 34</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2033.html" rel="prev">&larr; Jeremiah 33</a>

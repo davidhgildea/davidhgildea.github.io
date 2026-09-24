@@ -51,8 +51,6 @@ description: "1 Chronicles 20 in plain English: When the year ended, at the time
 
 # 1 Chronicles 20
 
-<p class="chapter-intro">1 Chronicles chapter 20 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Chronicles 20 audio">
@@ -85,8 +83,6 @@ description: "1 Chronicles 20 in plain English: When the year ended, at the time
 <p class="verse" id="v8"><a class="verse-num" href="#v8" aria-label="1 Chronicles 20:8">8</a> These were the children of the giant in Gath; and they were defeated by David and his men.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Chronicles 20:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-chronicles/20.txt">Plain text of 1 Chronicles 20</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Chronicles/Chapter%2019.html" rel="prev">&larr; 1 Chronicles 19</a>

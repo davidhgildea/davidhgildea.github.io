@@ -51,8 +51,6 @@ description: "Psalms 112 in plain English: Praise God. Happy is the person who r
 
 # Psalms 112
 
-<p class="chapter-intro">Psalms chapter 112 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 112 audio">
@@ -89,8 +87,6 @@ description: "Psalms 112 in plain English: Praise God. Happy is the person who r
 <p class="verse" id="v10"><a class="verse-num" href="#v10" aria-label="Psalms 112:10">10</a> Bad people will see it and be upset; they will grind their teeth and fade away; what bad people want will vanish.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 112:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/112.txt">Plain text of Psalms 112</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%20111.html" rel="prev">&larr; Psalms 111</a>

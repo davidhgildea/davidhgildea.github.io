@@ -51,8 +51,6 @@ description: "Psalms 120 in plain English: When I was in trouble, I called out t
 
 # Psalms 120
 
-<p class="chapter-intro">Psalms chapter 120 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 120 audio">
@@ -83,8 +81,6 @@ description: "Psalms 120 in plain English: When I was in trouble, I called out t
 <p class="verse" id="v7"><a class="verse-num" href="#v7" aria-label="Psalms 120:7">7</a> I want peace, but when I talk, they want war.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 120:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/120.txt">Plain text of Psalms 120</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%20119.html" rel="prev">&larr; Psalms 119</a>

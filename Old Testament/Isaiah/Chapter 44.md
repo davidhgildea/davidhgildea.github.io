@@ -51,8 +51,6 @@ description: "Isaiah 44 in plain English: Listen now, Jacob my servant, and Isra
 
 # Isaiah 44
 
-<p class="chapter-intro">Isaiah chapter 44 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 44 audio">
@@ -125,8 +123,6 @@ description: "Isaiah 44 in plain English: Listen now, Jacob my servant, and Isra
 <p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="Isaiah 44:28">28</a> God calls Cyrus his leader, who will do all that God wants; he will order that Jerusalem be rebuilt and the temple&#39;s foundation be laid.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 44:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/44.txt">Plain text of Isaiah 44</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2043.html" rel="prev">&larr; Isaiah 43</a>

@@ -51,8 +51,6 @@ description: "Psalms 62 in plain English: My soul truly waits for God; my rescue
 
 # Psalms 62
 
-<p class="chapter-intro">Psalms chapter 62 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 62 audio">
@@ -93,8 +91,6 @@ description: "Psalms 62 in plain English: My soul truly waits for God; my rescue
 <p class="verse" id="v12"><a class="verse-num" href="#v12" aria-label="Psalms 62:12">12</a> To you, God, belongs kindness: because you give to each person based on what they do.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 62:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/62.txt">Plain text of Psalms 62</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2061.html" rel="prev">&larr; Psalms 61</a>

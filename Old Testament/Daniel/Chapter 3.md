@@ -51,8 +51,6 @@ description: "Daniel 3 in plain English: King Nebuchadnezzar made a gold statue 
 
 # Daniel 3
 
-<p class="chapter-intro">Daniel chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Daniel 3 audio">
@@ -129,8 +127,6 @@ description: "Daniel 3 in plain English: King Nebuchadnezzar made a gold statue 
 <p class="verse" id="v30"><a class="verse-num" href="#v30" aria-label="Daniel 3:30">30</a> Then the king gave Shadrach, Meshach, and Abednego higher positions in the province of Babylon.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Daniel 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/daniel/3.txt">Plain text of Daniel 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Daniel/Chapter%202.html" rel="prev">&larr; Daniel 2</a>

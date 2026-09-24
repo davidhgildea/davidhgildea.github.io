@@ -51,8 +51,6 @@ description: "Hebrews 10 in plain English: The law has only a shadow of the good
 
 # Hebrews 10
 
-<p class="chapter-intro">Hebrews chapter 10 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Hebrews 10 audio">
@@ -147,8 +145,6 @@ description: "Hebrews 10 in plain English: The law has only a shadow of the good
 <p class="verse" id="v39"><a class="verse-num" href="#v39" aria-label="Hebrews 10:39">39</a> We are not those who turn back and are destroyed, but those who have faith and save their souls.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Hebrews 10:1, Simplified Bible (simplified.bible)</em>. <a href="/text/hebrews/10.txt">Plain text of Hebrews 10</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Hebrews/Chapter%209.html" rel="prev">&larr; Hebrews 9</a>

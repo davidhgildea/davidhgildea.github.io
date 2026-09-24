@@ -51,8 +51,6 @@ description: "Esther 8 in plain English: On that day, King Ahasuerus gave Queen 
 
 # Esther 8
 
-<p class="chapter-intro">Esther chapter 8 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Esther 8 audio">
@@ -103,8 +101,6 @@ description: "Esther 8 in plain English: On that day, King Ahasuerus gave Queen 
 <p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="Esther 8:17">17</a> In every region and city where the king&#39;s orders reached, the Jews felt joy and happiness, celebrated with a feast, and had a good day. Many local people became Jews because they were afraid of the Jews.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Esther 8:1, Simplified Bible (simplified.bible)</em>. <a href="/text/esther/8.txt">Plain text of Esther 8</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Esther/Chapter%207.html" rel="prev">&larr; Esther 7</a>

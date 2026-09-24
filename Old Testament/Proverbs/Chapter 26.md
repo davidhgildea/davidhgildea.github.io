@@ -51,8 +51,6 @@ description: "Proverbs 26 in plain English: Like snow in summer and rain during 
 
 # Proverbs 26
 
-<p class="chapter-intro">Proverbs chapter 26 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Proverbs 26 audio">
@@ -125,8 +123,6 @@ description: "Proverbs 26 in plain English: Like snow in summer and rain during 
 <p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="Proverbs 26:28">28</a> A dishonest speaker dislikes those they hurt; and smooth talk can lead to destruction.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Proverbs 26:1, Simplified Bible (simplified.bible)</em>. <a href="/text/proverbs/26.txt">Plain text of Proverbs 26</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Proverbs/Chapter%2025.html" rel="prev">&larr; Proverbs 25</a>

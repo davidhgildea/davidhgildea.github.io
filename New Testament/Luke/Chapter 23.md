@@ -51,8 +51,6 @@ description: "Luke 23 in plain English: The whole crowd got up and took him to P
 
 # Luke 23
 
-<p class="chapter-intro">Luke chapter 23 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Luke 23 audio">
@@ -181,8 +179,6 @@ description: "Luke 23 in plain English: The whole crowd got up and took him to P
 <p class="verse" id="v56"><a class="verse-num" href="#v56" aria-label="Luke 23:56">56</a> They went back and got spices and ointments ready. Then they rested on the Sabbath day, as the rule said.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Luke 23:1, Simplified Bible (simplified.bible)</em>. <a href="/text/luke/23.txt">Plain text of Luke 23</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Luke/Chapter%2022.html" rel="prev">&larr; Luke 22</a>

@@ -51,8 +51,6 @@ description: "Ruth 2 in plain English: Naomi had a relative from her husband's f
 
 # Ruth 2
 
-<p class="chapter-intro">Ruth chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ruth 2 audio">
@@ -115,8 +113,6 @@ description: "Ruth 2 in plain English: Naomi had a relative from her husband's f
 <p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Ruth 2:23">23</a> She stayed close to Boaz&#39;s servant girls to pick grain until the barley and wheat harvests were finished; and she lived with her mother-in-law.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ruth 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ruth/2.txt">Plain text of Ruth 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ruth/Chapter%201.html" rel="prev">&larr; Ruth 1</a>

@@ -51,8 +51,6 @@ description: "2 Chronicles 15 in plain English: God's Spirit came to Azariah, Od
 
 # 2 Chronicles 15
 
-<p class="chapter-intro">2 Chronicles chapter 15 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Chronicles 15 audio">
@@ -107,8 +105,6 @@ description: "2 Chronicles 15 in plain English: God's Spirit came to Azariah, Od
 <p class="verse" id="v19"><a class="verse-num" href="#v19" aria-label="2 Chronicles 15:19">19</a> There was no more war until the thirty-fifth year of Asa&#39;s rule.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Chronicles 15:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-chronicles/15.txt">Plain text of 2 Chronicles 15</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Chronicles/Chapter%2014.html" rel="prev">&larr; 2 Chronicles 14</a>

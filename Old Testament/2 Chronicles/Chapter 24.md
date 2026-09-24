@@ -51,8 +51,6 @@ description: "2 Chronicles 24 in plain English: Joash became king at seven and r
 
 # 2 Chronicles 24
 
-<p class="chapter-intro">2 Chronicles chapter 24 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Chronicles 24 audio">
@@ -123,8 +121,6 @@ description: "2 Chronicles 24 in plain English: Joash became king at seven and r
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="2 Chronicles 24:27">27</a> About his sons, the heavy tasks given to him, and the fixing of God&#39;s house, you can read in the book of kings&#39; history. And his son Amaziah became king after him.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Chronicles 24:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-chronicles/24.txt">Plain text of 2 Chronicles 24</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Chronicles/Chapter%2023.html" rel="prev">&larr; 2 Chronicles 23</a>

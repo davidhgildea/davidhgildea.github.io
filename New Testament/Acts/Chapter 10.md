@@ -51,8 +51,6 @@ description: "Acts 10 in plain English: In Caesarea there was a man named Cornel
 
 # Acts 10
 
-<p class="chapter-intro">Acts chapter 10 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Acts 10 audio">
@@ -165,8 +163,6 @@ description: "Acts 10 in plain English: In Caesarea there was a man named Cornel
 <p class="verse" id="v48"><a class="verse-num" href="#v48" aria-label="Acts 10:48">48</a> He ordered them to be baptized in God&#39;s name. Then they asked him to stay for some days.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Acts 10:1, Simplified Bible (simplified.bible)</em>. <a href="/text/acts/10.txt">Plain text of Acts 10</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Acts/Chapter%209.html" rel="prev">&larr; Acts 9</a>

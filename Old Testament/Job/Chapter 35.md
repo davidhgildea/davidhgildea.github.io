@@ -51,8 +51,6 @@ description: "Job 35 in plain English: Elihu spoke again and said, Do you think 
 
 # Job 35
 
-<p class="chapter-intro">Job chapter 35 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Job 35 audio">
@@ -101,8 +99,6 @@ description: "Job 35 in plain English: Elihu spoke again and said, Do you think 
 <p class="verse" id="v16"><a class="verse-num" href="#v16" aria-label="Job 35:16">16</a> So Job speaks without reason; he talks a lot but without understanding.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Job 35:1, Simplified Bible (simplified.bible)</em>. <a href="/text/job/35.txt">Plain text of Job 35</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Job/Chapter%2034.html" rel="prev">&larr; Job 34</a>

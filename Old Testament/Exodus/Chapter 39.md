@@ -51,8 +51,6 @@ description: "Exodus 39 in plain English: They made special cloths in blue, purp
 
 # Exodus 39
 
-<p class="chapter-intro">Exodus chapter 39 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Exodus 39 audio">
@@ -155,8 +153,6 @@ description: "Exodus 39 in plain English: They made special cloths in blue, purp
 <p class="verse" id="v43"><a class="verse-num" href="#v43" aria-label="Exodus 39:43">43</a> Moses looked at all the work, and saw they had done it just as God had commanded, so he blessed them.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Exodus 39:1, Simplified Bible (simplified.bible)</em>. <a href="/text/exodus/39.txt">Plain text of Exodus 39</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Exodus/Chapter%2038.html" rel="prev">&larr; Exodus 38</a>

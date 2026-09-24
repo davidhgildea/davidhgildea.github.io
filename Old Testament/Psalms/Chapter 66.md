@@ -51,8 +51,6 @@ description: "Psalms 66 in plain English: Celebrate happily before God, all you 
 
 # Psalms 66
 
-<p class="chapter-intro">Psalms chapter 66 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 66 audio">
@@ -109,8 +107,6 @@ description: "Psalms 66 in plain English: Celebrate happily before God, all you 
 <p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="Psalms 66:20">20</a> Praise God, who did not ignore my prayer or withdraw his kindness from me.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 66:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/66.txt">Plain text of Psalms 66</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2065.html" rel="prev">&larr; Psalms 65</a>

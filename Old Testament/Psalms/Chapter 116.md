@@ -51,8 +51,6 @@ description: "Psalms 116 in plain English: I love God, because he has heard my v
 
 # Psalms 116
 
-<p class="chapter-intro">Psalms chapter 116 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 116 audio">
@@ -107,8 +105,6 @@ description: "Psalms 116 in plain English: I love God, because he has heard my v
 <p class="verse" id="v19"><a class="verse-num" href="#v19" aria-label="Psalms 116:19">19</a> In the courtyards of God&#39;s house, in the center of you, Jerusalem, praise God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 116:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/116.txt">Plain text of Psalms 116</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%20115.html" rel="prev">&larr; Psalms 115</a>

@@ -51,8 +51,6 @@ description: "Job 26 in plain English: But Job replied and spoke, How have you h
 
 # Job 26
 
-<p class="chapter-intro">Job chapter 26 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Job 26 audio">
@@ -97,8 +95,6 @@ description: "Job 26 in plain English: But Job replied and spoke, How have you h
 <p class="verse" id="v14"><a class="verse-num" href="#v14" aria-label="Job 26:14">14</a> Look, these are some of his actions, but we hear only a small part about him. Who can grasp the greatness of his power?</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Job 26:1, Simplified Bible (simplified.bible)</em>. <a href="/text/job/26.txt">Plain text of Job 26</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Job/Chapter%2025.html" rel="prev">&larr; Job 25</a>

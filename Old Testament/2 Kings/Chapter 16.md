@@ -51,8 +51,6 @@ description: "2 Kings 16 in plain English: In the seventeenth year of Pekah, son
 
 # 2 Kings 16
 
-<p class="chapter-intro">2 Kings chapter 16 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Kings 16 audio">
@@ -109,8 +107,6 @@ description: "2 Kings 16 in plain English: In the seventeenth year of Pekah, son
 <p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="2 Kings 16:20">20</a> Ahaz died like his ancestors and was buried with them in David&#39;s city; his son Hezekiah became king after him.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Kings 16:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-kings/16.txt">Plain text of 2 Kings 16</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Kings/Chapter%2015.html" rel="prev">&larr; 2 Kings 15</a>

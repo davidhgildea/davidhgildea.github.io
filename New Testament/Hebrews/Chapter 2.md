@@ -51,8 +51,6 @@ description: "Hebrews 2 in plain English: So we should pay careful attention to 
 
 # Hebrews 2
 
-<p class="chapter-intro">Hebrews chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Hebrews 2 audio">
@@ -105,8 +103,6 @@ description: "Hebrews 2 in plain English: So we should pay careful attention to 
 <p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="Hebrews 2:18">18</a> Because he himself was tempted and suffered, he can help those who are tempted.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Hebrews 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/hebrews/2.txt">Plain text of Hebrews 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Hebrews/Chapter%201.html" rel="prev">&larr; Hebrews 1</a>

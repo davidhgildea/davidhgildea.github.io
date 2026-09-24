@@ -51,8 +51,6 @@ description: "Ezekiel 10 in plain English: I looked, and saw above the cherubim 
 
 # Ezekiel 10
 
-<p class="chapter-intro">Ezekiel chapter 10 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 10 audio">
@@ -113,8 +111,6 @@ description: "Ezekiel 10 in plain English: I looked, and saw above the cherubim 
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Ezekiel 10:22">22</a> The way their faces looked was the same as those I saw by the Chebar river; they looked the same and moved straight ahead.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 10:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/10.txt">Plain text of Ezekiel 10</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%209.html" rel="prev">&larr; Ezekiel 9</a>

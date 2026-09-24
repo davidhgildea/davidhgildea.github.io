@@ -51,8 +51,6 @@ description: "Proverbs 20 in plain English: Wine can mock you, strong drink can 
 
 # Proverbs 20
 
-<p class="chapter-intro">Proverbs chapter 20 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Proverbs 20 audio">
@@ -129,8 +127,6 @@ description: "Proverbs 20 in plain English: Wine can mock you, strong drink can 
 <p class="verse" id="v30"><a class="verse-num" href="#v30" aria-label="Proverbs 20:30">30</a> A bruise cleans out badness: in the same way, punishment cleans the inside of a person.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Proverbs 20:1, Simplified Bible (simplified.bible)</em>. <a href="/text/proverbs/20.txt">Plain text of Proverbs 20</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Proverbs/Chapter%2019.html" rel="prev">&larr; Proverbs 19</a>

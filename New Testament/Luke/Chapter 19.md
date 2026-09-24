@@ -51,8 +51,6 @@ description: "Luke 19 in plain English: Jesus went into Jericho and passed throu
 
 # Luke 19
 
-<p class="chapter-intro">Luke chapter 19 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Luke 19 audio">
@@ -165,8 +163,6 @@ description: "Luke 19 in plain English: Jesus went into Jericho and passed throu
 <p class="verse" id="v48"><a class="verse-num" href="#v48" aria-label="Luke 19:48">48</a> They didn&#39;t know what to do because all the people were listening carefully to him.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Luke 19:1, Simplified Bible (simplified.bible)</em>. <a href="/text/luke/19.txt">Plain text of Luke 19</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Luke/Chapter%2018.html" rel="prev">&larr; Luke 18</a>

@@ -51,8 +51,6 @@ description: "Numbers 22 in plain English: The Israelites moved on and camped in
 
 # Numbers 22
 
-<p class="chapter-intro">Numbers chapter 22 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Numbers 22 audio">
@@ -151,8 +149,6 @@ description: "Numbers 22 in plain English: The Israelites moved on and camped in
 <p class="verse" id="v41"><a class="verse-num" href="#v41" aria-label="Numbers 22:41">41</a> The next day, Balak took Balaam to the high places of Baal so he could see all the people.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Numbers 22:1, Simplified Bible (simplified.bible)</em>. <a href="/text/numbers/22.txt">Plain text of Numbers 22</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Numbers/Chapter%2021.html" rel="prev">&larr; Numbers 21</a>

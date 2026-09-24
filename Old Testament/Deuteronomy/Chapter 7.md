@@ -51,8 +51,6 @@ description: "Deuteronomy 7 in plain English: When God brings you to the land yo
 
 # Deuteronomy 7
 
-<p class="chapter-intro">Deuteronomy chapter 7 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Deuteronomy 7 audio">
@@ -121,8 +119,6 @@ description: "Deuteronomy 7 in plain English: When God brings you to the land yo
 <p class="verse" id="v26"><a class="verse-num" href="#v26" aria-label="Deuteronomy 7:26">26</a> Do not bring anything hateful into your home, or you will be cursed like it. Hate it completely and find it totally disgusting, because it is cursed.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Deuteronomy 7:1, Simplified Bible (simplified.bible)</em>. <a href="/text/deuteronomy/7.txt">Plain text of Deuteronomy 7</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Deuteronomy/Chapter%206.html" rel="prev">&larr; Deuteronomy 6</a>

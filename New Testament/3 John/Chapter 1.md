@@ -51,8 +51,6 @@ description: "3 John 1 in plain English: The older leader to the dear friend Gai
 
 # 3 John 1
 
-<p class="chapter-intro">3 John chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="3 John 1 audio">
@@ -97,8 +95,6 @@ description: "3 John 1 in plain English: The older leader to the dear friend Gai
 <p class="verse" id="v14"><a class="verse-num" href="#v14" aria-label="3 John 1:14">14</a> I hope to see you soon and talk with you in person. I wish you peace. Our friends send their greetings. Say hello to each of our friends by name.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>3 John 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/3-john/1.txt">Plain text of 3 John 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/2%20John/Chapter%201.html" rel="prev">&larr; 2 John 1</a>

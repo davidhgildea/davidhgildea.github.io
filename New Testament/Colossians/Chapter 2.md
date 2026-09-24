@@ -51,8 +51,6 @@ description: "Colossians 2 in plain English: I want you to know about the big st
 
 # Colossians 2
 
-<p class="chapter-intro">Colossians chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Colossians 2 audio">
@@ -115,8 +113,6 @@ description: "Colossians 2 in plain English: I want you to know about the big st
 <p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Colossians 2:23">23</a> These things may seem wise because they require strong devotion, humility, and harsh treatment of the body, but they provide no help in controlling selfish desires.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Colossians 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/colossians/2.txt">Plain text of Colossians 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Colossians/Chapter%201.html" rel="prev">&larr; Colossians 1</a>

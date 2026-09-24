@@ -51,8 +51,6 @@ description: "Psalms 74 in plain English: God, why have you rejected us forever?
 
 # Psalms 74
 
-<p class="chapter-intro">Psalms chapter 74 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 74 audio">
@@ -115,8 +113,6 @@ description: "Psalms 74 in plain English: God, why have you rejected us forever?
 <p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Psalms 74:23">23</a> Do not ignore the voice of your enemies: the noise of those who oppose you grows stronger all the time.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 74:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/74.txt">Plain text of Psalms 74</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2073.html" rel="prev">&larr; Psalms 73</a>

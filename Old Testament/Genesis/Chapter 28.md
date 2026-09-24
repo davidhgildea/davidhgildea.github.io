@@ -51,8 +51,6 @@ description: "Genesis 28 in plain English: Isaac called Jacob, blessed him, gave
 
 # Genesis 28
 
-<p class="chapter-intro">Genesis chapter 28 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 28 audio">
@@ -113,8 +111,6 @@ description: "Genesis 28 in plain English: Isaac called Jacob, blessed him, gave
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Genesis 28:22">22</a> This stone I have put up as a marker will be God&#39;s house, and I will give back to you a tenth of everything you give me.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 28:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/28.txt">Plain text of Genesis 28</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%2027.html" rel="prev">&larr; Genesis 27</a>

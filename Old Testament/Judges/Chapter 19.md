@@ -51,8 +51,6 @@ description: "Judges 19 in plain English: During that time, when Israel had no k
 
 # Judges 19
 
-<p class="chapter-intro">Judges chapter 19 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Judges 19 audio">
@@ -129,8 +127,6 @@ description: "Judges 19 in plain English: During that time, when Israel had no k
 <p class="verse" id="v30"><a class="verse-num" href="#v30" aria-label="Judges 19:30">30</a> Everyone who saw it agreed that nothing like this has happened or been seen since the Israelites left Egypt. Think about it, talk it over, and decide what to do.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Judges 19:1, Simplified Bible (simplified.bible)</em>. <a href="/text/judges/19.txt">Plain text of Judges 19</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Judges/Chapter%2018.html" rel="prev">&larr; Judges 18</a>

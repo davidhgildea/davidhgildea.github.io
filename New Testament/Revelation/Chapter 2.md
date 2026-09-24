@@ -51,8 +51,6 @@ description: "Revelation 2 in plain English: Write to the messenger of the Ephes
 
 # Revelation 2
 
-<p class="chapter-intro">Revelation chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Revelation 2 audio">
@@ -127,8 +125,6 @@ description: "Revelation 2 in plain English: Write to the messenger of the Ephes
 <p class="verse" id="v29"><a class="verse-num" href="#v29" aria-label="Revelation 2:29">29</a> Anyone with ears should listen to what the Spirit tells the churches.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Revelation 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/revelation/2.txt">Plain text of Revelation 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Revelation/Chapter%201.html" rel="prev">&larr; Revelation 1</a>

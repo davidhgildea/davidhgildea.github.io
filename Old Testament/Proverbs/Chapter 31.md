@@ -51,8 +51,6 @@ description: "Proverbs 31 in plain English: The sayings of King Lemuel, the teac
 
 # Proverbs 31
 
-<p class="chapter-intro">Proverbs chapter 31 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Proverbs 31 audio">
@@ -131,8 +129,6 @@ description: "Proverbs 31 in plain English: The sayings of King Lemuel, the teac
 <p class="verse" id="v31"><a class="verse-num" href="#v31" aria-label="Proverbs 31:31">31</a> Give her the rewards of her work, and let her actions praise her publicly.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Proverbs 31:1, Simplified Bible (simplified.bible)</em>. <a href="/text/proverbs/31.txt">Plain text of Proverbs 31</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Proverbs/Chapter%2030.html" rel="prev">&larr; Proverbs 30</a>

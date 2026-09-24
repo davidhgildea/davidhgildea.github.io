@@ -51,8 +51,6 @@ description: "Numbers 5 in plain English: God spoke to Moses, saying, Tell the I
 
 # Numbers 5
 
-<p class="chapter-intro">Numbers chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Numbers 5 audio">
@@ -131,8 +129,6 @@ description: "Numbers 5 in plain English: God spoke to Moses, saying, Tell the I
 <p class="verse" id="v31"><a class="verse-num" href="#v31" aria-label="Numbers 5:31">31</a> Then the man will be free from guilt, and the woman will carry her own guilt.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Numbers 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/numbers/5.txt">Plain text of Numbers 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Numbers/Chapter%204.html" rel="prev">&larr; Numbers 4</a>

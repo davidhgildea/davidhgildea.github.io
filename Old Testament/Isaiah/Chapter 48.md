@@ -51,8 +51,6 @@ description: "Isaiah 48 in plain English: Listen to this, you people of Jacob, n
 
 # Isaiah 48
 
-<p class="chapter-intro">Isaiah chapter 48 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 48 audio">
@@ -113,8 +111,6 @@ description: "Isaiah 48 in plain English: Listen to this, you people of Jacob, n
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Isaiah 48:22">22</a> God says there is no peace for the wicked.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 48:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/48.txt">Plain text of Isaiah 48</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2047.html" rel="prev">&larr; Isaiah 47</a>

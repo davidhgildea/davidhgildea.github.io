@@ -51,8 +51,6 @@ description: "Genesis 12 in plain English: God told Abram, \"Leave your country,
 
 # Genesis 12
 
-<p class="chapter-intro">Genesis chapter 12 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 12 audio">
@@ -109,8 +107,6 @@ description: "Genesis 12 in plain English: God told Abram, \"Leave your country,
 <p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="Genesis 12:20">20</a> The king told his men about him, and they made him leave with his wife and all his belongings.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 12:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/12.txt">Plain text of Genesis 12</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%2011.html" rel="prev">&larr; Genesis 11</a>

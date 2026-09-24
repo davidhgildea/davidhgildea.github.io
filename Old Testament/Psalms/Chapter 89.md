@@ -51,8 +51,6 @@ description: "Psalms 89 in plain English: I will sing about God's kindness forev
 
 # Psalms 89
 
-<p class="chapter-intro">Psalms chapter 89 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 89 audio">
@@ -173,8 +171,6 @@ description: "Psalms 89 in plain English: I will sing about God's kindness forev
 <p class="verse" id="v52"><a class="verse-num" href="#v52" aria-label="Psalms 89:52">52</a> May God be praised always. So be it, and so be it.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 89:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/89.txt">Plain text of Psalms 89</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2088.html" rel="prev">&larr; Psalms 88</a>

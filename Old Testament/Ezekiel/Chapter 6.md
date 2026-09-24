@@ -51,8 +51,6 @@ description: "Ezekiel 6 in plain English: God spoke to me and said, Human, look 
 
 # Ezekiel 6
 
-<p class="chapter-intro">Ezekiel chapter 6 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 6 audio">
@@ -97,8 +95,6 @@ description: "Ezekiel 6 in plain English: God spoke to me and said, Human, look 
 <p class="verse" id="v14"><a class="verse-num" href="#v14" aria-label="Ezekiel 6:14">14</a> I will reach out my hand against them, make their land empty and even more barren than the desert near Diblath, everywhere they live; and they will know that I am God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 6:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/6.txt">Plain text of Ezekiel 6</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%205.html" rel="prev">&larr; Ezekiel 5</a>

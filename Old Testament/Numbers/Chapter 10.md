@@ -51,8 +51,6 @@ description: "Numbers 10 in plain English: God spoke to Moses, saying, Make two 
 
 # Numbers 10
 
-<p class="chapter-intro">Numbers chapter 10 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Numbers 10 audio">
@@ -141,8 +139,6 @@ description: "Numbers 10 in plain English: God spoke to Moses, saying, Make two 
 <p class="verse" id="v36"><a class="verse-num" href="#v36" aria-label="Numbers 10:36">36</a> When it stopped, he said, &quot;Come back, God, to the many thousands of Israel.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Numbers 10:1, Simplified Bible (simplified.bible)</em>. <a href="/text/numbers/10.txt">Plain text of Numbers 10</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Numbers/Chapter%209.html" rel="prev">&larr; Numbers 9</a>

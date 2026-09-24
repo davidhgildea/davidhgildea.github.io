@@ -51,8 +51,6 @@ description: "Mark 14 in plain English: In two days it would be the Passover fes
 
 # Mark 14
 
-<p class="chapter-intro">Mark chapter 14 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Mark 14 audio">
@@ -213,8 +211,6 @@ description: "Mark 14 in plain English: In two days it would be the Passover fes
 <p class="verse" id="v72"><a class="verse-num" href="#v72" aria-label="Mark 14:72">72</a> The rooster crowed a second time. Then Peter remembered Jesus&#39;s words to him, &quot;Before the rooster crows twice, you will disown me three times.&quot; And he started to cry.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Mark 14:1, Simplified Bible (simplified.bible)</em>. <a href="/text/mark/14.txt">Plain text of Mark 14</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Mark/Chapter%2013.html" rel="prev">&larr; Mark 13</a>

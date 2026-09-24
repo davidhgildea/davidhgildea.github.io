@@ -51,8 +51,6 @@ description: "2 Kings 15 in plain English: In the twenty-seventh year of King Je
 
 # 2 Kings 15
 
-<p class="chapter-intro">2 Kings chapter 15 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Kings 15 audio">
@@ -145,8 +143,6 @@ description: "2 Kings 15 in plain English: In the twenty-seventh year of King Je
 <p class="verse" id="v38"><a class="verse-num" href="#v38" aria-label="2 Kings 15:38">38</a> Jotham died and was buried with his ancestors in the city of David his father: and his son Ahaz became king after him.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Kings 15:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-kings/15.txt">Plain text of 2 Kings 15</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Kings/Chapter%2014.html" rel="prev">&larr; 2 Kings 14</a>

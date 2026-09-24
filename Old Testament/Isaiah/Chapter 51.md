@@ -51,8 +51,6 @@ description: "Isaiah 51 in plain English: Listen to me, you who seek what is rig
 
 # Isaiah 51
 
-<p class="chapter-intro">Isaiah chapter 51 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 51 audio">
@@ -115,8 +113,6 @@ description: "Isaiah 51 in plain English: Listen to me, you who seek what is rig
 <p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Isaiah 51:23">23</a> I will make those who hurt you take it; they told you to lie down so they could walk on you, and you were like the ground or a road for them to walk on.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 51:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/51.txt">Plain text of Isaiah 51</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2050.html" rel="prev">&larr; Isaiah 50</a>

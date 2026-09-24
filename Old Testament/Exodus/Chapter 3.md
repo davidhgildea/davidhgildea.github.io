@@ -51,8 +51,6 @@ description: "Exodus 3 in plain English: Moses took care of his father-in-law Je
 
 # Exodus 3
 
-<p class="chapter-intro">Exodus chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Exodus 3 audio">
@@ -113,8 +111,6 @@ description: "Exodus 3 in plain English: Moses took care of his father-in-law Je
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Exodus 3:22">22</a> Every woman will ask her neighbor and any guest in her home for silver and gold jewelry, and clothes. You will dress your sons and daughters in these, taking wealth from the Egyptians.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Exodus 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/exodus/3.txt">Plain text of Exodus 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Exodus/Chapter%202.html" rel="prev">&larr; Exodus 2</a>

@@ -51,8 +51,6 @@ description: "Job 4 in plain English: Then Eliphaz from Teman replied, If we try
 
 # Job 4
 
-<p class="chapter-intro">Job chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Job 4 audio">
@@ -111,8 +109,6 @@ description: "Job 4 in plain English: Then Eliphaz from Teman replied, If we try
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Job 4:21">21</a> Doesn&#39;t their greatness leave them? They die without wisdom.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Job 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/job/4.txt">Plain text of Job 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Job/Chapter%203.html" rel="prev">&larr; Job 3</a>

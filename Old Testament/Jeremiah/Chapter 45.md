@@ -51,8 +51,6 @@ description: "Jeremiah 45 in plain English: Jeremiah the prophet told Baruch, so
 
 # Jeremiah 45
 
-<p class="chapter-intro">Jeremiah chapter 45 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 45 audio">
@@ -79,8 +77,6 @@ description: "Jeremiah 45 in plain English: Jeremiah the prophet told Baruch, so
 <p class="verse" id="v5"><a class="verse-num" href="#v5" aria-label="Jeremiah 45:5">5</a> Are you looking for great things for yourself? Don&#39;t look for them, because I will bring trouble to everyone, says God, but I will let you escape with your life wherever you go.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 45:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/45.txt">Plain text of Jeremiah 45</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2044.html" rel="prev">&larr; Jeremiah 44</a>

@@ -51,8 +51,6 @@ description: "Daniel 1 in plain English: In the third year that Jehoiakim was ki
 
 # Daniel 1
 
-<p class="chapter-intro">Daniel chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Daniel 1 audio">
@@ -111,8 +109,6 @@ description: "Daniel 1 in plain English: In the third year that Jehoiakim was ki
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Daniel 1:21">21</a> Daniel remained until King Cyrus&#39;s first year.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Daniel 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/daniel/1.txt">Plain text of Daniel 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2048.html" rel="prev">&larr; Ezekiel 48</a>

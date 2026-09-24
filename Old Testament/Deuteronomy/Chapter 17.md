@@ -51,8 +51,6 @@ description: "Deuteronomy 17 in plain English: Do not offer to God any bull or s
 
 # Deuteronomy 17
 
-<p class="chapter-intro">Deuteronomy chapter 17 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Deuteronomy 17 audio">
@@ -109,8 +107,6 @@ description: "Deuteronomy 17 in plain English: Do not offer to God any bull or s
 <p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="Deuteronomy 17:20">20</a> So that he doesn&#39;t think he&#39;s better than his brothers, and so he doesn&#39;t ignore God&#39;s commandments, either by going too far right or left, so that he and his children may live a long time ruling over Israel.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Deuteronomy 17:1, Simplified Bible (simplified.bible)</em>. <a href="/text/deuteronomy/17.txt">Plain text of Deuteronomy 17</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Deuteronomy/Chapter%2016.html" rel="prev">&larr; Deuteronomy 16</a>

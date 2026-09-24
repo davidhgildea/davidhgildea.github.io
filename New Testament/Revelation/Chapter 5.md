@@ -51,8 +51,6 @@ description: "Revelation 5 in plain English: I saw in the right hand of the one 
 
 # Revelation 5
 
-<p class="chapter-intro">Revelation chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Revelation 5 audio">
@@ -97,8 +95,6 @@ description: "Revelation 5 in plain English: I saw in the right hand of the one 
 <p class="verse" id="v14"><a class="verse-num" href="#v14" aria-label="Revelation 5:14">14</a> The four creatures said, &quot;Amen.&quot; The twenty-four elders fell down and worshiped the one who lives forever and ever.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Revelation 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/revelation/5.txt">Plain text of Revelation 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Revelation/Chapter%204.html" rel="prev">&larr; Revelation 4</a>

@@ -51,8 +51,6 @@ description: "Jeremiah 40 in plain English: God gave a message to Jeremiah after
 
 # Jeremiah 40
 
-<p class="chapter-intro">Jeremiah chapter 40 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 40 audio">
@@ -101,8 +99,6 @@ description: "Jeremiah 40 in plain English: God gave a message to Jeremiah after
 <p class="verse" id="v16"><a class="verse-num" href="#v16" aria-label="Jeremiah 40:16">16</a> But Gedaliah, Ahikam&#39;s son, told Johanan, Kareah&#39;s son, &quot;Don&#39;t do this; you&#39;re lying about Ishmael.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 40:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/40.txt">Plain text of Jeremiah 40</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2039.html" rel="prev">&larr; Jeremiah 39</a>

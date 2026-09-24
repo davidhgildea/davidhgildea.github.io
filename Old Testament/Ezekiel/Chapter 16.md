@@ -51,8 +51,6 @@ description: "Ezekiel 16 in plain English: God spoke to me again, saying, Human,
 
 # Ezekiel 16
 
-<p class="chapter-intro">Ezekiel chapter 16 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 16 audio">
@@ -195,8 +193,6 @@ description: "Ezekiel 16 in plain English: God spoke to me again, saying, Human,
 <p class="verse" id="v63"><a class="verse-num" href="#v63" aria-label="Ezekiel 16:63">63</a> So you will remember and feel ashamed, and never speak again because of your shame, when I forgive you for all you have done, says God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 16:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/16.txt">Plain text of Ezekiel 16</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2015.html" rel="prev">&larr; Ezekiel 15</a>

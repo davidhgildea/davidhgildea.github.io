@@ -51,8 +51,6 @@ description: "2 Samuel 23 in plain English: These are the final words of David. 
 
 # 2 Samuel 23
 
-<p class="chapter-intro">2 Samuel chapter 23 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Samuel 23 audio">
@@ -147,8 +145,6 @@ description: "2 Samuel 23 in plain English: These are the final words of David. 
 <p class="verse" id="v39"><a class="verse-num" href="#v39" aria-label="2 Samuel 23:39">39</a> Uriah the Hittite: thirty-seven total.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Samuel 23:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-samuel/23.txt">Plain text of 2 Samuel 23</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Samuel/Chapter%2022.html" rel="prev">&larr; 2 Samuel 22</a>

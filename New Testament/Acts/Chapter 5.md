@@ -51,8 +51,6 @@ description: "Acts 5 in plain English: A man named Ananias and his wife Sapphira
 
 # Acts 5
 
-<p class="chapter-intro">Acts chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Acts 5 audio">
@@ -153,8 +151,6 @@ description: "Acts 5 in plain English: A man named Ananias and his wife Sapphira
 <p class="verse" id="v42"><a class="verse-num" href="#v42" aria-label="Acts 5:42">42</a> Every day in the temple and at home, they never stopped teaching and telling the good news about Jesus Christ.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Acts 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/acts/5.txt">Plain text of Acts 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Acts/Chapter%204.html" rel="prev">&larr; Acts 4</a>

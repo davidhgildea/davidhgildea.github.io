@@ -51,8 +51,6 @@ description: "Judges 16 in plain English: Samson went to Gaza, saw a prostitute 
 
 # Judges 16
 
-<p class="chapter-intro">Judges chapter 16 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Judges 16 audio">
@@ -131,8 +129,6 @@ description: "Judges 16 in plain English: Samson went to Gaza, saw a prostitute 
 <p class="verse" id="v31"><a class="verse-num" href="#v31" aria-label="Judges 16:31">31</a> His brothers and his father&#39;s family went down, took him, and brought him back, burying him between Zorah and Eshtaol in his father Manoah&#39;s tomb. He had led Israel for twenty years.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Judges 16:1, Simplified Bible (simplified.bible)</em>. <a href="/text/judges/16.txt">Plain text of Judges 16</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Judges/Chapter%2015.html" rel="prev">&larr; Judges 15</a>

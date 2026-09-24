@@ -51,8 +51,6 @@ description: "1 Kings 8 in plain English: Solomon brought together Israel's elde
 
 # 1 Kings 8
 
-<p class="chapter-intro">1 Kings chapter 8 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Kings 8 audio">
@@ -201,8 +199,6 @@ description: "1 Kings 8 in plain English: Solomon brought together Israel's elde
 <p class="verse" id="v66"><a class="verse-num" href="#v66" aria-label="1 Kings 8:66">66</a> On the eighth day, he let the people go. They blessed the king and went to their tents, happy and thankful for all the good things God had done for David his servant and for Israel his people.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Kings 8:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-kings/8.txt">Plain text of 1 Kings 8</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Kings/Chapter%207.html" rel="prev">&larr; 1 Kings 7</a>

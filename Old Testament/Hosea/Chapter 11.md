@@ -51,8 +51,6 @@ description: "Hosea 11 in plain English: When Israel was young, I loved him and 
 
 # Hosea 11
 
-<p class="chapter-intro">Hosea chapter 11 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Hosea 11 audio">
@@ -93,8 +91,6 @@ description: "Hosea 11 in plain English: When Israel was young, I loved him and 
 <p class="verse" id="v12"><a class="verse-num" href="#v12" aria-label="Hosea 11:12">12</a> Ephraim surrounds me with lies, and Israel with deceit; but Judah still rules with God and is loyal with the holy people.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Hosea 11:1, Simplified Bible (simplified.bible)</em>. <a href="/text/hosea/11.txt">Plain text of Hosea 11</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Hosea/Chapter%2010.html" rel="prev">&larr; Hosea 10</a>

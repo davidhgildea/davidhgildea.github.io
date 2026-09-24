@@ -51,8 +51,6 @@ description: "Micah 7 in plain English: I am in trouble! I am like when people h
 
 # Micah 7
 
-<p class="chapter-intro">Micah chapter 7 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Micah 7 audio">
@@ -109,8 +107,6 @@ description: "Micah 7 in plain English: I am in trouble! I am like when people h
 <p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="Micah 7:20">20</a> You will show your faithfulness to Jacob and love to Abraham, as you promised our ancestors long ago.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Micah 7:1, Simplified Bible (simplified.bible)</em>. <a href="/text/micah/7.txt">Plain text of Micah 7</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Micah/Chapter%206.html" rel="prev">&larr; Micah 6</a>

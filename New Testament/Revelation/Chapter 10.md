@@ -51,8 +51,6 @@ description: "Revelation 10 in plain English: I saw another powerful angel come 
 
 # Revelation 10
 
-<p class="chapter-intro">Revelation chapter 10 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Revelation 10 audio">
@@ -91,8 +89,6 @@ description: "Revelation 10 in plain English: I saw another powerful angel come 
 <p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Revelation 10:11">11</a> He told me, &quot;You must speak God&#39;s message again to many people, nations, different language speakers, and rulers.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Revelation 10:1, Simplified Bible (simplified.bible)</em>. <a href="/text/revelation/10.txt">Plain text of Revelation 10</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Revelation/Chapter%209.html" rel="prev">&larr; Revelation 9</a>

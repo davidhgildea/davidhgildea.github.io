@@ -51,8 +51,6 @@ description: "2 Kings 14 in plain English: Amaziah, son of Joash, became king of
 
 # 2 Kings 14
 
-<p class="chapter-intro">2 Kings chapter 14 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Kings 14 audio">
@@ -127,8 +125,6 @@ description: "2 Kings 14 in plain English: Amaziah, son of Joash, became king of
 <p class="verse" id="v29"><a class="verse-num" href="#v29" aria-label="2 Kings 14:29">29</a> Jeroboam died like his ancestors, the kings of Israel; and his son Zachariah became king after him.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Kings 14:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-kings/14.txt">Plain text of 2 Kings 14</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Kings/Chapter%2013.html" rel="prev">&larr; 2 Kings 13</a>

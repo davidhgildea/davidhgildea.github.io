@@ -51,8 +51,6 @@ description: "1 Chronicles 11 in plain English: All Israel came to David in Hebr
 
 # 1 Chronicles 11
 
-<p class="chapter-intro">1 Chronicles chapter 11 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Chronicles 11 audio">
@@ -163,8 +161,6 @@ description: "1 Chronicles 11 in plain English: All Israel came to David in Hebr
 <p class="verse" id="v47"><a class="verse-num" href="#v47" aria-label="1 Chronicles 11:47">47</a> Eliel, Obed, and Jasiel from Mesoba.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Chronicles 11:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-chronicles/11.txt">Plain text of 1 Chronicles 11</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Chronicles/Chapter%2010.html" rel="prev">&larr; 1 Chronicles 10</a>

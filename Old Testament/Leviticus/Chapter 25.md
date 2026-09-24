@@ -51,8 +51,6 @@ description: "Leviticus 25 in plain English: God spoke to Moses on Mount Sinai a
 
 # Leviticus 25
 
-<p class="chapter-intro">Leviticus chapter 25 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Leviticus 25 audio">
@@ -179,8 +177,6 @@ description: "Leviticus 25 in plain English: God spoke to Moses on Mount Sinai a
 <p class="verse" id="v55"><a class="verse-num" href="#v55" aria-label="Leviticus 25:55">55</a> The people of Israel are my servants; they are the ones I freed from Egypt. I am your God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Leviticus 25:1, Simplified Bible (simplified.bible)</em>. <a href="/text/leviticus/25.txt">Plain text of Leviticus 25</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Leviticus/Chapter%2024.html" rel="prev">&larr; Leviticus 24</a>

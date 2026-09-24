@@ -51,8 +51,6 @@ description: "Deuteronomy 5 in plain English: Moses gathered all of Israel and t
 
 # Deuteronomy 5
 
-<p class="chapter-intro">Deuteronomy chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Deuteronomy 5 audio">
@@ -135,8 +133,6 @@ description: "Deuteronomy 5 in plain English: Moses gathered all of Israel and t
 <p class="verse" id="v33"><a class="verse-num" href="#v33" aria-label="Deuteronomy 5:33">33</a> Follow all the paths God has told you to take so that you may live a good life and have a long time in the land you will own.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Deuteronomy 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/deuteronomy/5.txt">Plain text of Deuteronomy 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Deuteronomy/Chapter%204.html" rel="prev">&larr; Deuteronomy 4</a>

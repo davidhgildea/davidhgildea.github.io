@@ -51,8 +51,6 @@ description: "Ezekiel 24 in plain English: In the ninth year, on the tenth day o
 
 # Ezekiel 24
 
-<p class="chapter-intro">Ezekiel chapter 24 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 24 audio">
@@ -123,8 +121,6 @@ description: "Ezekiel 24 in plain English: In the ninth year, on the tenth day o
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="Ezekiel 24:27">27</a> On that day you will be able to speak to the one who has escaped, you will talk and not be silent anymore; you will be a sign to them, and they will know that I am God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 24:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/24.txt">Plain text of Ezekiel 24</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2023.html" rel="prev">&larr; Ezekiel 23</a>

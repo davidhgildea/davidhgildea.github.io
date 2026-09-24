@@ -51,8 +51,6 @@ description: "Ruth 3 in plain English: Then Naomi, her mother-in-law, said to he
 
 # Ruth 3
 
-<p class="chapter-intro">Ruth chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ruth 3 audio">
@@ -105,8 +103,6 @@ description: "Ruth 3 in plain English: Then Naomi, her mother-in-law, said to he
 <p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="Ruth 3:18">18</a> She said, &quot;Stay here, my daughter, until you find out what happens. The man won&#39;t rest until he sorts it out today.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ruth 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ruth/3.txt">Plain text of Ruth 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ruth/Chapter%202.html" rel="prev">&larr; Ruth 2</a>

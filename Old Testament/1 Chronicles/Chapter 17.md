@@ -51,8 +51,6 @@ description: "1 Chronicles 17 in plain English: One day, while David was at home
 
 # 1 Chronicles 17
 
-<p class="chapter-intro">1 Chronicles chapter 17 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Chronicles 17 audio">
@@ -123,8 +121,6 @@ description: "1 Chronicles 17 in plain English: One day, while David was at home
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="1 Chronicles 17:27">27</a> So now, please bless your servant&#39;s house so it will always be before you. Because when you bless, God, it is blessed forever.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Chronicles 17:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-chronicles/17.txt">Plain text of 1 Chronicles 17</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Chronicles/Chapter%2016.html" rel="prev">&larr; 1 Chronicles 16</a>

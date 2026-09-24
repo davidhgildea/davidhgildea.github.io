@@ -51,8 +51,6 @@ description: "Exodus 32 in plain English: When the people saw Moses was taking a
 
 # Exodus 32
 
-<p class="chapter-intro">Exodus chapter 32 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Exodus 32 audio">
@@ -139,8 +137,6 @@ description: "Exodus 32 in plain English: When the people saw Moses was taking a
 <p class="verse" id="v35"><a class="verse-num" href="#v35" aria-label="Exodus 32:35">35</a> God punished the people because they created the calf that Aaron made.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Exodus 32:1, Simplified Bible (simplified.bible)</em>. <a href="/text/exodus/32.txt">Plain text of Exodus 32</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Exodus/Chapter%2031.html" rel="prev">&larr; Exodus 31</a>

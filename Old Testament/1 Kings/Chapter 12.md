@@ -51,8 +51,6 @@ description: "1 Kings 12 in plain English: Rehoboam went to Shechem because all 
 
 # 1 Kings 12
 
-<p class="chapter-intro">1 Kings chapter 12 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Kings 12 audio">
@@ -135,8 +133,6 @@ description: "1 Kings 12 in plain English: Rehoboam went to Shechem because all 
 <p class="verse" id="v33"><a class="verse-num" href="#v33" aria-label="1 Kings 12:33">33</a> He made sacrifices on the altar he built in Bethel on the fifteenth day of the eighth month, a date he chose himself; he set up a celebration for the Israelite people and he made offerings on the altar and burned incense.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Kings 12:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-kings/12.txt">Plain text of 1 Kings 12</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Kings/Chapter%2011.html" rel="prev">&larr; 1 Kings 11</a>

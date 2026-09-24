@@ -51,8 +51,6 @@ description: "Psalms 145 in plain English: I will praise you, my God, the king; 
 
 # Psalms 145
 
-<p class="chapter-intro">Psalms chapter 145 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 145 audio">
@@ -111,8 +109,6 @@ description: "Psalms 145 in plain English: I will praise you, my God, the king; 
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Psalms 145:21">21</a> I will praise God with my words; may everyone honor his holy name always and forever.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 145:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/145.txt">Plain text of Psalms 145</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%20144.html" rel="prev">&larr; Psalms 144</a>

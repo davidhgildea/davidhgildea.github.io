@@ -51,8 +51,6 @@ description: "Luke 6 in plain English: On the second Saturday following the firs
 
 # Luke 6
 
-<p class="chapter-intro">Luke chapter 6 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Luke 6 audio">
@@ -167,8 +165,6 @@ description: "Luke 6 in plain English: On the second Saturday following the firs
 <p class="verse" id="v49"><a class="verse-num" href="#v49" aria-label="Luke 6:49">49</a> But the person who listens and doesn&#39;t act is like someone who built a house on the ground without a foundation. When the river hit it hard, the house quickly fell apart, and was completely destroyed.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Luke 6:1, Simplified Bible (simplified.bible)</em>. <a href="/text/luke/6.txt">Plain text of Luke 6</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Luke/Chapter%205.html" rel="prev">&larr; Luke 5</a>

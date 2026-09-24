@@ -51,8 +51,6 @@ description: "Job 16 in plain English: Then Job replied and spoke, I have heard 
 
 # Job 16
 
-<p class="chapter-intro">Job chapter 16 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Job 16 audio">
@@ -113,8 +111,6 @@ description: "Job 16 in plain English: Then Job replied and spoke, I have heard 
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Job 16:22">22</a> In a few years, I will go on a path from which I won&#39;t come back.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Job 16:1, Simplified Bible (simplified.bible)</em>. <a href="/text/job/16.txt">Plain text of Job 16</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Job/Chapter%2015.html" rel="prev">&larr; Job 15</a>

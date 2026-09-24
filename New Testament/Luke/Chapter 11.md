@@ -51,8 +51,6 @@ description: "Luke 11 in plain English: As he was praying in a certain place, wh
 
 # Luke 11
 
-<p class="chapter-intro">Luke chapter 11 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Luke 11 audio">
@@ -177,8 +175,6 @@ description: "Luke 11 in plain English: As he was praying in a certain place, wh
 <p class="verse" id="v54"><a class="verse-num" href="#v54" aria-label="Luke 11:54">54</a> Waiting for him, they wanted to hear him say something wrong so they could accuse him.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Luke 11:1, Simplified Bible (simplified.bible)</em>. <a href="/text/luke/11.txt">Plain text of Luke 11</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Luke/Chapter%2010.html" rel="prev">&larr; Luke 10</a>

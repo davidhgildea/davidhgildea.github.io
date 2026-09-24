@@ -51,8 +51,6 @@ description: "Exodus 7 in plain English: God said to Moses, \"Look, I have made 
 
 # Exodus 7
 
-<p class="chapter-intro">Exodus chapter 7 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Exodus 7 audio">
@@ -119,8 +117,6 @@ description: "Exodus 7 in plain English: God said to Moses, \"Look, I have made 
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Exodus 7:25">25</a> Seven days passed after God struck the river.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Exodus 7:1, Simplified Bible (simplified.bible)</em>. <a href="/text/exodus/7.txt">Plain text of Exodus 7</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Exodus/Chapter%206.html" rel="prev">&larr; Exodus 6</a>

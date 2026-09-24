@@ -51,8 +51,6 @@ description: "Matthew 27 in plain English: When morning came, all the leading pr
 
 # Matthew 27
 
-<p class="chapter-intro">Matthew chapter 27 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Matthew 27 audio">
@@ -201,8 +199,6 @@ description: "Matthew 27 in plain English: When morning came, all the leading pr
 <p class="verse" id="v66"><a class="verse-num" href="#v66" aria-label="Matthew 27:66">66</a> They went and secured the tomb by sealing the stone and placing guards.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Matthew 27:1, Simplified Bible (simplified.bible)</em>. <a href="/text/matthew/27.txt">Plain text of Matthew 27</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Matthew/Chapter%2026.html" rel="prev">&larr; Matthew 26</a>

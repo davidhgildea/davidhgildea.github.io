@@ -51,8 +51,6 @@ description: "Psalms 87 in plain English: His base is in the sacred mountains. G
 
 # Psalms 87
 
-<p class="chapter-intro">Psalms chapter 87 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 87 audio">
@@ -83,8 +81,6 @@ description: "Psalms 87 in plain English: His base is in the sacred mountains. G
 <p class="verse" id="v7"><a class="verse-num" href="#v7" aria-label="Psalms 87:7">7</a> Singers and musicians will be there: all my sources of life are with you.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 87:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/87.txt">Plain text of Psalms 87</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2086.html" rel="prev">&larr; Psalms 86</a>

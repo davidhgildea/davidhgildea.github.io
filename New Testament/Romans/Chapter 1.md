@@ -51,8 +51,6 @@ description: "Romans 1 in plain English: Paul, a servant of Jesus Christ, chosen
 
 # Romans 1
 
-<p class="chapter-intro">Romans chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Romans 1 audio">
@@ -133,8 +131,6 @@ description: "Romans 1 in plain English: Paul, a servant of Jesus Christ, chosen
 <p class="verse" id="v32"><a class="verse-num" href="#v32" aria-label="Romans 1:32">32</a> People who know God&#39;s judgment understand that those doing such things deserve to die. They not only do these things but also enjoy seeing others do them.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Romans 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/romans/1.txt">Plain text of Romans 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Acts/Chapter%2028.html" rel="prev">&larr; Acts 28</a>

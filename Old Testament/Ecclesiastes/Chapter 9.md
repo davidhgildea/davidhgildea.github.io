@@ -51,8 +51,6 @@ description: "Ecclesiastes 9 in plain English: I thought deeply about all this a
 
 # Ecclesiastes 9
 
-<p class="chapter-intro">Ecclesiastes chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ecclesiastes 9 audio">
@@ -105,8 +103,6 @@ description: "Ecclesiastes 9 in plain English: I thought deeply about all this a
 <p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="Ecclesiastes 9:18">18</a> Wisdom is better than tools of war, but one wrongdoer can ruin a lot of good.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ecclesiastes 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ecclesiastes/9.txt">Plain text of Ecclesiastes 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ecclesiastes/Chapter%208.html" rel="prev">&larr; Ecclesiastes 8</a>

@@ -51,8 +51,6 @@ description: "Isaiah 40 in plain English: Comfort my people, comfort them, says 
 
 # Isaiah 40
 
-<p class="chapter-intro">Isaiah chapter 40 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 40 audio">
@@ -131,8 +129,6 @@ description: "Isaiah 40 in plain English: Comfort my people, comfort them, says 
 <p class="verse" id="v31"><a class="verse-num" href="#v31" aria-label="Isaiah 40:31">31</a> Those who trust in God will gain new strength; they will soar high on wings like eagles; they will run without getting tired; they will walk without giving up.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 40:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/40.txt">Plain text of Isaiah 40</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2039.html" rel="prev">&larr; Isaiah 39</a>

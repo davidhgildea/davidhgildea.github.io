@@ -51,8 +51,6 @@ description: "Ezekiel 12 in plain English: God's message came to me, saying, Hum
 
 # Ezekiel 12
 
-<p class="chapter-intro">Ezekiel chapter 12 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 12 audio">
@@ -125,8 +123,6 @@ description: "Ezekiel 12 in plain English: God's message came to me, saying, Hum
 <p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="Ezekiel 12:28">28</a> Tell them this: God says, &quot;My words will not be delayed anymore, but what I have said will happen.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 12:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/12.txt">Plain text of Ezekiel 12</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2011.html" rel="prev">&larr; Ezekiel 11</a>

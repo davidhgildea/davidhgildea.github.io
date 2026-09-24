@@ -51,8 +51,6 @@ description: "1 Thessalonians 5 in plain English: About the times and dates, fri
 
 # 1 Thessalonians 5
 
-<p class="chapter-intro">1 Thessalonians chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Thessalonians 5 audio">
@@ -125,8 +123,6 @@ description: "1 Thessalonians 5 in plain English: About the times and dates, fri
 <p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="1 Thessalonians 5:28">28</a> May the kindness of our Lord Jesus Christ be with you. Amen.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Thessalonians 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-thessalonians/5.txt">Plain text of 1 Thessalonians 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/1%20Thessalonians/Chapter%204.html" rel="prev">&larr; 1 Thessalonians 4</a>

@@ -51,8 +51,6 @@ description: "1 Kings 9 in plain English: When Solomon finished building God's h
 
 # 1 Kings 9
 
-<p class="chapter-intro">1 Kings chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Kings 9 audio">
@@ -125,8 +123,6 @@ description: "1 Kings 9 in plain English: When Solomon finished building God's h
 <p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="1 Kings 9:28">28</a> They went to Ophir, got 420 talents of gold, and brought it to King Solomon.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Kings 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-kings/9.txt">Plain text of 1 Kings 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Kings/Chapter%208.html" rel="prev">&larr; 1 Kings 8</a>

@@ -51,8 +51,6 @@ description: "Ezekiel 7 in plain English: God's message came to me, saying, Also
 
 # Ezekiel 7
 
-<p class="chapter-intro">Ezekiel chapter 7 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 7 audio">
@@ -123,8 +121,6 @@ description: "Ezekiel 7 in plain English: God's message came to me, saying, Also
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="Ezekiel 7:27">27</a> The king will be sad, the leader will be filled with emptiness, and the people&#39;s hands will shake with fear: I will treat them as they have acted, and I will judge them by what they deserve; and they will understand that I am God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 7:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/7.txt">Plain text of Ezekiel 7</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%206.html" rel="prev">&larr; Ezekiel 6</a>

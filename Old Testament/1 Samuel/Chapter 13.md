@@ -51,8 +51,6 @@ description: "1 Samuel 13 in plain English: Saul was king for one year; after tw
 
 # 1 Samuel 13
 
-<p class="chapter-intro">1 Samuel chapter 13 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Samuel 13 audio">
@@ -115,8 +113,6 @@ description: "1 Samuel 13 in plain English: Saul was king for one year; after tw
 <p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="1 Samuel 13:23">23</a> The Philistine soldiers went to the Michmash path.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Samuel 13:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-samuel/13.txt">Plain text of 1 Samuel 13</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Samuel/Chapter%2012.html" rel="prev">&larr; 1 Samuel 12</a>

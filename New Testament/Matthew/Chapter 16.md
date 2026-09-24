@@ -51,8 +51,6 @@ description: "Matthew 16 in plain English: The Pharisees and Sadducees also came
 
 # Matthew 16
 
-<p class="chapter-intro">Matthew chapter 16 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Matthew 16 audio">
@@ -125,8 +123,6 @@ description: "Matthew 16 in plain English: The Pharisees and Sadducees also came
 <p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="Matthew 16:28">28</a> I tell you the truth, some standing here will not die before they see the Son of Man arriving in his kingdom.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Matthew 16:1, Simplified Bible (simplified.bible)</em>. <a href="/text/matthew/16.txt">Plain text of Matthew 16</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Matthew/Chapter%2015.html" rel="prev">&larr; Matthew 15</a>

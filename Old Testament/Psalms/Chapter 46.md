@@ -51,8 +51,6 @@ description: "Psalms 46 in plain English: God is our safe place and power, alway
 
 # Psalms 46
 
-<p class="chapter-intro">Psalms chapter 46 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 46 audio">
@@ -91,8 +89,6 @@ description: "Psalms 46 in plain English: God is our safe place and power, alway
 <p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Psalms 46:11">11</a> God is with us; the God of Jacob is our safe place. Pause and think about that.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 46:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/46.txt">Plain text of Psalms 46</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2045.html" rel="prev">&larr; Psalms 45</a>

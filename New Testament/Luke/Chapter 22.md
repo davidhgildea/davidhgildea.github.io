@@ -51,8 +51,6 @@ description: "Luke 22 in plain English: The time for the Feast of Unleavened Bre
 
 # Luke 22
 
-<p class="chapter-intro">Luke chapter 22 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Luke 22 audio">
@@ -211,8 +209,6 @@ description: "Luke 22 in plain English: The time for the Feast of Unleavened Bre
 <p class="verse" id="v71"><a class="verse-num" href="#v71" aria-label="Luke 22:71">71</a> They asked, &quot;Do we need more evidence? We&#39;ve heard it from his own mouth.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Luke 22:1, Simplified Bible (simplified.bible)</em>. <a href="/text/luke/22.txt">Plain text of Luke 22</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Luke/Chapter%2021.html" rel="prev">&larr; Luke 21</a>

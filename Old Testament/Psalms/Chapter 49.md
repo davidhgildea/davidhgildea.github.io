@@ -51,8 +51,6 @@ description: "Psalms 49 in plain English: Listen to this, everyone; pay attentio
 
 # Psalms 49
 
-<p class="chapter-intro">Psalms chapter 49 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 49 audio">
@@ -109,8 +107,6 @@ description: "Psalms 49 in plain English: Listen to this, everyone; pay attentio
 <p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="Psalms 49:20">20</a> A person with honor, who lacks understanding, is like animals that die.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 49:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/49.txt">Plain text of Psalms 49</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2048.html" rel="prev">&larr; Psalms 48</a>

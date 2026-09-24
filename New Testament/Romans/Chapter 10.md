@@ -51,8 +51,6 @@ description: "Romans 10 in plain English: Friends, I deeply wish and pray to God
 
 # Romans 10
 
-<p class="chapter-intro">Romans chapter 10 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Romans 10 audio">
@@ -111,8 +109,6 @@ description: "Romans 10 in plain English: Friends, I deeply wish and pray to God
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Romans 10:21">21</a> God says to Israel, I have reached out my hands all day to a people who disobey and argue.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Romans 10:1, Simplified Bible (simplified.bible)</em>. <a href="/text/romans/10.txt">Plain text of Romans 10</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Romans/Chapter%209.html" rel="prev">&larr; Romans 9</a>

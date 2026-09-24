@@ -51,8 +51,6 @@ description: "Job 14 in plain English: A person born from a woman lives only a s
 
 # Job 14
 
-<p class="chapter-intro">Job chapter 14 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Job 14 audio">
@@ -113,8 +111,6 @@ description: "Job 14 in plain English: A person born from a woman lives only a s
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Job 14:22">22</a> His body will feel pain, and his heart will be sad.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Job 14:1, Simplified Bible (simplified.bible)</em>. <a href="/text/job/14.txt">Plain text of Job 14</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Job/Chapter%2013.html" rel="prev">&larr; Job 13</a>

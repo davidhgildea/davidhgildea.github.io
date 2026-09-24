@@ -51,8 +51,6 @@ description: "Genesis 22 in plain English: After these events, God tested Abraha
 
 # Genesis 22
 
-<p class="chapter-intro">Genesis chapter 22 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 22 audio">
@@ -117,8 +115,6 @@ description: "Genesis 22 in plain English: After these events, God tested Abraha
 <p class="verse" id="v24"><a class="verse-num" href="#v24" aria-label="Genesis 22:24">24</a> His companion Reumah also had children: Tebah, Gaham, Thahash, and Maachah.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 22:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/22.txt">Plain text of Genesis 22</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%2021.html" rel="prev">&larr; Genesis 21</a>

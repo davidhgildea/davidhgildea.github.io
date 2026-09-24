@@ -51,8 +51,6 @@ description: "Psalms 26 in plain English: Judge me, God; for I have lived with h
 
 # Psalms 26
 
-<p class="chapter-intro">Psalms chapter 26 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 26 audio">
@@ -93,8 +91,6 @@ description: "Psalms 26 in plain English: Judge me, God; for I have lived with h
 <p class="verse" id="v12"><a class="verse-num" href="#v12" aria-label="Psalms 26:12">12</a> My foot stands on level ground; in the gatherings, I will bless God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 26:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/26.txt">Plain text of Psalms 26</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2025.html" rel="prev">&larr; Psalms 25</a>

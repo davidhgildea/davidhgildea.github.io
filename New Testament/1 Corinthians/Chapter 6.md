@@ -51,8 +51,6 @@ description: "1 Corinthians 6 in plain English: Would any of you, with a dispute
 
 # 1 Corinthians 6
 
-<p class="chapter-intro">1 Corinthians chapter 6 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Corinthians 6 audio">
@@ -109,8 +107,6 @@ description: "1 Corinthians 6 in plain English: Would any of you, with a dispute
 <p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="1 Corinthians 6:20">20</a> You were bought for a price: so honor God with your body and spirit, which belong to God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Corinthians 6:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-corinthians/6.txt">Plain text of 1 Corinthians 6</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/1%20Corinthians/Chapter%205.html" rel="prev">&larr; 1 Corinthians 5</a>

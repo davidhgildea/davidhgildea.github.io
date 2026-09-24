@@ -51,8 +51,6 @@ description: "Proverbs 14 in plain English: A smart woman builds up her home, bu
 
 # Proverbs 14
 
-<p class="chapter-intro">Proverbs chapter 14 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Proverbs 14 audio">
@@ -139,8 +137,6 @@ description: "Proverbs 14 in plain English: A smart woman builds up her home, bu
 <p class="verse" id="v35"><a class="verse-num" href="#v35" aria-label="Proverbs 14:35">35</a> The king likes a smart servant, but he&#39;s angry at one who brings disgrace.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Proverbs 14:1, Simplified Bible (simplified.bible)</em>. <a href="/text/proverbs/14.txt">Plain text of Proverbs 14</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Proverbs/Chapter%2013.html" rel="prev">&larr; Proverbs 13</a>

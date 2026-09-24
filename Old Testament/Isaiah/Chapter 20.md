@@ -51,8 +51,6 @@ description: "Isaiah 20 in plain English: In the year Tartan came to Ashdod, sen
 
 # Isaiah 20
 
-<p class="chapter-intro">Isaiah chapter 20 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 20 audio">
@@ -81,8 +79,6 @@ description: "Isaiah 20 in plain English: In the year Tartan came to Ashdod, sen
 <p class="verse" id="v6"><a class="verse-num" href="#v6" aria-label="Isaiah 20:6">6</a> On that day, the people of this island will say, &quot;Look, this is what we hoped for, where we ran for help to save us from the king of Assyria: but how can we escape?&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 20:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/20.txt">Plain text of Isaiah 20</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2019.html" rel="prev">&larr; Isaiah 19</a>

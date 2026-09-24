@@ -51,8 +51,6 @@ description: "Numbers 14 in plain English: The whole group raised their voices, 
 
 # Numbers 14
 
-<p class="chapter-intro">Numbers chapter 14 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Numbers 14 audio">
@@ -159,8 +157,6 @@ description: "Numbers 14 in plain English: The whole group raised their voices, 
 <p class="verse" id="v45"><a class="verse-num" href="#v45" aria-label="Numbers 14:45">45</a> The Amalekites and Canaanites who lived in that hill came down, attacked them, and beat them all the way to Hormah.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Numbers 14:1, Simplified Bible (simplified.bible)</em>. <a href="/text/numbers/14.txt">Plain text of Numbers 14</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Numbers/Chapter%2013.html" rel="prev">&larr; Numbers 13</a>

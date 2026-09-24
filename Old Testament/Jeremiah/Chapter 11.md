@@ -51,8 +51,6 @@ description: "Jeremiah 11 in plain English: God told Jeremiah: Listen to the wor
 
 # Jeremiah 11
 
-<p class="chapter-intro">Jeremiah chapter 11 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 11 audio">
@@ -115,8 +113,6 @@ description: "Jeremiah 11 in plain English: God told Jeremiah: Listen to the wor
 <p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Jeremiah 11:23">23</a> No one from them will survive because I will bring disaster upon the people of Anathoth when it&#39;s time to punish them.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 11:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/11.txt">Plain text of Jeremiah 11</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2010.html" rel="prev">&larr; Jeremiah 10</a>

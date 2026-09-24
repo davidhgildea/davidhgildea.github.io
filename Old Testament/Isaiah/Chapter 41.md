@@ -51,8 +51,6 @@ description: "Isaiah 41 in plain English: Stay quiet before me, islands; and let
 
 # Isaiah 41
 
-<p class="chapter-intro">Isaiah chapter 41 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 41 audio">
@@ -127,8 +125,6 @@ description: "Isaiah 41 in plain English: Stay quiet before me, islands; and let
 <p class="verse" id="v29"><a class="verse-num" href="#v29" aria-label="Isaiah 41:29">29</a> Look, they are all useless; their deeds are worth nothing: their metal idols are just air and chaos.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 41:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/41.txt">Plain text of Isaiah 41</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2040.html" rel="prev">&larr; Isaiah 40</a>

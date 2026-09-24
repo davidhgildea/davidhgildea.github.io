@@ -51,8 +51,6 @@ description: "Deuteronomy 12 in plain English: Here are the rules and decisions 
 
 # Deuteronomy 12
 
-<p class="chapter-intro">Deuteronomy chapter 12 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Deuteronomy 12 audio">
@@ -133,8 +131,6 @@ description: "Deuteronomy 12 in plain English: Here are the rules and decisions 
 <p class="verse" id="v32"><a class="verse-num" href="#v32" aria-label="Deuteronomy 12:32">32</a> Do whatever I tell you: don&#39;t add to it or take away from it.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Deuteronomy 12:1, Simplified Bible (simplified.bible)</em>. <a href="/text/deuteronomy/12.txt">Plain text of Deuteronomy 12</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Deuteronomy/Chapter%2011.html" rel="prev">&larr; Deuteronomy 11</a>

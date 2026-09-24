@@ -51,8 +51,6 @@ description: "Obadiah 1 in plain English: Obadiah's vision. This is what God say
 
 # Obadiah 1
 
-<p class="chapter-intro">Obadiah chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Obadiah 1 audio">
@@ -111,8 +109,6 @@ description: "Obadiah 1 in plain English: Obadiah's vision. This is what God say
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Obadiah 1:21">21</a> Rescuers will come to Mount Zion to rule over Esau&#39;s hill, and the kingdom will belong to God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Obadiah 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/obadiah/1.txt">Plain text of Obadiah 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Amos/Chapter%209.html" rel="prev">&larr; Amos 9</a>

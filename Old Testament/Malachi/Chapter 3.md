@@ -51,8 +51,6 @@ description: "Malachi 3 in plain English: Look, I will send my messenger, and he
 
 # Malachi 3
 
-<p class="chapter-intro">Malachi chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Malachi 3 audio">
@@ -105,8 +103,6 @@ description: "Malachi 3 in plain English: Look, I will send my messenger, and he
 <p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="Malachi 3:18">18</a> Then you will come back and understand the difference between the good and the bad, between someone who serves God and someone who does not.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Malachi 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/malachi/3.txt">Plain text of Malachi 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Malachi/Chapter%202.html" rel="prev">&larr; Malachi 2</a>

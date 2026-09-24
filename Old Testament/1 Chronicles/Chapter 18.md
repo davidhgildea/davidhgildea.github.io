@@ -51,8 +51,6 @@ description: "1 Chronicles 18 in plain English: After this, David defeated the P
 
 # 1 Chronicles 18
 
-<p class="chapter-intro">1 Chronicles chapter 18 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Chronicles 18 audio">
@@ -103,8 +101,6 @@ description: "1 Chronicles 18 in plain English: After this, David defeated the P
 <p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="1 Chronicles 18:17">17</a> Benaiah, son of Jehoiada, commanded the Cherethites and Pelethites; David&#39;s sons were the main leaders around the king.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Chronicles 18:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-chronicles/18.txt">Plain text of 1 Chronicles 18</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Chronicles/Chapter%2017.html" rel="prev">&larr; 1 Chronicles 17</a>

@@ -51,8 +51,6 @@ description: "Ezekiel 15 in plain English: God spoke to me, saying, Human, what 
 
 # Ezekiel 15
 
-<p class="chapter-intro">Ezekiel chapter 15 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 15 audio">
@@ -85,8 +83,6 @@ description: "Ezekiel 15 in plain English: God spoke to me, saying, Human, what 
 <p class="verse" id="v8"><a class="verse-num" href="#v8" aria-label="Ezekiel 15:8">8</a> I will make the land empty, because they did wrong, says God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 15:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/15.txt">Plain text of Ezekiel 15</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2014.html" rel="prev">&larr; Ezekiel 14</a>

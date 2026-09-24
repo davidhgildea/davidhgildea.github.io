@@ -51,8 +51,6 @@ description: "Luke 10 in plain English: After this, God chose 70 more people and
 
 # Luke 10
 
-<p class="chapter-intro">Luke chapter 10 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Luke 10 audio">
@@ -153,8 +151,6 @@ description: "Luke 10 in plain English: After this, God chose 70 more people and
 <p class="verse" id="v42"><a class="verse-num" href="#v42" aria-label="Luke 10:42">42</a> Only one thing is important, and Mary has chosen it. It will not be taken from her.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Luke 10:1, Simplified Bible (simplified.bible)</em>. <a href="/text/luke/10.txt">Plain text of Luke 10</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Luke/Chapter%209.html" rel="prev">&larr; Luke 9</a>

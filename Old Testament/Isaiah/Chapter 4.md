@@ -51,8 +51,6 @@ description: "Isaiah 4 in plain English: On that day, seven women will grab one 
 
 # Isaiah 4
 
-<p class="chapter-intro">Isaiah chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 4 audio">
@@ -81,8 +79,6 @@ description: "Isaiah 4 in plain English: On that day, seven women will grab one 
 <p class="verse" id="v6"><a class="verse-num" href="#v6" aria-label="Isaiah 4:6">6</a> There will be a shelter to provide shade from the heat during the day, and a safe place to protect from storms and rain.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/4.txt">Plain text of Isaiah 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%203.html" rel="prev">&larr; Isaiah 3</a>

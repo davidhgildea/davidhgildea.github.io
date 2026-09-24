@@ -51,8 +51,6 @@ description: "John 5 in plain English: After this, the Jews had a festival, and 
 
 # John 5
 
-<p class="chapter-intro">John chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="John 5 audio">
@@ -163,8 +161,6 @@ description: "John 5 in plain English: After this, the Jews had a festival, and 
 <p class="verse" id="v47"><a class="verse-num" href="#v47" aria-label="John 5:47">47</a> If you don&#39;t believe what he wrote, how will you believe what I say?</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>John 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/john/5.txt">Plain text of John 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/John/Chapter%204.html" rel="prev">&larr; John 4</a>

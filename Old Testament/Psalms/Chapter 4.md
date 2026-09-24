@@ -51,8 +51,6 @@ description: "Psalms 4 in plain English: Listen to me when I call, God who makes
 
 # Psalms 4
 
-<p class="chapter-intro">Psalms chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 4 audio">
@@ -85,8 +83,6 @@ description: "Psalms 4 in plain English: Listen to me when I call, God who makes
 <p class="verse" id="v8"><a class="verse-num" href="#v8" aria-label="Psalms 4:8">8</a> I will lie down and sleep in peace, because you, God, alone keep me safe.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/4.txt">Plain text of Psalms 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%203.html" rel="prev">&larr; Psalms 3</a>

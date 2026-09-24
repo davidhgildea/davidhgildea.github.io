@@ -51,8 +51,6 @@ description: "Esther 9 in plain English: In the twelfth month, called Adar, on t
 
 # Esther 9
 
-<p class="chapter-intro">Esther chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Esther 9 audio">
@@ -133,8 +131,6 @@ description: "Esther 9 in plain English: In the twelfth month, called Adar, on t
 <p class="verse" id="v32"><a class="verse-num" href="#v32" aria-label="Esther 9:32">32</a> Esther&#39;s order made Purim rules official, and they were written down.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Esther 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/esther/9.txt">Plain text of Esther 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Esther/Chapter%208.html" rel="prev">&larr; Esther 8</a>

@@ -51,8 +51,6 @@ description: "Psalms 102 in plain English: Listen to my prayer, God, and hear my
 
 # Psalms 102
 
-<p class="chapter-intro">Psalms chapter 102 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 102 audio">
@@ -125,8 +123,6 @@ description: "Psalms 102 in plain English: Listen to my prayer, God, and hear my
 <p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="Psalms 102:28">28</a> Your servants&#39; children will live on, and their descendants will be secure in your presence.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 102:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/102.txt">Plain text of Psalms 102</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%20101.html" rel="prev">&larr; Psalms 101</a>

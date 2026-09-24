@@ -51,8 +51,6 @@ description: "2 Samuel 7 in plain English: When the king was in his house, and G
 
 # 2 Samuel 7
 
-<p class="chapter-intro">2 Samuel chapter 7 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Samuel 7 audio">
@@ -127,8 +125,6 @@ description: "2 Samuel 7 in plain English: When the king was in his house, and G
 <p class="verse" id="v29"><a class="verse-num" href="#v29" aria-label="2 Samuel 7:29">29</a> Please bless your servant&#39;s house so it can last forever in your presence. You, God, have promised this; may your blessing make your servant&#39;s house forever blessed.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Samuel 7:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-samuel/7.txt">Plain text of 2 Samuel 7</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Samuel/Chapter%206.html" rel="prev">&larr; 2 Samuel 6</a>

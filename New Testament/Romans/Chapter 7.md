@@ -51,8 +51,6 @@ description: "Romans 7 in plain English: Don't you know, friends, (because I am 
 
 # Romans 7
 
-<p class="chapter-intro">Romans chapter 7 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Romans 7 audio">
@@ -119,8 +117,6 @@ description: "Romans 7 in plain English: Don't you know, friends, (because I am 
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Romans 7:25">25</a> I thank God through Jesus Christ our Lord. I serve God&#39;s law with my mind, but with my body, I follow the law of sin.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Romans 7:1, Simplified Bible (simplified.bible)</em>. <a href="/text/romans/7.txt">Plain text of Romans 7</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Romans/Chapter%206.html" rel="prev">&larr; Romans 6</a>

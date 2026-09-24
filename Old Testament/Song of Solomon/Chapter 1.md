@@ -51,8 +51,6 @@ description: "Song of Solomon 1 in plain English: The best song, which is Solomo
 
 # Song of Solomon 1
 
-<p class="chapter-intro">Song of Solomon chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Song of Solomon 1 audio">
@@ -103,8 +101,6 @@ description: "Song of Solomon 1 in plain English: The best song, which is Solomo
 <p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="Song of Solomon 1:17">17</a> The support beams of our house are made of cedar, and the beams of our roof are fir.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Song of Solomon 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/song-of-solomon/1.txt">Plain text of Song of Solomon 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ecclesiastes/Chapter%2012.html" rel="prev">&larr; Ecclesiastes 12</a>

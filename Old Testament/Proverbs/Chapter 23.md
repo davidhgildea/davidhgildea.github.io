@@ -51,8 +51,6 @@ description: "Proverbs 23 in plain English: When you sit down to eat with a rule
 
 # Proverbs 23
 
-<p class="chapter-intro">Proverbs chapter 23 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Proverbs 23 audio">
@@ -139,8 +137,6 @@ description: "Proverbs 23 in plain English: When you sit down to eat with a rule
 <p class="verse" id="v35"><a class="verse-num" href="#v35" aria-label="Proverbs 23:35">35</a> You will say, &quot;They hit me, but I wasn&#39;t hurt; they beat me, but I didn&#39;t feel it. When will I wake up? I will go back to it again.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Proverbs 23:1, Simplified Bible (simplified.bible)</em>. <a href="/text/proverbs/23.txt">Plain text of Proverbs 23</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Proverbs/Chapter%2022.html" rel="prev">&larr; Proverbs 22</a>

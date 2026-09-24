@@ -51,8 +51,6 @@ description: "Ezekiel 26 in plain English: In the eleventh year, on the first da
 
 # Ezekiel 26
 
-<p class="chapter-intro">Ezekiel chapter 26 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 26 audio">
@@ -111,8 +109,6 @@ description: "Ezekiel 26 in plain English: In the eleventh year, on the first da
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Ezekiel 26:21">21</a> I will turn you into a horror, and you will cease to exist: even if people look for you, you will never be found again, says God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 26:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/26.txt">Plain text of Ezekiel 26</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2025.html" rel="prev">&larr; Ezekiel 25</a>

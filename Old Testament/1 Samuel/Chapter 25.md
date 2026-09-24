@@ -51,8 +51,6 @@ description: "1 Samuel 25 in plain English: Samuel died; all the people of Israe
 
 # 1 Samuel 25
 
-<p class="chapter-intro">1 Samuel chapter 25 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Samuel 25 audio">
@@ -157,8 +155,6 @@ description: "1 Samuel 25 in plain English: Samuel died; all the people of Israe
 <p class="verse" id="v44"><a class="verse-num" href="#v44" aria-label="1 Samuel 25:44">44</a> Saul gave his daughter Michal, David&#39;s wife, to Phalti, Laish&#39;s son, from Gallim.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Samuel 25:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-samuel/25.txt">Plain text of 1 Samuel 25</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Samuel/Chapter%2024.html" rel="prev">&larr; 1 Samuel 24</a>

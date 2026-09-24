@@ -51,8 +51,6 @@ description: "Daniel 6 in plain English: Darius decided to put 120 princes in ch
 
 # Daniel 6
 
-<p class="chapter-intro">Daniel chapter 6 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Daniel 6 audio">
@@ -125,8 +123,6 @@ description: "Daniel 6 in plain English: Darius decided to put 120 princes in ch
 <p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="Daniel 6:28">28</a> Daniel did well during the time of Darius and also when Cyrus the Persian was in power.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Daniel 6:1, Simplified Bible (simplified.bible)</em>. <a href="/text/daniel/6.txt">Plain text of Daniel 6</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Daniel/Chapter%205.html" rel="prev">&larr; Daniel 5</a>

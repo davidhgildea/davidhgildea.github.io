@@ -51,8 +51,6 @@ description: "Psalms 57 in plain English: Have mercy on me, God, have mercy on m
 
 # Psalms 57
 
-<p class="chapter-intro">Psalms chapter 57 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 57 audio">
@@ -91,8 +89,6 @@ description: "Psalms 57 in plain English: Have mercy on me, God, have mercy on m
 <p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Psalms 57:11">11</a> God, be lifted high above the heavens; let your glory be over all the earth.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 57:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/57.txt">Plain text of Psalms 57</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2056.html" rel="prev">&larr; Psalms 56</a>

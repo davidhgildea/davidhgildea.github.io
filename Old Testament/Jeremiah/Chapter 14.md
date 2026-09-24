@@ -51,8 +51,6 @@ description: "Jeremiah 14 in plain English: The message from God that came to Je
 
 # Jeremiah 14
 
-<p class="chapter-intro">Jeremiah chapter 14 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 14 audio">
@@ -113,8 +111,6 @@ description: "Jeremiah 14 in plain English: The message from God that came to Je
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Jeremiah 14:22">22</a> Do any of the false gods of other nations bring rain? Can the sky itself send down showers? Aren&#39;t you the one, our God? So we will wait for you, for you created everything.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 14:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/14.txt">Plain text of Jeremiah 14</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2013.html" rel="prev">&larr; Jeremiah 13</a>

@@ -51,8 +51,6 @@ description: "Deuteronomy 33 in plain English: This is the blessing that Moses, 
 
 # Deuteronomy 33
 
-<p class="chapter-intro">Deuteronomy chapter 33 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Deuteronomy 33 audio">
@@ -127,8 +125,6 @@ description: "Deuteronomy 33 in plain English: This is the blessing that Moses, 
 <p class="verse" id="v29"><a class="verse-num" href="#v29" aria-label="Deuteronomy 33:29">29</a> You are lucky, Israel: Who is like you, a people saved by God, your helper&#39;s shield and the sword of your greatness! Your enemies will be proven liars to you; and you will walk on their high places.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Deuteronomy 33:1, Simplified Bible (simplified.bible)</em>. <a href="/text/deuteronomy/33.txt">Plain text of Deuteronomy 33</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Deuteronomy/Chapter%2032.html" rel="prev">&larr; Deuteronomy 32</a>

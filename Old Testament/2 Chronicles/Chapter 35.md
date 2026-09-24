@@ -51,8 +51,6 @@ description: "2 Chronicles 35 in plain English: Josiah celebrated Passover for G
 
 # 2 Chronicles 35
 
-<p class="chapter-intro">2 Chronicles chapter 35 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Chronicles 35 audio">
@@ -123,8 +121,6 @@ description: "2 Chronicles 35 in plain English: Josiah celebrated Passover for G
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="2 Chronicles 35:27">27</a> His actions, from beginning to end, are recorded in the history book of Israel and Judah&#39;s kings.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Chronicles 35:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-chronicles/35.txt">Plain text of 2 Chronicles 35</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Chronicles/Chapter%2034.html" rel="prev">&larr; 2 Chronicles 34</a>

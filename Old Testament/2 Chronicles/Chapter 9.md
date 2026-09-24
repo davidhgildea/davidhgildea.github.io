@@ -51,8 +51,6 @@ description: "2 Chronicles 9 in plain English: When the queen of Sheba heard abo
 
 # 2 Chronicles 9
 
-<p class="chapter-intro">2 Chronicles chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Chronicles 9 audio">
@@ -131,8 +129,6 @@ description: "2 Chronicles 9 in plain English: When the queen of Sheba heard abo
 <p class="verse" id="v31"><a class="verse-num" href="#v31" aria-label="2 Chronicles 9:31">31</a> Solomon died and was buried in his father David&#39;s city. Then his son Rehoboam became king.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Chronicles 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-chronicles/9.txt">Plain text of 2 Chronicles 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Chronicles/Chapter%208.html" rel="prev">&larr; 2 Chronicles 8</a>

@@ -51,8 +51,6 @@ description: "Romans 6 in plain English: So what should we say? Should we keep s
 
 # Romans 6
 
-<p class="chapter-intro">Romans chapter 6 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Romans 6 audio">
@@ -115,8 +113,6 @@ description: "Romans 6 in plain English: So what should we say? Should we keep s
 <p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Romans 6:23">23</a> The payment for sin is death, but God&#39;s gift is eternal life in Jesus Christ our Lord.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Romans 6:1, Simplified Bible (simplified.bible)</em>. <a href="/text/romans/6.txt">Plain text of Romans 6</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Romans/Chapter%205.html" rel="prev">&larr; Romans 5</a>

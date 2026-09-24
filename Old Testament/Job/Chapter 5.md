@@ -51,8 +51,6 @@ description: "Job 5 in plain English: Call now; see if anyone will answer you; t
 
 # Job 5
 
-<p class="chapter-intro">Job chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Job 5 audio">
@@ -123,8 +121,6 @@ description: "Job 5 in plain English: Call now; see if anyone will answer you; t
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="Job 5:27">27</a> Look, we have checked this, so it is true; listen to it, and understand it for your benefit.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Job 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/job/5.txt">Plain text of Job 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Job/Chapter%204.html" rel="prev">&larr; Job 4</a>

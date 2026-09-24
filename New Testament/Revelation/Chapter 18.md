@@ -51,8 +51,6 @@ description: "Revelation 18 in plain English: After this I saw another angel com
 
 # Revelation 18
 
-<p class="chapter-intro">Revelation chapter 18 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Revelation 18 audio">
@@ -117,8 +115,6 @@ description: "Revelation 18 in plain English: After this I saw another angel com
 <p class="verse" id="v24"><a class="verse-num" href="#v24" aria-label="Revelation 18:24">24</a> In her, people found the blood of prophets, holy people, and everyone killed on earth.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Revelation 18:1, Simplified Bible (simplified.bible)</em>. <a href="/text/revelation/18.txt">Plain text of Revelation 18</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Revelation/Chapter%2017.html" rel="prev">&larr; Revelation 17</a>

@@ -51,8 +51,6 @@ description: "Revelation 13 in plain English: I stood on the sea's shore and saw
 
 # Revelation 13
 
-<p class="chapter-intro">Revelation chapter 13 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Revelation 13 audio">
@@ -105,8 +103,6 @@ description: "Revelation 13 in plain English: I stood on the sea's shore and saw
 <p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="Revelation 13:18">18</a> Here is wisdom: Let the person with understanding calculate the beast&#39;s number, for it is a man&#39;s number; and the number is six hundred sixty-six.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Revelation 13:1, Simplified Bible (simplified.bible)</em>. <a href="/text/revelation/13.txt">Plain text of Revelation 13</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Revelation/Chapter%2012.html" rel="prev">&larr; Revelation 12</a>

@@ -51,8 +51,6 @@ description: "Lamentations 2 in plain English: Why has God covered Zion's people
 
 # Lamentations 2
 
-<p class="chapter-intro">Lamentations chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Lamentations 2 audio">
@@ -113,8 +111,6 @@ description: "Lamentations 2 in plain English: Why has God covered Zion's people
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Lamentations 2:22">22</a> You called my fears around me like on a special day, so that when God was angry, no one escaped or was left: my enemy destroyed those I cared for and raised.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Lamentations 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/lamentations/2.txt">Plain text of Lamentations 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Lamentations/Chapter%201.html" rel="prev">&larr; Lamentations 1</a>

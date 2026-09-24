@@ -51,8 +51,6 @@ description: "Acts 13 in plain English: In the Antioch church, there were some p
 
 # Acts 13
 
-<p class="chapter-intro">Acts chapter 13 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Acts 13 audio">
@@ -173,8 +171,6 @@ description: "Acts 13 in plain English: In the Antioch church, there were some p
 <p class="verse" id="v52"><a class="verse-num" href="#v52" aria-label="Acts 13:52">52</a> The followers were filled with happiness and the Holy Spirit.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Acts 13:1, Simplified Bible (simplified.bible)</em>. <a href="/text/acts/13.txt">Plain text of Acts 13</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Acts/Chapter%2012.html" rel="prev">&larr; Acts 12</a>

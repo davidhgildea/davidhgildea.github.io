@@ -51,8 +51,6 @@ description: "Hosea 3 in plain English: God told me, \"Go, show love to a woman 
 
 # Hosea 3
 
-<p class="chapter-intro">Hosea chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Hosea 3 audio">
@@ -79,8 +77,6 @@ description: "Hosea 3 in plain English: God told me, \"Go, show love to a woman 
 <p class="verse" id="v5"><a class="verse-num" href="#v5" aria-label="Hosea 3:5">5</a> Later, the people of Israel will come back, look for God, and for David their king; they will respect God and his kindness in the future.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Hosea 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/hosea/3.txt">Plain text of Hosea 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Hosea/Chapter%202.html" rel="prev">&larr; Hosea 2</a>

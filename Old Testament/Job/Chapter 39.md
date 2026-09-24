@@ -51,8 +51,6 @@ description: "Job 39 in plain English: Do you know when the wild goats give birt
 
 # Job 39
 
-<p class="chapter-intro">Job chapter 39 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Job 39 audio">
@@ -129,8 +127,6 @@ description: "Job 39 in plain English: Do you know when the wild goats give birt
 <p class="verse" id="v30"><a class="verse-num" href="#v30" aria-label="Job 39:30">30</a> Her young ones also drink blood: and where there are dead bodies, there she is.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Job 39:1, Simplified Bible (simplified.bible)</em>. <a href="/text/job/39.txt">Plain text of Job 39</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Job/Chapter%2038.html" rel="prev">&larr; Job 38</a>

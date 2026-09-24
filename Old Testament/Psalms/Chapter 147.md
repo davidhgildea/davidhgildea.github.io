@@ -51,8 +51,6 @@ description: "Psalms 147 in plain English: Praise God: because it is good to sin
 
 # Psalms 147
 
-<p class="chapter-intro">Psalms chapter 147 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 147 audio">
@@ -109,8 +107,6 @@ description: "Psalms 147 in plain English: Praise God: because it is good to sin
 <p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="Psalms 147:20">20</a> God has not treated any other nation like this; they have not understood his laws. Praise God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 147:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/147.txt">Plain text of Psalms 147</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%20146.html" rel="prev">&larr; Psalms 146</a>

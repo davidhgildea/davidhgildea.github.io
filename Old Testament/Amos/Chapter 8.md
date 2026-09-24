@@ -51,8 +51,6 @@ description: "Amos 8 in plain English: God showed me this: Look, a basket of sum
 
 # Amos 8
 
-<p class="chapter-intro">Amos chapter 8 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Amos 8 audio">
@@ -97,8 +95,6 @@ description: "Amos 8 in plain English: God showed me this: Look, a basket of sum
 <p class="verse" id="v14"><a class="verse-num" href="#v14" aria-label="Amos 8:14">14</a> Those who swear by Samaria&#39;s sin and say, &quot;Your god, O Dan, is alive,&quot; and &quot;The way of Beersheba lives,&quot; will fall and never get up again.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Amos 8:1, Simplified Bible (simplified.bible)</em>. <a href="/text/amos/8.txt">Plain text of Amos 8</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Amos/Chapter%207.html" rel="prev">&larr; Amos 7</a>

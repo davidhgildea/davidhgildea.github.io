@@ -51,8 +51,6 @@ description: "Psalms 14 in plain English: The fool thinks to himself, there is n
 
 # Psalms 14
 
-<p class="chapter-intro">Psalms chapter 14 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 14 audio">
@@ -83,8 +81,6 @@ description: "Psalms 14 in plain English: The fool thinks to himself, there is n
 <p class="verse" id="v7"><a class="verse-num" href="#v7" aria-label="Psalms 14:7">7</a> I wish God would save Israel from Zion! When God frees his people, Jacob will be happy, and Israel will be joyful.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 14:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/14.txt">Plain text of Psalms 14</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2013.html" rel="prev">&larr; Psalms 13</a>

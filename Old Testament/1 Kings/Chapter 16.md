@@ -51,8 +51,6 @@ description: "1 Kings 16 in plain English: God's message came to Jehu, Hanani's 
 
 # 1 Kings 16
 
-<p class="chapter-intro">1 Kings chapter 16 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Kings 16 audio">
@@ -137,8 +135,6 @@ description: "1 Kings 16 in plain English: God's message came to Jehu, Hanani's 
 <p class="verse" id="v34"><a class="verse-num" href="#v34" aria-label="1 Kings 16:34">34</a> During Hiel the Bethelite&#39;s time, he rebuilt Jericho. He started the work at the cost of his oldest son Abiram&#39;s life, and finished it at the cost of his youngest son Segub&#39;s life. This happened as God had said through Joshua, Nun&#39;s son.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Kings 16:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-kings/16.txt">Plain text of 1 Kings 16</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Kings/Chapter%2015.html" rel="prev">&larr; 1 Kings 15</a>

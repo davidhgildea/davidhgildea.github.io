@@ -51,8 +51,6 @@ description: "Numbers 24 in plain English: When Balaam saw that God wanted to bl
 
 # Numbers 24
 
-<p class="chapter-intro">Numbers chapter 24 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Numbers 24 audio">
@@ -119,8 +117,6 @@ description: "Numbers 24 in plain English: When Balaam saw that God wanted to bl
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Numbers 24:25">25</a> Balaam got up, went back to his home, and Balak went on his way too.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Numbers 24:1, Simplified Bible (simplified.bible)</em>. <a href="/text/numbers/24.txt">Plain text of Numbers 24</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Numbers/Chapter%2023.html" rel="prev">&larr; Numbers 23</a>

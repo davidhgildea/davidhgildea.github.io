@@ -51,8 +51,6 @@ description: "Numbers 31 in plain English: God spoke to Moses, saying, Get justi
 
 # Numbers 31
 
-<p class="chapter-intro">Numbers chapter 31 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Numbers 31 audio">
@@ -177,8 +175,6 @@ description: "Numbers 31 in plain English: God spoke to Moses, saying, Get justi
 <p class="verse" id="v54"><a class="verse-num" href="#v54" aria-label="Numbers 31:54">54</a> Moses and Eleazar the priest took the gold from the leaders of thousands and hundreds and brought it to the meeting tent as a reminder for the Israelites before God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Numbers 31:1, Simplified Bible (simplified.bible)</em>. <a href="/text/numbers/31.txt">Plain text of Numbers 31</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Numbers/Chapter%2030.html" rel="prev">&larr; Numbers 30</a>

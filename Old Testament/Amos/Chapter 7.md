@@ -51,8 +51,6 @@ description: "Amos 7 in plain English: God showed me this: I saw him create locu
 
 # Amos 7
 
-<p class="chapter-intro">Amos chapter 7 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Amos 7 audio">
@@ -103,8 +101,6 @@ description: "Amos 7 in plain English: God showed me this: I saw him create locu
 <p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="Amos 7:17">17</a> So God says: Your wife will be unfaithful in the city, your sons and daughters will be killed with swords, your land will be split up, and you will die in a dirty land. Israel will definitely be taken as prisoners out of their land.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Amos 7:1, Simplified Bible (simplified.bible)</em>. <a href="/text/amos/7.txt">Plain text of Amos 7</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Amos/Chapter%206.html" rel="prev">&larr; Amos 6</a>

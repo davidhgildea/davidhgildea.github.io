@@ -51,8 +51,6 @@ description: "Proverbs 22 in plain English: Having a good reputation is better t
 
 # Proverbs 22
 
-<p class="chapter-intro">Proverbs chapter 22 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Proverbs 22 audio">
@@ -127,8 +125,6 @@ description: "Proverbs 22 in plain English: Having a good reputation is better t
 <p class="verse" id="v29"><a class="verse-num" href="#v29" aria-label="Proverbs 22:29">29</a> Do you see a person who works hard in their work? They will be in the presence of rulers; they will not be in the presence of ordinary people.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Proverbs 22:1, Simplified Bible (simplified.bible)</em>. <a href="/text/proverbs/22.txt">Plain text of Proverbs 22</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Proverbs/Chapter%2021.html" rel="prev">&larr; Proverbs 21</a>

@@ -51,8 +51,6 @@ description: "Psalms 37 in plain English: Don't worry about wrongdoers, and don'
 
 # Psalms 37
 
-<p class="chapter-intro">Psalms chapter 37 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 37 audio">
@@ -149,8 +147,6 @@ description: "Psalms 37 in plain English: Don't worry about wrongdoers, and don'
 <p class="verse" id="v40"><a class="verse-num" href="#v40" aria-label="Psalms 37:40">40</a> God will help them and rescue them; He will save them from the wicked because they rely on Him.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 37:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/37.txt">Plain text of Psalms 37</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2036.html" rel="prev">&larr; Psalms 36</a>

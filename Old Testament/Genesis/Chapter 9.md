@@ -51,8 +51,6 @@ description: "Genesis 9 in plain English: God blessed Noah and his sons and said
 
 # Genesis 9
 
-<p class="chapter-intro">Genesis chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 9 audio">
@@ -127,8 +125,6 @@ description: "Genesis 9 in plain English: God blessed Noah and his sons and said
 <p class="verse" id="v29"><a class="verse-num" href="#v29" aria-label="Genesis 9:29">29</a> Noah lived for 950 years, then he died.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/9.txt">Plain text of Genesis 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%208.html" rel="prev">&larr; Genesis 8</a>

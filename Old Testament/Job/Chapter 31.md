@@ -51,8 +51,6 @@ description: "Job 31 in plain English: I promised myself not to look with desire
 
 # Job 31
 
-<p class="chapter-intro">Job chapter 31 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Job 31 audio">
@@ -149,8 +147,6 @@ description: "Job 31 in plain English: I promised myself not to look with desire
 <p class="verse" id="v40"><a class="verse-num" href="#v40" aria-label="Job 31:40">40</a> Let weeds grow instead of wheat, and useless plants instead of barley. Job has finished speaking.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Job 31:1, Simplified Bible (simplified.bible)</em>. <a href="/text/job/31.txt">Plain text of Job 31</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Job/Chapter%2030.html" rel="prev">&larr; Job 30</a>

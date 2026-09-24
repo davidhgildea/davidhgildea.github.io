@@ -51,8 +51,6 @@ description: "Song of Solomon 3 in plain English: At night in my bed, I searched
 
 # Song of Solomon 3
 
-<p class="chapter-intro">Song of Solomon chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Song of Solomon 3 audio">
@@ -91,8 +89,6 @@ description: "Song of Solomon 3 in plain English: At night in my bed, I searched
 <p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Song of Solomon 3:11">11</a> Go out, daughters of Zion, and see King Solomon wearing the crown his mother gave him on his wedding day, and on the day he was very happy.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Song of Solomon 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/song-of-solomon/3.txt">Plain text of Song of Solomon 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Song%20of%20Solomon/Chapter%202.html" rel="prev">&larr; Song of Solomon 2</a>

@@ -51,8 +51,6 @@ description: "Proverbs 19 in plain English: It is better to be poor and honest t
 
 # Proverbs 19
 
-<p class="chapter-intro">Proverbs chapter 19 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Proverbs 19 audio">
@@ -127,8 +125,6 @@ description: "Proverbs 19 in plain English: It is better to be poor and honest t
 <p class="verse" id="v29"><a class="verse-num" href="#v29" aria-label="Proverbs 19:29">29</a> Punishments are ready for mockers, and beatings for the backs of fools.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Proverbs 19:1, Simplified Bible (simplified.bible)</em>. <a href="/text/proverbs/19.txt">Plain text of Proverbs 19</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Proverbs/Chapter%2018.html" rel="prev">&larr; Proverbs 18</a>

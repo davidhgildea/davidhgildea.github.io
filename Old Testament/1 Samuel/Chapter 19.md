@@ -51,8 +51,6 @@ description: "1 Samuel 19 in plain English: Saul told his son Jonathan and all h
 
 # 1 Samuel 19
 
-<p class="chapter-intro">1 Samuel chapter 19 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Samuel 19 audio">
@@ -117,8 +115,6 @@ description: "1 Samuel 19 in plain English: Saul told his son Jonathan and all h
 <p class="verse" id="v24"><a class="verse-num" href="#v24" aria-label="1 Samuel 19:24">24</a> He also took off his clothes, and before Samuel, he acted like a prophet. He lay there without clothes all day and night. That&#39;s why people ask, &quot;Is Saul also a prophet?&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Samuel 19:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-samuel/19.txt">Plain text of 1 Samuel 19</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Samuel/Chapter%2018.html" rel="prev">&larr; 1 Samuel 18</a>

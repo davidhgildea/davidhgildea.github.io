@@ -51,8 +51,6 @@ description: "Jeremiah 13 in plain English: God said to me, \"Go and buy a linen
 
 # Jeremiah 13
 
-<p class="chapter-intro">Jeremiah chapter 13 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 13 audio">
@@ -123,8 +121,6 @@ description: "Jeremiah 13 in plain English: God said to me, \"Go and buy a linen
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="Jeremiah 13:27">27</a> I have seen your unfaithfulness and your wild desires, the shameful acts of your prostitution, and the disgusting things you do on the hills in the fields. How terrible for you, Jerusalem! Will you ever be clean? When will it happen?</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 13:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/13.txt">Plain text of Jeremiah 13</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2012.html" rel="prev">&larr; Jeremiah 12</a>

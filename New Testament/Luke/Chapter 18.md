@@ -51,8 +51,6 @@ description: "Luke 18 in plain English: He told them a story to show that they s
 
 # Luke 18
 
-<p class="chapter-intro">Luke chapter 18 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Luke 18 audio">
@@ -155,8 +153,6 @@ description: "Luke 18 in plain English: He told them a story to show that they s
 <p class="verse" id="v43"><a class="verse-num" href="#v43" aria-label="Luke 18:43">43</a> Right away he could see, and he followed him, praising God; and when all the people saw this, they also praised God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Luke 18:1, Simplified Bible (simplified.bible)</em>. <a href="/text/luke/18.txt">Plain text of Luke 18</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Luke/Chapter%2017.html" rel="prev">&larr; Luke 17</a>

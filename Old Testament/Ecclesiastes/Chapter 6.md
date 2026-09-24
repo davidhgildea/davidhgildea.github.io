@@ -51,8 +51,6 @@ description: "Ecclesiastes 6 in plain English: I have seen a bad thing everywher
 
 # Ecclesiastes 6
 
-<p class="chapter-intro">Ecclesiastes chapter 6 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ecclesiastes 6 audio">
@@ -93,8 +91,6 @@ description: "Ecclesiastes 6 in plain English: I have seen a bad thing everywher
 <p class="verse" id="v12"><a class="verse-num" href="#v12" aria-label="Ecclesiastes 6:12">12</a> Who knows what is best for a person in life, during the meaningless days they pass like a shadow? Who can tell anyone what will happen after them under the sun?</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ecclesiastes 6:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ecclesiastes/6.txt">Plain text of Ecclesiastes 6</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ecclesiastes/Chapter%205.html" rel="prev">&larr; Ecclesiastes 5</a>

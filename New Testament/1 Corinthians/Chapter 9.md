@@ -51,8 +51,6 @@ description: "1 Corinthians 9 in plain English: Am I not a messenger? Am I not f
 
 # 1 Corinthians 9
 
-<p class="chapter-intro">1 Corinthians chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Corinthians 9 audio">
@@ -123,8 +121,6 @@ description: "1 Corinthians 9 in plain English: Am I not a messenger? Am I not f
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="1 Corinthians 9:27">27</a> But I discipline my body and keep it under control, so that after telling others, I myself will not be disqualified.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Corinthians 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-corinthians/9.txt">Plain text of 1 Corinthians 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/1%20Corinthians/Chapter%208.html" rel="prev">&larr; 1 Corinthians 8</a>

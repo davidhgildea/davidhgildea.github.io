@@ -51,8 +51,6 @@ description: "Psalms 65 in plain English: Praise is ready for you, God, in Zion;
 
 # Psalms 65
 
-<p class="chapter-intro">Psalms chapter 65 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 65 audio">
@@ -95,8 +93,6 @@ description: "Psalms 65 in plain English: Praise is ready for you, God, in Zion;
 <p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Psalms 65:13">13</a> Fields are filled with herds; valleys are blanketed with grain. They cheer and sing.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 65:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/65.txt">Plain text of Psalms 65</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2064.html" rel="prev">&larr; Psalms 64</a>

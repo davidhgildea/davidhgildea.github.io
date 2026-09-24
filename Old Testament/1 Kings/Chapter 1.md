@@ -51,8 +51,6 @@ description: "1 Kings 1 in plain English: King David was old and very weak; they
 
 # 1 Kings 1
 
-<p class="chapter-intro">1 Kings chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Kings 1 audio">
@@ -175,8 +173,6 @@ description: "1 Kings 1 in plain English: King David was old and very weak; they
 <p class="verse" id="v53"><a class="verse-num" href="#v53" aria-label="1 Kings 1:53">53</a> King Solomon sent for him, and they took him from the altar. He came and bowed down to King Solomon, and Solomon told him, &quot;Go to your home.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Kings 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-kings/1.txt">Plain text of 1 Kings 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Samuel/Chapter%2024.html" rel="prev">&larr; 2 Samuel 24</a>

@@ -51,8 +51,6 @@ description: "Psalms 76 in plain English: God is known in Judah; His name is gre
 
 # Psalms 76
 
-<p class="chapter-intro">Psalms chapter 76 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 76 audio">
@@ -93,8 +91,6 @@ description: "Psalms 76 in plain English: God is known in Judah; His name is gre
 <p class="verse" id="v12"><a class="verse-num" href="#v12" aria-label="Psalms 76:12">12</a> He will end the power of rulers; he is fearsome to the kings of the world.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 76:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/76.txt">Plain text of Psalms 76</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2075.html" rel="prev">&larr; Psalms 75</a>

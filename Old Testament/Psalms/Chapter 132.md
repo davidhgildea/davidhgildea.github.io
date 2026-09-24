@@ -51,8 +51,6 @@ description: "Psalms 132 in plain English: God, remember David and all his hards
 
 # Psalms 132
 
-<p class="chapter-intro">Psalms chapter 132 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 132 audio">
@@ -105,8 +103,6 @@ description: "Psalms 132 in plain English: God, remember David and all his hards
 <p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="Psalms 132:18">18</a> I will cover his enemies with shame, but his own crown will thrive.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 132:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/132.txt">Plain text of Psalms 132</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%20131.html" rel="prev">&larr; Psalms 131</a>

@@ -51,8 +51,6 @@ description: "Psalms 6 in plain English: God, do not scold me in your anger or d
 
 # Psalms 6
 
-<p class="chapter-intro">Psalms chapter 6 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 6 audio">
@@ -89,8 +87,6 @@ description: "Psalms 6 in plain English: God, do not scold me in your anger or d
 <p class="verse" id="v10"><a class="verse-num" href="#v10" aria-label="Psalms 6:10">10</a> May all my enemies feel embarrassed and very upset; may they turn back and suddenly feel shame.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 6:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/6.txt">Plain text of Psalms 6</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%205.html" rel="prev">&larr; Psalms 5</a>

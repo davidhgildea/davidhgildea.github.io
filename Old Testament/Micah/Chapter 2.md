@@ -51,8 +51,6 @@ description: "Micah 2 in plain English: Trouble to those who plan bad things and
 
 # Micah 2
 
-<p class="chapter-intro">Micah chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Micah 2 audio">
@@ -95,8 +93,6 @@ description: "Micah 2 in plain English: Trouble to those who plan bad things and
 <p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Micah 2:13">13</a> The leader has gone ahead of them: they have smashed through, walked through the gate, and left by it: their king will lead them, with God at their front.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Micah 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/micah/2.txt">Plain text of Micah 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Micah/Chapter%201.html" rel="prev">&larr; Micah 1</a>

@@ -51,8 +51,6 @@ description: "Genesis 41 in plain English: After two whole years, Pharaoh had a 
 
 # Genesis 41
 
-<p class="chapter-intro">Genesis chapter 41 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 41 audio">
@@ -183,8 +181,6 @@ description: "Genesis 41 in plain English: After two whole years, Pharaoh had a 
 <p class="verse" id="v57"><a class="verse-num" href="#v57" aria-label="Genesis 41:57">57</a> People from every country went to Egypt to buy grain from Joseph because the famine was very severe everywhere.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 41:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/41.txt">Plain text of Genesis 41</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%2040.html" rel="prev">&larr; Genesis 40</a>

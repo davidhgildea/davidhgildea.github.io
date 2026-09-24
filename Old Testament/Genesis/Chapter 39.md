@@ -51,8 +51,6 @@ description: "Genesis 39 in plain English: Joseph was taken to Egypt; Potiphar, 
 
 # Genesis 39
 
-<p class="chapter-intro">Genesis chapter 39 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 39 audio">
@@ -115,8 +113,6 @@ description: "Genesis 39 in plain English: Joseph was taken to Egypt; Potiphar, 
 <p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Genesis 39:23">23</a> The prison guard did not worry about anything in his care; because God was with Joseph, and God made everything Joseph did successful.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 39:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/39.txt">Plain text of Genesis 39</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%2038.html" rel="prev">&larr; Genesis 38</a>

@@ -51,8 +51,6 @@ description: "Psalms 35 in plain English: God, defend me against those who argue
 
 # Psalms 35
 
-<p class="chapter-intro">Psalms chapter 35 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 35 audio">
@@ -125,8 +123,6 @@ description: "Psalms 35 in plain English: God, defend me against those who argue
 <p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="Psalms 35:28">28</a> My tongue will talk about your goodness and praise you all day long.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 35:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/35.txt">Plain text of Psalms 35</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2034.html" rel="prev">&larr; Psalms 34</a>

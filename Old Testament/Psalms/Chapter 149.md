@@ -51,8 +51,6 @@ description: "Psalms 149 in plain English: Praise God. Sing to God a new song, a
 
 # Psalms 149
 
-<p class="chapter-intro">Psalms chapter 149 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 149 audio">
@@ -87,8 +85,6 @@ description: "Psalms 149 in plain English: Praise God. Sing to God a new song, a
 <p class="verse" id="v9"><a class="verse-num" href="#v9" aria-label="Psalms 149:9">9</a> To carry out the written judgment on them: all God&#39;s saints have this honor. Praise God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 149:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/149.txt">Plain text of Psalms 149</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%20148.html" rel="prev">&larr; Psalms 148</a>

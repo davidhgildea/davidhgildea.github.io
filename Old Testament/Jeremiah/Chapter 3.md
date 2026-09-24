@@ -51,8 +51,6 @@ description: "Jeremiah 3 in plain English: People ask, \"If a man divorces his w
 
 # Jeremiah 3
 
-<p class="chapter-intro">Jeremiah chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 3 audio">
@@ -119,8 +117,6 @@ description: "Jeremiah 3 in plain English: People ask, \"If a man divorces his w
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Jeremiah 3:25">25</a> We lay in our shame, and our disgrace covers us: because we have sinned against God, both we and our ancestors, from our youth to this day, and have not listened to God&#39;s voice.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/3.txt">Plain text of Jeremiah 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%202.html" rel="prev">&larr; Jeremiah 2</a>

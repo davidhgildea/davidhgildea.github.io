@@ -51,8 +51,6 @@ description: "Exodus 29 in plain English: Do this to make them holy so they can 
 
 # Exodus 29
 
-<p class="chapter-intro">Exodus chapter 29 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Exodus 29 audio">
@@ -161,8 +159,6 @@ description: "Exodus 29 in plain English: Do this to make them holy so they can 
 <p class="verse" id="v46"><a class="verse-num" href="#v46" aria-label="Exodus 29:46">46</a> They will understand that I am their God, who led them out of Egypt so I can live with them: I am their God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Exodus 29:1, Simplified Bible (simplified.bible)</em>. <a href="/text/exodus/29.txt">Plain text of Exodus 29</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Exodus/Chapter%2028.html" rel="prev">&larr; Exodus 28</a>

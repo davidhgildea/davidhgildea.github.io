@@ -51,8 +51,6 @@ description: "Exodus 23 in plain English: Do not spread false rumors or join han
 
 # Exodus 23
 
-<p class="chapter-intro">Exodus chapter 23 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Exodus 23 audio">
@@ -135,8 +133,6 @@ description: "Exodus 23 in plain English: Do not spread false rumors or join han
 <p class="verse" id="v33"><a class="verse-num" href="#v33" aria-label="Exodus 23:33">33</a> They must not live in your land, or they will make you sin against me; if you worship their gods, it will certainly trap you.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Exodus 23:1, Simplified Bible (simplified.bible)</em>. <a href="/text/exodus/23.txt">Plain text of Exodus 23</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Exodus/Chapter%2022.html" rel="prev">&larr; Exodus 22</a>

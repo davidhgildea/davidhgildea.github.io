@@ -51,8 +51,6 @@ description: "Isaiah 6 in plain English: The year King Uzziah died, I saw God on
 
 # Isaiah 6
 
-<p class="chapter-intro">Isaiah chapter 6 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 6 audio">
@@ -95,8 +93,6 @@ description: "Isaiah 6 in plain English: The year King Uzziah died, I saw God on
 <p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Isaiah 6:13">13</a> In it, a tenth will remain, and it will revive and be used for food. Like a terebinth or an oak tree that keeps its strength even when it loses its leaves, so will the holy people be the strength of the land.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 6:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/6.txt">Plain text of Isaiah 6</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%205.html" rel="prev">&larr; Isaiah 5</a>

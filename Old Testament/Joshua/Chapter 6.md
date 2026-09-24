@@ -51,8 +51,6 @@ description: "Joshua 6 in plain English: Jericho was tightly closed because of t
 
 # Joshua 6
 
-<p class="chapter-intro">Joshua chapter 6 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Joshua 6 audio">
@@ -123,8 +121,6 @@ description: "Joshua 6 in plain English: Jericho was tightly closed because of t
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="Joshua 6:27">27</a> God was with Joshua, and his reputation spread across the whole land.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Joshua 6:1, Simplified Bible (simplified.bible)</em>. <a href="/text/joshua/6.txt">Plain text of Joshua 6</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Joshua/Chapter%205.html" rel="prev">&larr; Joshua 5</a>

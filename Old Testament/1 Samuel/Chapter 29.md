@@ -51,8 +51,6 @@ description: "1 Samuel 29 in plain English: The Philistines brought all their ar
 
 # 1 Samuel 29
 
-<p class="chapter-intro">1 Samuel chapter 29 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Samuel 29 audio">
@@ -91,8 +89,6 @@ description: "1 Samuel 29 in plain English: The Philistines brought all their ar
 <p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="1 Samuel 29:11">11</a> David and his men got up early in the morning to leave and go back to the land of the Philistines. The Philistines went to Jezreel.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Samuel 29:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-samuel/29.txt">Plain text of 1 Samuel 29</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Samuel/Chapter%2028.html" rel="prev">&larr; 1 Samuel 28</a>

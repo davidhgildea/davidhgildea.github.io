@@ -51,8 +51,6 @@ description: "Genesis 37 in plain English: Jacob lived in the land where his fat
 
 # Genesis 37
 
-<p class="chapter-intro">Genesis chapter 37 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 37 audio">
@@ -141,8 +139,6 @@ description: "Genesis 37 in plain English: Jacob lived in the land where his fat
 <p class="verse" id="v36"><a class="verse-num" href="#v36" aria-label="Genesis 37:36">36</a> The Midianites sold him to Potiphar in Egypt, who was an official of the king and the captain of the guard.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 37:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/37.txt">Plain text of Genesis 37</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%2036.html" rel="prev">&larr; Genesis 36</a>

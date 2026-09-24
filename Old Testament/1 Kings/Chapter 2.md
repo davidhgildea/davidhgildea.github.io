@@ -51,8 +51,6 @@ description: "1 Kings 2 in plain English: David's time to die was near, so he to
 
 # 1 Kings 2
 
-<p class="chapter-intro">1 Kings chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Kings 2 audio">
@@ -161,8 +159,6 @@ description: "1 Kings 2 in plain English: David's time to die was near, so he to
 <p class="verse" id="v46"><a class="verse-num" href="#v46" aria-label="1 Kings 2:46">46</a> The king told Benaiah, Jehoiada&#39;s son, to kill him, and he did. So Solomon&#39;s rule was made secure.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Kings 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-kings/2.txt">Plain text of 1 Kings 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Kings/Chapter%201.html" rel="prev">&larr; 1 Kings 1</a>

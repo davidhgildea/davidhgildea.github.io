@@ -51,8 +51,6 @@ description: "Leviticus 4 in plain English: God spoke to Moses, saying, Tell the
 
 # Leviticus 4
 
-<p class="chapter-intro">Leviticus chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Leviticus 4 audio">
@@ -139,8 +137,6 @@ description: "Leviticus 4 in plain English: God spoke to Moses, saying, Tell the
 <p class="verse" id="v35"><a class="verse-num" href="#v35" aria-label="Leviticus 4:35">35</a> He will remove all the fat like the fat removed from the peace offering lamb; the priest will burn it on the altar as a fire offering to God. The priest will perform a ritual to forgive his sin, and he will be forgiven.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Leviticus 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/leviticus/4.txt">Plain text of Leviticus 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Leviticus/Chapter%203.html" rel="prev">&larr; Leviticus 3</a>

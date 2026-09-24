@@ -51,8 +51,6 @@ description: "Judges 3 in plain English: These are the nations God left to test 
 
 # Judges 3
 
-<p class="chapter-intro">Judges chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Judges 3 audio">
@@ -131,8 +129,6 @@ description: "Judges 3 in plain English: These are the nations God left to test 
 <p class="verse" id="v31"><a class="verse-num" href="#v31" aria-label="Judges 3:31">31</a> After him, Shamgar son of Anath killed 600 Philistine men with an ox-goad and he also saved Israel.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Judges 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/judges/3.txt">Plain text of Judges 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Judges/Chapter%202.html" rel="prev">&larr; Judges 2</a>

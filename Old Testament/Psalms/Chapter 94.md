@@ -51,8 +51,6 @@ description: "Psalms 94 in plain English: God, who owns revenge, show yourself. 
 
 # Psalms 94
 
-<p class="chapter-intro">Psalms chapter 94 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 94 audio">
@@ -115,8 +113,6 @@ description: "Psalms 94 in plain English: God, who owns revenge, show yourself. 
 <p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Psalms 94:23">23</a> He will make them suffer for their sins and will completely destroy them because of their evil; yes, our God will wipe them out.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 94:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/94.txt">Plain text of Psalms 94</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2093.html" rel="prev">&larr; Psalms 93</a>

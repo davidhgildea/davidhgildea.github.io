@@ -51,8 +51,6 @@ description: "Job 21 in plain English: Job replied, Listen carefully to what I s
 
 # Job 21
 
-<p class="chapter-intro">Job chapter 21 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Job 21 audio">
@@ -137,8 +135,6 @@ description: "Job 21 in plain English: Job replied, Listen carefully to what I s
 <p class="verse" id="v34"><a class="verse-num" href="#v34" aria-label="Job 21:34">34</a> So how can you comfort me with nonsense, when your answers are full of lies?</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Job 21:1, Simplified Bible (simplified.bible)</em>. <a href="/text/job/21.txt">Plain text of Job 21</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Job/Chapter%2020.html" rel="prev">&larr; Job 20</a>

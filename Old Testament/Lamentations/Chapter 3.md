@@ -51,8 +51,6 @@ description: "Lamentations 3 in plain English: I am the man who has seen sufferi
 
 # Lamentations 3
 
-<p class="chapter-intro">Lamentations chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Lamentations 3 audio">
@@ -201,8 +199,6 @@ description: "Lamentations 3 in plain English: I am the man who has seen sufferi
 <p class="verse" id="v66"><a class="verse-num" href="#v66" aria-label="Lamentations 3:66">66</a> Punish and wipe them out in anger from beneath the skies of God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Lamentations 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/lamentations/3.txt">Plain text of Lamentations 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Lamentations/Chapter%202.html" rel="prev">&larr; Lamentations 2</a>

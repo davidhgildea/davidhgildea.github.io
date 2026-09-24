@@ -51,8 +51,6 @@ description: "Deuteronomy 18 in plain English: The Levite priests and the whole 
 
 # Deuteronomy 18
 
-<p class="chapter-intro">Deuteronomy chapter 18 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Deuteronomy 18 audio">
@@ -113,8 +111,6 @@ description: "Deuteronomy 18 in plain English: The Levite priests and the whole 
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Deuteronomy 18:22">22</a> When a prophet claims to speak for God, if what they say doesn&#39;t happen, it is not a message from God. The prophet spoke arrogantly. You should not fear them.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Deuteronomy 18:1, Simplified Bible (simplified.bible)</em>. <a href="/text/deuteronomy/18.txt">Plain text of Deuteronomy 18</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Deuteronomy/Chapter%2017.html" rel="prev">&larr; Deuteronomy 17</a>

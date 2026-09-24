@@ -51,8 +51,6 @@ description: "Acts 20 in plain English: After the disturbance stopped, Paul gath
 
 # Acts 20
 
-<p class="chapter-intro">Acts chapter 20 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Acts 20 audio">
@@ -145,8 +143,6 @@ description: "Acts 20 in plain English: After the disturbance stopped, Paul gath
 <p class="verse" id="v38"><a class="verse-num" href="#v38" aria-label="Acts 20:38">38</a> They were very sad because he said they would never see him again. And they went with him to the boat.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Acts 20:1, Simplified Bible (simplified.bible)</em>. <a href="/text/acts/20.txt">Plain text of Acts 20</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Acts/Chapter%2019.html" rel="prev">&larr; Acts 19</a>

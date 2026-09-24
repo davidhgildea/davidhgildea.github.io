@@ -51,8 +51,6 @@ description: "Luke 16 in plain English: He also told his disciples, \"There was 
 
 # Luke 16
 
-<p class="chapter-intro">Luke chapter 16 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Luke 16 audio">
@@ -131,8 +129,6 @@ description: "Luke 16 in plain English: He also told his disciples, \"There was 
 <p class="verse" id="v31"><a class="verse-num" href="#v31" aria-label="Luke 16:31">31</a> He told him, &quot;If they don&#39;t listen to Moses and the prophets, they won&#39;t be convinced even if someone rises from the dead.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Luke 16:1, Simplified Bible (simplified.bible)</em>. <a href="/text/luke/16.txt">Plain text of Luke 16</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Luke/Chapter%2015.html" rel="prev">&larr; Luke 15</a>

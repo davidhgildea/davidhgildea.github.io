@@ -51,8 +51,6 @@ description: "Micah 4 in plain English: In the future, God's house on the mounta
 
 # Micah 4
 
-<p class="chapter-intro">Micah chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Micah 4 audio">
@@ -95,8 +93,6 @@ description: "Micah 4 in plain English: In the future, God's house on the mounta
 <p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Micah 4:13">13</a> Get up and crush, O daughter of Zion, for I will make your strength iron, and I will make your feet brass, and you will break many people into pieces, and I will dedicate their wealth to God, and their possessions to the God of the whole earth.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Micah 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/micah/4.txt">Plain text of Micah 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Micah/Chapter%203.html" rel="prev">&larr; Micah 3</a>

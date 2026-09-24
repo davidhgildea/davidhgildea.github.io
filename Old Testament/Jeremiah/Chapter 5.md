@@ -51,8 +51,6 @@ description: "Jeremiah 5 in plain English: Go through Jerusalem's streets, look 
 
 # Jeremiah 5
 
-<p class="chapter-intro">Jeremiah chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 5 audio">
@@ -131,8 +129,6 @@ description: "Jeremiah 5 in plain English: Go through Jerusalem's streets, look 
 <p class="verse" id="v31"><a class="verse-num" href="#v31" aria-label="Jeremiah 5:31">31</a> The prophets tell lies, and the priests lead with their help; and my people like it that way: but what will you do when it all ends?</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/5.txt">Plain text of Jeremiah 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%204.html" rel="prev">&larr; Jeremiah 4</a>

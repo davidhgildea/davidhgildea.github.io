@@ -51,8 +51,6 @@ description: "Psalms 51 in plain English: Be kind to me, God, because of your lo
 
 # Psalms 51
 
-<p class="chapter-intro">Psalms chapter 51 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 51 audio">
@@ -107,8 +105,6 @@ description: "Psalms 51 in plain English: Be kind to me, God, because of your lo
 <p class="verse" id="v19"><a class="verse-num" href="#v19" aria-label="Psalms 51:19">19</a> Then you will be happy with the right sacrifices, with burnt offerings and complete burnt offerings; then they will present bulls on your altar.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 51:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/51.txt">Plain text of Psalms 51</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2050.html" rel="prev">&larr; Psalms 50</a>

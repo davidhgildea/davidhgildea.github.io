@@ -51,8 +51,6 @@ description: "Philippians 2 in plain English: So, if there is any comfort from b
 
 # Philippians 2
 
-<p class="chapter-intro">Philippians chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Philippians 2 audio">
@@ -129,8 +127,6 @@ description: "Philippians 2 in plain English: So, if there is any comfort from b
 <p class="verse" id="v30"><a class="verse-num" href="#v30" aria-label="Philippians 2:30">30</a> He was near death because of his work for Christ, risking his life to help me when you could not.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Philippians 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/philippians/2.txt">Plain text of Philippians 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Philippians/Chapter%201.html" rel="prev">&larr; Philippians 1</a>

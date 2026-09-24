@@ -51,8 +51,6 @@ description: "Proverbs 10 in plain English: Solomon's proverbs. A smart son make
 
 # Proverbs 10
 
-<p class="chapter-intro">Proverbs chapter 10 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Proverbs 10 audio">
@@ -133,8 +131,6 @@ description: "Proverbs 10 in plain English: Solomon's proverbs. A smart son make
 <p class="verse" id="v32"><a class="verse-num" href="#v32" aria-label="Proverbs 10:32">32</a> The good person&#39;s words are right, but the bad person&#39;s words are twisted.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Proverbs 10:1, Simplified Bible (simplified.bible)</em>. <a href="/text/proverbs/10.txt">Plain text of Proverbs 10</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Proverbs/Chapter%209.html" rel="prev">&larr; Proverbs 9</a>

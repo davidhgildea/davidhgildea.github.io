@@ -51,8 +51,6 @@ description: "2 Chronicles 20 in plain English: After this, the people of Moab a
 
 # 2 Chronicles 20
 
-<p class="chapter-intro">2 Chronicles chapter 20 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Chronicles 20 audio">
@@ -143,8 +141,6 @@ description: "2 Chronicles 20 in plain English: After this, the people of Moab a
 <p class="verse" id="v37"><a class="verse-num" href="#v37" aria-label="2 Chronicles 20:37">37</a> Eliezer, Dodavah&#39;s son from Mareshah, warned Jehoshaphat, saying, &quot;Because you teamed up with Ahaziah, God has ruined what you did. And the ships were wrecked so they couldn&#39;t sail to Tarshish.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Chronicles 20:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-chronicles/20.txt">Plain text of 2 Chronicles 20</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Chronicles/Chapter%2019.html" rel="prev">&larr; 2 Chronicles 19</a>

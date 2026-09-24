@@ -51,8 +51,6 @@ description: "2 Samuel 11 in plain English: After a year ended, when kings usual
 
 # 2 Samuel 11
 
-<p class="chapter-intro">2 Samuel chapter 11 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Samuel 11 audio">
@@ -123,8 +121,6 @@ description: "2 Samuel 11 in plain English: After a year ended, when kings usual
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="2 Samuel 11:27">27</a> After the mourning ended, David brought her to his house, she became his wife, and had a son for him. But what David did made God unhappy.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Samuel 11:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-samuel/11.txt">Plain text of 2 Samuel 11</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Samuel/Chapter%2010.html" rel="prev">&larr; 2 Samuel 10</a>

@@ -51,8 +51,6 @@ description: "Micah 3 in plain English: And I said, please listen, leaders of Ja
 
 # Micah 3
 
-<p class="chapter-intro">Micah chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Micah 3 audio">
@@ -93,8 +91,6 @@ description: "Micah 3 in plain English: And I said, please listen, leaders of Ja
 <p class="verse" id="v12"><a class="verse-num" href="#v12" aria-label="Micah 3:12">12</a> So, because of you, Zion will be plowed like a field, Jerusalem will turn into piles of rubble, and the temple hill will become like overgrown hilltops.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Micah 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/micah/3.txt">Plain text of Micah 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Micah/Chapter%202.html" rel="prev">&larr; Micah 2</a>

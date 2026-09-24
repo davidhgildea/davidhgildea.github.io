@@ -51,8 +51,6 @@ description: "Luke 3 in plain English: In the fifteenth year when Tiberius Caesa
 
 # Luke 3
 
-<p class="chapter-intro">Luke chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Luke 3 audio">
@@ -145,8 +143,6 @@ description: "Luke 3 in plain English: In the fifteenth year when Tiberius Caesa
 <p class="verse" id="v38"><a class="verse-num" href="#v38" aria-label="Luke 3:38">38</a> He was Enos&#39;s son, Seth&#39;s grandson, Adam&#39;s great-grandson, and God&#39;s descendant.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Luke 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/luke/3.txt">Plain text of Luke 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Luke/Chapter%202.html" rel="prev">&larr; Luke 2</a>

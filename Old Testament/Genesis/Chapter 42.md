@@ -51,8 +51,6 @@ description: "Genesis 42 in plain English: When Jacob learned that there was gra
 
 # Genesis 42
 
-<p class="chapter-intro">Genesis chapter 42 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 42 audio">
@@ -145,8 +143,6 @@ description: "Genesis 42 in plain English: When Jacob learned that there was gra
 <p class="verse" id="v38"><a class="verse-num" href="#v38" aria-label="Genesis 42:38">38</a> He said, &quot;My son won&#39;t go with you because his brother is dead, and he&#39;s the only one left. If he gets hurt on your journey, you will make me so sad that I will die.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 42:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/42.txt">Plain text of Genesis 42</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%2041.html" rel="prev">&larr; Genesis 41</a>

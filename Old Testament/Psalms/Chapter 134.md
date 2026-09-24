@@ -51,8 +51,6 @@ description: "Psalms 134 in plain English: Look, praise God, all God's servants 
 
 # Psalms 134
 
-<p class="chapter-intro">Psalms chapter 134 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 134 audio">
@@ -75,8 +73,6 @@ description: "Psalms 134 in plain English: Look, praise God, all God's servants 
 <p class="verse" id="v3"><a class="verse-num" href="#v3" aria-label="Psalms 134:3">3</a> God who made heaven and earth bless you from Zion.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 134:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/134.txt">Plain text of Psalms 134</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%20133.html" rel="prev">&larr; Psalms 133</a>

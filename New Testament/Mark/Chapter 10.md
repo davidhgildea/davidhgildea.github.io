@@ -51,8 +51,6 @@ description: "Mark 10 in plain English: He got up from there and went to the reg
 
 # Mark 10
 
-<p class="chapter-intro">Mark chapter 10 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Mark 10 audio">
@@ -173,8 +171,6 @@ description: "Mark 10 in plain English: He got up from there and went to the reg
 <p class="verse" id="v52"><a class="verse-num" href="#v52" aria-label="Mark 10:52">52</a> Jesus said to him, &quot;Go; your faith has healed you.&quot; Right away, he could see, and he followed Jesus on the path.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Mark 10:1, Simplified Bible (simplified.bible)</em>. <a href="/text/mark/10.txt">Plain text of Mark 10</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Mark/Chapter%209.html" rel="prev">&larr; Mark 9</a>

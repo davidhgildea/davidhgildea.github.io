@@ -51,8 +51,6 @@ description: "1 Kings 5 in plain English: Hiram, the king of Tyre, sent his serv
 
 # 1 Kings 5
 
-<p class="chapter-intro">1 Kings chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Kings 5 audio">
@@ -105,8 +103,6 @@ description: "1 Kings 5 in plain English: Hiram, the king of Tyre, sent his serv
 <p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="1 Kings 5:18">18</a> Solomon&#39;s builders and Hiram&#39;s builders cut the stones, and the stonecutters helped. They got wood and stones ready to build the house.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Kings 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-kings/5.txt">Plain text of 1 Kings 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Kings/Chapter%204.html" rel="prev">&larr; 1 Kings 4</a>

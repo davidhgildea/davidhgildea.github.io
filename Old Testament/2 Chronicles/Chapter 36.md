@@ -51,8 +51,6 @@ description: "2 Chronicles 36 in plain English: The local people chose Jehoahaz,
 
 # 2 Chronicles 36
 
-<p class="chapter-intro">2 Chronicles chapter 36 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Chronicles 36 audio">
@@ -115,8 +113,6 @@ description: "2 Chronicles 36 in plain English: The local people chose Jehoahaz,
 <p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="2 Chronicles 36:23">23</a> Cyrus, the king of Persia, says, &quot;God, the ruler of heaven, has given me all the kingdoms of the world and has told me to build a house for him in Jerusalem, in Judah. Who among you belongs to his people? May God be with that person, and may he go up to Jerusalem.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Chronicles 36:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-chronicles/36.txt">Plain text of 2 Chronicles 36</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Chronicles/Chapter%2035.html" rel="prev">&larr; 2 Chronicles 35</a>

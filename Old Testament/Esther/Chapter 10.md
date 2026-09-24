@@ -51,8 +51,6 @@ description: "Esther 10 in plain English: The king Ahasuerus put a tax on the la
 
 # Esther 10
 
-<p class="chapter-intro">Esther chapter 10 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Esther 10 audio">
@@ -75,8 +73,6 @@ description: "Esther 10 in plain English: The king Ahasuerus put a tax on the la
 <p class="verse" id="v3"><a class="verse-num" href="#v3" aria-label="Esther 10:3">3</a> Mordecai the Jew was close to King Ahasuerus, respected by many Jews, and he looked after the well-being of his people and promoted peace among them.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Esther 10:1, Simplified Bible (simplified.bible)</em>. <a href="/text/esther/10.txt">Plain text of Esther 10</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Esther/Chapter%209.html" rel="prev">&larr; Esther 9</a>

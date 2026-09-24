@@ -51,8 +51,6 @@ description: "Lamentations 1 in plain English: How lonely sits the city that was
 
 # Lamentations 1
 
-<p class="chapter-intro">Lamentations chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Lamentations 1 audio">
@@ -113,8 +111,6 @@ description: "Lamentations 1 in plain English: How lonely sits the city that was
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Lamentations 1:22">22</a> Let all their evil acts be seen by you, God; treat them as you have treated me for all my wrongs, because I sigh a lot and my heart is weak.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Lamentations 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/lamentations/1.txt">Plain text of Lamentations 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2052.html" rel="prev">&larr; Jeremiah 52</a>

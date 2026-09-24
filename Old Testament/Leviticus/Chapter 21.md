@@ -51,8 +51,6 @@ description: "Leviticus 21 in plain English: God told Moses, \"Tell Aaron's prie
 
 # Leviticus 21
 
-<p class="chapter-intro">Leviticus chapter 21 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Leviticus 21 audio">
@@ -117,8 +115,6 @@ description: "Leviticus 21 in plain English: God told Moses, \"Tell Aaron's prie
 <p class="verse" id="v24"><a class="verse-num" href="#v24" aria-label="Leviticus 21:24">24</a> Moses told Aaron, his sons, and all the Israelites.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Leviticus 21:1, Simplified Bible (simplified.bible)</em>. <a href="/text/leviticus/21.txt">Plain text of Leviticus 21</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Leviticus/Chapter%2020.html" rel="prev">&larr; Leviticus 20</a>

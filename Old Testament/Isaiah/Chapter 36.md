@@ -51,8 +51,6 @@ description: "Isaiah 36 in plain English: In the fourteenth year of King Hezekia
 
 # Isaiah 36
 
-<p class="chapter-intro">Isaiah chapter 36 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 36 audio">
@@ -113,8 +111,6 @@ description: "Isaiah 36 in plain English: In the fourteenth year of King Hezekia
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Isaiah 36:22">22</a> Eliakim, Hilkiah&#39;s son who managed the household, Shebna the secretary, and Joah, Asaph&#39;s son and the historian, went to Hezekiah with their clothes torn and told him what Rabshakeh had said.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 36:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/36.txt">Plain text of Isaiah 36</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2035.html" rel="prev">&larr; Isaiah 35</a>

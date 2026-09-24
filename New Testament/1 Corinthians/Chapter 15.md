@@ -51,8 +51,6 @@ description: "1 Corinthians 15 in plain English: Friends, I tell you the good ne
 
 # 1 Corinthians 15
 
-<p class="chapter-intro">1 Corinthians chapter 15 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Corinthians 15 audio">
@@ -185,8 +183,6 @@ description: "1 Corinthians 15 in plain English: Friends, I tell you the good ne
 <p class="verse" id="v58"><a class="verse-num" href="#v58" aria-label="1 Corinthians 15:58">58</a> So, my dear friends, remain firm, unshaken, always doing plenty in God’s work, because you know that what you do for God is never useless.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Corinthians 15:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-corinthians/15.txt">Plain text of 1 Corinthians 15</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/1%20Corinthians/Chapter%2014.html" rel="prev">&larr; 1 Corinthians 14</a>

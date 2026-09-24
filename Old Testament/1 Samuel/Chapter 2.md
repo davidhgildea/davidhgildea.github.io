@@ -51,8 +51,6 @@ description: "1 Samuel 2 in plain English: Hannah prayed and said, \"My heart is
 
 # 1 Samuel 2
 
-<p class="chapter-intro">1 Samuel chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Samuel 2 audio">
@@ -141,8 +139,6 @@ description: "1 Samuel 2 in plain English: Hannah prayed and said, \"My heart is
 <p class="verse" id="v36"><a class="verse-num" href="#v36" aria-label="1 Samuel 2:36">36</a> Everyone remaining in your family will approach him, bow down for some money and food, and will ask, &quot;Please give me a priest&#39;s job so I can have some bread to eat.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Samuel 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-samuel/2.txt">Plain text of 1 Samuel 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Samuel/Chapter%201.html" rel="prev">&larr; 1 Samuel 1</a>

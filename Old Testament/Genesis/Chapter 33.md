@@ -51,8 +51,6 @@ description: "Genesis 33 in plain English: Jacob looked and saw Esau coming with
 
 # Genesis 33
 
-<p class="chapter-intro">Genesis chapter 33 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 33 audio">
@@ -109,8 +107,6 @@ description: "Genesis 33 in plain English: Jacob looked and saw Esau coming with
 <p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="Genesis 33:20">20</a> He built an altar there and named it God of Israel.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 33:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/33.txt">Plain text of Genesis 33</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%2032.html" rel="prev">&larr; Genesis 32</a>

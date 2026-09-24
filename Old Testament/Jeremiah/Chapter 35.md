@@ -51,8 +51,6 @@ description: "Jeremiah 35 in plain English: God's message came to Jeremiah when 
 
 # Jeremiah 35
 
-<p class="chapter-intro">Jeremiah chapter 35 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 35 audio">
@@ -107,8 +105,6 @@ description: "Jeremiah 35 in plain English: God's message came to Jeremiah when 
 <p class="verse" id="v19"><a class="verse-num" href="#v19" aria-label="Jeremiah 35:19">19</a> So this is what God, the God of Israel, says: Jonadab son of Rechab will always have a descendant to serve me.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 35:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/35.txt">Plain text of Jeremiah 35</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2034.html" rel="prev">&larr; Jeremiah 34</a>

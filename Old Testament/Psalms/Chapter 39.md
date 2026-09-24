@@ -51,8 +51,6 @@ description: "Psalms 39 in plain English: I decided to watch how I act, so I won
 
 # Psalms 39
 
-<p class="chapter-intro">Psalms chapter 39 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 39 audio">
@@ -95,8 +93,6 @@ description: "Psalms 39 in plain English: I decided to watch how I act, so I won
 <p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Psalms 39:13">13</a> Please give me rest so I can get strong again before I leave and disappear.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 39:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/39.txt">Plain text of Psalms 39</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2038.html" rel="prev">&larr; Psalms 38</a>

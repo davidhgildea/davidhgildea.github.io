@@ -51,8 +51,6 @@ description: "Ezekiel 33 in plain English: God spoke to me again, saying, Human,
 
 # Ezekiel 33
 
-<p class="chapter-intro">Ezekiel chapter 33 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 33 audio">
@@ -135,8 +133,6 @@ description: "Ezekiel 33 in plain English: God spoke to me again, saying, Human,
 <p class="verse" id="v33"><a class="verse-num" href="#v33" aria-label="Ezekiel 33:33">33</a> When this happens—and it will happen—then they will understand that a prophet was with them.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 33:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/33.txt">Plain text of Ezekiel 33</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2032.html" rel="prev">&larr; Ezekiel 32</a>

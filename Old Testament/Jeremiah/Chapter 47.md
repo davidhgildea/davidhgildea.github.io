@@ -51,8 +51,6 @@ description: "Jeremiah 47 in plain English: God's message came to Jeremiah the p
 
 # Jeremiah 47
 
-<p class="chapter-intro">Jeremiah chapter 47 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 47 audio">
@@ -83,8 +81,6 @@ description: "Jeremiah 47 in plain English: God's message came to Jeremiah the p
 <p class="verse" id="v7"><a class="verse-num" href="#v7" aria-label="Jeremiah 47:7">7</a> How can it be calm when God has ordered it to attack Ashkelon and the coast? That is where he has sent it.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 47:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/47.txt">Plain text of Jeremiah 47</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2046.html" rel="prev">&larr; Jeremiah 46</a>

@@ -51,8 +51,6 @@ description: "Hebrews 5 in plain English: Every high priest chosen from people i
 
 # Hebrews 5
 
-<p class="chapter-intro">Hebrews chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Hebrews 5 audio">
@@ -97,8 +95,6 @@ description: "Hebrews 5 in plain English: Every high priest chosen from people i
 <p class="verse" id="v14"><a class="verse-num" href="#v14" aria-label="Hebrews 5:14">14</a> Solid food is for grown-ups, who have trained their senses to tell right from wrong through practice.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Hebrews 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/hebrews/5.txt">Plain text of Hebrews 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Hebrews/Chapter%204.html" rel="prev">&larr; Hebrews 4</a>

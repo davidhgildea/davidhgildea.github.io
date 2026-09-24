@@ -51,8 +51,6 @@ description: "Esther 5 in plain English: On the third day, Esther dressed in her
 
 # Esther 5
 
-<p class="chapter-intro">Esther chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Esther 5 audio">
@@ -97,8 +95,6 @@ description: "Esther 5 in plain English: On the third day, Esther dressed in her
 <p class="verse" id="v14"><a class="verse-num" href="#v14" aria-label="Esther 5:14">14</a> Zeresh, his wife, and all his friends said to him, &quot;Make a tall gallows, fifty cubits high, and tomorrow ask the king to hang Mordecai on it. Then you can go happily with the king to the feast.&quot; Haman liked the idea and had the gallows built.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Esther 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/esther/5.txt">Plain text of Esther 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Esther/Chapter%204.html" rel="prev">&larr; Esther 4</a>

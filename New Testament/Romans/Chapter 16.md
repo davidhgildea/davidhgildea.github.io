@@ -51,8 +51,6 @@ description: "Romans 16 in plain English: I introduce to you our sister Phoebe, 
 
 # Romans 16
 
-<p class="chapter-intro">Romans chapter 16 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Romans 16 audio">
@@ -123,8 +121,6 @@ description: "Romans 16 in plain English: I introduce to you our sister Phoebe, 
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="Romans 16:27">27</a> God, the only wise one, gets glory through Jesus Christ forever. Amen.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Romans 16:1, Simplified Bible (simplified.bible)</em>. <a href="/text/romans/16.txt">Plain text of Romans 16</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Romans/Chapter%2015.html" rel="prev">&larr; Romans 15</a>

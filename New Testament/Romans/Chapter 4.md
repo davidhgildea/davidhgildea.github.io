@@ -51,8 +51,6 @@ description: "Romans 4 in plain English: What can we say about what Abraham, our
 
 # Romans 4
 
-<p class="chapter-intro">Romans chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Romans 4 audio">
@@ -119,8 +117,6 @@ description: "Romans 4 in plain English: What can we say about what Abraham, our
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Romans 4:25">25</a> He was given up for our wrongs and raised to life so we could be made right with God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Romans 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/romans/4.txt">Plain text of Romans 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Romans/Chapter%203.html" rel="prev">&larr; Romans 3</a>

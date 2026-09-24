@@ -51,8 +51,6 @@ description: "John 17 in plain English: Jesus spoke these words, looked up to he
 
 # John 17
 
-<p class="chapter-intro">John chapter 17 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="John 17 audio">
@@ -121,8 +119,6 @@ description: "John 17 in plain English: Jesus spoke these words, looked up to he
 <p class="verse" id="v26"><a class="verse-num" href="#v26" aria-label="John 17:26">26</a> I have told them your name and will continue to, so that the love you have for me may be in them, and I in them.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>John 17:1, Simplified Bible (simplified.bible)</em>. <a href="/text/john/17.txt">Plain text of John 17</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/John/Chapter%2016.html" rel="prev">&larr; John 16</a>

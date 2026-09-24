@@ -51,8 +51,6 @@ description: "Ecclesiastes 11 in plain English: Throw your bread on the water, a
 
 # Ecclesiastes 11
 
-<p class="chapter-intro">Ecclesiastes chapter 11 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ecclesiastes 11 audio">
@@ -89,8 +87,6 @@ description: "Ecclesiastes 11 in plain English: Throw your bread on the water, a
 <p class="verse" id="v10"><a class="verse-num" href="#v10" aria-label="Ecclesiastes 11:10">10</a> So take away sadness from your heart and stop doing bad things with your body, because being young is not so important.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ecclesiastes 11:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ecclesiastes/11.txt">Plain text of Ecclesiastes 11</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ecclesiastes/Chapter%2010.html" rel="prev">&larr; Ecclesiastes 10</a>

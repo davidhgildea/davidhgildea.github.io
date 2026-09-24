@@ -51,8 +51,6 @@ description: "Joshua 19 in plain English: The second choice was for the tribe of
 
 # Joshua 19
 
-<p class="chapter-intro">Joshua chapter 19 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Joshua 19 audio">
@@ -171,8 +169,6 @@ description: "Joshua 19 in plain English: The second choice was for the tribe of
 <p class="verse" id="v51"><a class="verse-num" href="#v51" aria-label="Joshua 19:51">51</a> These are the lands Eleazar the priest, Joshua son of Nun, and the tribal leaders of Israel&#39;s children divided as inheritances by drawing lots in Shiloh before God, at the entrance of the meeting tent. This is how they finished dividing the land.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Joshua 19:1, Simplified Bible (simplified.bible)</em>. <a href="/text/joshua/19.txt">Plain text of Joshua 19</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Joshua/Chapter%2018.html" rel="prev">&larr; Joshua 18</a>

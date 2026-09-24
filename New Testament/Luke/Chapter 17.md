@@ -51,8 +51,6 @@ description: "Luke 17 in plain English: He told his followers, \"It's impossible
 
 # Luke 17
 
-<p class="chapter-intro">Luke chapter 17 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Luke 17 audio">
@@ -143,8 +141,6 @@ description: "Luke 17 in plain English: He told his followers, \"It's impossible
 <p class="verse" id="v37"><a class="verse-num" href="#v37" aria-label="Luke 17:37">37</a> They replied, &quot;Where, Lord?&quot; He said to them, &quot;Wherever there is a dead body, that&#39;s where the eagles will gather.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Luke 17:1, Simplified Bible (simplified.bible)</em>. <a href="/text/luke/17.txt">Plain text of Luke 17</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Luke/Chapter%2016.html" rel="prev">&larr; Luke 16</a>

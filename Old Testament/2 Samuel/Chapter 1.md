@@ -51,8 +51,6 @@ description: "2 Samuel 1 in plain English: After Saul died and David came back f
 
 # 2 Samuel 1
 
-<p class="chapter-intro">2 Samuel chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Samuel 1 audio">
@@ -123,8 +121,6 @@ description: "2 Samuel 1 in plain English: After Saul died and David came back f
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="2 Samuel 1:27">27</a> The strong have fallen, and the tools of battle are gone!</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Samuel 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-samuel/1.txt">Plain text of 2 Samuel 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Samuel/Chapter%2031.html" rel="prev">&larr; 1 Samuel 31</a>

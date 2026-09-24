@@ -51,8 +51,6 @@ description: "Deuteronomy 21 in plain English: If a dead person is found in the 
 
 # Deuteronomy 21
 
-<p class="chapter-intro">Deuteronomy chapter 21 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Deuteronomy 21 audio">
@@ -115,8 +113,6 @@ description: "Deuteronomy 21 in plain English: If a dead person is found in the 
 <p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Deuteronomy 21:23">23</a> Do not leave his body on the tree overnight; bury him that same day because anyone hung on a tree is under God&#39;s curse. Do this so that your land, which God is giving you as an inheritance, will not become unclean.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Deuteronomy 21:1, Simplified Bible (simplified.bible)</em>. <a href="/text/deuteronomy/21.txt">Plain text of Deuteronomy 21</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Deuteronomy/Chapter%2020.html" rel="prev">&larr; Deuteronomy 20</a>

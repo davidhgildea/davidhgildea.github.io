@@ -51,8 +51,6 @@ description: "Isaiah 23 in plain English: The weight of Tyre’s troubles. Cry o
 
 # Isaiah 23
 
-<p class="chapter-intro">Isaiah chapter 23 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 23 audio">
@@ -105,8 +103,6 @@ description: "Isaiah 23 in plain English: The weight of Tyre’s troubles. Cry o
 <p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="Isaiah 23:18">18</a> Her goods and earnings will be sacred to God; they will not be stored or hoarded. Her goods will provide enough food and lasting clothes for those living in God’s presence.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 23:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/23.txt">Plain text of Isaiah 23</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2022.html" rel="prev">&larr; Isaiah 22</a>

@@ -51,8 +51,6 @@ description: "Amos 5 in plain English: Listen to this message I speak against yo
 
 # Amos 5
 
-<p class="chapter-intro">Amos chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Amos 5 audio">
@@ -123,8 +121,6 @@ description: "Amos 5 in plain English: Listen to this message I speak against yo
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="Amos 5:27">27</a> So I will make you captive and send you away beyond Damascus, says God, who is called the God of armies.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Amos 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/amos/5.txt">Plain text of Amos 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Amos/Chapter%204.html" rel="prev">&larr; Amos 4</a>

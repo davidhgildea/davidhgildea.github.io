@@ -51,8 +51,6 @@ description: "2 Corinthians 3 in plain English: Are we starting to praise oursel
 
 # 2 Corinthians 3
 
-<p class="chapter-intro">2 Corinthians chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Corinthians 3 audio">
@@ -105,8 +103,6 @@ description: "2 Corinthians 3 in plain English: Are we starting to praise oursel
 <p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="2 Corinthians 3:18">18</a> We all, with uncovered faces, look at God&#39;s glory as if looking in a mirror and are transformed to become more like Him, from one degree of glory to another, by God&#39;s Spirit.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Corinthians 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-corinthians/3.txt">Plain text of 2 Corinthians 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/2%20Corinthians/Chapter%202.html" rel="prev">&larr; 2 Corinthians 2</a>

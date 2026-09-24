@@ -51,8 +51,6 @@ description: "Deuteronomy 24 in plain English: When a man gets married and then 
 
 # Deuteronomy 24
 
-<p class="chapter-intro">Deuteronomy chapter 24 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Deuteronomy 24 audio">
@@ -113,8 +111,6 @@ description: "Deuteronomy 24 in plain English: When a man gets married and then 
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Deuteronomy 24:22">22</a> Remember you were a slave in Egypt, so I am commanding you to do this.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Deuteronomy 24:1, Simplified Bible (simplified.bible)</em>. <a href="/text/deuteronomy/24.txt">Plain text of Deuteronomy 24</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Deuteronomy/Chapter%2023.html" rel="prev">&larr; Deuteronomy 23</a>

@@ -51,8 +51,6 @@ description: "2 Kings 8 in plain English: Elisha spoke to the woman whose son he
 
 # 2 Kings 8
 
-<p class="chapter-intro">2 Kings chapter 8 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Kings 8 audio">
@@ -127,8 +125,6 @@ description: "2 Kings 8 in plain English: Elisha spoke to the woman whose son he
 <p class="verse" id="v29"><a class="verse-num" href="#v29" aria-label="2 Kings 8:29">29</a> King Joram returned to Jezreel to heal from his injuries received from the Syrians at Ramah, during his fight with King Hazael of Syria. Ahaziah, son of King Jehoram of Judah, visited Joram, son of Ahab, in Jezreel because he was ill.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Kings 8:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-kings/8.txt">Plain text of 2 Kings 8</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Kings/Chapter%207.html" rel="prev">&larr; 2 Kings 7</a>

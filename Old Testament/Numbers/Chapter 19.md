@@ -51,8 +51,6 @@ description: "Numbers 19 in plain English: God spoke to Moses and Aaron, saying,
 
 # Numbers 19
 
-<p class="chapter-intro">Numbers chapter 19 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Numbers 19 audio">
@@ -113,8 +111,6 @@ description: "Numbers 19 in plain English: God spoke to Moses and Aaron, saying,
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Numbers 19:22">22</a> Whatever the unclean person touches becomes unclean, and the person who touches it will be unclean until evening.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Numbers 19:1, Simplified Bible (simplified.bible)</em>. <a href="/text/numbers/19.txt">Plain text of Numbers 19</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Numbers/Chapter%2018.html" rel="prev">&larr; Numbers 18</a>

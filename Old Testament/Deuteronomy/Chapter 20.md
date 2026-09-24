@@ -51,8 +51,6 @@ description: "Deuteronomy 20 in plain English: When you go to fight against your
 
 # Deuteronomy 20
 
-<p class="chapter-intro">Deuteronomy chapter 20 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Deuteronomy 20 audio">
@@ -109,8 +107,6 @@ description: "Deuteronomy 20 in plain English: When you go to fight against your
 <p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="Deuteronomy 20:20">20</a> Destroy only the trees you know are not for food; cut them down and use them to make defenses against the city at war with you, until it surrenders.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Deuteronomy 20:1, Simplified Bible (simplified.bible)</em>. <a href="/text/deuteronomy/20.txt">Plain text of Deuteronomy 20</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Deuteronomy/Chapter%2019.html" rel="prev">&larr; Deuteronomy 19</a>

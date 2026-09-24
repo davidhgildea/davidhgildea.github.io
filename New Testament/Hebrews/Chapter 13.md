@@ -51,8 +51,6 @@ description: "Hebrews 13 in plain English: Keep loving each other like brothers 
 
 # Hebrews 13
 
-<p class="chapter-intro">Hebrews chapter 13 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Hebrews 13 audio">
@@ -119,8 +117,6 @@ description: "Hebrews 13 in plain English: Keep loving each other like brothers 
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Hebrews 13:25">25</a> May God&#39;s kindness be with everyone. Amen.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Hebrews 13:1, Simplified Bible (simplified.bible)</em>. <a href="/text/hebrews/13.txt">Plain text of Hebrews 13</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Hebrews/Chapter%2012.html" rel="prev">&larr; Hebrews 12</a>

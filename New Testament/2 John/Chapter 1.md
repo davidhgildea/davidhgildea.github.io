@@ -51,8 +51,6 @@ description: "2 John 1 in plain English: I, an older leader, write to the chosen
 
 # 2 John 1
 
-<p class="chapter-intro">2 John chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 John 1 audio">
@@ -95,8 +93,6 @@ description: "2 John 1 in plain English: I, an older leader, write to the chosen
 <p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="2 John 1:13">13</a> Your chosen sister&#39;s children say hello to you. Amen.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 John 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-john/1.txt">Plain text of 2 John 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/1%20John/Chapter%205.html" rel="prev">&larr; 1 John 5</a>

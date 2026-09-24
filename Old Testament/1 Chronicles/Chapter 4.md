@@ -51,8 +51,6 @@ description: "1 Chronicles 4 in plain English: Judah's sons were: Pharez, Hezron
 
 # 1 Chronicles 4
 
-<p class="chapter-intro">1 Chronicles chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Chronicles 4 audio">
@@ -155,8 +153,6 @@ description: "1 Chronicles 4 in plain English: Judah's sons were: Pharez, Hezron
 <p class="verse" id="v43"><a class="verse-num" href="#v43" aria-label="1 Chronicles 4:43">43</a> They defeated the remaining Amalekites who had escaped, and lived there until today.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Chronicles 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-chronicles/4.txt">Plain text of 1 Chronicles 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Chronicles/Chapter%203.html" rel="prev">&larr; 1 Chronicles 3</a>

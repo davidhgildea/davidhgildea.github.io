@@ -51,8 +51,6 @@ description: "Genesis 40 in plain English: After these events, the Egyptian king
 
 # Genesis 40
 
-<p class="chapter-intro">Genesis chapter 40 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 40 audio">
@@ -115,8 +113,6 @@ description: "Genesis 40 in plain English: After these events, the Egyptian king
 <p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Genesis 40:23">23</a> The head servant did not remember Joseph; he forgot him.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 40:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/40.txt">Plain text of Genesis 40</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%2039.html" rel="prev">&larr; Genesis 39</a>

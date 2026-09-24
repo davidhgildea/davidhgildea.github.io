@@ -51,8 +51,6 @@ description: "Malachi 1 in plain English: God's message for Israel through Malac
 
 # Malachi 1
 
-<p class="chapter-intro">Malachi chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Malachi 1 audio">
@@ -97,8 +95,6 @@ description: "Malachi 1 in plain English: God's message for Israel through Malac
 <p class="verse" id="v14"><a class="verse-num" href="#v14" aria-label="Malachi 1:14">14</a> Let the trickster be cursed, who has a male in his flock and promises it but sacrifices a damaged one to God instead. For I am a great King, says God, and my name is feared among the nations.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Malachi 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/malachi/1.txt">Plain text of Malachi 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Zechariah/Chapter%2014.html" rel="prev">&larr; Zechariah 14</a>

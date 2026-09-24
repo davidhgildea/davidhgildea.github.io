@@ -51,8 +51,6 @@ description: "Numbers 4 in plain English: God spoke to Moses and Aaron, saying, 
 
 # Numbers 4
 
-<p class="chapter-intro">Numbers chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Numbers 4 audio">
@@ -167,8 +165,6 @@ description: "Numbers 4 in plain English: God spoke to Moses and Aaron, saying, 
 <p class="verse" id="v49"><a class="verse-num" href="#v49" aria-label="Numbers 4:49">49</a> God instructed them to count each person by Moses&#39; direction, based on their tasks and responsibilities, and so Moses counted them as God had ordered.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Numbers 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/numbers/4.txt">Plain text of Numbers 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Numbers/Chapter%203.html" rel="prev">&larr; Numbers 3</a>

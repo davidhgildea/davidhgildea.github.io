@@ -51,8 +51,6 @@ description: "James 1 in plain English: James, a servant of God and Jesus Christ
 
 # James 1
 
-<p class="chapter-intro">James chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="James 1 audio">
@@ -123,8 +121,6 @@ description: "James 1 in plain English: James, a servant of God and Jesus Christ
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="James 1:27">27</a> True and perfect religion in God&#39;s sight is this: to help orphans and widows when they are in need, and to keep oneself free from the world&#39;s corruption.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>James 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/james/1.txt">Plain text of James 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Hebrews/Chapter%2013.html" rel="prev">&larr; Hebrews 13</a>

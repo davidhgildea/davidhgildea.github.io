@@ -51,8 +51,6 @@ description: "Acts 25 in plain English: When Festus arrived in the area, three d
 
 # Acts 25
 
-<p class="chapter-intro">Acts chapter 25 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Acts 25 audio">
@@ -123,8 +121,6 @@ description: "Acts 25 in plain English: When Festus arrived in the area, three d
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="Acts 25:27">27</a> To me, it seems unfair to send a prisoner without stating the charges against him.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Acts 25:1, Simplified Bible (simplified.bible)</em>. <a href="/text/acts/25.txt">Plain text of Acts 25</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Acts/Chapter%2024.html" rel="prev">&larr; Acts 24</a>

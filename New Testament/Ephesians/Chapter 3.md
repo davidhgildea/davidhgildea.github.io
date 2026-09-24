@@ -51,8 +51,6 @@ description: "Ephesians 3 in plain English: Because of this, I Paul, imprisoned 
 
 # Ephesians 3
 
-<p class="chapter-intro">Ephesians chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ephesians 3 audio">
@@ -111,8 +109,6 @@ description: "Ephesians 3 in plain English: Because of this, I Paul, imprisoned 
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Ephesians 3:21">21</a> May God receive glory in the church through Jesus Christ for all time, forever. Amen.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ephesians 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ephesians/3.txt">Plain text of Ephesians 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Ephesians/Chapter%202.html" rel="prev">&larr; Ephesians 2</a>

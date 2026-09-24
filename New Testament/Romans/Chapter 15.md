@@ -51,8 +51,6 @@ description: "Romans 15 in plain English: We who are strong should help those wh
 
 # Romans 15
 
-<p class="chapter-intro">Romans chapter 15 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Romans 15 audio">
@@ -135,8 +133,6 @@ description: "Romans 15 in plain English: We who are strong should help those wh
 <p class="verse" id="v33"><a class="verse-num" href="#v33" aria-label="Romans 15:33">33</a> May the God of peace be with everyone. Amen.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Romans 15:1, Simplified Bible (simplified.bible)</em>. <a href="/text/romans/15.txt">Plain text of Romans 15</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Romans/Chapter%2014.html" rel="prev">&larr; Romans 14</a>

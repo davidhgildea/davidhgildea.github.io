@@ -51,8 +51,6 @@ description: "Nehemiah 6 in plain English: When Sanballat, Tobiah, Geshem the Ar
 
 # Nehemiah 6
 
-<p class="chapter-intro">Nehemiah chapter 6 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Nehemiah 6 audio">
@@ -107,8 +105,6 @@ description: "Nehemiah 6 in plain English: When Sanballat, Tobiah, Geshem the Ar
 <p class="verse" id="v19"><a class="verse-num" href="#v19" aria-label="Nehemiah 6:19">19</a> They also told me about his good works and shared my words with him. Tobiah sent letters to scare me.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Nehemiah 6:1, Simplified Bible (simplified.bible)</em>. <a href="/text/nehemiah/6.txt">Plain text of Nehemiah 6</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Nehemiah/Chapter%205.html" rel="prev">&larr; Nehemiah 5</a>

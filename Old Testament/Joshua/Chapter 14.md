@@ -51,8 +51,6 @@ description: "Joshua 14 in plain English: These are the lands the Israelite peop
 
 # Joshua 14
 
-<p class="chapter-intro">Joshua chapter 14 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Joshua 14 audio">
@@ -99,8 +97,6 @@ description: "Joshua 14 in plain English: These are the lands the Israelite peop
 <p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="Joshua 14:15">15</a> Before, Hebron was called Kirjatharba, named after Arba, a great leader of the Anakims. And the land had peace from war.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Joshua 14:1, Simplified Bible (simplified.bible)</em>. <a href="/text/joshua/14.txt">Plain text of Joshua 14</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Joshua/Chapter%2013.html" rel="prev">&larr; Joshua 13</a>

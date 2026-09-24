@@ -51,8 +51,6 @@ description: "Amos 1 in plain English: These are the words of Amos, one of the s
 
 # Amos 1
 
-<p class="chapter-intro">Amos chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Amos 1 audio">
@@ -99,8 +97,6 @@ description: "Amos 1 in plain English: These are the words of Amos, one of the s
 <p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="Amos 1:15">15</a> Their king and his leaders will be captured and taken away, says God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Amos 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/amos/1.txt">Plain text of Amos 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Joel/Chapter%203.html" rel="prev">&larr; Joel 3</a>

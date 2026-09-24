@@ -51,8 +51,6 @@ description: "Mark 12 in plain English: He started to tell them stories. A man p
 
 # Mark 12
 
-<p class="chapter-intro">Mark chapter 12 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Mark 12 audio">
@@ -157,8 +155,6 @@ description: "Mark 12 in plain English: He started to tell them stories. A man p
 <p class="verse" id="v44"><a class="verse-num" href="#v44" aria-label="Mark 12:44">44</a> Everyone else gave from their wealth, but she, in her poverty, gave everything she had to live on.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Mark 12:1, Simplified Bible (simplified.bible)</em>. <a href="/text/mark/12.txt">Plain text of Mark 12</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Mark/Chapter%2011.html" rel="prev">&larr; Mark 11</a>

@@ -51,8 +51,6 @@ description: "Joshua 20 in plain English: God also spoke to Joshua, saying, Tell
 
 # Joshua 20
 
-<p class="chapter-intro">Joshua chapter 20 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Joshua 20 audio">
@@ -87,8 +85,6 @@ description: "Joshua 20 in plain English: God also spoke to Joshua, saying, Tell
 <p class="verse" id="v9"><a class="verse-num" href="#v9" aria-label="Joshua 20:9">9</a> These cities were set for all Israelites and any foreigner staying with them so anyone who accidentally killed someone could go there and not be killed by the person seeking revenge until they faced the community.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Joshua 20:1, Simplified Bible (simplified.bible)</em>. <a href="/text/joshua/20.txt">Plain text of Joshua 20</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Joshua/Chapter%2019.html" rel="prev">&larr; Joshua 19</a>

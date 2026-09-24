@@ -51,8 +51,6 @@ description: "Matthew 15 in plain English: Some teachers of the law and Pharisee
 
 # Matthew 15
 
-<p class="chapter-intro">Matthew chapter 15 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Matthew 15 audio">
@@ -147,8 +145,6 @@ description: "Matthew 15 in plain English: Some teachers of the law and Pharisee
 <p class="verse" id="v39"><a class="verse-num" href="#v39" aria-label="Matthew 15:39">39</a> He sent the crowd away, got into a boat, and went to the region of Magdala.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Matthew 15:1, Simplified Bible (simplified.bible)</em>. <a href="/text/matthew/15.txt">Plain text of Matthew 15</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Matthew/Chapter%2014.html" rel="prev">&larr; Matthew 14</a>

@@ -51,8 +51,6 @@ description: "1 Chronicles 7 in plain English: Issachar had four sons: Tola, Pua
 
 # 1 Chronicles 7
 
-<p class="chapter-intro">1 Chronicles chapter 7 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Chronicles 7 audio">
@@ -149,8 +147,6 @@ description: "1 Chronicles 7 in plain English: Issachar had four sons: Tola, Pua
 <p class="verse" id="v40"><a class="verse-num" href="#v40" aria-label="1 Chronicles 7:40">40</a> All these were Asher&#39;s children, leaders of their family, brave and strong. They were top among rulers. The total of their skilled warriors was 26,000 men.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Chronicles 7:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-chronicles/7.txt">Plain text of 1 Chronicles 7</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Chronicles/Chapter%206.html" rel="prev">&larr; 1 Chronicles 6</a>

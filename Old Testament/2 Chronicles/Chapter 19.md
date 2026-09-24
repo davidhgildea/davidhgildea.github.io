@@ -51,8 +51,6 @@ description: "2 Chronicles 19 in plain English: King Jehoshaphat of Judah went b
 
 # 2 Chronicles 19
 
-<p class="chapter-intro">2 Chronicles chapter 19 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Chronicles 19 audio">
@@ -91,8 +89,6 @@ description: "2 Chronicles 19 in plain English: King Jehoshaphat of Judah went b
 <p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="2 Chronicles 19:11">11</a> Look, Amariah the main priest is in charge of all God&#39;s issues; and Zebadiah, Ishmael&#39;s son, is the leader for all the king&#39;s business: and the Levites will work for you. Act bravely, and God will be with the good.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Chronicles 19:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-chronicles/19.txt">Plain text of 2 Chronicles 19</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Chronicles/Chapter%2018.html" rel="prev">&larr; 2 Chronicles 18</a>

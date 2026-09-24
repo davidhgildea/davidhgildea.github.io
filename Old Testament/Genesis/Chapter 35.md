@@ -51,8 +51,6 @@ description: "Genesis 35 in plain English: God told Jacob, \"Get up and go to Be
 
 # Genesis 35
 
-<p class="chapter-intro">Genesis chapter 35 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 35 audio">
@@ -127,8 +125,6 @@ description: "Genesis 35 in plain English: God told Jacob, \"Get up and go to Be
 <p class="verse" id="v29"><a class="verse-num" href="#v29" aria-label="Genesis 35:29">29</a> Isaac passed away, died, and joined his ancestors, being very old: and his sons Esau and Jacob buried him.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 35:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/35.txt">Plain text of Genesis 35</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%2034.html" rel="prev">&larr; Genesis 34</a>

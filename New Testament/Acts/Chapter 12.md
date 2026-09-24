@@ -51,8 +51,6 @@ description: "Acts 12 in plain English: At that time, King Herod started to both
 
 # Acts 12
 
-<p class="chapter-intro">Acts chapter 12 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Acts 12 audio">
@@ -119,8 +117,6 @@ description: "Acts 12 in plain English: At that time, King Herod started to both
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Acts 12:25">25</a> Barnabas and Saul came back from Jerusalem after completing their work and brought John Mark with them.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Acts 12:1, Simplified Bible (simplified.bible)</em>. <a href="/text/acts/12.txt">Plain text of Acts 12</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Acts/Chapter%2011.html" rel="prev">&larr; Acts 11</a>

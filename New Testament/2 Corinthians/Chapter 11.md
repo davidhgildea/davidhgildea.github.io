@@ -51,8 +51,6 @@ description: "2 Corinthians 11 in plain English: I wish you could put up with my
 
 # 2 Corinthians 11
 
-<p class="chapter-intro">2 Corinthians chapter 11 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Corinthians 11 audio">
@@ -135,8 +133,6 @@ description: "2 Corinthians 11 in plain English: I wish you could put up with my
 <p class="verse" id="v33"><a class="verse-num" href="#v33" aria-label="2 Corinthians 11:33">33</a> Through a window in a basket, I was lowered down the wall and got away from him.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Corinthians 11:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-corinthians/11.txt">Plain text of 2 Corinthians 11</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/2%20Corinthians/Chapter%2010.html" rel="prev">&larr; 2 Corinthians 10</a>

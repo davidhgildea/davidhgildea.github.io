@@ -51,8 +51,6 @@ description: "Isaiah 16 in plain English: Send a lamb to the land's leader, from
 
 # Isaiah 16
 
-<p class="chapter-intro">Isaiah chapter 16 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 16 audio">
@@ -97,8 +95,6 @@ description: "Isaiah 16 in plain English: Send a lamb to the land's leader, from
 <p class="verse" id="v14"><a class="verse-num" href="#v14" aria-label="Isaiah 16:14">14</a> But now God has said, &quot;In three years, like a worker&#39;s contract time, Moab&#39;s pride will be looked down on, along with its large crowd; and the survivors will be few and weak.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 16:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/16.txt">Plain text of Isaiah 16</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2015.html" rel="prev">&larr; Isaiah 15</a>

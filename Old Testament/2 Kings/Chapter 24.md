@@ -51,8 +51,6 @@ description: "2 Kings 24 in plain English: During his reign, King Nebuchadnezzar
 
 # 2 Kings 24
 
-<p class="chapter-intro">2 Kings chapter 24 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Kings 24 audio">
@@ -109,8 +107,6 @@ description: "2 Kings 24 in plain English: During his reign, King Nebuchadnezzar
 <p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="2 Kings 24:20">20</a> Because of God&#39;s anger, it happened in Jerusalem and Judah that he made them leave his presence, and then Zedekiah fought against the king of Babylon.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Kings 24:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-kings/24.txt">Plain text of 2 Kings 24</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Kings/Chapter%2023.html" rel="prev">&larr; 2 Kings 23</a>

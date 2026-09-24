@@ -51,8 +51,6 @@ description: "Ezekiel 21 in plain English: God's message came to me, saying, Hum
 
 # Ezekiel 21
 
-<p class="chapter-intro">Ezekiel chapter 21 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 21 audio">
@@ -133,8 +131,6 @@ description: "Ezekiel 21 in plain English: God's message came to me, saying, Hum
 <p class="verse" id="v32"><a class="verse-num" href="#v32" aria-label="Ezekiel 21:32">32</a> You will be fuel for the fire; your blood will be spread across the land; you will be forgotten because I, God, have said so.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 21:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/21.txt">Plain text of Ezekiel 21</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2020.html" rel="prev">&larr; Ezekiel 20</a>

@@ -51,8 +51,6 @@ description: "Numbers 17 in plain English: God spoke to Moses, saying, Talk to t
 
 # Numbers 17
 
-<p class="chapter-intro">Numbers chapter 17 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Numbers 17 audio">
@@ -95,8 +93,6 @@ description: "Numbers 17 in plain English: God spoke to Moses, saying, Talk to t
 <p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Numbers 17:13">13</a> Anyone who comes close to God&#39;s tent will die: are we going to keep dying?</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Numbers 17:1, Simplified Bible (simplified.bible)</em>. <a href="/text/numbers/17.txt">Plain text of Numbers 17</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Numbers/Chapter%2016.html" rel="prev">&larr; Numbers 16</a>

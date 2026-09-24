@@ -51,8 +51,6 @@ description: "2 Kings 17 in plain English: In the twelfth year of Ahaz, king of 
 
 # 2 Kings 17
 
-<p class="chapter-intro">2 Kings chapter 17 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Kings 17 audio">
@@ -151,8 +149,6 @@ description: "2 Kings 17 in plain English: In the twelfth year of Ahaz, king of 
 <p class="verse" id="v41"><a class="verse-num" href="#v41" aria-label="2 Kings 17:41">41</a> These nations respected God but also worshiped their idols, as did their parents and their children still do today.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Kings 17:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-kings/17.txt">Plain text of 2 Kings 17</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Kings/Chapter%2016.html" rel="prev">&larr; 2 Kings 16</a>

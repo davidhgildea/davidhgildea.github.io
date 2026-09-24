@@ -51,8 +51,6 @@ description: "1 Samuel 27 in plain English: David thought to himself, \"I will o
 
 # 1 Samuel 27
 
-<p class="chapter-intro">1 Samuel chapter 27 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Samuel 27 audio">
@@ -93,8 +91,6 @@ description: "1 Samuel 27 in plain English: David thought to himself, \"I will o
 <p class="verse" id="v12"><a class="verse-num" href="#v12" aria-label="1 Samuel 27:12">12</a> Achish trusted David, thinking, &quot;He has made his people Israel completely hate him; so he will be my servant forever.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Samuel 27:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-samuel/27.txt">Plain text of 1 Samuel 27</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Samuel/Chapter%2026.html" rel="prev">&larr; 1 Samuel 26</a>

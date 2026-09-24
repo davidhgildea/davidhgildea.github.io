@@ -51,8 +51,6 @@ description: "Philemon 1 in plain English: Paul, a prisoner for Jesus Christ, an
 
 # Philemon 1
 
-<p class="chapter-intro">Philemon chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Philemon 1 audio">
@@ -119,8 +117,6 @@ description: "Philemon 1 in plain English: Paul, a prisoner for Jesus Christ, an
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Philemon 1:25">25</a> May the kindness of our Lord Jesus Christ be with your spirit. Amen.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Philemon 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/philemon/1.txt">Plain text of Philemon 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Titus/Chapter%203.html" rel="prev">&larr; Titus 3</a>

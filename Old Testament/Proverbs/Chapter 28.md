@@ -51,8 +51,6 @@ description: "Proverbs 28 in plain English: Bad people run away even when no one
 
 # Proverbs 28
 
-<p class="chapter-intro">Proverbs chapter 28 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Proverbs 28 audio">
@@ -125,8 +123,6 @@ description: "Proverbs 28 in plain English: Bad people run away even when no one
 <p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="Proverbs 28:28">28</a> When bad people gain power, others hide; but when they die, the good grow in number.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Proverbs 28:1, Simplified Bible (simplified.bible)</em>. <a href="/text/proverbs/28.txt">Plain text of Proverbs 28</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Proverbs/Chapter%2027.html" rel="prev">&larr; Proverbs 27</a>

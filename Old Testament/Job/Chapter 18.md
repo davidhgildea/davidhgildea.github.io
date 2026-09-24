@@ -51,8 +51,6 @@ description: "Job 18 in plain English: Bildad the Shuhite replied and said, How 
 
 # Job 18
 
-<p class="chapter-intro">Job chapter 18 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Job 18 audio">
@@ -111,8 +109,6 @@ description: "Job 18 in plain English: Bildad the Shuhite replied and said, How 
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Job 18:21">21</a> These are surely the homes of the evil, and this is where someone who does not know God lives.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Job 18:1, Simplified Bible (simplified.bible)</em>. <a href="/text/job/18.txt">Plain text of Job 18</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Job/Chapter%2017.html" rel="prev">&larr; Job 17</a>

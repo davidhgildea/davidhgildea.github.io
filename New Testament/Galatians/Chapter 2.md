@@ -51,8 +51,6 @@ description: "Galatians 2 in plain English: Fourteen years later, I went back to
 
 # Galatians 2
 
-<p class="chapter-intro">Galatians chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Galatians 2 audio">
@@ -111,8 +109,6 @@ description: "Galatians 2 in plain English: Fourteen years later, I went back to
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Galatians 2:21">21</a> I do not waste God&#39;s kindness: if following the law could make us right with God, then Christ died for no reason.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Galatians 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/galatians/2.txt">Plain text of Galatians 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Galatians/Chapter%201.html" rel="prev">&larr; Galatians 1</a>

@@ -51,8 +51,6 @@ description: "Proverbs 18 in plain English: A person with strong desires sets th
 
 # Proverbs 18
 
-<p class="chapter-intro">Proverbs chapter 18 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Proverbs 18 audio">
@@ -117,8 +115,6 @@ description: "Proverbs 18 in plain English: A person with strong desires sets th
 <p class="verse" id="v24"><a class="verse-num" href="#v24" aria-label="Proverbs 18:24">24</a> A person with friends should act friendly, and some friends are more loyal than a brother.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Proverbs 18:1, Simplified Bible (simplified.bible)</em>. <a href="/text/proverbs/18.txt">Plain text of Proverbs 18</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Proverbs/Chapter%2017.html" rel="prev">&larr; Proverbs 17</a>

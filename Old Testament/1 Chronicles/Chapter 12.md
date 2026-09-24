@@ -51,8 +51,6 @@ description: "1 Chronicles 12 in plain English: These people came to David at Zi
 
 # 1 Chronicles 12
 
-<p class="chapter-intro">1 Chronicles chapter 12 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Chronicles 12 audio">
@@ -149,8 +147,6 @@ description: "1 Chronicles 12 in plain English: These people came to David at Zi
 <p class="verse" id="v40"><a class="verse-num" href="#v40" aria-label="1 Chronicles 12:40">40</a> People nearby, including those from Issachar, Zebulun, and Naphtali, brought bread on donkeys, camels, mules, and oxen, along with meat, flour, fig cakes, raisin clusters, wine, oil, more oxen, and lots of sheep, because there was great joy in Israel.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Chronicles 12:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-chronicles/12.txt">Plain text of 1 Chronicles 12</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Chronicles/Chapter%2011.html" rel="prev">&larr; 1 Chronicles 11</a>

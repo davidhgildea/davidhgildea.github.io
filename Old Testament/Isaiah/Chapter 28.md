@@ -51,8 +51,6 @@ description: "Isaiah 28 in plain English: Trouble is coming for the proud crown,
 
 # Isaiah 28
 
-<p class="chapter-intro">Isaiah chapter 28 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 28 audio">
@@ -127,8 +125,6 @@ description: "Isaiah 28 in plain English: Trouble is coming for the proud crown,
 <p class="verse" id="v29"><a class="verse-num" href="#v29" aria-label="Isaiah 28:29">29</a> This also comes from God, who is amazing in giving advice and outstanding in what He does.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 28:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/28.txt">Plain text of Isaiah 28</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2027.html" rel="prev">&larr; Isaiah 27</a>

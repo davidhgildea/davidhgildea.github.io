@@ -51,8 +51,6 @@ description: "Galatians 3 in plain English: Silly Galatians, who tricked you int
 
 # Galatians 3
 
-<p class="chapter-intro">Galatians chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Galatians 3 audio">
@@ -127,8 +125,6 @@ description: "Galatians 3 in plain English: Silly Galatians, who tricked you int
 <p class="verse" id="v29"><a class="verse-num" href="#v29" aria-label="Galatians 3:29">29</a> If you belong to Christ, then you are descendants of Abraham and will inherit what was promised.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Galatians 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/galatians/3.txt">Plain text of Galatians 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Galatians/Chapter%202.html" rel="prev">&larr; Galatians 2</a>

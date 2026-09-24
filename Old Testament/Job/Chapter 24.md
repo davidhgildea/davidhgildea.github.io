@@ -51,8 +51,6 @@ description: "Job 24 in plain English: Why, if God knows all time, do those who 
 
 # Job 24
 
-<p class="chapter-intro">Job chapter 24 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Job 24 audio">
@@ -119,8 +117,6 @@ description: "Job 24 in plain English: Why, if God knows all time, do those who 
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Job 24:25">25</a> If this is not true now, who will prove me wrong and show that my words are worthless?</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Job 24:1, Simplified Bible (simplified.bible)</em>. <a href="/text/job/24.txt">Plain text of Job 24</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Job/Chapter%2023.html" rel="prev">&larr; Job 23</a>

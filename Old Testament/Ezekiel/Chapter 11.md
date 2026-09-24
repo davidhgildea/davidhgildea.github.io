@@ -51,8 +51,6 @@ description: "Ezekiel 11 in plain English: The spirit picked me up and took me t
 
 # Ezekiel 11
 
-<p class="chapter-intro">Ezekiel chapter 11 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 11 audio">
@@ -119,8 +117,6 @@ description: "Ezekiel 11 in plain English: The spirit picked me up and took me t
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Ezekiel 11:25">25</a> Then I told the captives everything that God had shown me.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 11:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/11.txt">Plain text of Ezekiel 11</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2010.html" rel="prev">&larr; Ezekiel 10</a>

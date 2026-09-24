@@ -51,8 +51,6 @@ description: "Joshua 4 in plain English: After everyone had crossed the Jordan R
 
 # Joshua 4
 
-<p class="chapter-intro">Joshua chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Joshua 4 audio">
@@ -117,8 +115,6 @@ description: "Joshua 4 in plain English: After everyone had crossed the Jordan R
 <p class="verse" id="v24"><a class="verse-num" href="#v24" aria-label="Joshua 4:24">24</a> So that everyone in the world may know that God&#39;s power is great and that you should respect God always.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Joshua 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/joshua/4.txt">Plain text of Joshua 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Joshua/Chapter%203.html" rel="prev">&larr; Joshua 3</a>

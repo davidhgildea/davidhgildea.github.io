@@ -51,8 +51,6 @@ description: "Hebrews 3 in plain English: Therefore, holy brothers and sisters, 
 
 # Hebrews 3
 
-<p class="chapter-intro">Hebrews chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Hebrews 3 audio">
@@ -107,8 +105,6 @@ description: "Hebrews 3 in plain English: Therefore, holy brothers and sisters, 
 <p class="verse" id="v19"><a class="verse-num" href="#v19" aria-label="Hebrews 3:19">19</a> So we understand they couldn&#39;t go in because they did not believe.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Hebrews 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/hebrews/3.txt">Plain text of Hebrews 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Hebrews/Chapter%202.html" rel="prev">&larr; Hebrews 2</a>

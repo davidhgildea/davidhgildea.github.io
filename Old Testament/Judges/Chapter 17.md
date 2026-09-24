@@ -51,8 +51,6 @@ description: "Judges 17 in plain English: A man from the hill country of Ephraim
 
 # Judges 17
 
-<p class="chapter-intro">Judges chapter 17 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Judges 17 audio">
@@ -95,8 +93,6 @@ description: "Judges 17 in plain English: A man from the hill country of Ephraim
 <p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Judges 17:13">13</a> Then Micah said, &quot;Now I know that God will be good to me because I have a Levite as my priest.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Judges 17:1, Simplified Bible (simplified.bible)</em>. <a href="/text/judges/17.txt">Plain text of Judges 17</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Judges/Chapter%2016.html" rel="prev">&larr; Judges 16</a>

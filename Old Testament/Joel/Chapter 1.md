@@ -51,8 +51,6 @@ description: "Joel 1 in plain English: God's message that came to Joel, Pethuel'
 
 # Joel 1
 
-<p class="chapter-intro">Joel chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Joel 1 audio">
@@ -109,8 +107,6 @@ description: "Joel 1 in plain English: God's message that came to Joel, Pethuel'
 <p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="Joel 1:20">20</a> The wild animals cry out to you because the water streams are dry, and fire has burned the wild grasslands.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Joel 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/joel/1.txt">Plain text of Joel 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Hosea/Chapter%2014.html" rel="prev">&larr; Hosea 14</a>

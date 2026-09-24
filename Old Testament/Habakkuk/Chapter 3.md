@@ -51,8 +51,6 @@ description: "Habakkuk 3 in plain English: Habakkuk the prophet's prayer for tro
 
 # Habakkuk 3
 
-<p class="chapter-intro">Habakkuk chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Habakkuk 3 audio">
@@ -107,8 +105,6 @@ description: "Habakkuk 3 in plain English: Habakkuk the prophet's prayer for tro
 <p class="verse" id="v19"><a class="verse-num" href="#v19" aria-label="Habakkuk 3:19">19</a> God gives me strength, makes me as sure-footed as a deer, and lets me walk on the heights. For the director of music with stringed instruments.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Habakkuk 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/habakkuk/3.txt">Plain text of Habakkuk 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Habakkuk/Chapter%202.html" rel="prev">&larr; Habakkuk 2</a>

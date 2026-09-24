@@ -51,8 +51,6 @@ description: "Isaiah 12 in plain English: On that day, you will say, \"God, I wi
 
 # Isaiah 12
 
-<p class="chapter-intro">Isaiah chapter 12 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 12 audio">
@@ -81,8 +79,6 @@ description: "Isaiah 12 in plain English: On that day, you will say, \"God, I wi
 <p class="verse" id="v6"><a class="verse-num" href="#v6" aria-label="Isaiah 12:6">6</a> Shout loudly, you who live in Zion, because the Holy One of Israel is great among you.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 12:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/12.txt">Plain text of Isaiah 12</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2011.html" rel="prev">&larr; Isaiah 11</a>

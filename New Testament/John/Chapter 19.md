@@ -51,8 +51,6 @@ description: "John 19 in plain English: Then Pilate took Jesus and whipped him. 
 
 # John 19
 
-<p class="chapter-intro">John chapter 19 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="John 19 audio">
@@ -153,8 +151,6 @@ description: "John 19 in plain English: Then Pilate took Jesus and whipped him. 
 <p class="verse" id="v42"><a class="verse-num" href="#v42" aria-label="John 19:42">42</a> They placed Jesus there because it was the Jewish day of preparation, and the tomb was close by.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>John 19:1, Simplified Bible (simplified.bible)</em>. <a href="/text/john/19.txt">Plain text of John 19</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/John/Chapter%2018.html" rel="prev">&larr; John 18</a>

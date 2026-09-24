@@ -51,8 +51,6 @@ description: "Deuteronomy 23 in plain English: Anyone with damaged testicles or 
 
 # Deuteronomy 23
 
-<p class="chapter-intro">Deuteronomy chapter 23 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Deuteronomy 23 audio">
@@ -119,8 +117,6 @@ description: "Deuteronomy 23 in plain English: Anyone with damaged testicles or 
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Deuteronomy 23:25">25</a> When you go into your neighbor&#39;s grain field, you can pick ears by hand, but you must not cut your neighbor&#39;s grain with a sickle.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Deuteronomy 23:1, Simplified Bible (simplified.bible)</em>. <a href="/text/deuteronomy/23.txt">Plain text of Deuteronomy 23</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Deuteronomy/Chapter%2022.html" rel="prev">&larr; Deuteronomy 22</a>

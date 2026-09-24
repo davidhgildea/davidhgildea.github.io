@@ -51,8 +51,6 @@ description: "1 Samuel 24 in plain English: When Saul came back from chasing the
 
 # 1 Samuel 24
 
-<p class="chapter-intro">1 Samuel chapter 24 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Samuel 24 audio">
@@ -113,8 +111,6 @@ description: "1 Samuel 24 in plain English: When Saul came back from chasing the
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="1 Samuel 24:22">22</a> And David promised Saul. Then Saul went home while David and his men went to the fortress.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Samuel 24:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-samuel/24.txt">Plain text of 1 Samuel 24</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Samuel/Chapter%2023.html" rel="prev">&larr; 1 Samuel 23</a>

@@ -51,8 +51,6 @@ description: "Psalms 42 in plain English: Like a deer that longs for streams of 
 
 # Psalms 42
 
-<p class="chapter-intro">Psalms chapter 42 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 42 audio">
@@ -91,8 +89,6 @@ description: "Psalms 42 in plain English: Like a deer that longs for streams of 
 <p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Psalms 42:11">11</a> Why are you sad, my soul? And why are you upset inside me? Put your hope in God: because I will still praise him, who is the one who makes me well, and my God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 42:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/42.txt">Plain text of Psalms 42</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2041.html" rel="prev">&larr; Psalms 41</a>

@@ -51,8 +51,6 @@ description: "Habakkuk 2 in plain English: I will stand at my guard post and tak
 
 # Habakkuk 2
 
-<p class="chapter-intro">Habakkuk chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Habakkuk 2 audio">
@@ -109,8 +107,6 @@ description: "Habakkuk 2 in plain English: I will stand at my guard post and tak
 <p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="Habakkuk 2:20">20</a> God is in his holy place: let everyone on earth be quiet before him.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Habakkuk 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/habakkuk/2.txt">Plain text of Habakkuk 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Habakkuk/Chapter%201.html" rel="prev">&larr; Habakkuk 1</a>

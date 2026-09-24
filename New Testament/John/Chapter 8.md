@@ -51,8 +51,6 @@ description: "John 8 in plain English: Jesus went to the Mount of Olives. Early 
 
 # John 8
 
-<p class="chapter-intro">John chapter 8 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="John 8 audio">
@@ -187,8 +185,6 @@ description: "John 8 in plain English: Jesus went to the Mount of Olives. Early 
 <p class="verse" id="v59"><a class="verse-num" href="#v59" aria-label="John 8:59">59</a> They picked up stones to throw at him, but Jesus hid and left the temple, walking through the crowd, and passed by.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>John 8:1, Simplified Bible (simplified.bible)</em>. <a href="/text/john/8.txt">Plain text of John 8</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/John/Chapter%207.html" rel="prev">&larr; John 7</a>

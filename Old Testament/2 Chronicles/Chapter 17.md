@@ -51,8 +51,6 @@ description: "2 Chronicles 17 in plain English: Jehoshaphat, his son, became kin
 
 # 2 Chronicles 17
 
-<p class="chapter-intro">2 Chronicles chapter 17 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Chronicles 17 audio">
@@ -107,8 +105,6 @@ description: "2 Chronicles 17 in plain English: Jehoshaphat, his son, became kin
 <p class="verse" id="v19"><a class="verse-num" href="#v19" aria-label="2 Chronicles 17:19">19</a> These served the king, along with those the king placed in the protected cities all over Judah.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Chronicles 17:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-chronicles/17.txt">Plain text of 2 Chronicles 17</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Chronicles/Chapter%2016.html" rel="prev">&larr; 2 Chronicles 16</a>

@@ -51,8 +51,6 @@ description: "Numbers 30 in plain English: Moses told the leaders of the tribes 
 
 # Numbers 30
 
-<p class="chapter-intro">Numbers chapter 30 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Numbers 30 audio">
@@ -101,8 +99,6 @@ description: "Numbers 30 in plain English: Moses told the leaders of the tribes 
 <p class="verse" id="v16"><a class="verse-num" href="#v16" aria-label="Numbers 30:16">16</a> These are the rules that God told Moses, for a man and his wife, and for a father and his young daughter living in her father&#39;s house.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Numbers 30:1, Simplified Bible (simplified.bible)</em>. <a href="/text/numbers/30.txt">Plain text of Numbers 30</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Numbers/Chapter%2029.html" rel="prev">&larr; Numbers 29</a>

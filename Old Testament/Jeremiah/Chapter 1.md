@@ -51,8 +51,6 @@ description: "Jeremiah 1 in plain English: These are the words of Jeremiah, Hilk
 
 # Jeremiah 1
 
-<p class="chapter-intro">Jeremiah chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 1 audio">
@@ -107,8 +105,6 @@ description: "Jeremiah 1 in plain English: These are the words of Jeremiah, Hilk
 <p class="verse" id="v19"><a class="verse-num" href="#v19" aria-label="Jeremiah 1:19">19</a> They will fight against you, but they won&#39;t win, because I am with you, says God, to save you.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/1.txt">Plain text of Jeremiah 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2066.html" rel="prev">&larr; Isaiah 66</a>

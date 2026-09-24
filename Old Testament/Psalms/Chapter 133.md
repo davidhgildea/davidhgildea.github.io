@@ -51,8 +51,6 @@ description: "Psalms 133 in plain English: Look, it's good and nice when brother
 
 # Psalms 133
 
-<p class="chapter-intro">Psalms chapter 133 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 133 audio">
@@ -75,8 +73,6 @@ description: "Psalms 133 in plain English: Look, it's good and nice when brother
 <p class="verse" id="v3"><a class="verse-num" href="#v3" aria-label="Psalms 133:3">3</a> Like the dew from Mount Hermon or the dew on Zion&#39;s hills, there God gives the blessing of eternal life.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 133:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/133.txt">Plain text of Psalms 133</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%20132.html" rel="prev">&larr; Psalms 132</a>

@@ -51,8 +51,6 @@ description: "Nehemiah 1 in plain English: Nehemiah son of Hachaliah spoke these
 
 # Nehemiah 1
 
-<p class="chapter-intro">Nehemiah chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Nehemiah 1 audio">
@@ -91,8 +89,6 @@ description: "Nehemiah 1 in plain English: Nehemiah son of Hachaliah spoke these
 <p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Nehemiah 1:11">11</a> God, I ask you, please listen to your servant&#39;s prayer and the prayers of those who respect your name. Help your servant today, give him kindness before this man, because I served the king as his cupbearer.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Nehemiah 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/nehemiah/1.txt">Plain text of Nehemiah 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezra/Chapter%2010.html" rel="prev">&larr; Ezra 10</a>

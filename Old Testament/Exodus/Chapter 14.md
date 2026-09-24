@@ -51,8 +51,6 @@ description: "Exodus 14 in plain English: God spoke to Moses, saying, Tell the I
 
 # Exodus 14
 
-<p class="chapter-intro">Exodus chapter 14 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Exodus 14 audio">
@@ -131,8 +129,6 @@ description: "Exodus 14 in plain English: God spoke to Moses, saying, Tell the I
 <p class="verse" id="v31"><a class="verse-num" href="#v31" aria-label="Exodus 14:31">31</a> Israel saw the amazing thing God did to the Egyptians; the people were afraid of God, and they trusted God and his servant Moses.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Exodus 14:1, Simplified Bible (simplified.bible)</em>. <a href="/text/exodus/14.txt">Plain text of Exodus 14</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Exodus/Chapter%2013.html" rel="prev">&larr; Exodus 13</a>

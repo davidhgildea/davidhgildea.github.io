@@ -51,8 +51,6 @@ description: "Mark 8 in plain English: During that time, there was a large crowd
 
 # Mark 8
 
-<p class="chapter-intro">Mark chapter 8 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Mark 8 audio">
@@ -145,8 +143,6 @@ description: "Mark 8 in plain English: During that time, there was a large crowd
 <p class="verse" id="v38"><a class="verse-num" href="#v38" aria-label="Mark 8:38">38</a> Anyone who is ashamed of me and my words in this unfaithful and sinful time, I, the Son of Man, will also be ashamed of when I come with the glory of my Father and the holy angels.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Mark 8:1, Simplified Bible (simplified.bible)</em>. <a href="/text/mark/8.txt">Plain text of Mark 8</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Mark/Chapter%207.html" rel="prev">&larr; Mark 7</a>

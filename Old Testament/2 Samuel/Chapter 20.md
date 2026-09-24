@@ -51,8 +51,6 @@ description: "2 Samuel 20 in plain English: A bad man named Sheba, Bichri's son 
 
 # 2 Samuel 20
 
-<p class="chapter-intro">2 Samuel chapter 20 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Samuel 20 audio">
@@ -121,8 +119,6 @@ description: "2 Samuel 20 in plain English: A bad man named Sheba, Bichri's son 
 <p class="verse" id="v26"><a class="verse-num" href="#v26" aria-label="2 Samuel 20:26">26</a> Ira the Jairite was also a leading official in David&#39;s service.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Samuel 20:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-samuel/20.txt">Plain text of 2 Samuel 20</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Samuel/Chapter%2019.html" rel="prev">&larr; 2 Samuel 19</a>

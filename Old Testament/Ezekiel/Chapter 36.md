@@ -51,8 +51,6 @@ description: "Ezekiel 36 in plain English: You, person of God, speak to Israel's
 
 # Ezekiel 36
 
-<p class="chapter-intro">Ezekiel chapter 36 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 36 audio">
@@ -145,8 +143,6 @@ description: "Ezekiel 36 in plain English: You, person of God, speak to Israel's
 <p class="verse" id="v38"><a class="verse-num" href="#v38" aria-label="Ezekiel 36:38">38</a> Like a sacred herd, like the herd in Jerusalem during its festivals, the ruined cities will be filled with crowds of people, and they will understand that I am God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 36:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/36.txt">Plain text of Ezekiel 36</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2035.html" rel="prev">&larr; Ezekiel 35</a>

@@ -51,8 +51,6 @@ description: "Joel 2 in plain English: Play the trumpet in Zion, and ring the al
 
 # Joel 2
 
-<p class="chapter-intro">Joel chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Joel 2 audio">
@@ -133,8 +131,6 @@ description: "Joel 2 in plain English: Play the trumpet in Zion, and ring the al
 <p class="verse" id="v32"><a class="verse-num" href="#v32" aria-label="Joel 2:32">32</a> Whoever calls on God&#39;s name will be saved; deliverance will be in Mount Zion and Jerusalem as God promised, and among the survivors God calls.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Joel 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/joel/2.txt">Plain text of Joel 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Joel/Chapter%201.html" rel="prev">&larr; Joel 1</a>

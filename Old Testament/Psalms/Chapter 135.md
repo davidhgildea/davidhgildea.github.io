@@ -51,8 +51,6 @@ description: "Psalms 135 in plain English: Praise God. Praise the name of God; p
 
 # Psalms 135
 
-<p class="chapter-intro">Psalms chapter 135 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 135 audio">
@@ -111,8 +109,6 @@ description: "Psalms 135 in plain English: Praise God. Praise the name of God; p
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Psalms 135:21">21</a> May God, who lives in Jerusalem, be blessed. Praise God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 135:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/135.txt">Plain text of Psalms 135</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%20134.html" rel="prev">&larr; Psalms 134</a>

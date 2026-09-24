@@ -51,8 +51,6 @@ description: "Acts 7 in plain English: Then the high priest asked, \"Is this tru
 
 # Acts 7
 
-<p class="chapter-intro">Acts chapter 7 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Acts 7 audio">
@@ -189,8 +187,6 @@ description: "Acts 7 in plain English: Then the high priest asked, \"Is this tru
 <p class="verse" id="v60"><a class="verse-num" href="#v60" aria-label="Acts 7:60">60</a> He kneeled and shouted, &quot;God, do not hold this sin against them.&quot; After he said this, he passed away.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Acts 7:1, Simplified Bible (simplified.bible)</em>. <a href="/text/acts/7.txt">Plain text of Acts 7</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Acts/Chapter%206.html" rel="prev">&larr; Acts 6</a>

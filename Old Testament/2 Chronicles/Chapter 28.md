@@ -51,8 +51,6 @@ description: "2 Chronicles 28 in plain English: Ahaz was twenty when he became k
 
 # 2 Chronicles 28
 
-<p class="chapter-intro">2 Chronicles chapter 28 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Chronicles 28 audio">
@@ -123,8 +121,6 @@ description: "2 Chronicles 28 in plain English: Ahaz was twenty when he became k
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="2 Chronicles 28:27">27</a> Ahaz died and was buried in Jerusalem, but not in the royal tombs, and his son Hezekiah became king after him.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Chronicles 28:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-chronicles/28.txt">Plain text of 2 Chronicles 28</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Chronicles/Chapter%2027.html" rel="prev">&larr; 2 Chronicles 27</a>

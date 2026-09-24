@@ -51,8 +51,6 @@ description: "Zechariah 9 in plain English: The heavy message from God is in Had
 
 # Zechariah 9
 
-<p class="chapter-intro">Zechariah chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Zechariah 9 audio">
@@ -103,8 +101,6 @@ description: "Zechariah 9 in plain English: The heavy message from God is in Had
 <p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="Zechariah 9:17">17</a> How great is God&#39;s goodness and beauty! Grain will make young men happy, and new wine will make young women joyful.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Zechariah 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/zechariah/9.txt">Plain text of Zechariah 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Zechariah/Chapter%208.html" rel="prev">&larr; Zechariah 8</a>

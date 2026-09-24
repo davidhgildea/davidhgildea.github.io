@@ -51,8 +51,6 @@ description: "Numbers 25 in plain English: Israel stayed in Shittim, and the peo
 
 # Numbers 25
 
-<p class="chapter-intro">Numbers chapter 25 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Numbers 25 audio">
@@ -105,8 +103,6 @@ description: "Numbers 25 in plain English: Israel stayed in Shittim, and the peo
 <p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="Numbers 25:18">18</a> They trouble you with their tricks, which they used to deceive you about Peor, and about Cozbi, the Midianite prince&#39;s daughter and their sister, who was killed when the plague came because of Peor.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Numbers 25:1, Simplified Bible (simplified.bible)</em>. <a href="/text/numbers/25.txt">Plain text of Numbers 25</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Numbers/Chapter%2024.html" rel="prev">&larr; Numbers 24</a>

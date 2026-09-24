@@ -51,8 +51,6 @@ description: "Jeremiah 18 in plain English: The message that came to Jeremiah fr
 
 # Jeremiah 18
 
-<p class="chapter-intro">Jeremiah chapter 18 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 18 audio">
@@ -115,8 +113,6 @@ description: "Jeremiah 18 in plain English: The message that came to Jeremiah fr
 <p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Jeremiah 18:23">23</a> God, you know their plans to kill me. Do not forgive their wrongs or erase their sins from your view. Let them fail in your presence when you are angry.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 18:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/18.txt">Plain text of Jeremiah 18</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2017.html" rel="prev">&larr; Jeremiah 17</a>

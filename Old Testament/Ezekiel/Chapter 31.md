@@ -51,8 +51,6 @@ description: "Ezekiel 31 in plain English: In the eleventh year, on the first da
 
 # Ezekiel 31
 
-<p class="chapter-intro">Ezekiel chapter 31 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 31 audio">
@@ -105,8 +103,6 @@ description: "Ezekiel 31 in plain English: In the eleventh year, on the first da
 <p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="Ezekiel 31:18">18</a> Who are you like in beauty and size among the Eden trees? But you will be cut down and lie below the earth with the Eden trees and the dead who were killed by the sword. This is Pharaoh and all his people, says God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 31:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/31.txt">Plain text of Ezekiel 31</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2030.html" rel="prev">&larr; Ezekiel 30</a>

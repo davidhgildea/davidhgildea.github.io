@@ -51,8 +51,6 @@ description: "Isaiah 39 in plain English: At that time, Merodachbaladan, son of 
 
 # Isaiah 39
 
-<p class="chapter-intro">Isaiah chapter 39 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 39 audio">
@@ -85,8 +83,6 @@ description: "Isaiah 39 in plain English: At that time, Merodachbaladan, son of 
 <p class="verse" id="v8"><a class="verse-num" href="#v8" aria-label="Isaiah 39:8">8</a> Hezekiah told Isaiah, &quot;God&#39;s message you gave is good. Also, there will be peace and truth while I live.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 39:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/39.txt">Plain text of Isaiah 39</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2038.html" rel="prev">&larr; Isaiah 38</a>

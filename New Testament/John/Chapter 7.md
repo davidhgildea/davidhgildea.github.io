@@ -51,8 +51,6 @@ description: "John 7 in plain English: After this, Jesus stayed in Galilee becau
 
 # John 7
 
-<p class="chapter-intro">John chapter 7 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="John 7 audio">
@@ -175,8 +173,6 @@ description: "John 7 in plain English: After this, Jesus stayed in Galilee becau
 <p class="verse" id="v53"><a class="verse-num" href="#v53" aria-label="John 7:53">53</a> Everyone went to their own home.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>John 7:1, Simplified Bible (simplified.bible)</em>. <a href="/text/john/7.txt">Plain text of John 7</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/John/Chapter%206.html" rel="prev">&larr; John 6</a>

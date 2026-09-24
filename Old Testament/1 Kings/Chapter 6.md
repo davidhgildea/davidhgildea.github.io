@@ -51,8 +51,6 @@ description: "1 Kings 6 in plain English: In the year 480 after the Israelites l
 
 # 1 Kings 6
 
-<p class="chapter-intro">1 Kings chapter 6 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Kings 6 audio">
@@ -145,8 +143,6 @@ description: "1 Kings 6 in plain English: In the year 480 after the Israelites l
 <p class="verse" id="v38"><a class="verse-num" href="#v38" aria-label="1 Kings 6:38">38</a> In the eleventh year, during Bul, the eighth month, the house was completed in every part and detail. It took seven years to build it.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Kings 6:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-kings/6.txt">Plain text of 1 Kings 6</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Kings/Chapter%205.html" rel="prev">&larr; 1 Kings 5</a>

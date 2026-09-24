@@ -51,8 +51,6 @@ description: "1 Chronicles 24 in plain English: These are the groups of Aaron's 
 
 # 1 Chronicles 24
 
-<p class="chapter-intro">1 Chronicles chapter 24 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Chronicles 24 audio">
@@ -131,8 +129,6 @@ description: "1 Chronicles 24 in plain English: These are the groups of Aaron's 
 <p class="verse" id="v31"><a class="verse-num" href="#v31" aria-label="1 Chronicles 24:31">31</a> They also cast lots like their brothers, the sons of Aaron, in front of King David, Zadok, Ahimelech, and the leaders of the priests&#39; and Levites&#39; families, with the most important fathers facing their younger brothers.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Chronicles 24:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-chronicles/24.txt">Plain text of 1 Chronicles 24</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Chronicles/Chapter%2023.html" rel="prev">&larr; 1 Chronicles 23</a>

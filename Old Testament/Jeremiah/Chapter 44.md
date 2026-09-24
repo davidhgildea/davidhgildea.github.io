@@ -51,8 +51,6 @@ description: "Jeremiah 44 in plain English: God's message came to Jeremiah for a
 
 # Jeremiah 44
 
-<p class="chapter-intro">Jeremiah chapter 44 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 44 audio">
@@ -129,8 +127,6 @@ description: "Jeremiah 44 in plain English: God's message came to Jeremiah for a
 <p class="verse" id="v30"><a class="verse-num" href="#v30" aria-label="Jeremiah 44:30">30</a> God says, &quot;Look, I will hand over Pharaoh Hophra, king of Egypt, to his enemies and to those who want to kill him, just as I handed over Zedekiah, king of Judah, to Nebuchadnezzar, king of Babylon, his enemy, who wanted to kill him.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 44:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/44.txt">Plain text of Jeremiah 44</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2043.html" rel="prev">&larr; Jeremiah 43</a>

@@ -51,8 +51,6 @@ description: "Psalms 31 in plain English: In you, God, I trust; let me never be 
 
 # Psalms 31
 
-<p class="chapter-intro">Psalms chapter 31 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 31 audio">
@@ -117,8 +115,6 @@ description: "Psalms 31 in plain English: In you, God, I trust; let me never be 
 <p class="verse" id="v24"><a class="verse-num" href="#v24" aria-label="Psalms 31:24">24</a> Have courage, and God will make your heart strong, all who hope in God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 31:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/31.txt">Plain text of Psalms 31</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2030.html" rel="prev">&larr; Psalms 30</a>

@@ -51,8 +51,6 @@ description: "Judges 12 in plain English: The men of Ephraim came together, went
 
 # Judges 12
 
-<p class="chapter-intro">Judges chapter 12 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Judges 12 audio">
@@ -99,8 +97,6 @@ description: "Judges 12 in plain English: The men of Ephraim came together, went
 <p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="Judges 12:15">15</a> Abdon, Hillel&#39;s son from Pirathon, died and was buried in Pirathon, in Ephraim&#39;s territory, on the Amalekites&#39; hill.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Judges 12:1, Simplified Bible (simplified.bible)</em>. <a href="/text/judges/12.txt">Plain text of Judges 12</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Judges/Chapter%2011.html" rel="prev">&larr; Judges 11</a>

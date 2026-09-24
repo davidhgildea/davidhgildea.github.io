@@ -51,8 +51,6 @@ description: "Isaiah 13 in plain English: Isaiah, son of Amoz, saw this message 
 
 # Isaiah 13
 
-<p class="chapter-intro">Isaiah chapter 13 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 13 audio">
@@ -113,8 +111,6 @@ description: "Isaiah 13 in plain English: Isaiah, son of Amoz, saw this message 
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Isaiah 13:22">22</a> Wild animals from the islands will howl in their empty homes, and dragons will cry out in their beautiful palaces. Her time is about to come, and her days will not be extended.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 13:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/13.txt">Plain text of Isaiah 13</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2012.html" rel="prev">&larr; Isaiah 12</a>

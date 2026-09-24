@@ -51,8 +51,6 @@ description: "Deuteronomy 10 in plain English: At that time, God told me, \"Cut 
 
 # Deuteronomy 10
 
-<p class="chapter-intro">Deuteronomy chapter 10 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Deuteronomy 10 audio">
@@ -113,8 +111,6 @@ description: "Deuteronomy 10 in plain English: At that time, God told me, \"Cut 
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Deuteronomy 10:22">22</a> Your ancestors went to Egypt with seventy people; and now God has made you as many as the stars in the sky.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Deuteronomy 10:1, Simplified Bible (simplified.bible)</em>. <a href="/text/deuteronomy/10.txt">Plain text of Deuteronomy 10</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Deuteronomy/Chapter%209.html" rel="prev">&larr; Deuteronomy 9</a>

@@ -51,8 +51,6 @@ description: "1 Timothy 6 in plain English: All servants under someone should re
 
 # 1 Timothy 6
 
-<p class="chapter-intro">1 Timothy chapter 6 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Timothy 6 audio">
@@ -111,8 +109,6 @@ description: "1 Timothy 6 in plain English: All servants under someone should re
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="1 Timothy 6:21">21</a> Some who claim to follow have wandered away from the faith. May kindness be with you. Amen.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Timothy 6:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-timothy/6.txt">Plain text of 1 Timothy 6</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/1%20Timothy/Chapter%205.html" rel="prev">&larr; 1 Timothy 5</a>

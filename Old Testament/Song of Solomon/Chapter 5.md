@@ -51,8 +51,6 @@ description: "Song of Solomon 5 in plain English: I have come into my garden, my
 
 # Song of Solomon 5
 
-<p class="chapter-intro">Song of Solomon chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Song of Solomon 5 audio">
@@ -101,8 +99,6 @@ description: "Song of Solomon 5 in plain English: I have come into my garden, my
 <p class="verse" id="v16"><a class="verse-num" href="#v16" aria-label="Song of Solomon 5:16">16</a> His words are very sweet; yes, he is completely beautiful. This is my loved one, and this is my friend, O women of Jerusalem.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Song of Solomon 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/song-of-solomon/5.txt">Plain text of Song of Solomon 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Song%20of%20Solomon/Chapter%204.html" rel="prev">&larr; Song of Solomon 4</a>

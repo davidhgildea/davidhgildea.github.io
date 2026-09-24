@@ -51,8 +51,6 @@ description: "Acts 9 in plain English: Saul, still making threats and wanting to
 
 # Acts 9
 
-<p class="chapter-intro">Acts chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Acts 9 audio">
@@ -155,8 +153,6 @@ description: "Acts 9 in plain English: Saul, still making threats and wanting to
 <p class="verse" id="v43"><a class="verse-num" href="#v43" aria-label="Acts 9:43">43</a> He stayed in Joppa for many days with a man named Simon, who was a leather worker.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Acts 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/acts/9.txt">Plain text of Acts 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Acts/Chapter%208.html" rel="prev">&larr; Acts 8</a>

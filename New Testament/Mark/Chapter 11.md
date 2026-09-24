@@ -51,8 +51,6 @@ description: "Mark 11 in plain English: When they got close to Jerusalem, near B
 
 # Mark 11
 
-<p class="chapter-intro">Mark chapter 11 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Mark 11 audio">
@@ -135,8 +133,6 @@ description: "Mark 11 in plain English: When they got close to Jerusalem, near B
 <p class="verse" id="v33"><a class="verse-num" href="#v33" aria-label="Mark 11:33">33</a> They replied to Jesus, &quot;We don&#39;t know.&quot; And Jesus said to them, &quot;Then I won&#39;t tell you with what authority I do these things.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Mark 11:1, Simplified Bible (simplified.bible)</em>. <a href="/text/mark/11.txt">Plain text of Mark 11</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Mark/Chapter%2010.html" rel="prev">&larr; Mark 10</a>

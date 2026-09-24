@@ -51,8 +51,6 @@ description: "2 Peter 3 in plain English: My dear friends, I am writing to you a
 
 # 2 Peter 3
 
-<p class="chapter-intro">2 Peter chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Peter 3 audio">
@@ -105,8 +103,6 @@ description: "2 Peter 3 in plain English: My dear friends, I am writing to you a
 <p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="2 Peter 3:18">18</a> Keep growing in kindness and in understanding our leader and rescuer, Jesus Christ. May he be honored now and always. Amen.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Peter 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-peter/3.txt">Plain text of 2 Peter 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/2%20Peter/Chapter%202.html" rel="prev">&larr; 2 Peter 2</a>

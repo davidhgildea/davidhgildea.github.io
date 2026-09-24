@@ -51,8 +51,6 @@ description: "Hosea 6 in plain English: Come, let's go back to God; He has hurt 
 
 # Hosea 6
 
-<p class="chapter-intro">Hosea chapter 6 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Hosea 6 audio">
@@ -91,8 +89,6 @@ description: "Hosea 6 in plain English: Come, let's go back to God; He has hurt 
 <p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Hosea 6:11">11</a> Also, Judah, God has prepared a harvest for you when I bring back my people from captivity.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Hosea 6:1, Simplified Bible (simplified.bible)</em>. <a href="/text/hosea/6.txt">Plain text of Hosea 6</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Hosea/Chapter%205.html" rel="prev">&larr; Hosea 5</a>

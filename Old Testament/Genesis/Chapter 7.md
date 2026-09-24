@@ -51,8 +51,6 @@ description: "Genesis 7 in plain English: God said to Noah, \"You and your famil
 
 # Genesis 7
 
-<p class="chapter-intro">Genesis chapter 7 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 7 audio">
@@ -117,8 +115,6 @@ description: "Genesis 7 in plain English: God said to Noah, \"You and your famil
 <p class="verse" id="v24"><a class="verse-num" href="#v24" aria-label="Genesis 7:24">24</a> The water covered the earth for one hundred and fifty days.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 7:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/7.txt">Plain text of Genesis 7</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%206.html" rel="prev">&larr; Genesis 6</a>

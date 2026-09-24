@@ -51,8 +51,6 @@ description: "Isaiah 65 in plain English: People who did not ask for me are now 
 
 # Isaiah 65
 
-<p class="chapter-intro">Isaiah chapter 65 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 65 audio">
@@ -119,8 +117,6 @@ description: "Isaiah 65 in plain English: People who did not ask for me are now 
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Isaiah 65:25">25</a> The wolf and the lamb will eat together, and the lion will eat grass like the ox; the snake will eat dust. They will not harm or ruin anything on my holy mountain, says God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 65:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/65.txt">Plain text of Isaiah 65</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2064.html" rel="prev">&larr; Isaiah 64</a>

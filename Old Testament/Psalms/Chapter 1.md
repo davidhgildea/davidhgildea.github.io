@@ -51,8 +51,6 @@ description: "Psalms 1 in plain English: Happy is the person who does not follow
 
 # Psalms 1
 
-<p class="chapter-intro">Psalms chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 1 audio">
@@ -81,8 +79,6 @@ description: "Psalms 1 in plain English: Happy is the person who does not follow
 <p class="verse" id="v6"><a class="verse-num" href="#v6" aria-label="Psalms 1:6">6</a> God knows the path of good people, but the way of the bad will disappear.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/1.txt">Plain text of Psalms 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Job/Chapter%2042.html" rel="prev">&larr; Job 42</a>

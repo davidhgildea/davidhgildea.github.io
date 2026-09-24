@@ -51,8 +51,6 @@ description: "Micah 1 in plain English: God's message that came to Micah of Mora
 
 # Micah 1
 
-<p class="chapter-intro">Micah chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Micah 1 audio">
@@ -101,8 +99,6 @@ description: "Micah 1 in plain English: God's message that came to Micah of Mora
 <p class="verse" id="v16"><a class="verse-num" href="#v16" aria-label="Micah 1:16">16</a> Shave your head and cut off your hair for your precious children; make your bald spot bigger like an eagle, because they have been taken away from you as captives.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Micah 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/micah/1.txt">Plain text of Micah 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jonah/Chapter%204.html" rel="prev">&larr; Jonah 4</a>

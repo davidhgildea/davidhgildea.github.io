@@ -51,8 +51,6 @@ description: "Psalms 91 in plain English: Whoever lives in the hidden place of t
 
 # Psalms 91
 
-<p class="chapter-intro">Psalms chapter 91 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 91 audio">
@@ -101,8 +99,6 @@ description: "Psalms 91 in plain English: Whoever lives in the hidden place of t
 <p class="verse" id="v16"><a class="verse-num" href="#v16" aria-label="Psalms 91:16">16</a> I will give him a long life and show him how I can save.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 91:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/91.txt">Plain text of Psalms 91</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2090.html" rel="prev">&larr; Psalms 90</a>

@@ -51,8 +51,6 @@ description: "Isaiah 57 in plain English: Good people die, and nobody cares: and
 
 # Isaiah 57
 
-<p class="chapter-intro">Isaiah chapter 57 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 57 audio">
@@ -111,8 +109,6 @@ description: "Isaiah 57 in plain English: Good people die, and nobody cares: and
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Isaiah 57:21">21</a> My God says the bad have no peace.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 57:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/57.txt">Plain text of Isaiah 57</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2056.html" rel="prev">&larr; Isaiah 56</a>

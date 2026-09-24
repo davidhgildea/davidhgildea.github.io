@@ -51,8 +51,6 @@ description: "Genesis 20 in plain English: Abraham traveled from there to the so
 
 # Genesis 20
 
-<p class="chapter-intro">Genesis chapter 20 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 20 audio">
@@ -105,8 +103,6 @@ description: "Genesis 20 in plain English: Abraham traveled from there to the so
 <p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="Genesis 20:18">18</a> God had made it so no woman in Abimelech&#39;s house could have children because of Sarah, Abraham&#39;s wife.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 20:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/20.txt">Plain text of Genesis 20</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%2019.html" rel="prev">&larr; Genesis 19</a>

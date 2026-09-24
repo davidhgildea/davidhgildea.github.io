@@ -51,8 +51,6 @@ description: "Psalms 34 in plain English: I will always bless God; I will consta
 
 # Psalms 34
 
-<p class="chapter-intro">Psalms chapter 34 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 34 audio">
@@ -113,8 +111,6 @@ description: "Psalms 34 in plain English: I will always bless God; I will consta
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Psalms 34:22">22</a> God saves the souls of his servants, and none who trust in him will be abandoned.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 34:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/34.txt">Plain text of Psalms 34</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2033.html" rel="prev">&larr; Psalms 33</a>

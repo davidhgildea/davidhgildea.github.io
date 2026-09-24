@@ -51,8 +51,6 @@ description: "Ezra 6 in plain English: King Darius gave an order, and they searc
 
 # Ezra 6
 
-<p class="chapter-intro">Ezra chapter 6 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezra 6 audio">
@@ -113,8 +111,6 @@ description: "Ezra 6 in plain English: King Darius gave an order, and they searc
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Ezra 6:22">22</a> They celebrated the Feast of Unleavened Bread for seven days with happiness because God had filled them with joy and made the king of Assyria favorable to them, helping them in the work of God&#39;s house, the God of Israel.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezra 6:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezra/6.txt">Plain text of Ezra 6</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezra/Chapter%205.html" rel="prev">&larr; Ezra 5</a>

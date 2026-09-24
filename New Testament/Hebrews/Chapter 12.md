@@ -51,8 +51,6 @@ description: "Hebrews 12 in plain English: Since we are surrounded by so many ex
 
 # Hebrews 12
 
-<p class="chapter-intro">Hebrews chapter 12 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Hebrews 12 audio">
@@ -127,8 +125,6 @@ description: "Hebrews 12 in plain English: Since we are surrounded by so many ex
 <p class="verse" id="v29"><a class="verse-num" href="#v29" aria-label="Hebrews 12:29">29</a> Our God is like a fire that burns everything up.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Hebrews 12:1, Simplified Bible (simplified.bible)</em>. <a href="/text/hebrews/12.txt">Plain text of Hebrews 12</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Hebrews/Chapter%2011.html" rel="prev">&larr; Hebrews 11</a>

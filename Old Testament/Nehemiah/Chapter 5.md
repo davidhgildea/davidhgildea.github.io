@@ -51,8 +51,6 @@ description: "Nehemiah 5 in plain English: The people and their wives raised a l
 
 # Nehemiah 5
 
-<p class="chapter-intro">Nehemiah chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Nehemiah 5 audio">
@@ -107,8 +105,6 @@ description: "Nehemiah 5 in plain English: The people and their wives raised a l
 <p class="verse" id="v19"><a class="verse-num" href="#v19" aria-label="Nehemiah 5:19">19</a> Remember me, my God, for good, for everything I&#39;ve done for these people.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Nehemiah 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/nehemiah/5.txt">Plain text of Nehemiah 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Nehemiah/Chapter%204.html" rel="prev">&larr; Nehemiah 4</a>

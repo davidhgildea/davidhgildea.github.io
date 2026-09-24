@@ -51,8 +51,6 @@ description: "Colossians 3 in plain English: If you have been raised with Christ
 
 # Colossians 3
 
-<p class="chapter-intro">Colossians chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Colossians 3 audio">
@@ -119,8 +117,6 @@ description: "Colossians 3 in plain English: If you have been raised with Christ
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Colossians 3:25">25</a> Whoever does wrong will be paid back for their wrong, and everyone is treated the same.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Colossians 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/colossians/3.txt">Plain text of Colossians 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Colossians/Chapter%202.html" rel="prev">&larr; Colossians 2</a>

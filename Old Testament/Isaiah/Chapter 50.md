@@ -51,8 +51,6 @@ description: "Isaiah 50 in plain English: God says, \"Where is your mother's div
 
 # Isaiah 50
 
-<p class="chapter-intro">Isaiah chapter 50 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 50 audio">
@@ -91,8 +89,6 @@ description: "Isaiah 50 in plain English: God says, \"Where is your mother's div
 <p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Isaiah 50:11">11</a> Look, all who start a fire and surround yourselves with sparks: go ahead and walk in the light of your fire and the sparks you&#39;ve made. This is what you&#39;ll get from me; you will lay down in sadness.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 50:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/50.txt">Plain text of Isaiah 50</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2049.html" rel="prev">&larr; Isaiah 49</a>

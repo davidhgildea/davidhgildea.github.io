@@ -51,8 +51,6 @@ description: "Isaiah 60 in plain English: Get up and shine, because your light h
 
 # Isaiah 60
 
-<p class="chapter-intro">Isaiah chapter 60 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 60 audio">
@@ -113,8 +111,6 @@ description: "Isaiah 60 in plain English: Get up and shine, because your light h
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Isaiah 60:22">22</a> A small child will grow into a large group, and a little one will become a powerful nation: God will make it happen quickly at the right time.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 60:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/60.txt">Plain text of Isaiah 60</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2059.html" rel="prev">&larr; Isaiah 59</a>

@@ -51,8 +51,6 @@ description: "Lamentations 5 in plain English: Remember, God, what has happened 
 
 # Lamentations 5
 
-<p class="chapter-intro">Lamentations chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Lamentations 5 audio">
@@ -113,8 +111,6 @@ description: "Lamentations 5 in plain English: Remember, God, what has happened 
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Lamentations 5:22">22</a> You have completely rejected us; you are very angry with us.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Lamentations 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/lamentations/5.txt">Plain text of Lamentations 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Lamentations/Chapter%204.html" rel="prev">&larr; Lamentations 4</a>

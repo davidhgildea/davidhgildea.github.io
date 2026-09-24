@@ -51,8 +51,6 @@ description: "2 Samuel 24 in plain English: God became angry with Israel again, 
 
 # 2 Samuel 24
 
-<p class="chapter-intro">2 Samuel chapter 24 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Samuel 24 audio">
@@ -119,8 +117,6 @@ description: "2 Samuel 24 in plain English: God became angry with Israel again, 
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="2 Samuel 24:25">25</a> David built an altar to God there, and gave burnt and peace offerings. So God listened concerning the land, and the plague stopped in Israel.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Samuel 24:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-samuel/24.txt">Plain text of 2 Samuel 24</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Samuel/Chapter%2023.html" rel="prev">&larr; 2 Samuel 23</a>

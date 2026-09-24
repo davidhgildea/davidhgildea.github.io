@@ -51,8 +51,6 @@ description: "Isaiah 54 in plain English: Sing, you who couldn't have children; 
 
 # Isaiah 54
 
-<p class="chapter-intro">Isaiah chapter 54 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 54 audio">
@@ -103,8 +101,6 @@ description: "Isaiah 54 in plain English: Sing, you who couldn't have children; 
 <p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="Isaiah 54:17">17</a> No weapon made against you will succeed, and you will prove wrong every tongue that accuses you. This is the right of God&#39;s servants, and their goodness comes from God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 54:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/54.txt">Plain text of Isaiah 54</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2053.html" rel="prev">&larr; Isaiah 53</a>

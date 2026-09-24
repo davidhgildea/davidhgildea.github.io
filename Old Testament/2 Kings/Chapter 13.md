@@ -51,8 +51,6 @@ description: "2 Kings 13 in plain English: In the twenty-third year of Joash, Ah
 
 # 2 Kings 13
 
-<p class="chapter-intro">2 Kings chapter 13 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Kings 13 audio">
@@ -119,8 +117,6 @@ description: "2 Kings 13 in plain English: In the twenty-third year of Joash, Ah
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="2 Kings 13:25">25</a> Joash, son of Jehoahaz, won back from Benhadad, son of Hazael, the towns he had taken from Joash&#39;s father Jehoahaz in battle. Joash defeated him three times and took back the Israeli cities.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Kings 13:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-kings/13.txt">Plain text of 2 Kings 13</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Kings/Chapter%2012.html" rel="prev">&larr; 2 Kings 12</a>

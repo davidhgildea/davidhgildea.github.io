@@ -51,8 +51,6 @@ description: "John 4 in plain English: When God knew that the Pharisees heard Je
 
 # John 4
 
-<p class="chapter-intro">John chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="John 4 audio">
@@ -177,8 +175,6 @@ description: "John 4 in plain English: When God knew that the Pharisees heard Je
 <p class="verse" id="v54"><a class="verse-num" href="#v54" aria-label="John 4:54">54</a> This is the second miracle Jesus performed after he left Judaea for Galilee.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>John 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/john/4.txt">Plain text of John 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/John/Chapter%203.html" rel="prev">&larr; John 3</a>

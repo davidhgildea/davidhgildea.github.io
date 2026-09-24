@@ -51,8 +51,6 @@ description: "Ezra 7 in plain English: After these events, during King Artaxerxe
 
 # Ezra 7
 
-<p class="chapter-intro">Ezra chapter 7 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezra 7 audio">
@@ -125,8 +123,6 @@ description: "Ezra 7 in plain English: After these events, during King Artaxerxe
 <p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="Ezra 7:28">28</a> God has shown me mercy in front of the king, his advisors, and all the powerful nobles. I felt strong because God was with me, and I brought together leaders from Israel to go with me.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezra 7:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezra/7.txt">Plain text of Ezra 7</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezra/Chapter%206.html" rel="prev">&larr; Ezra 6</a>

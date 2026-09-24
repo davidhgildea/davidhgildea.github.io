@@ -51,8 +51,6 @@ description: "Joel 3 in plain English: For, look, in those days and at that time
 
 # Joel 3
 
-<p class="chapter-intro">Joel chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Joel 3 audio">
@@ -111,8 +109,6 @@ description: "Joel 3 in plain English: For, look, in those days and at that time
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Joel 3:21">21</a> I will purify their blood that I haven&#39;t purified before, because God lives in Zion.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Joel 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/joel/3.txt">Plain text of Joel 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Joel/Chapter%202.html" rel="prev">&larr; Joel 2</a>

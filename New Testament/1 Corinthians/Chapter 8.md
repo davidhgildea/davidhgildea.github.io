@@ -51,8 +51,6 @@ description: "1 Corinthians 8 in plain English: About food given to idols, we un
 
 # 1 Corinthians 8
 
-<p class="chapter-intro">1 Corinthians chapter 8 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Corinthians 8 audio">
@@ -95,8 +93,6 @@ description: "1 Corinthians 8 in plain English: About food given to idols, we un
 <p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="1 Corinthians 8:13">13</a> If food causes my brother to sin, I will not eat meat as long as the world exists, so I don&#39;t make my brother sin.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Corinthians 8:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-corinthians/8.txt">Plain text of 1 Corinthians 8</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/1%20Corinthians/Chapter%207.html" rel="prev">&larr; 1 Corinthians 7</a>

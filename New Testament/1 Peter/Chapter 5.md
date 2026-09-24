@@ -51,8 +51,6 @@ description: "1 Peter 5 in plain English: I urge you, the older leaders among yo
 
 # 1 Peter 5
 
-<p class="chapter-intro">1 Peter chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Peter 5 audio">
@@ -97,8 +95,6 @@ description: "1 Peter 5 in plain English: I urge you, the older leaders among yo
 <p class="verse" id="v14"><a class="verse-num" href="#v14" aria-label="1 Peter 5:14">14</a> Say hello to each other with a friendly kiss. May peace be with all of you who belong to Christ Jesus. Amen.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Peter 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-peter/5.txt">Plain text of 1 Peter 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/1%20Peter/Chapter%204.html" rel="prev">&larr; 1 Peter 4</a>

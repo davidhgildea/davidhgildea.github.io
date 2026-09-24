@@ -51,8 +51,6 @@ description: "Isaiah 52 in plain English: Wake up, wake up; put on your strength
 
 # Isaiah 52
 
-<p class="chapter-intro">Isaiah chapter 52 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 52 audio">
@@ -99,8 +97,6 @@ description: "Isaiah 52 in plain English: Wake up, wake up; put on your strength
 <p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="Isaiah 52:15">15</a> He will amaze many nations; kings will be silent because of him; for they will see what was not told to them, and they will think about things they had never heard.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 52:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/52.txt">Plain text of Isaiah 52</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2051.html" rel="prev">&larr; Isaiah 51</a>

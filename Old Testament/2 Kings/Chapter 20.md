@@ -51,8 +51,6 @@ description: "2 Kings 20 in plain English: During that time, Hezekiah became ver
 
 # 2 Kings 20
 
-<p class="chapter-intro">2 Kings chapter 20 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Kings 20 audio">
@@ -111,8 +109,6 @@ description: "2 Kings 20 in plain English: During that time, Hezekiah became ver
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="2 Kings 20:21">21</a> Hezekiah died and was buried with his ancestors, and his son Manasseh became king after him.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Kings 20:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-kings/20.txt">Plain text of 2 Kings 20</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Kings/Chapter%2019.html" rel="prev">&larr; 2 Kings 19</a>

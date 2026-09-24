@@ -51,8 +51,6 @@ description: "Job 12 in plain English: Job answered, saying, You must be the peo
 
 # Job 12
 
-<p class="chapter-intro">Job chapter 12 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Job 12 audio">
@@ -119,8 +117,6 @@ description: "Job 12 in plain English: Job answered, saying, You must be the peo
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Job 12:25">25</a> They feel around in the dark with no light, and he causes them to stumble like a drunk person.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Job 12:1, Simplified Bible (simplified.bible)</em>. <a href="/text/job/12.txt">Plain text of Job 12</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Job/Chapter%2011.html" rel="prev">&larr; Job 11</a>

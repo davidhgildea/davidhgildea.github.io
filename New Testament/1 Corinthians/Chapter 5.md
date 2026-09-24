@@ -51,8 +51,6 @@ description: "1 Corinthians 5 in plain English: People often say that sexual imm
 
 # 1 Corinthians 5
 
-<p class="chapter-intro">1 Corinthians chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Corinthians 5 audio">
@@ -95,8 +93,6 @@ description: "1 Corinthians 5 in plain English: People often say that sexual imm
 <p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="1 Corinthians 5:13">13</a> God judges those who are outside. So remove the evil person from among you.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Corinthians 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-corinthians/5.txt">Plain text of 1 Corinthians 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/1%20Corinthians/Chapter%204.html" rel="prev">&larr; 1 Corinthians 4</a>

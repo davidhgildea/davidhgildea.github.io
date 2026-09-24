@@ -51,8 +51,6 @@ description: "Judges 4 in plain English: The Israelites once more did bad things
 
 # Judges 4
 
-<p class="chapter-intro">Judges chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Judges 4 audio">
@@ -117,8 +115,6 @@ description: "Judges 4 in plain English: The Israelites once more did bad things
 <p class="verse" id="v24"><a class="verse-num" href="#v24" aria-label="Judges 4:24">24</a> The Israelites succeeded and overcame King Jabin of Canaan until they had defeated him completely.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Judges 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/judges/4.txt">Plain text of Judges 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Judges/Chapter%203.html" rel="prev">&larr; Judges 3</a>

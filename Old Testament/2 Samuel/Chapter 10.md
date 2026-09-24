@@ -51,8 +51,6 @@ description: "2 Samuel 10 in plain English: After this, the king of Ammon died, 
 
 # 2 Samuel 10
 
-<p class="chapter-intro">2 Samuel chapter 10 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Samuel 10 audio">
@@ -107,8 +105,6 @@ description: "2 Samuel 10 in plain English: After this, the king of Ammon died, 
 <p class="verse" id="v19"><a class="verse-num" href="#v19" aria-label="2 Samuel 10:19">19</a> When all the kings who served Hadarezer saw they were defeated by Israel, they made peace with Israel and worked for them. So, the Syrians were afraid to help the people of Ammon again.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Samuel 10:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-samuel/10.txt">Plain text of 2 Samuel 10</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Samuel/Chapter%209.html" rel="prev">&larr; 2 Samuel 9</a>

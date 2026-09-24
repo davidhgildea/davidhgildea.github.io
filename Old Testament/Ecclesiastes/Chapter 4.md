@@ -51,8 +51,6 @@ description: "Ecclesiastes 4 in plain English: I went back and saw all the unfai
 
 # Ecclesiastes 4
 
-<p class="chapter-intro">Ecclesiastes chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ecclesiastes 4 audio">
@@ -101,8 +99,6 @@ description: "Ecclesiastes 4 in plain English: I went back and saw all the unfai
 <p class="verse" id="v16"><a class="verse-num" href="#v16" aria-label="Ecclesiastes 4:16">16</a> People never stop coming, even those from before. Those who come later won&#39;t be happy with this. This too is pointless and frustrating.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ecclesiastes 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ecclesiastes/4.txt">Plain text of Ecclesiastes 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ecclesiastes/Chapter%203.html" rel="prev">&larr; Ecclesiastes 3</a>

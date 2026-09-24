@@ -51,8 +51,6 @@ description: "1 Kings 18 in plain English: After a long time, God's message came
 
 # 1 Kings 18
 
-<p class="chapter-intro">1 Kings chapter 18 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Kings 18 audio">
@@ -161,8 +159,6 @@ description: "1 Kings 18 in plain English: After a long time, God's message came
 <p class="verse" id="v46"><a class="verse-num" href="#v46" aria-label="1 Kings 18:46">46</a> God&#39;s power was with Elijah; he tied up his clothes and ran ahead of Ahab to the entrance of Jezreel.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Kings 18:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-kings/18.txt">Plain text of 1 Kings 18</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Kings/Chapter%2017.html" rel="prev">&larr; 1 Kings 17</a>

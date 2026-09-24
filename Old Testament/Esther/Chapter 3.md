@@ -51,8 +51,6 @@ description: "Esther 3 in plain English: After this, King Ahasuerus promoted Ham
 
 # Esther 3
 
-<p class="chapter-intro">Esther chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Esther 3 audio">
@@ -99,8 +97,6 @@ description: "Esther 3 in plain English: After this, King Ahasuerus promoted Ham
 <p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="Esther 3:15">15</a> The messengers rushed out with the king&#39;s orders, and the law was announced in Susa, the capital. The king and Haman sat down to have drinks, while the people of Susa were confused.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Esther 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/esther/3.txt">Plain text of Esther 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Esther/Chapter%202.html" rel="prev">&larr; Esther 2</a>

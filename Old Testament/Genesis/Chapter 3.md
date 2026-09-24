@@ -51,8 +51,6 @@ description: "Genesis 3 in plain English: The snake was smarter than all the wil
 
 # Genesis 3
 
-<p class="chapter-intro">Genesis chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 3 audio">
@@ -117,8 +115,6 @@ description: "Genesis 3 in plain English: The snake was smarter than all the wil
 <p class="verse" id="v24"><a class="verse-num" href="#v24" aria-label="Genesis 3:24">24</a> God sent the man away and put Cherubim to the east of the Eden garden, with a flaming sword that moved in all directions, to guard the path to the tree of life.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/3.txt">Plain text of Genesis 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%202.html" rel="prev">&larr; Genesis 2</a>

@@ -51,8 +51,6 @@ description: "Jonah 1 in plain English: God spoke to Jonah, Amittai's son, sayin
 
 # Jonah 1
 
-<p class="chapter-intro">Jonah chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jonah 1 audio">
@@ -103,8 +101,6 @@ description: "Jonah 1 in plain English: God spoke to Jonah, Amittai's son, sayin
 <p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="Jonah 1:17">17</a> God had sent a big fish to swallow Jonah. Jonah was inside the fish for three days and nights.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jonah 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jonah/1.txt">Plain text of Jonah 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Obadiah/Chapter%201.html" rel="prev">&larr; Obadiah 1</a>

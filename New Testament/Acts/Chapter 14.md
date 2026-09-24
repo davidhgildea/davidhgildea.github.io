@@ -51,8 +51,6 @@ description: "Acts 14 in plain English: In Iconium, they both went into the Jewi
 
 # Acts 14
 
-<p class="chapter-intro">Acts chapter 14 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Acts 14 audio">
@@ -125,8 +123,6 @@ description: "Acts 14 in plain English: In Iconium, they both went into the Jewi
 <p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="Acts 14:28">28</a> They stayed there a long time with the followers.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Acts 14:1, Simplified Bible (simplified.bible)</em>. <a href="/text/acts/14.txt">Plain text of Acts 14</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Acts/Chapter%2013.html" rel="prev">&larr; Acts 13</a>

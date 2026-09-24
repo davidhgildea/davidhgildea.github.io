@@ -51,8 +51,6 @@ description: "Amos 3 in plain English: Listen to what God has said against you, 
 
 # Amos 3
 
-<p class="chapter-intro">Amos chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Amos 3 audio">
@@ -99,8 +97,6 @@ description: "Amos 3 in plain English: Listen to what God has said against you, 
 <p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="Amos 3:15">15</a> I will destroy the winter homes and the summer homes; the ivory houses will be gone, and the big houses will end, says God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Amos 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/amos/3.txt">Plain text of Amos 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Amos/Chapter%202.html" rel="prev">&larr; Amos 2</a>

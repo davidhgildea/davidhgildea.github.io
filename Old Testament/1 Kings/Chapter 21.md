@@ -51,8 +51,6 @@ description: "1 Kings 21 in plain English: After these events, Naboth, from Jezr
 
 # 1 Kings 21
 
-<p class="chapter-intro">1 Kings chapter 21 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Kings 21 audio">
@@ -127,8 +125,6 @@ description: "1 Kings 21 in plain English: After these events, Naboth, from Jezr
 <p class="verse" id="v29"><a class="verse-num" href="#v29" aria-label="1 Kings 21:29">29</a> Do you see how Ahab is humbling himself before me? Because he is doing this, I will not cause bad things to happen during his life; instead, I will make them happen during his son&#39;s life to his family.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Kings 21:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-kings/21.txt">Plain text of 1 Kings 21</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Kings/Chapter%2020.html" rel="prev">&larr; 1 Kings 20</a>

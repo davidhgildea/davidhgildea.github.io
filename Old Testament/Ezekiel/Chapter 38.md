@@ -51,8 +51,6 @@ description: "Ezekiel 38 in plain English: God spoke to me and said, Human, look
 
 # Ezekiel 38
 
-<p class="chapter-intro">Ezekiel chapter 38 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 38 audio">
@@ -115,8 +113,6 @@ description: "Ezekiel 38 in plain English: God spoke to me and said, Human, look
 <p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Ezekiel 38:23">23</a> I will show my greatness and holiness; I will be recognized by many nations, and they will know that I am God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 38:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/38.txt">Plain text of Ezekiel 38</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2037.html" rel="prev">&larr; Ezekiel 37</a>

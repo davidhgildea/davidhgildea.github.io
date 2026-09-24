@@ -51,8 +51,6 @@ description: "Malachi 2 in plain English: And now, priests, this order is for yo
 
 # Malachi 2
 
-<p class="chapter-intro">Malachi chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Malachi 2 audio">
@@ -103,8 +101,6 @@ description: "Malachi 2 in plain English: And now, priests, this order is for yo
 <p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="Malachi 2:17">17</a> You have tired God with your words. But you ask, &quot;How have we tired him?&quot; When you say, &quot;Anyone who does evil is good to God, and he enjoys them,&quot; or &quot;Where is the God who judges?&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Malachi 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/malachi/2.txt">Plain text of Malachi 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Malachi/Chapter%201.html" rel="prev">&larr; Malachi 1</a>

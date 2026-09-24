@@ -51,8 +51,6 @@ description: "1 Corinthians 7 in plain English: About what you wrote to me: It's
 
 # 1 Corinthians 7
 
-<p class="chapter-intro">1 Corinthians chapter 7 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Corinthians 7 audio">
@@ -149,8 +147,6 @@ description: "1 Corinthians 7 in plain English: About what you wrote to me: It's
 <p class="verse" id="v40"><a class="verse-num" href="#v40" aria-label="1 Corinthians 7:40">40</a> But she is happier if she stays as she is, in my opinion, and I believe I have God&#39;s Spirit.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Corinthians 7:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-corinthians/7.txt">Plain text of 1 Corinthians 7</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/1%20Corinthians/Chapter%206.html" rel="prev">&larr; 1 Corinthians 6</a>

@@ -51,8 +51,6 @@ description: "Nahum 3 in plain English: Trouble to the violent city! It is full 
 
 # Nahum 3
 
-<p class="chapter-intro">Nahum chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Nahum 3 audio">
@@ -107,8 +105,6 @@ description: "Nahum 3 in plain English: Trouble to the violent city! It is full 
 <p class="verse" id="v19"><a class="verse-num" href="#v19" aria-label="Nahum 3:19">19</a> Your injury cannot be healed; your wound is severe. Everyone who hears about you will clap their hands because your evil has affected everyone without stopping.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Nahum 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/nahum/3.txt">Plain text of Nahum 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Nahum/Chapter%202.html" rel="prev">&larr; Nahum 2</a>

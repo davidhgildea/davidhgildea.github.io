@@ -51,8 +51,6 @@ description: "2 Chronicles 22 in plain English: The people of Jerusalem made Aha
 
 # 2 Chronicles 22
 
-<p class="chapter-intro">2 Chronicles chapter 22 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Chronicles 22 audio">
@@ -93,8 +91,6 @@ description: "2 Chronicles 22 in plain English: The people of Jerusalem made Aha
 <p class="verse" id="v12"><a class="verse-num" href="#v12" aria-label="2 Chronicles 22:12">12</a> He stayed hidden in God&#39;s house for six years while Athaliah ruled the land.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Chronicles 22:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-chronicles/22.txt">Plain text of 2 Chronicles 22</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Chronicles/Chapter%2021.html" rel="prev">&larr; 2 Chronicles 21</a>

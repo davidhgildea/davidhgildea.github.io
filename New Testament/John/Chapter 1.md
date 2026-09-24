@@ -51,8 +51,6 @@ description: "John 1 in plain English: At the start, the Word existed, the Word 
 
 # John 1
 
-<p class="chapter-intro">John chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="John 1 audio">
@@ -171,8 +169,6 @@ description: "John 1 in plain English: At the start, the Word existed, the Word 
 <p class="verse" id="v51"><a class="verse-num" href="#v51" aria-label="John 1:51">51</a> He said to him, &quot;Truly, truly, I tell you, you will see heaven open and God&#39;s angels going up and down on the Son of Man.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>John 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/john/1.txt">Plain text of John 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Luke/Chapter%2024.html" rel="prev">&larr; Luke 24</a>

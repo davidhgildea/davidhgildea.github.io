@@ -51,8 +51,6 @@ description: "Deuteronomy 19 in plain English: When God has destroyed the nation
 
 # Deuteronomy 19
 
-<p class="chapter-intro">Deuteronomy chapter 19 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Deuteronomy 19 audio">
@@ -111,8 +109,6 @@ description: "Deuteronomy 19 in plain English: When God has destroyed the nation
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Deuteronomy 19:21">21</a> Do not feel sorry; life must be given for life, an eye for an eye, a tooth for a tooth, a hand for a hand, a foot for a foot.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Deuteronomy 19:1, Simplified Bible (simplified.bible)</em>. <a href="/text/deuteronomy/19.txt">Plain text of Deuteronomy 19</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Deuteronomy/Chapter%2018.html" rel="prev">&larr; Deuteronomy 18</a>

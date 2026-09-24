@@ -51,8 +51,6 @@ description: "Hosea 9 in plain English: Do not celebrate, Israel, like other nat
 
 # Hosea 9
 
-<p class="chapter-intro">Hosea chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Hosea 9 audio">
@@ -103,8 +101,6 @@ description: "Hosea 9 in plain English: Do not celebrate, Israel, like other nat
 <p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="Hosea 9:17">17</a> God will reject them because they did not listen to him, and they will wander among the nations.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Hosea 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/hosea/9.txt">Plain text of Hosea 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Hosea/Chapter%208.html" rel="prev">&larr; Hosea 8</a>

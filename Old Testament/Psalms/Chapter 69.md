@@ -51,8 +51,6 @@ description: "Psalms 69 in plain English: Help me, God; the waters have come up 
 
 # Psalms 69
 
-<p class="chapter-intro">Psalms chapter 69 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 69 audio">
@@ -141,8 +139,6 @@ description: "Psalms 69 in plain English: Help me, God; the waters have come up 
 <p class="verse" id="v36"><a class="verse-num" href="#v36" aria-label="Psalms 69:36">36</a> His servants&#39; descendants will inherit the land, and those who love his name will live there.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 69:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/69.txt">Plain text of Psalms 69</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2068.html" rel="prev">&larr; Psalms 68</a>

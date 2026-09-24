@@ -51,8 +51,6 @@ description: "Job 1 in plain English: In the land of Uz, there lived a man named
 
 # Job 1
 
-<p class="chapter-intro">Job chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Job 1 audio">
@@ -113,8 +111,6 @@ description: "Job 1 in plain English: In the land of Uz, there lived a man named
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Job 1:22">22</a> In all this, Job did not sin or blame God wrongly.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Job 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/job/1.txt">Plain text of Job 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Esther/Chapter%2010.html" rel="prev">&larr; Esther 10</a>

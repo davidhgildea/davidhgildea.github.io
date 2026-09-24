@@ -51,8 +51,6 @@ description: "2 Timothy 2 in plain English: You, my child, be strong in the grac
 
 # 2 Timothy 2
 
-<p class="chapter-intro">2 Timothy chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Timothy 2 audio">
@@ -121,8 +119,6 @@ description: "2 Timothy 2 in plain English: You, my child, be strong in the grac
 <p class="verse" id="v26"><a class="verse-num" href="#v26" aria-label="2 Timothy 2:26">26</a> So they can escape the devil&#39;s trap, who has captured them to do his will.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Timothy 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-timothy/2.txt">Plain text of 2 Timothy 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/2%20Timothy/Chapter%201.html" rel="prev">&larr; 2 Timothy 1</a>

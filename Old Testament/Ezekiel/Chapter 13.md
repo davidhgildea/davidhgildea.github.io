@@ -51,8 +51,6 @@ description: "Ezekiel 13 in plain English: God's message came to me, saying, Hum
 
 # Ezekiel 13
 
-<p class="chapter-intro">Ezekiel chapter 13 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 13 audio">
@@ -115,8 +113,6 @@ description: "Ezekiel 13 in plain English: God's message came to me, saying, Hum
 <p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Ezekiel 13:23">23</a> So you won&#39;t see false visions or make predictions anymore, because I will rescue my people from your control, and you will realize that I am God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 13:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/13.txt">Plain text of Ezekiel 13</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2012.html" rel="prev">&larr; Ezekiel 12</a>

@@ -51,8 +51,6 @@ description: "Isaiah 9 in plain English: Still, the gloom won't be as heavy as t
 
 # Isaiah 9
 
-<p class="chapter-intro">Isaiah chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 9 audio">
@@ -111,8 +109,6 @@ description: "Isaiah 9 in plain English: Still, the gloom won't be as heavy as t
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Isaiah 9:21">21</a> Manasseh and Ephraim will fight each other, but together they will fight against Judah. Despite this, God is still angry and continues to punish.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/9.txt">Plain text of Isaiah 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%208.html" rel="prev">&larr; Isaiah 8</a>

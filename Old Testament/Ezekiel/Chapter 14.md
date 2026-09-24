@@ -51,8 +51,6 @@ description: "Ezekiel 14 in plain English: Some elders of Israel came to me and 
 
 # Ezekiel 14
 
-<p class="chapter-intro">Ezekiel chapter 14 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 14 audio">
@@ -115,8 +113,6 @@ description: "Ezekiel 14 in plain English: Some elders of Israel came to me and 
 <p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Ezekiel 14:23">23</a> They will comfort you when you see their actions, and you&#39;ll understand that I had good reasons for everything I did, says God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 14:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/14.txt">Plain text of Ezekiel 14</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2013.html" rel="prev">&larr; Ezekiel 13</a>

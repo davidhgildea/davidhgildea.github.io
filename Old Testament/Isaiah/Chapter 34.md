@@ -51,8 +51,6 @@ description: "Isaiah 34 in plain English: Come close, all you countries, to list
 
 # Isaiah 34
 
-<p class="chapter-intro">Isaiah chapter 34 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 34 audio">
@@ -103,8 +101,6 @@ description: "Isaiah 34 in plain English: Come close, all you countries, to list
 <p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="Isaiah 34:17">17</a> He has decided their share by casting lots, and his hand has distributed it to them with measuring lines: they will own it forever, and they will live there from one generation to the next.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 34:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/34.txt">Plain text of Isaiah 34</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2033.html" rel="prev">&larr; Isaiah 33</a>

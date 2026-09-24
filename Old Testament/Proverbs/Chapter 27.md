@@ -51,8 +51,6 @@ description: "Proverbs 27 in plain English: Don't brag about tomorrow; you don't
 
 # Proverbs 27
 
-<p class="chapter-intro">Proverbs chapter 27 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Proverbs 27 audio">
@@ -123,8 +121,6 @@ description: "Proverbs 27 in plain English: Don't brag about tomorrow; you don't
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="Proverbs 27:27">27</a> You will have enough goat&#39;s milk for your food, your family&#39;s food, and to support your servant girls.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Proverbs 27:1, Simplified Bible (simplified.bible)</em>. <a href="/text/proverbs/27.txt">Plain text of Proverbs 27</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Proverbs/Chapter%2026.html" rel="prev">&larr; Proverbs 26</a>

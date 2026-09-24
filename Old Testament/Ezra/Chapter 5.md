@@ -51,8 +51,6 @@ description: "Ezra 5 in plain English: The prophets Haggai and Zechariah, son of
 
 # Ezra 5
 
-<p class="chapter-intro">Ezra chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezra 5 audio">
@@ -103,8 +101,6 @@ description: "Ezra 5 in plain English: The prophets Haggai and Zechariah, son of
 <p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="Ezra 5:17">17</a> So now, if the king agrees, let someone look in the king&#39;s treasury in Babylon to see if King Cyrus made a decree to rebuild God&#39;s house in Jerusalem, and let the king tell us what he decides about this.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezra 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezra/5.txt">Plain text of Ezra 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezra/Chapter%204.html" rel="prev">&larr; Ezra 4</a>

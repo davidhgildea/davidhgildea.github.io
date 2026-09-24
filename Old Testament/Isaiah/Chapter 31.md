@@ -51,8 +51,6 @@ description: "Isaiah 31 in plain English: Pity those who look to Egypt for help,
 
 # Isaiah 31
 
-<p class="chapter-intro">Isaiah chapter 31 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 31 audio">
@@ -87,8 +85,6 @@ description: "Isaiah 31 in plain English: Pity those who look to Egypt for help,
 <p class="verse" id="v9"><a class="verse-num" href="#v9" aria-label="Isaiah 31:9">9</a> He will go to his strong place because he is scared, and his leaders will fear the flag, says God, who has fire in Zion and a furnace in Jerusalem.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 31:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/31.txt">Plain text of Isaiah 31</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2030.html" rel="prev">&larr; Isaiah 30</a>

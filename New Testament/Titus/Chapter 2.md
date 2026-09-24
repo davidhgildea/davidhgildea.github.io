@@ -51,8 +51,6 @@ description: "Titus 2 in plain English: Teach what matches with good teaching. O
 
 # Titus 2
 
-<p class="chapter-intro">Titus chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Titus 2 audio">
@@ -99,8 +97,6 @@ description: "Titus 2 in plain English: Teach what matches with good teaching. O
 <p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="Titus 2:15">15</a> Talk about these things, encourage others, and correct them with full authority. Don&#39;t let anyone look down on you.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Titus 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/titus/2.txt">Plain text of Titus 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Titus/Chapter%201.html" rel="prev">&larr; Titus 1</a>

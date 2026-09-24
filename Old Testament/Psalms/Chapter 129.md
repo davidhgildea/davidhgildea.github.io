@@ -51,8 +51,6 @@ description: "Psalms 129 in plain English: They have troubled me often since I w
 
 # Psalms 129
 
-<p class="chapter-intro">Psalms chapter 129 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 129 audio">
@@ -85,8 +83,6 @@ description: "Psalms 129 in plain English: They have troubled me often since I w
 <p class="verse" id="v8"><a class="verse-num" href="#v8" aria-label="Psalms 129:8">8</a> Those who pass by don&#39;t say, &quot;God&#39;s blessing be on you; we bless you in God&#39;s name.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 129:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/129.txt">Plain text of Psalms 129</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%20128.html" rel="prev">&larr; Psalms 128</a>

@@ -51,8 +51,6 @@ description: "Zechariah 5 in plain English: Then I turned, raised my eyes, and s
 
 # Zechariah 5
 
-<p class="chapter-intro">Zechariah chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Zechariah 5 audio">
@@ -91,8 +89,6 @@ description: "Zechariah 5 in plain English: Then I turned, raised my eyes, and s
 <p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Zechariah 5:11">11</a> He told me to build a house for it in the land of Shinar: it will be set up and stand on its own foundation.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Zechariah 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/zechariah/5.txt">Plain text of Zechariah 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Zechariah/Chapter%204.html" rel="prev">&larr; Zechariah 4</a>

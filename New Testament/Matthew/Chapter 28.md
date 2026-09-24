@@ -51,8 +51,6 @@ description: "Matthew 28 in plain English: At the end of the Sabbath, as the fir
 
 # Matthew 28
 
-<p class="chapter-intro">Matthew chapter 28 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Matthew 28 audio">
@@ -109,8 +107,6 @@ description: "Matthew 28 in plain English: At the end of the Sabbath, as the fir
 <p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="Matthew 28:20">20</a> Teach them to follow everything I have told you: and remember, I am with you always, to the end of time. Amen.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Matthew 28:1, Simplified Bible (simplified.bible)</em>. <a href="/text/matthew/28.txt">Plain text of Matthew 28</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Matthew/Chapter%2027.html" rel="prev">&larr; Matthew 27</a>

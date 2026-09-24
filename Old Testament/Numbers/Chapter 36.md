@@ -51,8 +51,6 @@ description: "Numbers 36 in plain English: The leaders of the clans in Gilead's 
 
 # Numbers 36
 
-<p class="chapter-intro">Numbers chapter 36 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Numbers 36 audio">
@@ -95,8 +93,6 @@ description: "Numbers 36 in plain English: The leaders of the clans in Gilead's 
 <p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Numbers 36:13">13</a> These are the commands and rules that God gave through Moses to the people of Israel in the Moab plains by the Jordan River near Jericho.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Numbers 36:1, Simplified Bible (simplified.bible)</em>. <a href="/text/numbers/36.txt">Plain text of Numbers 36</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Numbers/Chapter%2035.html" rel="prev">&larr; Numbers 35</a>

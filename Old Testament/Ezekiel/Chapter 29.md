@@ -51,8 +51,6 @@ description: "Ezekiel 29 in plain English: In the tenth year, on the tenth month
 
 # Ezekiel 29
 
-<p class="chapter-intro">Ezekiel chapter 29 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 29 audio">
@@ -111,8 +109,6 @@ description: "Ezekiel 29 in plain English: In the tenth year, on the tenth month
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Ezekiel 29:21">21</a> On that day, I will make Israel&#39;s power grow, and I will let you speak freely among them; then they will know that I am God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 29:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/29.txt">Plain text of Ezekiel 29</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2028.html" rel="prev">&larr; Ezekiel 28</a>

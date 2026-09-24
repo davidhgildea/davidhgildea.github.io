@@ -51,8 +51,6 @@ description: "Jeremiah 26 in plain English: At the start of Jehoiakim's rule, th
 
 # Jeremiah 26
 
-<p class="chapter-intro">Jeremiah chapter 26 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 26 audio">
@@ -117,8 +115,6 @@ description: "Jeremiah 26 in plain English: At the start of Jehoiakim's rule, th
 <p class="verse" id="v24"><a class="verse-num" href="#v24" aria-label="Jeremiah 26:24">24</a> Ahikam son of Shaphan helped Jeremiah so that no one handed him over to the people to kill him.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 26:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/26.txt">Plain text of Jeremiah 26</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2025.html" rel="prev">&larr; Jeremiah 25</a>

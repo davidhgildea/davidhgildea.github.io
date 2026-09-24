@@ -51,8 +51,6 @@ description: "Matthew 26 in plain English: After Jesus said all this, he spoke t
 
 # Matthew 26
 
-<p class="chapter-intro">Matthew chapter 26 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Matthew 26 audio">
@@ -219,8 +217,6 @@ description: "Matthew 26 in plain English: After Jesus said all this, he spoke t
 <p class="verse" id="v75"><a class="verse-num" href="#v75" aria-label="Matthew 26:75">75</a> Peter remembered what Jesus had told him: &quot;Before the rooster crows, you will deny me three times.&quot; Then he went outside and cried hard.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Matthew 26:1, Simplified Bible (simplified.bible)</em>. <a href="/text/matthew/26.txt">Plain text of Matthew 26</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Matthew/Chapter%2025.html" rel="prev">&larr; Matthew 25</a>

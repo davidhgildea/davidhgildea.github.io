@@ -51,8 +51,6 @@ description: "Isaiah 66 in plain English: God says, \"The sky is my throne, and 
 
 # Isaiah 66
 
-<p class="chapter-intro">Isaiah chapter 66 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 66 audio">
@@ -117,8 +115,6 @@ description: "Isaiah 66 in plain English: God says, \"The sky is my throne, and 
 <p class="verse" id="v24"><a class="verse-num" href="#v24" aria-label="Isaiah 66:24">24</a> They will go out and see the dead bodies of those who sinned against me. The worms on them will not die, and the fire will not go out. Everyone will hate the sight of them.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 66:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/66.txt">Plain text of Isaiah 66</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2065.html" rel="prev">&larr; Isaiah 65</a>

@@ -51,8 +51,6 @@ description: "Joshua 17 in plain English: The tribe of Manasseh also received la
 
 # Joshua 17
 
-<p class="chapter-intro">Joshua chapter 17 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Joshua 17 audio">
@@ -105,8 +103,6 @@ description: "Joshua 17 in plain English: The tribe of Manasseh also received la
 <p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="Joshua 17:18">18</a> The mountain will be yours because it is covered with trees, and you can cut them down. You will own everything that comes from it after you drive out the Canaanites, even if they have iron chariots and are strong.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Joshua 17:1, Simplified Bible (simplified.bible)</em>. <a href="/text/joshua/17.txt">Plain text of Joshua 17</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Joshua/Chapter%2016.html" rel="prev">&larr; Joshua 16</a>

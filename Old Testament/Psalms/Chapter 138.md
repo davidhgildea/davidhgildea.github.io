@@ -51,8 +51,6 @@ description: "Psalms 138 in plain English: I will praise you with all my heart; 
 
 # Psalms 138
 
-<p class="chapter-intro">Psalms chapter 138 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 138 audio">
@@ -85,8 +83,6 @@ description: "Psalms 138 in plain English: I will praise you with all my heart; 
 <p class="verse" id="v8"><a class="verse-num" href="#v8" aria-label="Psalms 138:8">8</a> God will complete what is important to me; Your kindness, God, lasts forever; do not abandon what Your hands have made.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 138:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/138.txt">Plain text of Psalms 138</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%20137.html" rel="prev">&larr; Psalms 137</a>

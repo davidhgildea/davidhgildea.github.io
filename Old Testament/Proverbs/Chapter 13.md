@@ -51,8 +51,6 @@ description: "Proverbs 13 in plain English: A smart son listens to his father's 
 
 # Proverbs 13
 
-<p class="chapter-intro">Proverbs chapter 13 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Proverbs 13 audio">
@@ -119,8 +117,6 @@ description: "Proverbs 13 in plain English: A smart son listens to his father's 
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Proverbs 13:25">25</a> Good people eat and are satisfied, but the wicked will be left wanting.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Proverbs 13:1, Simplified Bible (simplified.bible)</em>. <a href="/text/proverbs/13.txt">Plain text of Proverbs 13</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Proverbs/Chapter%2012.html" rel="prev">&larr; Proverbs 12</a>

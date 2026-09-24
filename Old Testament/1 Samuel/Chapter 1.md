@@ -51,8 +51,6 @@ description: "1 Samuel 1 in plain English: There was a man from Ramathaim, a tow
 
 # 1 Samuel 1
 
-<p class="chapter-intro">1 Samuel chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Samuel 1 audio">
@@ -125,8 +123,6 @@ description: "1 Samuel 1 in plain English: There was a man from Ramathaim, a tow
 <p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="1 Samuel 1:28">28</a> So I have given him to God; for as long as he lives, he will be given to God. And he worshiped God there.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Samuel 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-samuel/1.txt">Plain text of 1 Samuel 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ruth/Chapter%204.html" rel="prev">&larr; Ruth 4</a>

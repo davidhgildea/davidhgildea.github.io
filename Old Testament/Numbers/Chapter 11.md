@@ -51,8 +51,6 @@ description: "Numbers 11 in plain English: When the people complained, it upset 
 
 # Numbers 11
 
-<p class="chapter-intro">Numbers chapter 11 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Numbers 11 audio">
@@ -139,8 +137,6 @@ description: "Numbers 11 in plain English: When the people complained, it upset 
 <p class="verse" id="v35"><a class="verse-num" href="#v35" aria-label="Numbers 11:35">35</a> The people traveled from Kibrothhattaavah to Hazeroth and stayed there.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Numbers 11:1, Simplified Bible (simplified.bible)</em>. <a href="/text/numbers/11.txt">Plain text of Numbers 11</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Numbers/Chapter%2010.html" rel="prev">&larr; Numbers 10</a>

@@ -51,8 +51,6 @@ description: "Zephaniah 3 in plain English: Sadness to the dirty and tainted cit
 
 # Zephaniah 3
 
-<p class="chapter-intro">Zephaniah chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Zephaniah 3 audio">
@@ -109,8 +107,6 @@ description: "Zephaniah 3 in plain English: Sadness to the dirty and tainted cit
 <p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="Zephaniah 3:20">20</a> At that time, I will bring you back when I gather you. I will make your name honored and praised by all people on earth, when I free you and you see it, says God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Zephaniah 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/zephaniah/3.txt">Plain text of Zephaniah 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Zephaniah/Chapter%202.html" rel="prev">&larr; Zephaniah 2</a>

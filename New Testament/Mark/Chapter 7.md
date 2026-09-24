@@ -51,8 +51,6 @@ description: "Mark 7 in plain English: The Pharisees and some teachers of the La
 
 # Mark 7
 
-<p class="chapter-intro">Mark chapter 7 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Mark 7 audio">
@@ -143,8 +141,6 @@ description: "Mark 7 in plain English: The Pharisees and some teachers of the La
 <p class="verse" id="v37"><a class="verse-num" href="#v37" aria-label="Mark 7:37">37</a> They were extremely amazed and said, &quot;He does everything well: he makes the deaf hear and the mute speak.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Mark 7:1, Simplified Bible (simplified.bible)</em>. <a href="/text/mark/7.txt">Plain text of Mark 7</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Mark/Chapter%206.html" rel="prev">&larr; Mark 6</a>

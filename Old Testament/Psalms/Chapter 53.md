@@ -51,8 +51,6 @@ description: "Psalms 53 in plain English: The fool thinks, \"There is no God.\" 
 
 # Psalms 53
 
-<p class="chapter-intro">Psalms chapter 53 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 53 audio">
@@ -81,8 +79,6 @@ description: "Psalms 53 in plain English: The fool thinks, \"There is no God.\" 
 <p class="verse" id="v6"><a class="verse-num" href="#v6" aria-label="Psalms 53:6">6</a> I wish Israel&#39;s rescue would come from Zion! When God frees His people, Jacob will be happy, and Israel will be joyful.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 53:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/53.txt">Plain text of Psalms 53</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2052.html" rel="prev">&larr; Psalms 52</a>

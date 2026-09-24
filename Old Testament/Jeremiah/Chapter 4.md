@@ -51,8 +51,6 @@ description: "Jeremiah 4 in plain English: If you will come back, Israel, says G
 
 # Jeremiah 4
 
-<p class="chapter-intro">Jeremiah chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 4 audio">
@@ -131,8 +129,6 @@ description: "Jeremiah 4 in plain English: If you will come back, Israel, says G
 <p class="verse" id="v31"><a class="verse-num" href="#v31" aria-label="Jeremiah 4:31">31</a> I have heard a sound like a woman in labor, the agony of a first-time mother, the sound of Zion&#39;s daughter crying out, stretching out her hands and saying, &quot;I am in distress now, for I am exhausted by killers.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/4.txt">Plain text of Jeremiah 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%203.html" rel="prev">&larr; Jeremiah 3</a>

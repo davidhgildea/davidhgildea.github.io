@@ -51,8 +51,6 @@ description: "Daniel 7 in plain English: In the first year of King Belshazzar of
 
 # Daniel 7
 
-<p class="chapter-intro">Daniel chapter 7 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Daniel 7 audio">
@@ -125,8 +123,6 @@ description: "Daniel 7 in plain English: In the first year of King Belshazzar of
 <p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="Daniel 7:28">28</a> This is the end of the story. I, Daniel, was deeply troubled by my thoughts, and my face showed it, but I kept it to myself.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Daniel 7:1, Simplified Bible (simplified.bible)</em>. <a href="/text/daniel/7.txt">Plain text of Daniel 7</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Daniel/Chapter%206.html" rel="prev">&larr; Daniel 6</a>

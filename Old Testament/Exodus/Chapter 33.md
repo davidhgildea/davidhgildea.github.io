@@ -51,8 +51,6 @@ description: "Exodus 33 in plain English: God told Moses, \"Leave this place and
 
 # Exodus 33
 
-<p class="chapter-intro">Exodus chapter 33 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Exodus 33 audio">
@@ -115,8 +113,6 @@ description: "Exodus 33 in plain English: God told Moses, \"Leave this place and
 <p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Exodus 33:23">23</a> I will remove my hand, and you will see my back, but my face will not be seen.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Exodus 33:1, Simplified Bible (simplified.bible)</em>. <a href="/text/exodus/33.txt">Plain text of Exodus 33</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Exodus/Chapter%2032.html" rel="prev">&larr; Exodus 32</a>

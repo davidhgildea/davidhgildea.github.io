@@ -51,8 +51,6 @@ description: "2 Chronicles 29 in plain English: Hezekiah became king at the age 
 
 # 2 Chronicles 29
 
-<p class="chapter-intro">2 Chronicles chapter 29 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Chronicles 29 audio">
@@ -141,8 +139,6 @@ description: "2 Chronicles 29 in plain English: Hezekiah became king at the age 
 <p class="verse" id="v36"><a class="verse-num" href="#v36" aria-label="2 Chronicles 29:36">36</a> Hezekiah and all the people were happy because God made the people ready; it all happened quickly.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Chronicles 29:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-chronicles/29.txt">Plain text of 2 Chronicles 29</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Chronicles/Chapter%2028.html" rel="prev">&larr; 2 Chronicles 28</a>

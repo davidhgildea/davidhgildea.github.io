@@ -51,8 +51,6 @@ description: "John 9 in plain English: As Jesus walked by, he saw a man who was 
 
 # John 9
 
-<p class="chapter-intro">John chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="John 9 audio">
@@ -151,8 +149,6 @@ description: "John 9 in plain English: As Jesus walked by, he saw a man who was 
 <p class="verse" id="v41"><a class="verse-num" href="#v41" aria-label="John 9:41">41</a> Jesus told them, &quot;If you were blind, you wouldn&#39;t be guilty of sin. But now you claim, &#39;We can see,&#39; so your sin stays with you.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>John 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/john/9.txt">Plain text of John 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/John/Chapter%208.html" rel="prev">&larr; John 8</a>

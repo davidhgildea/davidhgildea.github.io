@@ -51,8 +51,6 @@ description: "Judges 7 in plain English: Jerubbaal, also known as Gideon, and al
 
 # Judges 7
 
-<p class="chapter-intro">Judges chapter 7 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Judges 7 audio">
@@ -119,8 +117,6 @@ description: "Judges 7 in plain English: Jerubbaal, also known as Gideon, and al
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Judges 7:25">25</a> They captured two Midianite leaders, Oreb and Zeeb. They killed Oreb at the rock of Oreb, and Zeeb at the winepress of Zeeb. Then they chased the Midianites and brought the heads of Oreb and Zeeb to Gideon across the Jordan River.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Judges 7:1, Simplified Bible (simplified.bible)</em>. <a href="/text/judges/7.txt">Plain text of Judges 7</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Judges/Chapter%206.html" rel="prev">&larr; Judges 6</a>

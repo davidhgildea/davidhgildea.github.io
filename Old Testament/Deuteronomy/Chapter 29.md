@@ -51,8 +51,6 @@ description: "Deuteronomy 29 in plain English: These are the words of the agreem
 
 # Deuteronomy 29
 
-<p class="chapter-intro">Deuteronomy chapter 29 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Deuteronomy 29 audio">
@@ -127,8 +125,6 @@ description: "Deuteronomy 29 in plain English: These are the words of the agreem
 <p class="verse" id="v29"><a class="verse-num" href="#v29" aria-label="Deuteronomy 29:29">29</a> Hidden things are for God, but what is shown is for us and our kids forever, so we can follow all of this law.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Deuteronomy 29:1, Simplified Bible (simplified.bible)</em>. <a href="/text/deuteronomy/29.txt">Plain text of Deuteronomy 29</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Deuteronomy/Chapter%2028.html" rel="prev">&larr; Deuteronomy 28</a>

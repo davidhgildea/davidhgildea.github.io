@@ -51,8 +51,6 @@ description: "Isaiah 29 in plain English: Sadness to Ariel, the city where David
 
 # Isaiah 29
 
-<p class="chapter-intro">Isaiah chapter 29 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 29 audio">
@@ -117,8 +115,6 @@ description: "Isaiah 29 in plain English: Sadness to Ariel, the city where David
 <p class="verse" id="v24"><a class="verse-num" href="#v24" aria-label="Isaiah 29:24">24</a> Those who were confused will understand, and those who complained will learn what to believe.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 29:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/29.txt">Plain text of Isaiah 29</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2028.html" rel="prev">&larr; Isaiah 28</a>

@@ -51,8 +51,6 @@ description: "Revelation 8 in plain English: When he opened the seventh seal, th
 
 # Revelation 8
 
-<p class="chapter-intro">Revelation chapter 8 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Revelation 8 audio">
@@ -95,8 +93,6 @@ description: "Revelation 8 in plain English: When he opened the seventh seal, th
 <p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Revelation 8:13">13</a> I saw and heard an angel flying across the sky, shouting loudly, &quot;Trouble, trouble, trouble to the people on earth because of the trumpet sounds from the three other angels that are still to come!&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Revelation 8:1, Simplified Bible (simplified.bible)</em>. <a href="/text/revelation/8.txt">Plain text of Revelation 8</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Revelation/Chapter%207.html" rel="prev">&larr; Revelation 7</a>

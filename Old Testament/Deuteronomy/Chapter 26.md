@@ -51,8 +51,6 @@ description: "Deuteronomy 26 in plain English: When you enter the land God is gi
 
 # Deuteronomy 26
 
-<p class="chapter-intro">Deuteronomy chapter 26 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Deuteronomy 26 audio">
@@ -107,8 +105,6 @@ description: "Deuteronomy 26 in plain English: When you enter the land God is gi
 <p class="verse" id="v19"><a class="verse-num" href="#v19" aria-label="Deuteronomy 26:19">19</a> God will make you greater than any other nation He created, in praise, reputation, and honor, so you will be a special people dedicated to God, just as He promised.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Deuteronomy 26:1, Simplified Bible (simplified.bible)</em>. <a href="/text/deuteronomy/26.txt">Plain text of Deuteronomy 26</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Deuteronomy/Chapter%2025.html" rel="prev">&larr; Deuteronomy 25</a>

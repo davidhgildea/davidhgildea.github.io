@@ -51,8 +51,6 @@ description: "Zechariah 13 in plain English: On that day, there will be a spring
 
 # Zechariah 13
 
-<p class="chapter-intro">Zechariah chapter 13 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Zechariah 13 audio">
@@ -87,8 +85,6 @@ description: "Zechariah 13 in plain English: On that day, there will be a spring
 <p class="verse" id="v9"><a class="verse-num" href="#v9" aria-label="Zechariah 13:9">9</a> I will take a third of the people through fire and make them pure like silver, and test them like gold. They will call on me, and I will listen. I will say, &#39;These are my people,&#39; and they will say, &#39;God is our God.&#39;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Zechariah 13:1, Simplified Bible (simplified.bible)</em>. <a href="/text/zechariah/13.txt">Plain text of Zechariah 13</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Zechariah/Chapter%2012.html" rel="prev">&larr; Zechariah 12</a>

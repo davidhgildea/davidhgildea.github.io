@@ -51,8 +51,6 @@ description: "1 Samuel 31 in plain English: The Philistines battled Israel: the 
 
 # 1 Samuel 31
 
-<p class="chapter-intro">1 Samuel chapter 31 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Samuel 31 audio">
@@ -95,8 +93,6 @@ description: "1 Samuel 31 in plain English: The Philistines battled Israel: the 
 <p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="1 Samuel 31:13">13</a> They collected their bones, buried them under a tree at Jabesh, and did not eat for seven days.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Samuel 31:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-samuel/31.txt">Plain text of 1 Samuel 31</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Samuel/Chapter%2030.html" rel="prev">&larr; 1 Samuel 30</a>

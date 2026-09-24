@@ -51,8 +51,6 @@ description: "Psalms 142 in plain English: I called out to God with my voice; wi
 
 # Psalms 142
 
-<p class="chapter-intro">Psalms chapter 142 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 142 audio">
@@ -83,8 +81,6 @@ description: "Psalms 142 in plain English: I called out to God with my voice; wi
 <p class="verse" id="v7"><a class="verse-num" href="#v7" aria-label="Psalms 142:7">7</a> Free me from my troubles so I can thank you. Good people will surround me because you are good to me.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 142:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/142.txt">Plain text of Psalms 142</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%20141.html" rel="prev">&larr; Psalms 141</a>

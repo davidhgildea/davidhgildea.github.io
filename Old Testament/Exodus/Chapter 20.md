@@ -51,8 +51,6 @@ description: "Exodus 20 in plain English: God said all these words: I am God, yo
 
 # Exodus 20
 
-<p class="chapter-intro">Exodus chapter 20 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Exodus 20 audio">
@@ -121,8 +119,6 @@ description: "Exodus 20 in plain English: God said all these words: I am God, yo
 <p class="verse" id="v26"><a class="verse-num" href="#v26" aria-label="Exodus 20:26">26</a> Do not climb steps to my altar, so your nakedness is not exposed.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Exodus 20:1, Simplified Bible (simplified.bible)</em>. <a href="/text/exodus/20.txt">Plain text of Exodus 20</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Exodus/Chapter%2019.html" rel="prev">&larr; Exodus 19</a>

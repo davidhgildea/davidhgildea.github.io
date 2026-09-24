@@ -51,8 +51,6 @@ description: "Job 41 in plain English: Can you catch Leviathan with a fishhook o
 
 # Job 41
 
-<p class="chapter-intro">Job chapter 41 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Job 41 audio">
@@ -137,8 +135,6 @@ description: "Job 41 in plain English: Can you catch Leviathan with a fishhook o
 <p class="verse" id="v34"><a class="verse-num" href="#v34" aria-label="Job 41:34">34</a> He sees everything that is high up; he is a king over all the proud people.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Job 41:1, Simplified Bible (simplified.bible)</em>. <a href="/text/job/41.txt">Plain text of Job 41</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Job/Chapter%2040.html" rel="prev">&larr; Job 40</a>

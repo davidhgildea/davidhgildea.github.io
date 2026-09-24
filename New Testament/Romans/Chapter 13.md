@@ -51,8 +51,6 @@ description: "Romans 13 in plain English: Everyone should obey those in authorit
 
 # Romans 13
 
-<p class="chapter-intro">Romans chapter 13 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Romans 13 audio">
@@ -97,8 +95,6 @@ description: "Romans 13 in plain English: Everyone should obey those in authorit
 <p class="verse" id="v14"><a class="verse-num" href="#v14" aria-label="Romans 13:14">14</a> Wear the ways of Jesus Christ, and don&#39;t make plans for self-indulgence to satisfy its desires.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Romans 13:1, Simplified Bible (simplified.bible)</em>. <a href="/text/romans/13.txt">Plain text of Romans 13</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Romans/Chapter%2012.html" rel="prev">&larr; Romans 12</a>

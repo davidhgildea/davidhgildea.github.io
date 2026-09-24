@@ -51,8 +51,6 @@ description: "1 Chronicles 19 in plain English: After this happened, King Nahash
 
 # 1 Chronicles 19
 
-<p class="chapter-intro">1 Chronicles chapter 19 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Chronicles 19 audio">
@@ -107,8 +105,6 @@ description: "1 Chronicles 19 in plain English: After this happened, King Nahash
 <p class="verse" id="v19"><a class="verse-num" href="#v19" aria-label="1 Chronicles 19:19">19</a> When Hadarezer&#39;s servants saw they were defeated by Israel, they made peace with David and served him; the Syrians would not help the Ammonites anymore.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Chronicles 19:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-chronicles/19.txt">Plain text of 1 Chronicles 19</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Chronicles/Chapter%2018.html" rel="prev">&larr; 1 Chronicles 18</a>

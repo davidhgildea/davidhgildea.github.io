@@ -51,8 +51,6 @@ description: "Ezekiel 47 in plain English: Later, he took me back to the entranc
 
 # Ezekiel 47
 
-<p class="chapter-intro">Ezekiel chapter 47 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 47 audio">
@@ -115,8 +113,6 @@ description: "Ezekiel 47 in plain English: Later, he took me back to the entranc
 <p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Ezekiel 47:23">23</a> When a foreigner lives with any of your tribes, you must give them their share of land, says God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 47:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/47.txt">Plain text of Ezekiel 47</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2046.html" rel="prev">&larr; Ezekiel 46</a>

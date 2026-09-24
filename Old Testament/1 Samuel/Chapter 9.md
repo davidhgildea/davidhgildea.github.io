@@ -51,8 +51,6 @@ description: "1 Samuel 9 in plain English: There was a man from the tribe of Ben
 
 # 1 Samuel 9
 
-<p class="chapter-intro">1 Samuel chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Samuel 9 audio">
@@ -123,8 +121,6 @@ description: "1 Samuel 9 in plain English: There was a man from the tribe of Ben
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="1 Samuel 9:27">27</a> As they were walking to the edge of the city, Samuel told Saul, &quot;Tell the servant to go ahead of us,&quot; (and he went ahead), &quot;but you stay here for a moment, so I can tell you what God has to say.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Samuel 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-samuel/9.txt">Plain text of 1 Samuel 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Samuel/Chapter%208.html" rel="prev">&larr; 1 Samuel 8</a>

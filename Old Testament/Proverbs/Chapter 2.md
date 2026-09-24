@@ -51,8 +51,6 @@ description: "Proverbs 2 in plain English: My child, if you accept my words and 
 
 # Proverbs 2
 
-<p class="chapter-intro">Proverbs chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Proverbs 2 audio">
@@ -113,8 +111,6 @@ description: "Proverbs 2 in plain English: My child, if you accept my words and 
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Proverbs 2:22">22</a> The evil people will be removed from the earth, and those who break the rules will be completely taken out of it.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Proverbs 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/proverbs/2.txt">Plain text of Proverbs 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Proverbs/Chapter%201.html" rel="prev">&larr; Proverbs 1</a>

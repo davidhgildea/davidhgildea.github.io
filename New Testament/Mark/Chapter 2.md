@@ -51,8 +51,6 @@ description: "Mark 2 in plain English: He went back to Capernaum after a few day
 
 # Mark 2
 
-<p class="chapter-intro">Mark chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Mark 2 audio">
@@ -125,8 +123,6 @@ description: "Mark 2 in plain English: He went back to Capernaum after a few day
 <p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="Mark 2:28">28</a> So, the Son of Man is also the ruler of the Sabbath.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Mark 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/mark/2.txt">Plain text of Mark 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Mark/Chapter%201.html" rel="prev">&larr; Mark 1</a>

@@ -51,8 +51,6 @@ description: "Exodus 24 in plain English: He told Moses, \"Go up to God, you, Aa
 
 # Exodus 24
 
-<p class="chapter-intro">Exodus chapter 24 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Exodus 24 audio">
@@ -105,8 +103,6 @@ description: "Exodus 24 in plain English: He told Moses, \"Go up to God, you, Aa
 <p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="Exodus 24:18">18</a> Moses went into the cloud and climbed up the mountain, and he was on the mountain for forty days and nights.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Exodus 24:1, Simplified Bible (simplified.bible)</em>. <a href="/text/exodus/24.txt">Plain text of Exodus 24</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Exodus/Chapter%2023.html" rel="prev">&larr; Exodus 23</a>

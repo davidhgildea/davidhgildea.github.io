@@ -51,8 +51,6 @@ description: "Hebrews 9 in plain English: Truly, the first agreement also had ru
 
 # Hebrews 9
 
-<p class="chapter-intro">Hebrews chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Hebrews 9 audio">
@@ -125,8 +123,6 @@ description: "Hebrews 9 in plain English: Truly, the first agreement also had ru
 <p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="Hebrews 9:28">28</a> Christ was offered once to take away the sins of many; and he will appear a second time, not to deal with sin, but to bring salvation to those who are waiting for him.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Hebrews 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/hebrews/9.txt">Plain text of Hebrews 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Hebrews/Chapter%208.html" rel="prev">&larr; Hebrews 8</a>

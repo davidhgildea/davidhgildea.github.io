@@ -51,8 +51,6 @@ description: "2 Chronicles 16 in plain English: In the thirty-sixth year of King
 
 # 2 Chronicles 16
 
-<p class="chapter-intro">2 Chronicles chapter 16 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Chronicles 16 audio">
@@ -97,8 +95,6 @@ description: "2 Chronicles 16 in plain English: In the thirty-sixth year of King
 <p class="verse" id="v14"><a class="verse-num" href="#v14" aria-label="2 Chronicles 16:14">14</a> They buried him in his own tomb that he had built for himself in the city of David. They placed him on a bed filled with sweet smells and many spices made by the apothecaries. They had a very big fire for him.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Chronicles 16:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-chronicles/16.txt">Plain text of 2 Chronicles 16</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Chronicles/Chapter%2015.html" rel="prev">&larr; 2 Chronicles 15</a>

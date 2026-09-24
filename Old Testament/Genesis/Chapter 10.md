@@ -51,8 +51,6 @@ description: "Genesis 10 in plain English: Here are the family lines of Noah's s
 
 # Genesis 10
 
-<p class="chapter-intro">Genesis chapter 10 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 10 audio">
@@ -133,8 +131,6 @@ description: "Genesis 10 in plain English: Here are the family lines of Noah's s
 <p class="verse" id="v32"><a class="verse-num" href="#v32" aria-label="Genesis 10:32">32</a> These are the families of Noah&#39;s sons, grouped by their descendants, within their countries. And from these families the nations were spread out over the earth after the flood.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 10:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/10.txt">Plain text of Genesis 10</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%209.html" rel="prev">&larr; Genesis 9</a>

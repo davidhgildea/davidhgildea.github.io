@@ -51,8 +51,6 @@ description: "Proverbs 6 in plain English: My son, if you promise to pay for you
 
 # Proverbs 6
 
-<p class="chapter-intro">Proverbs chapter 6 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Proverbs 6 audio">
@@ -139,8 +137,6 @@ description: "Proverbs 6 in plain English: My son, if you promise to pay for you
 <p class="verse" id="v35"><a class="verse-num" href="#v35" aria-label="Proverbs 6:35">35</a> He will not accept a payment; nor will he be satisfied, even if you give many gifts.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Proverbs 6:1, Simplified Bible (simplified.bible)</em>. <a href="/text/proverbs/6.txt">Plain text of Proverbs 6</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Proverbs/Chapter%205.html" rel="prev">&larr; Proverbs 5</a>

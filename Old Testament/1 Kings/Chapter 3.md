@@ -51,8 +51,6 @@ description: "1 Kings 3 in plain English: Solomon formed an alliance with Pharao
 
 # 1 Kings 3
 
-<p class="chapter-intro">1 Kings chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Kings 3 audio">
@@ -125,8 +123,6 @@ description: "1 Kings 3 in plain English: Solomon formed an alliance with Pharao
 <p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="1 Kings 3:28">28</a> All of Israel heard about the king&#39;s decision and they respected the king because they realized God&#39;s wisdom was with him to make fair decisions.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Kings 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-kings/3.txt">Plain text of 1 Kings 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Kings/Chapter%202.html" rel="prev">&larr; 1 Kings 2</a>

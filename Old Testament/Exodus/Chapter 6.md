@@ -51,8 +51,6 @@ description: "Exodus 6 in plain English: Then God told Moses, \"Now you will see
 
 # Exodus 6
 
-<p class="chapter-intro">Exodus chapter 6 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Exodus 6 audio">
@@ -129,8 +127,6 @@ description: "Exodus 6 in plain English: Then God told Moses, \"Now you will see
 <p class="verse" id="v30"><a class="verse-num" href="#v30" aria-label="Exodus 6:30">30</a> Moses said to God, &quot;Look, I don&#39;t speak well, so how will Pharaoh listen to me?&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Exodus 6:1, Simplified Bible (simplified.bible)</em>. <a href="/text/exodus/6.txt">Plain text of Exodus 6</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Exodus/Chapter%205.html" rel="prev">&larr; Exodus 5</a>

@@ -51,8 +51,6 @@ description: "Mark 16 in plain English: After the Sabbath ended, Mary Magdalene,
 
 # Mark 16
 
-<p class="chapter-intro">Mark chapter 16 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Mark 16 audio">
@@ -109,8 +107,6 @@ description: "Mark 16 in plain English: After the Sabbath ended, Mary Magdalene,
 <p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="Mark 16:20">20</a> They went out and shared the message everywhere, with God helping them, and showed that it was true by the miracles that happened. Amen.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Mark 16:1, Simplified Bible (simplified.bible)</em>. <a href="/text/mark/16.txt">Plain text of Mark 16</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Mark/Chapter%2015.html" rel="prev">&larr; Mark 15</a>

@@ -51,8 +51,6 @@ description: "Matthew 17 in plain English: Six days later, Jesus took Peter, Jam
 
 # Matthew 17
 
-<p class="chapter-intro">Matthew chapter 17 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Matthew 17 audio">
@@ -123,8 +121,6 @@ description: "Matthew 17 in plain English: Six days later, Jesus took Peter, Jam
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="Matthew 17:27">27</a> Still, we don&#39;t want to upset them, so go to the lake, throw in a line, and pull out the first fish you catch. Open its mouth and you&#39;ll find some money. Take it and pay them for both of us.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Matthew 17:1, Simplified Bible (simplified.bible)</em>. <a href="/text/matthew/17.txt">Plain text of Matthew 17</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Matthew/Chapter%2016.html" rel="prev">&larr; Matthew 16</a>

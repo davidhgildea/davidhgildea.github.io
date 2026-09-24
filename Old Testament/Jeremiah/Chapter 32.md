@@ -51,8 +51,6 @@ description: "Jeremiah 32 in plain English: The message that came to Jeremiah fr
 
 # Jeremiah 32
 
-<p class="chapter-intro">Jeremiah chapter 32 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 32 audio">
@@ -157,8 +155,6 @@ description: "Jeremiah 32 in plain English: The message that came to Jeremiah fr
 <p class="verse" id="v44"><a class="verse-num" href="#v44" aria-label="Jeremiah 32:44">44</a> People will buy land with money, sign legal papers, seal them, and have witnesses in the land of Benjamin, around Jerusalem, in the towns of Judah, the mountain towns, the valley towns, and the southern towns, because I will restore their fortunes, says God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 32:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/32.txt">Plain text of Jeremiah 32</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2031.html" rel="prev">&larr; Jeremiah 31</a>

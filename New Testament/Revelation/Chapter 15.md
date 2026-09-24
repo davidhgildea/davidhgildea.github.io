@@ -51,8 +51,6 @@ description: "Revelation 15 in plain English: I saw another amazing sign in heav
 
 # Revelation 15
 
-<p class="chapter-intro">Revelation chapter 15 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Revelation 15 audio">
@@ -85,8 +83,6 @@ description: "Revelation 15 in plain English: I saw another amazing sign in heav
 <p class="verse" id="v8"><a class="verse-num" href="#v8" aria-label="Revelation 15:8">8</a> The temple was full of smoke because of God&#39;s glory and power, and no one could go into the temple until the seven angels&#39; seven plagues were finished.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Revelation 15:1, Simplified Bible (simplified.bible)</em>. <a href="/text/revelation/15.txt">Plain text of Revelation 15</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Revelation/Chapter%2014.html" rel="prev">&larr; Revelation 14</a>

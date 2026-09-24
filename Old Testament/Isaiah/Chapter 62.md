@@ -51,8 +51,6 @@ description: "Isaiah 62 in plain English: For Zion's sake, I will not keep quiet
 
 # Isaiah 62
 
-<p class="chapter-intro">Isaiah chapter 62 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 62 audio">
@@ -93,8 +91,6 @@ description: "Isaiah 62 in plain English: For Zion's sake, I will not keep quiet
 <p class="verse" id="v12"><a class="verse-num" href="#v12" aria-label="Isaiah 62:12">12</a> People will call them God&#39;s holy people, the ones God saved; and you will be known as the city that was searched for and not abandoned.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 62:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/62.txt">Plain text of Isaiah 62</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2061.html" rel="prev">&larr; Isaiah 61</a>

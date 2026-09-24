@@ -51,8 +51,6 @@ description: "Genesis 16 in plain English: Sarai, Abram's wife, had no children.
 
 # Genesis 16
 
-<p class="chapter-intro">Genesis chapter 16 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 16 audio">
@@ -101,8 +99,6 @@ description: "Genesis 16 in plain English: Sarai, Abram's wife, had no children.
 <p class="verse" id="v16"><a class="verse-num" href="#v16" aria-label="Genesis 16:16">16</a> Abram was 86 years old when Hagar gave birth to Ishmael for Abram.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 16:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/16.txt">Plain text of Genesis 16</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%2015.html" rel="prev">&larr; Genesis 15</a>

@@ -51,8 +51,6 @@ description: "Numbers 12 in plain English: Miriam and Aaron spoke against Moses 
 
 # Numbers 12
 
-<p class="chapter-intro">Numbers chapter 12 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Numbers 12 audio">
@@ -101,8 +99,6 @@ description: "Numbers 12 in plain English: Miriam and Aaron spoke against Moses 
 <p class="verse" id="v16"><a class="verse-num" href="#v16" aria-label="Numbers 12:16">16</a> Later, the people left Hazeroth and set up camp in the Paran wilderness.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Numbers 12:1, Simplified Bible (simplified.bible)</em>. <a href="/text/numbers/12.txt">Plain text of Numbers 12</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Numbers/Chapter%2011.html" rel="prev">&larr; Numbers 11</a>

@@ -51,8 +51,6 @@ description: "Isaiah 38 in plain English: Hezekiah was very sick and near death.
 
 # Isaiah 38
 
-<p class="chapter-intro">Isaiah chapter 38 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 38 audio">
@@ -113,8 +111,6 @@ description: "Isaiah 38 in plain English: Hezekiah was very sick and near death.
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Isaiah 38:22">22</a> Hezekiah also asked, &quot;What is the sign that I will go to God&#39;s house?&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 38:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/38.txt">Plain text of Isaiah 38</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2037.html" rel="prev">&larr; Isaiah 37</a>

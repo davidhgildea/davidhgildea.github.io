@@ -51,8 +51,6 @@ description: "Isaiah 17 in plain English: The load Damascus carries: Look, Damas
 
 # Isaiah 17
 
-<p class="chapter-intro">Isaiah chapter 17 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 17 audio">
@@ -97,8 +95,6 @@ description: "Isaiah 17 in plain English: The load Damascus carries: Look, Damas
 <p class="verse" id="v14"><a class="verse-num" href="#v14" aria-label="Isaiah 17:14">14</a> Look, at night comes trouble; by morning it&#39;s gone. This is what happens to those who destroy us, the fate of those who steal from us.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 17:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/17.txt">Plain text of Isaiah 17</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2016.html" rel="prev">&larr; Isaiah 16</a>

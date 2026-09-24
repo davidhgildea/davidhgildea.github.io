@@ -51,8 +51,6 @@ description: "Revelation 11 in plain English: I was given a stick like a measuri
 
 # Revelation 11
 
-<p class="chapter-intro">Revelation chapter 11 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Revelation 11 audio">
@@ -107,8 +105,6 @@ description: "Revelation 11 in plain English: I was given a stick like a measuri
 <p class="verse" id="v19"><a class="verse-num" href="#v19" aria-label="Revelation 11:19">19</a> God&#39;s temple in heaven was opened, and the ark of his covenant could be seen inside it. There were flashes of lightning, sounds, peals of thunder, an earthquake, and heavy hail.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Revelation 11:1, Simplified Bible (simplified.bible)</em>. <a href="/text/revelation/11.txt">Plain text of Revelation 11</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Revelation/Chapter%2010.html" rel="prev">&larr; Revelation 10</a>

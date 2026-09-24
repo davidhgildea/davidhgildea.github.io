@@ -51,8 +51,6 @@ description: "Leviticus 24 in plain English: God spoke to Moses, saying, Tell th
 
 # Leviticus 24
 
-<p class="chapter-intro">Leviticus chapter 24 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Leviticus 24 audio">
@@ -115,8 +113,6 @@ description: "Leviticus 24 in plain English: God spoke to Moses, saying, Tell th
 <p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Leviticus 24:23">23</a> Moses told the Israelites to take the person who cursed outside the camp and throw stones at him. The Israelites did what God told Moses.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Leviticus 24:1, Simplified Bible (simplified.bible)</em>. <a href="/text/leviticus/24.txt">Plain text of Leviticus 24</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Leviticus/Chapter%2023.html" rel="prev">&larr; Leviticus 23</a>

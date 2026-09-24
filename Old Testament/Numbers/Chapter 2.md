@@ -51,8 +51,6 @@ description: "Numbers 2 in plain English: God spoke to Moses and Aaron, saying, 
 
 # Numbers 2
 
-<p class="chapter-intro">Numbers chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Numbers 2 audio">
@@ -137,8 +135,6 @@ description: "Numbers 2 in plain English: God spoke to Moses and Aaron, saying, 
 <p class="verse" id="v34"><a class="verse-num" href="#v34" aria-label="Numbers 2:34">34</a> The Israelites did everything God told Moses: they camped under their flags and moved out grouped by family, following their ancestors&#39; houses.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Numbers 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/numbers/2.txt">Plain text of Numbers 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Numbers/Chapter%201.html" rel="prev">&larr; Numbers 1</a>

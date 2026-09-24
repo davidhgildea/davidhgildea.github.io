@@ -51,8 +51,6 @@ description: "Ezekiel 20 in plain English: In the seventh year, on the tenth day
 
 # Ezekiel 20
 
-<p class="chapter-intro">Ezekiel chapter 20 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 20 audio">
@@ -167,8 +165,6 @@ description: "Ezekiel 20 in plain English: In the seventh year, on the tenth day
 <p class="verse" id="v49"><a class="verse-num" href="#v49" aria-label="Ezekiel 20:49">49</a> Then I said, &quot;Ah God! They are saying about me, &#39;Doesn&#39;t he just speak in puzzles?&#39;&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 20:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/20.txt">Plain text of Ezekiel 20</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2019.html" rel="prev">&larr; Ezekiel 19</a>

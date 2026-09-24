@@ -51,8 +51,6 @@ description: "Ecclesiastes 10 in plain English: Dead flies make the perfumer's o
 
 # Ecclesiastes 10
 
-<p class="chapter-intro">Ecclesiastes chapter 10 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ecclesiastes 10 audio">
@@ -109,8 +107,6 @@ description: "Ecclesiastes 10 in plain English: Dead flies make the perfumer's o
 <p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="Ecclesiastes 10:20">20</a> Do not curse the king, even to yourself; and do not curse the wealthy in your bedroom: because a bird might spread the news, and a creature with wings might reveal what you said.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ecclesiastes 10:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ecclesiastes/10.txt">Plain text of Ecclesiastes 10</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ecclesiastes/Chapter%209.html" rel="prev">&larr; Ecclesiastes 9</a>

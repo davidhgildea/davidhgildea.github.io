@@ -51,8 +51,6 @@ description: "Ezekiel 18 in plain English: God spoke to me once more, saying, Wh
 
 # Ezekiel 18
 
-<p class="chapter-intro">Ezekiel chapter 18 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 18 audio">
@@ -133,8 +131,6 @@ description: "Ezekiel 18 in plain English: God spoke to me once more, saying, Wh
 <p class="verse" id="v32"><a class="verse-num" href="#v32" aria-label="Ezekiel 18:32">32</a> I don&#39;t want anyone to die, says God. So change your ways and live.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 18:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/18.txt">Plain text of Ezekiel 18</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2017.html" rel="prev">&larr; Ezekiel 17</a>

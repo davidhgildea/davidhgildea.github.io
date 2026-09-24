@@ -51,8 +51,6 @@ description: "2 Samuel 13 in plain English: After this, David's son Absalom had 
 
 # 2 Samuel 13
 
-<p class="chapter-intro">2 Samuel chapter 13 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Samuel 13 audio">
@@ -147,8 +145,6 @@ description: "2 Samuel 13 in plain English: After this, David's son Absalom had 
 <p class="verse" id="v39"><a class="verse-num" href="#v39" aria-label="2 Samuel 13:39">39</a> King David deeply wanted to see Absalom because he felt better about Amnon now that he was dead.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Samuel 13:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-samuel/13.txt">Plain text of 2 Samuel 13</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Samuel/Chapter%2012.html" rel="prev">&larr; 2 Samuel 12</a>

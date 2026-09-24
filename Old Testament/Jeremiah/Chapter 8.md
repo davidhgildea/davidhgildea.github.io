@@ -51,8 +51,6 @@ description: "Jeremiah 8 in plain English: At that time, God says, they will tak
 
 # Jeremiah 8
 
-<p class="chapter-intro">Jeremiah chapter 8 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 8 audio">
@@ -113,8 +111,6 @@ description: "Jeremiah 8 in plain English: At that time, God says, they will tak
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Jeremiah 8:22">22</a> Is there no medicine in Gilead; is there no doctor there? Why then isn&#39;t the health of my people restored?</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 8:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/8.txt">Plain text of Jeremiah 8</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%207.html" rel="prev">&larr; Jeremiah 7</a>

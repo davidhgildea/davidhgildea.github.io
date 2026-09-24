@@ -51,8 +51,6 @@ description: "Genesis 45 in plain English: Joseph could not hold back in front o
 
 # Genesis 45
 
-<p class="chapter-intro">Genesis chapter 45 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 45 audio">
@@ -125,8 +123,6 @@ description: "Genesis 45 in plain English: Joseph could not hold back in front o
 <p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="Genesis 45:28">28</a> Israel said, &quot;It is enough; my son Joseph is still alive. I will go and see him before I die.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 45:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/45.txt">Plain text of Genesis 45</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%2044.html" rel="prev">&larr; Genesis 44</a>

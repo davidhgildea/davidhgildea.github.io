@@ -51,8 +51,6 @@ description: "Daniel 4 in plain English: King Nebuchadnezzar, to all peoples, co
 
 # Daniel 4
 
-<p class="chapter-intro">Daniel chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Daniel 4 audio">
@@ -143,8 +141,6 @@ description: "Daniel 4 in plain English: King Nebuchadnezzar, to all peoples, co
 <p class="verse" id="v37"><a class="verse-num" href="#v37" aria-label="Daniel 4:37">37</a> Now I, Nebuchadnezzar, praise and lift up and respect the King of heaven. All his deeds are right, and his paths are fair. He can humble those who are proud.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Daniel 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/daniel/4.txt">Plain text of Daniel 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Daniel/Chapter%203.html" rel="prev">&larr; Daniel 3</a>

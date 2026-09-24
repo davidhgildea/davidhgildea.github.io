@@ -51,8 +51,6 @@ description: "Jeremiah 19 in plain English: God says, \"Go and get a clay jar fr
 
 # Jeremiah 19
 
-<p class="chapter-intro">Jeremiah chapter 19 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 19 audio">
@@ -99,8 +97,6 @@ description: "Jeremiah 19 in plain English: God says, \"Go and get a clay jar fr
 <p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="Jeremiah 19:15">15</a> God of Israel says, I will make all the bad things happen to this city and its towns that I said would happen, because they were stubborn and did not listen to my words.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 19:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/19.txt">Plain text of Jeremiah 19</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2018.html" rel="prev">&larr; Jeremiah 18</a>

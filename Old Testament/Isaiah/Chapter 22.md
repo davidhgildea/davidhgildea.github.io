@@ -51,8 +51,6 @@ description: "Isaiah 22 in plain English: The trouble with the Valley of Vision.
 
 # Isaiah 22
 
-<p class="chapter-intro">Isaiah chapter 22 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 22 audio">
@@ -119,8 +117,6 @@ description: "Isaiah 22 in plain English: The trouble with the Valley of Vision.
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Isaiah 22:25">25</a> On that day, God says, the secure nail will be taken out, cut down, and fall; and the load on it will be removed because God has said so.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 22:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/22.txt">Plain text of Isaiah 22</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2021.html" rel="prev">&larr; Isaiah 21</a>

@@ -51,8 +51,6 @@ description: "Psalms 105 in plain English: Give thanks to God; call on his name;
 
 # Psalms 105
 
-<p class="chapter-intro">Psalms chapter 105 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 105 audio">
@@ -159,8 +157,6 @@ description: "Psalms 105 in plain English: Give thanks to God; call on his name;
 <p class="verse" id="v45"><a class="verse-num" href="#v45" aria-label="Psalms 105:45">45</a> So they could follow his rules and obey his laws. Praise God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 105:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/105.txt">Plain text of Psalms 105</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%20104.html" rel="prev">&larr; Psalms 104</a>

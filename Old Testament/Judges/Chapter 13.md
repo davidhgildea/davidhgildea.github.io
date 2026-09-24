@@ -51,8 +51,6 @@ description: "Judges 13 in plain English: The Israelites did bad things again be
 
 # Judges 13
 
-<p class="chapter-intro">Judges chapter 13 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Judges 13 audio">
@@ -119,8 +117,6 @@ description: "Judges 13 in plain English: The Israelites did bad things again be
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Judges 13:25">25</a> God&#39;s Spirit started to stir him now and then in Dan&#39;s camp, between Zorah and Eshtaol.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Judges 13:1, Simplified Bible (simplified.bible)</em>. <a href="/text/judges/13.txt">Plain text of Judges 13</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Judges/Chapter%2012.html" rel="prev">&larr; Judges 12</a>

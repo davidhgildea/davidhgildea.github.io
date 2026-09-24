@@ -51,8 +51,6 @@ description: "Amos 9 in plain English: I saw God standing at the altar. He said,
 
 # Amos 9
 
-<p class="chapter-intro">Amos chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Amos 9 audio">
@@ -99,8 +97,6 @@ description: "Amos 9 in plain English: I saw God standing at the altar. He said,
 <p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="Amos 9:15">15</a> I will put them on their land, and no one will ever remove them from the land I gave them, says God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Amos 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/amos/9.txt">Plain text of Amos 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Amos/Chapter%208.html" rel="prev">&larr; Amos 8</a>

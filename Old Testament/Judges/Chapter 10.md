@@ -51,8 +51,6 @@ description: "Judges 10 in plain English: After Abimelech, Tola son of Puah, Dod
 
 # Judges 10
 
-<p class="chapter-intro">Judges chapter 10 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Judges 10 audio">
@@ -105,8 +103,6 @@ description: "Judges 10 in plain English: After Abimelech, Tola son of Puah, Dod
 <p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="Judges 10:18">18</a> The people and leaders of Gilead asked each other, &quot;Who will start the fight against the Ammonites? He will become the leader of everyone in Gilead.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Judges 10:1, Simplified Bible (simplified.bible)</em>. <a href="/text/judges/10.txt">Plain text of Judges 10</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Judges/Chapter%209.html" rel="prev">&larr; Judges 9</a>

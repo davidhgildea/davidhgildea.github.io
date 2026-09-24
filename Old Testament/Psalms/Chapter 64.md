@@ -51,8 +51,6 @@ description: "Psalms 64 in plain English: Listen to me, God, when I pray; keep m
 
 # Psalms 64
 
-<p class="chapter-intro">Psalms chapter 64 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 64 audio">
@@ -89,8 +87,6 @@ description: "Psalms 64 in plain English: Listen to me, God, when I pray; keep m
 <p class="verse" id="v10"><a class="verse-num" href="#v10" aria-label="Psalms 64:10">10</a> Good people will be happy with God, trust in him, and all who are true in heart will celebrate.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 64:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/64.txt">Plain text of Psalms 64</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2063.html" rel="prev">&larr; Psalms 63</a>

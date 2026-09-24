@@ -51,8 +51,6 @@ description: "Genesis 38 in plain English: At that time, Judah left his brothers
 
 # Genesis 38
 
-<p class="chapter-intro">Genesis chapter 38 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 38 audio">
@@ -129,8 +127,6 @@ description: "Genesis 38 in plain English: At that time, Judah left his brothers
 <p class="verse" id="v30"><a class="verse-num" href="#v30" aria-label="Genesis 38:30">30</a> Later, his brother came out, the one with the red string on his hand; they named him Zarah.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 38:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/38.txt">Plain text of Genesis 38</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%2037.html" rel="prev">&larr; Genesis 37</a>

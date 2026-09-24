@@ -51,8 +51,6 @@ description: "Job 19 in plain English: Then Job replied and spoke, How long will
 
 # Job 19
 
-<p class="chapter-intro">Job chapter 19 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Job 19 audio">
@@ -127,8 +125,6 @@ description: "Job 19 in plain English: Then Job replied and spoke, How long will
 <p class="verse" id="v29"><a class="verse-num" href="#v29" aria-label="Job 19:29">29</a> Be afraid of the sword: anger brings sword punishments, so you know there is a judgment.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Job 19:1, Simplified Bible (simplified.bible)</em>. <a href="/text/job/19.txt">Plain text of Job 19</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Job/Chapter%2018.html" rel="prev">&larr; Job 18</a>

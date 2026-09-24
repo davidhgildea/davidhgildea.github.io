@@ -51,8 +51,6 @@ description: "Proverbs 29 in plain English: Anyone who keeps making the same mis
 
 # Proverbs 29
 
-<p class="chapter-intro">Proverbs chapter 29 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Proverbs 29 audio">
@@ -123,8 +121,6 @@ description: "Proverbs 29 in plain English: Anyone who keeps making the same mis
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="Proverbs 29:27">27</a> A dishonest person disgusts the honest, and someone who lives rightly is hated by the wicked.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Proverbs 29:1, Simplified Bible (simplified.bible)</em>. <a href="/text/proverbs/29.txt">Plain text of Proverbs 29</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Proverbs/Chapter%2028.html" rel="prev">&larr; Proverbs 28</a>

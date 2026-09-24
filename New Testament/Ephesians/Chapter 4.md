@@ -51,8 +51,6 @@ description: "Ephesians 4 in plain English: So I, a prisoner for God, ask you to
 
 # Ephesians 4
 
-<p class="chapter-intro">Ephesians chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ephesians 4 audio">
@@ -133,8 +131,6 @@ description: "Ephesians 4 in plain English: So I, a prisoner for God, ask you to
 <p class="verse" id="v32"><a class="verse-num" href="#v32" aria-label="Ephesians 4:32">32</a> Be kind to each other, be gentle, and forgive each other, just as God has forgiven you because of Christ.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ephesians 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ephesians/4.txt">Plain text of Ephesians 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Ephesians/Chapter%203.html" rel="prev">&larr; Ephesians 3</a>

@@ -51,8 +51,6 @@ description: "Ezekiel 43 in plain English: Later, he took me to the gate that fa
 
 # Ezekiel 43
 
-<p class="chapter-intro">Ezekiel chapter 43 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 43 audio">
@@ -123,8 +121,6 @@ description: "Ezekiel 43 in plain English: Later, he took me to the gate that fa
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="Ezekiel 43:27">27</a> After these days are over, starting on the eighth day, the priests will put your burnt offerings and peace offerings on the altar, and God will accept you.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 43:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/43.txt">Plain text of Ezekiel 43</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2042.html" rel="prev">&larr; Ezekiel 42</a>

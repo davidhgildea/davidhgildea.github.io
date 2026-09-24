@@ -51,8 +51,6 @@ description: "Deuteronomy 14 in plain English: You are God's children: do not cu
 
 # Deuteronomy 14
 
-<p class="chapter-intro">Deuteronomy chapter 14 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Deuteronomy 14 audio">
@@ -127,8 +125,6 @@ description: "Deuteronomy 14 in plain English: You are God's children: do not cu
 <p class="verse" id="v29"><a class="verse-num" href="#v29" aria-label="Deuteronomy 14:29">29</a> The Levite, who has no share or property with you, and the foreigner, the orphan, and the widow living in your towns may come, eat, and have enough, so that God may bless you in everything you do.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Deuteronomy 14:1, Simplified Bible (simplified.bible)</em>. <a href="/text/deuteronomy/14.txt">Plain text of Deuteronomy 14</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Deuteronomy/Chapter%2013.html" rel="prev">&larr; Deuteronomy 13</a>

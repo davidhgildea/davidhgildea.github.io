@@ -51,8 +51,6 @@ description: "Jude 1 in plain English: Jude, a servant of Jesus Christ and broth
 
 # Jude 1
 
-<p class="chapter-intro">Jude chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jude 1 audio">
@@ -119,8 +117,6 @@ description: "Jude 1 in plain English: Jude, a servant of Jesus Christ and broth
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Jude 1:25">25</a> To the only wise God our Savior, be honor and greatness, authority and strength, both now and forever. Amen.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jude 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jude/1.txt">Plain text of Jude 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/3%20John/Chapter%201.html" rel="prev">&larr; 3 John 1</a>

@@ -51,8 +51,6 @@ description: "1 Kings 7 in plain English: Solomon built his own house for thirte
 
 # 1 Kings 7
 
-<p class="chapter-intro">1 Kings chapter 7 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Kings 7 audio">
@@ -171,8 +169,6 @@ description: "1 Kings 7 in plain English: Solomon built his own house for thirte
 <p class="verse" id="v51"><a class="verse-num" href="#v51" aria-label="1 Kings 7:51">51</a> All the work King Solomon did for God&#39;s house was finished. Solomon added what his father David had set aside—silver, gold, and items to God&#39;s house&#39;s treasures.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Kings 7:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-kings/7.txt">Plain text of 1 Kings 7</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Kings/Chapter%206.html" rel="prev">&larr; 1 Kings 6</a>

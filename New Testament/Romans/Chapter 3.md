@@ -51,8 +51,6 @@ description: "Romans 3 in plain English: What advantage does the Jew have? Or wh
 
 # Romans 3
 
-<p class="chapter-intro">Romans chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Romans 3 audio">
@@ -131,8 +129,6 @@ description: "Romans 3 in plain English: What advantage does the Jew have? Or wh
 <p class="verse" id="v31"><a class="verse-num" href="#v31" aria-label="Romans 3:31">31</a> By having faith, do we cancel the law? No, we make the law stand.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Romans 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/romans/3.txt">Plain text of Romans 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Romans/Chapter%202.html" rel="prev">&larr; Romans 2</a>

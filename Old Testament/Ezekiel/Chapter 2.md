@@ -51,8 +51,6 @@ description: "Ezekiel 2 in plain English: He said to me, \"Human, stand on your 
 
 # Ezekiel 2
 
-<p class="chapter-intro">Ezekiel chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 2 audio">
@@ -89,8 +87,6 @@ description: "Ezekiel 2 in plain English: He said to me, \"Human, stand on your 
 <p class="verse" id="v10"><a class="verse-num" href="#v10" aria-label="Ezekiel 2:10">10</a> He showed it to me; it had writing on the front and back, and it said there were sadness, crying, and terrible pain.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/2.txt">Plain text of Ezekiel 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%201.html" rel="prev">&larr; Ezekiel 1</a>

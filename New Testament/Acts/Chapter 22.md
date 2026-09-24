@@ -51,8 +51,6 @@ description: "Acts 22 in plain English: Friends and fathers, listen to my defens
 
 # Acts 22
 
-<p class="chapter-intro">Acts chapter 22 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Acts 22 audio">
@@ -129,8 +127,6 @@ description: "Acts 22 in plain English: Friends and fathers, listen to my defens
 <p class="verse" id="v30"><a class="verse-num" href="#v30" aria-label="Acts 22:30">30</a> The next day, wanting to understand exactly why he was accused by the Jews, he released him from his shackles, ordered the high priests and their whole council to meet, took Paul down, and placed him in front of them.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Acts 22:1, Simplified Bible (simplified.bible)</em>. <a href="/text/acts/22.txt">Plain text of Acts 22</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Acts/Chapter%2021.html" rel="prev">&larr; Acts 21</a>

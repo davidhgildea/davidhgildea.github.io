@@ -51,8 +51,6 @@ description: "Genesis 8 in plain English: God remembered Noah, all living creatu
 
 # Genesis 8
 
-<p class="chapter-intro">Genesis chapter 8 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 8 audio">
@@ -113,8 +111,6 @@ description: "Genesis 8 in plain English: God remembered Noah, all living creatu
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Genesis 8:22">22</a> As long as the earth exists, there will be planting and harvest, cold and heat, summer and winter, and day and night will never stop.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 8:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/8.txt">Plain text of Genesis 8</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%207.html" rel="prev">&larr; Genesis 7</a>

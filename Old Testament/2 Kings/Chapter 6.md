@@ -51,8 +51,6 @@ description: "2 Kings 6 in plain English: The prophet's sons said to Elisha, \"L
 
 # 2 Kings 6
 
-<p class="chapter-intro">2 Kings chapter 6 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Kings 6 audio">
@@ -135,8 +133,6 @@ description: "2 Kings 6 in plain English: The prophet's sons said to Elisha, \"L
 <p class="verse" id="v33"><a class="verse-num" href="#v33" aria-label="2 Kings 6:33">33</a> While he was still talking to them, look, the messenger came to him and said, &quot;Look, this trouble is from God; why should I wait for God any longer?&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Kings 6:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-kings/6.txt">Plain text of 2 Kings 6</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Kings/Chapter%205.html" rel="prev">&larr; 2 Kings 5</a>

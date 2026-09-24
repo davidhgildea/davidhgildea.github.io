@@ -51,8 +51,6 @@ description: "Zechariah 10 in plain English: Ask God for rain when the late rain
 
 # Zechariah 10
 
-<p class="chapter-intro">Zechariah chapter 10 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Zechariah 10 audio">
@@ -93,8 +91,6 @@ description: "Zechariah 10 in plain English: Ask God for rain when the late rain
 <p class="verse" id="v12"><a class="verse-num" href="#v12" aria-label="Zechariah 10:12">12</a> I will make them strong in God; they will live and act in his name, says God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Zechariah 10:1, Simplified Bible (simplified.bible)</em>. <a href="/text/zechariah/10.txt">Plain text of Zechariah 10</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Zechariah/Chapter%209.html" rel="prev">&larr; Zechariah 9</a>

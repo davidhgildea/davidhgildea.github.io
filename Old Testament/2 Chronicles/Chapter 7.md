@@ -51,8 +51,6 @@ description: "2 Chronicles 7 in plain English: After Solomon finished praying, f
 
 # 2 Chronicles 7
 
-<p class="chapter-intro">2 Chronicles chapter 7 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Chronicles 7 audio">
@@ -113,8 +111,6 @@ description: "2 Chronicles 7 in plain English: After Solomon finished praying, f
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="2 Chronicles 7:22">22</a> The answer will be, &quot;Because they abandoned the God of their ancestors, who led them out of Egypt, and they followed and worshiped other gods, and served them, that is why he has brought all this harm to them.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Chronicles 7:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-chronicles/7.txt">Plain text of 2 Chronicles 7</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Chronicles/Chapter%206.html" rel="prev">&larr; 2 Chronicles 6</a>

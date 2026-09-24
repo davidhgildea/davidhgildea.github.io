@@ -51,8 +51,6 @@ description: "1 Samuel 12 in plain English: Samuel told all of Israel, \"Look, I
 
 # 1 Samuel 12
 
-<p class="chapter-intro">1 Samuel chapter 12 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Samuel 12 audio">
@@ -119,8 +117,6 @@ description: "1 Samuel 12 in plain English: Samuel told all of Israel, \"Look, I
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="1 Samuel 12:25">25</a> If you keep doing bad things, you and your king will be destroyed.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Samuel 12:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-samuel/12.txt">Plain text of 1 Samuel 12</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Samuel/Chapter%2011.html" rel="prev">&larr; 1 Samuel 11</a>

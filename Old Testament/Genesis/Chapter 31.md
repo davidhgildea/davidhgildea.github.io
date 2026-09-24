@@ -51,8 +51,6 @@ description: "Genesis 31 in plain English: He heard Laban's sons say, \"Jacob ha
 
 # Genesis 31
 
-<p class="chapter-intro">Genesis chapter 31 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 31 audio">
@@ -179,8 +177,6 @@ description: "Genesis 31 in plain English: He heard Laban's sons say, \"Jacob ha
 <p class="verse" id="v55"><a class="verse-num" href="#v55" aria-label="Genesis 31:55">55</a> Early in the morning, Laban got up, kissed his sons and daughters, blessed them, and then he left and went back to his home.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 31:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/31.txt">Plain text of Genesis 31</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%2030.html" rel="prev">&larr; Genesis 30</a>

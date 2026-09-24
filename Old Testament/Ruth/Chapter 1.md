@@ -51,8 +51,6 @@ description: "Ruth 1 in plain English: During the time when judges led, a famine
 
 # Ruth 1
 
-<p class="chapter-intro">Ruth chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ruth 1 audio">
@@ -113,8 +111,6 @@ description: "Ruth 1 in plain English: During the time when judges led, a famine
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Ruth 1:22">22</a> Naomi went back, and with her went Ruth the Moabitess, her daughter-in-law, who had come from the country of Moab. They arrived in Bethlehem at the start of the barley harvest.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ruth 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ruth/1.txt">Plain text of Ruth 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Judges/Chapter%2021.html" rel="prev">&larr; Judges 21</a>

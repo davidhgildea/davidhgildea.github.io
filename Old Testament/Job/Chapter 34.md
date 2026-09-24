@@ -51,8 +51,6 @@ description: "Job 34 in plain English: Elihu replied and said, Listen to me, you
 
 # Job 34
 
-<p class="chapter-intro">Job chapter 34 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Job 34 audio">
@@ -143,8 +141,6 @@ description: "Job 34 in plain English: Elihu replied and said, Listen to me, you
 <p class="verse" id="v37"><a class="verse-num" href="#v37" aria-label="Job 34:37">37</a> He makes his sin worse by rebelling, applauds himself in our presence, and speaks many words against God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Job 34:1, Simplified Bible (simplified.bible)</em>. <a href="/text/job/34.txt">Plain text of Job 34</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Job/Chapter%2033.html" rel="prev">&larr; Job 33</a>

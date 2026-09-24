@@ -51,8 +51,6 @@ description: "Jeremiah 31 in plain English: At that time, says God, I will be th
 
 # Jeremiah 31
 
-<p class="chapter-intro">Jeremiah chapter 31 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 31 audio">
@@ -149,8 +147,6 @@ description: "Jeremiah 31 in plain English: At that time, says God, I will be th
 <p class="verse" id="v40"><a class="verse-num" href="#v40" aria-label="Jeremiah 31:40">40</a> The entire valley where dead bodies and ashes are, and all the land to Kidron stream, to the east by the Horse Gate, will be sacred to God; it will never be destroyed or disturbed again.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 31:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/31.txt">Plain text of Jeremiah 31</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2030.html" rel="prev">&larr; Jeremiah 30</a>

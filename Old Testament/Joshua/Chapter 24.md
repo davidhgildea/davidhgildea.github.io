@@ -51,8 +51,6 @@ description: "Joshua 24 in plain English: Joshua brought all the Israelite tribe
 
 # Joshua 24
 
-<p class="chapter-intro">Joshua chapter 24 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Joshua 24 audio">
@@ -135,8 +133,6 @@ description: "Joshua 24 in plain English: Joshua brought all the Israelite tribe
 <p class="verse" id="v33"><a class="verse-num" href="#v33" aria-label="Joshua 24:33">33</a> Eleazar, Aaron&#39;s son, died; they buried him on a hill belonging to his son Phinehas, which he received in the Ephraim mountains.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Joshua 24:1, Simplified Bible (simplified.bible)</em>. <a href="/text/joshua/24.txt">Plain text of Joshua 24</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Joshua/Chapter%2023.html" rel="prev">&larr; Joshua 23</a>

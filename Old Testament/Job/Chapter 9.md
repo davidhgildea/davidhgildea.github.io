@@ -51,8 +51,6 @@ description: "Job 9 in plain English: Then Job replied and spoke, I know it's tr
 
 # Job 9
 
-<p class="chapter-intro">Job chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Job 9 audio">
@@ -139,8 +137,6 @@ description: "Job 9 in plain English: Then Job replied and spoke, I know it's tr
 <p class="verse" id="v35"><a class="verse-num" href="#v35" aria-label="Job 9:35">35</a> I would talk without being afraid of him; but that is not my situation.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Job 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/job/9.txt">Plain text of Job 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Job/Chapter%208.html" rel="prev">&larr; Job 8</a>

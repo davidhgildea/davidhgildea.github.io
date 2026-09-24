@@ -51,8 +51,6 @@ description: "Psalms 119 in plain English: Happy are those who are pure in their
 
 # Psalms 119
 
-<p class="chapter-intro">Psalms chapter 119 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 119 audio">
@@ -421,8 +419,6 @@ description: "Psalms 119 in plain English: Happy are those who are pure in their
 <p class="verse" id="v176"><a class="verse-num" href="#v176" aria-label="Psalms 119:176">176</a> I have wandered off like a lost sheep; look for me, your servant; because I have not forgotten your commands.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 119:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/119.txt">Plain text of Psalms 119</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%20118.html" rel="prev">&larr; Psalms 118</a>

@@ -51,8 +51,6 @@ description: "2 Kings 18 in plain English: In the third year of Hoshea, son of E
 
 # 2 Kings 18
 
-<p class="chapter-intro">2 Kings chapter 18 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Kings 18 audio">
@@ -143,8 +141,6 @@ description: "2 Kings 18 in plain English: In the third year of Hoshea, son of E
 <p class="verse" id="v37"><a class="verse-num" href="#v37" aria-label="2 Kings 18:37">37</a> Eliakim, Hilkiah&#39;s son who was in charge of the household, together with Shebna the secretary and Joah, Asaph&#39;s son the historian, came to Hezekiah with their clothes torn and reported to him what Rabshakeh had said.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Kings 18:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-kings/18.txt">Plain text of 2 Kings 18</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Kings/Chapter%2017.html" rel="prev">&larr; 2 Kings 17</a>

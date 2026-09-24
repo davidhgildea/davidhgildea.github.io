@@ -51,8 +51,6 @@ description: "2 Kings 5 in plain English: Naaman, the leader of the Syrian king'
 
 # 2 Kings 5
 
-<p class="chapter-intro">2 Kings chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Kings 5 audio">
@@ -123,8 +121,6 @@ description: "2 Kings 5 in plain English: Naaman, the leader of the Syrian king'
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="2 Kings 5:27">27</a> Naaman&#39;s leprosy will stick to you and your descendants forever. He left with skin as white as a leper&#39;s.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Kings 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-kings/5.txt">Plain text of 2 Kings 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Kings/Chapter%204.html" rel="prev">&larr; 2 Kings 4</a>

@@ -51,8 +51,6 @@ description: "Nehemiah 12 in plain English: Now, these are the priests and the L
 
 # Nehemiah 12
 
-<p class="chapter-intro">Nehemiah chapter 12 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Nehemiah 12 audio">
@@ -163,8 +161,6 @@ description: "Nehemiah 12 in plain English: Now, these are the priests and the L
 <p class="verse" id="v47"><a class="verse-num" href="#v47" aria-label="Nehemiah 12:47">47</a> During the time of Zerubbabel and Nehemiah, all of Israel provided daily shares to the singers and gatekeepers. They set apart sacred gifts for the Levites, and the Levites dedicated them to Aaron&#39;s descendants.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Nehemiah 12:1, Simplified Bible (simplified.bible)</em>. <a href="/text/nehemiah/12.txt">Plain text of Nehemiah 12</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Nehemiah/Chapter%2011.html" rel="prev">&larr; Nehemiah 11</a>

@@ -51,8 +51,6 @@ description: "2 Corinthians 12 in plain English: It's not really good for me to 
 
 # 2 Corinthians 12
 
-<p class="chapter-intro">2 Corinthians chapter 12 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Corinthians 12 audio">
@@ -111,8 +109,6 @@ description: "2 Corinthians 12 in plain English: It's not really good for me to 
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="2 Corinthians 12:21">21</a> So when I return, I hope my God does not make me sad in front of you because I may have to mourn for many who have sinned but not changed their ways, or stopped their impure and immoral acts.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Corinthians 12:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-corinthians/12.txt">Plain text of 2 Corinthians 12</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/2%20Corinthians/Chapter%2011.html" rel="prev">&larr; 2 Corinthians 11</a>

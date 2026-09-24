@@ -51,8 +51,6 @@ description: "Romans 14 in plain English: Welcome those who are weak in faith, b
 
 # Romans 14
 
-<p class="chapter-intro">Romans chapter 14 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Romans 14 audio">
@@ -115,8 +113,6 @@ description: "Romans 14 in plain English: Welcome those who are weak in faith, b
 <p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Romans 14:23">23</a> If someone eats but has doubts, they are wrong because their eating is not based on belief; anything not based on belief is wrong.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Romans 14:1, Simplified Bible (simplified.bible)</em>. <a href="/text/romans/14.txt">Plain text of Romans 14</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Romans/Chapter%2013.html" rel="prev">&larr; Romans 13</a>

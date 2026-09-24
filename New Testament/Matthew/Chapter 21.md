@@ -51,8 +51,6 @@ description: "Matthew 21 in plain English: When they got close to Jerusalem and 
 
 # Matthew 21
 
-<p class="chapter-intro">Matthew chapter 21 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Matthew 21 audio">
@@ -161,8 +159,6 @@ description: "Matthew 21 in plain English: When they got close to Jerusalem and 
 <p class="verse" id="v46"><a class="verse-num" href="#v46" aria-label="Matthew 21:46">46</a> But when they tried to arrest him, they were afraid of the crowd, because the people believed he was a prophet.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Matthew 21:1, Simplified Bible (simplified.bible)</em>. <a href="/text/matthew/21.txt">Plain text of Matthew 21</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Matthew/Chapter%2020.html" rel="prev">&larr; Matthew 20</a>

@@ -51,8 +51,6 @@ description: "Luke 4 in plain English: Jesus, filled with the Holy Spirit, came 
 
 # Luke 4
 
-<p class="chapter-intro">Luke chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Luke 4 audio">
@@ -157,8 +155,6 @@ description: "Luke 4 in plain English: Jesus, filled with the Holy Spirit, came 
 <p class="verse" id="v44"><a class="verse-num" href="#v44" aria-label="Luke 4:44">44</a> He taught in the meeting places of Galilee.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Luke 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/luke/4.txt">Plain text of Luke 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Luke/Chapter%203.html" rel="prev">&larr; Luke 3</a>

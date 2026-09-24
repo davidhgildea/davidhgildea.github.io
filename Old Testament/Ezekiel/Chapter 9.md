@@ -51,8 +51,6 @@ description: "Ezekiel 9 in plain English: He also shouted loudly in my ears, say
 
 # Ezekiel 9
 
-<p class="chapter-intro">Ezekiel chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 9 audio">
@@ -91,8 +89,6 @@ description: "Ezekiel 9 in plain English: He also shouted loudly in my ears, say
 <p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Ezekiel 9:11">11</a> Look, the man in linen clothes with a writing kit at his side reported back, saying, &quot;I have done what you told me to do.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/9.txt">Plain text of Ezekiel 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%208.html" rel="prev">&larr; Ezekiel 8</a>

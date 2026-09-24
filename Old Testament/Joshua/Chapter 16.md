@@ -51,8 +51,6 @@ description: "Joshua 16 in plain English: Joseph's descendants received land ext
 
 # Joshua 16
 
-<p class="chapter-intro">Joshua chapter 16 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Joshua 16 audio">
@@ -89,8 +87,6 @@ description: "Joshua 16 in plain English: Joseph's descendants received land ext
 <p class="verse" id="v10"><a class="verse-num" href="#v10" aria-label="Joshua 16:10">10</a> They did not force the Canaanites who lived in Gezer to leave, but the Canaanites still live among the people of Ephraim today, and they have to pay taxes.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Joshua 16:1, Simplified Bible (simplified.bible)</em>. <a href="/text/joshua/16.txt">Plain text of Joshua 16</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Joshua/Chapter%2015.html" rel="prev">&larr; Joshua 15</a>

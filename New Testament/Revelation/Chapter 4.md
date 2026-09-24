@@ -51,8 +51,6 @@ description: "Revelation 4 in plain English: After this, I saw that a door in he
 
 # Revelation 4
 
-<p class="chapter-intro">Revelation chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Revelation 4 audio">
@@ -91,8 +89,6 @@ description: "Revelation 4 in plain English: After this, I saw that a door in he
 <p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Revelation 4:11">11</a> You are worthy, God, to get glory, honor, and power because you created everything, and they were made for your pleasure.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Revelation 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/revelation/4.txt">Plain text of Revelation 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Revelation/Chapter%203.html" rel="prev">&larr; Revelation 3</a>

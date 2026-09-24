@@ -51,8 +51,6 @@ description: "Zechariah 1 in plain English: In the eighth month, during Darius's
 
 # Zechariah 1
 
-<p class="chapter-intro">Zechariah chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Zechariah 1 audio">
@@ -111,8 +109,6 @@ description: "Zechariah 1 in plain English: In the eighth month, during Darius's
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Zechariah 1:21">21</a> I asked, &quot;What are these coming to do?&quot; He answered, &quot;These horns scattered Judah so no one could raise their head. But these have come to frighten them and to throw out the horns of the nations that raised their horn against the land of Judah to scatter it.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Zechariah 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/zechariah/1.txt">Plain text of Zechariah 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Haggai/Chapter%202.html" rel="prev">&larr; Haggai 2</a>

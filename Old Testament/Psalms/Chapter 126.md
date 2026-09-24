@@ -51,8 +51,6 @@ description: "Psalms 126 in plain English: When God freed the captives of Zion, 
 
 # Psalms 126
 
-<p class="chapter-intro">Psalms chapter 126 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 126 audio">
@@ -81,8 +79,6 @@ description: "Psalms 126 in plain English: When God freed the captives of Zion, 
 <p class="verse" id="v6"><a class="verse-num" href="#v6" aria-label="Psalms 126:6">6</a> The one who goes out and cries while carrying valuable seeds will surely come back with joy, bringing his harvest with him.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 126:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/126.txt">Plain text of Psalms 126</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%20125.html" rel="prev">&larr; Psalms 125</a>

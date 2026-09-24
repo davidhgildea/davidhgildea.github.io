@@ -51,8 +51,6 @@ description: "Proverbs 30 in plain English: Agur, Jakeh's son, said this prophec
 
 # Proverbs 30
 
-<p class="chapter-intro">Proverbs chapter 30 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Proverbs 30 audio">
@@ -135,8 +133,6 @@ description: "Proverbs 30 in plain English: Agur, Jakeh's son, said this prophec
 <p class="verse" id="v33"><a class="verse-num" href="#v33" aria-label="Proverbs 30:33">33</a> When you stir milk, you make butter, and when you squeeze a nose, you get blood; so when you force anger, you cause fighting.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Proverbs 30:1, Simplified Bible (simplified.bible)</em>. <a href="/text/proverbs/30.txt">Plain text of Proverbs 30</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Proverbs/Chapter%2029.html" rel="prev">&larr; Proverbs 29</a>

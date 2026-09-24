@@ -51,8 +51,6 @@ description: "Joshua 2 in plain English: Joshua, Nun's son, sent two spies from 
 
 # Joshua 2
 
-<p class="chapter-intro">Joshua chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Joshua 2 audio">
@@ -117,8 +115,6 @@ description: "Joshua 2 in plain English: Joshua, Nun's son, sent two spies from 
 <p class="verse" id="v24"><a class="verse-num" href="#v24" aria-label="Joshua 2:24">24</a> They told Joshua, &quot;God has really given us all the land; the people living there are scared of us.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Joshua 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/joshua/2.txt">Plain text of Joshua 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Joshua/Chapter%201.html" rel="prev">&larr; Joshua 1</a>

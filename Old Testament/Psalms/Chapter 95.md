@@ -51,8 +51,6 @@ description: "Psalms 95 in plain English: Come, let's sing to God: let's shout j
 
 # Psalms 95
 
-<p class="chapter-intro">Psalms chapter 95 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 95 audio">
@@ -91,8 +89,6 @@ description: "Psalms 95 in plain English: Come, let's sing to God: let's shout j
 <p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Psalms 95:11">11</a> I promised in my anger that they would not enter my place of rest.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 95:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/95.txt">Plain text of Psalms 95</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2094.html" rel="prev">&larr; Psalms 94</a>

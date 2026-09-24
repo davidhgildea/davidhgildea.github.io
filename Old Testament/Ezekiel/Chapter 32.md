@@ -51,8 +51,6 @@ description: "Ezekiel 32 in plain English: In the twelfth year, on the first day
 
 # Ezekiel 32
 
-<p class="chapter-intro">Ezekiel chapter 32 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 32 audio">
@@ -133,8 +131,6 @@ description: "Ezekiel 32 in plain English: In the twelfth year, on the first day
 <p class="verse" id="v32"><a class="verse-num" href="#v32" aria-label="Ezekiel 32:32">32</a> I have brought my fear to the living land: and he will be placed among the uncut with those killed by the sword, including Pharaoh and all his crowds, says God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 32:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/32.txt">Plain text of Ezekiel 32</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2031.html" rel="prev">&larr; Ezekiel 31</a>

@@ -51,8 +51,6 @@ description: "Genesis 34 in plain English: Dinah, Leah's daughter whom she had w
 
 # Genesis 34
 
-<p class="chapter-intro">Genesis chapter 34 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 34 audio">
@@ -131,8 +129,6 @@ description: "Genesis 34 in plain English: Dinah, Leah's daughter whom she had w
 <p class="verse" id="v31"><a class="verse-num" href="#v31" aria-label="Genesis 34:31">31</a> They asked, &quot;Should he treat our sister like a prostitute?&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 34:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/34.txt">Plain text of Genesis 34</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%2033.html" rel="prev">&larr; Genesis 33</a>

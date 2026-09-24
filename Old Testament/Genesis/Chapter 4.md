@@ -51,8 +51,6 @@ description: "Genesis 4 in plain English: Adam was intimate with his wife Eve; s
 
 # Genesis 4
 
-<p class="chapter-intro">Genesis chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 4 audio">
@@ -121,8 +119,6 @@ description: "Genesis 4 in plain English: Adam was intimate with his wife Eve; s
 <p class="verse" id="v26"><a class="verse-num" href="#v26" aria-label="Genesis 4:26">26</a> Seth also had a son, and he named him Enos. This is when people began to pray to God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/4.txt">Plain text of Genesis 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%203.html" rel="prev">&larr; Genesis 3</a>

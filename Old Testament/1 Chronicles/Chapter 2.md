@@ -51,8 +51,6 @@ description: "1 Chronicles 2 in plain English: These are Israel's sons: Reuben, 
 
 # 1 Chronicles 2
 
-<p class="chapter-intro">1 Chronicles chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Chronicles 2 audio">
@@ -179,8 +177,6 @@ description: "1 Chronicles 2 in plain English: These are Israel's sons: Reuben, 
 <p class="verse" id="v55"><a class="verse-num" href="#v55" aria-label="1 Chronicles 2:55">55</a> The families of writers who lived in Jabez were the Tirathites, the Shimeathites, and the Suchathites. They are the Kenites who come from Hemath, the ancestor of the Rechab family.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Chronicles 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-chronicles/2.txt">Plain text of 1 Chronicles 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Chronicles/Chapter%201.html" rel="prev">&larr; 1 Chronicles 1</a>

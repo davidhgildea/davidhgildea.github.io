@@ -51,8 +51,6 @@ description: "1 Corinthians 16 in plain English: About the money being gathered 
 
 # 1 Corinthians 16
 
-<p class="chapter-intro">1 Corinthians chapter 16 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Corinthians 16 audio">
@@ -117,8 +115,6 @@ description: "1 Corinthians 16 in plain English: About the money being gathered 
 <p class="verse" id="v24"><a class="verse-num" href="#v24" aria-label="1 Corinthians 16:24">24</a> My love is with all of you in Christ Jesus. Amen.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Corinthians 16:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-corinthians/16.txt">Plain text of 1 Corinthians 16</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/1%20Corinthians/Chapter%2015.html" rel="prev">&larr; 1 Corinthians 15</a>

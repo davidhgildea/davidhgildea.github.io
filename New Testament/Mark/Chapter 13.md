@@ -51,8 +51,6 @@ description: "Mark 13 in plain English: As he left the temple, one of his discip
 
 # Mark 13
 
-<p class="chapter-intro">Mark chapter 13 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Mark 13 audio">
@@ -143,8 +141,6 @@ description: "Mark 13 in plain English: As he left the temple, one of his discip
 <p class="verse" id="v37"><a class="verse-num" href="#v37" aria-label="Mark 13:37">37</a> I tell you and everyone: Stay alert.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Mark 13:1, Simplified Bible (simplified.bible)</em>. <a href="/text/mark/13.txt">Plain text of Mark 13</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Mark/Chapter%2012.html" rel="prev">&larr; Mark 12</a>

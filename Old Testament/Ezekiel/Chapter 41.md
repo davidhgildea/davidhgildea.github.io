@@ -51,8 +51,6 @@ description: "Ezekiel 41 in plain English: Later, he took me to the temple and m
 
 # Ezekiel 41
 
-<p class="chapter-intro">Ezekiel chapter 41 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 41 audio">
@@ -121,8 +119,6 @@ description: "Ezekiel 41 in plain English: Later, he took me to the temple and m
 <p class="verse" id="v26"><a class="verse-num" href="#v26" aria-label="Ezekiel 41:26">26</a> There were small windows and palm trees on both sides, along the porch, on the side rooms of the house, and heavy beams.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 41:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/41.txt">Plain text of Ezekiel 41</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2040.html" rel="prev">&larr; Ezekiel 40</a>

@@ -51,8 +51,6 @@ description: "Judges 5 in plain English: Deborah and Barak, Abinoam's son, sang 
 
 # Judges 5
 
-<p class="chapter-intro">Judges chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Judges 5 audio">
@@ -131,8 +129,6 @@ description: "Judges 5 in plain English: Deborah and Barak, Abinoam's son, sang 
 <p class="verse" id="v31"><a class="verse-num" href="#v31" aria-label="Judges 5:31">31</a> May all your enemies die, God, but may those who love him shine like the sun at its strongest. And the land was at peace for forty years.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Judges 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/judges/5.txt">Plain text of Judges 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Judges/Chapter%204.html" rel="prev">&larr; Judges 4</a>

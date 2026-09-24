@@ -51,8 +51,6 @@ description: "Exodus 28 in plain English: Choose your brother Aaron and his sons
 
 # Exodus 28
 
-<p class="chapter-intro">Exodus chapter 28 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Exodus 28 audio">
@@ -155,8 +153,6 @@ description: "Exodus 28 in plain English: Choose your brother Aaron and his sons
 <p class="verse" id="v43"><a class="verse-num" href="#v43" aria-label="Exodus 28:43">43</a> Aaron and his sons will wear these when they enter the meeting tent or approach the altar to serve in the holy area, so they will not be guilty and die. This is a permanent law for him and his descendants.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Exodus 28:1, Simplified Bible (simplified.bible)</em>. <a href="/text/exodus/28.txt">Plain text of Exodus 28</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Exodus/Chapter%2027.html" rel="prev">&larr; Exodus 27</a>

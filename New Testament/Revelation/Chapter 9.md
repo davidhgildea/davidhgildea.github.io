@@ -51,8 +51,6 @@ description: "Revelation 9 in plain English: The fifth angel blew his trumpet, a
 
 # Revelation 9
 
-<p class="chapter-intro">Revelation chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Revelation 9 audio">
@@ -111,8 +109,6 @@ description: "Revelation 9 in plain English: The fifth angel blew his trumpet, a
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Revelation 9:21">21</a> They did not turn away from their murders, magic, sexual sins, or thefts.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Revelation 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/revelation/9.txt">Plain text of Revelation 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Revelation/Chapter%208.html" rel="prev">&larr; Revelation 8</a>

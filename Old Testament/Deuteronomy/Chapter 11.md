@@ -51,8 +51,6 @@ description: "Deuteronomy 11 in plain English: So you must love God, follow his 
 
 # Deuteronomy 11
 
-<p class="chapter-intro">Deuteronomy chapter 11 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Deuteronomy 11 audio">
@@ -133,8 +131,6 @@ description: "Deuteronomy 11 in plain English: So you must love God, follow his 
 <p class="verse" id="v32"><a class="verse-num" href="#v32" aria-label="Deuteronomy 11:32">32</a> Obey all the rules and decisions I am giving you today.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Deuteronomy 11:1, Simplified Bible (simplified.bible)</em>. <a href="/text/deuteronomy/11.txt">Plain text of Deuteronomy 11</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Deuteronomy/Chapter%2010.html" rel="prev">&larr; Deuteronomy 10</a>

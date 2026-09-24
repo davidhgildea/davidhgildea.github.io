@@ -51,8 +51,6 @@ description: "Ezekiel 34 in plain English: God's message came to me, saying, Hum
 
 # Ezekiel 34
 
-<p class="chapter-intro">Ezekiel chapter 34 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 34 audio">
@@ -131,8 +129,6 @@ description: "Ezekiel 34 in plain English: God's message came to me, saying, Hum
 <p class="verse" id="v31"><a class="verse-num" href="#v31" aria-label="Ezekiel 34:31">31</a> You, my sheep, the sheep I care for, are people, and I am your God, says God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 34:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/34.txt">Plain text of Ezekiel 34</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2033.html" rel="prev">&larr; Ezekiel 33</a>

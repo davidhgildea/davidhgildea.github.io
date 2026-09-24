@@ -51,8 +51,6 @@ description: "Genesis 24 in plain English: Abraham was old and advanced in years
 
 # Genesis 24
 
-<p class="chapter-intro">Genesis chapter 24 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 24 audio">
@@ -203,8 +201,6 @@ description: "Genesis 24 in plain English: Abraham was old and advanced in years
 <p class="verse" id="v67"><a class="verse-num" href="#v67" aria-label="Genesis 24:67">67</a> Isaac took Rebekah into his mother Sarah&#39;s tent, married her, and loved her. Isaac felt better after his mother died.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 24:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/24.txt">Plain text of Genesis 24</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%2023.html" rel="prev">&larr; Genesis 23</a>

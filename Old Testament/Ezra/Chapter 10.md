@@ -51,8 +51,6 @@ description: "Ezra 10 in plain English: After Ezra prayed and confessed, crying 
 
 # Ezra 10
 
-<p class="chapter-intro">Ezra chapter 10 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezra 10 audio">
@@ -157,8 +155,6 @@ description: "Ezra 10 in plain English: After Ezra prayed and confessed, crying 
 <p class="verse" id="v44"><a class="verse-num" href="#v44" aria-label="Ezra 10:44">44</a> All these men married foreign women, and some of them had children with these wives.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezra 10:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezra/10.txt">Plain text of Ezra 10</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezra/Chapter%209.html" rel="prev">&larr; Ezra 9</a>

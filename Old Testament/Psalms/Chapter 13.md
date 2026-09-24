@@ -51,8 +51,6 @@ description: "Psalms 13 in plain English: How long will you forget me, God? Fore
 
 # Psalms 13
 
-<p class="chapter-intro">Psalms chapter 13 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 13 audio">
@@ -81,8 +79,6 @@ description: "Psalms 13 in plain English: How long will you forget me, God? Fore
 <p class="verse" id="v6"><a class="verse-num" href="#v6" aria-label="Psalms 13:6">6</a> I will sing to God, because he has been very good to me.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 13:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/13.txt">Plain text of Psalms 13</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2012.html" rel="prev">&larr; Psalms 12</a>

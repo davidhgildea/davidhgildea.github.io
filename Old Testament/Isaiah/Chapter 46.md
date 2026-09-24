@@ -51,8 +51,6 @@ description: "Isaiah 46 in plain English: Bel bends down, Nebo bows, their idols
 
 # Isaiah 46
 
-<p class="chapter-intro">Isaiah chapter 46 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 46 audio">
@@ -95,8 +93,6 @@ description: "Isaiah 46 in plain English: Bel bends down, Nebo bows, their idols
 <p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Isaiah 46:13">13</a> I am making my righteousness come soon; it won&#39;t be far away, and my help won&#39;t be delayed: I will set rescue in Zion, for Israel who I honor.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 46:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/46.txt">Plain text of Isaiah 46</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2045.html" rel="prev">&larr; Isaiah 45</a>

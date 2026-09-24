@@ -51,8 +51,6 @@ description: "Isaiah 42 in plain English: Look at my servant, who I support; my 
 
 # Isaiah 42
 
-<p class="chapter-intro">Isaiah chapter 42 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 42 audio">
@@ -119,8 +117,6 @@ description: "Isaiah 42 in plain English: Look at my servant, who I support; my 
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Isaiah 42:25">25</a> So God has poured out his anger on him and sent the power of war. It has set him on fire all around, but he did not understand. It burned him, but he did not take it seriously.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 42:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/42.txt">Plain text of Isaiah 42</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2041.html" rel="prev">&larr; Isaiah 41</a>

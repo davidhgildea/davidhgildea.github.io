@@ -51,8 +51,6 @@ description: "Luke 9 in plain English: He gathered his twelve followers and gave
 
 # Luke 9
 
-<p class="chapter-intro">Luke chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Luke 9 audio">
@@ -193,8 +191,6 @@ description: "Luke 9 in plain English: He gathered his twelve followers and gave
 <p class="verse" id="v62"><a class="verse-num" href="#v62" aria-label="Luke 9:62">62</a> Jesus said to him, &quot;Anyone who starts to plow but keeps looking back isn&#39;t ready for God&#39;s kingdom.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Luke 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/luke/9.txt">Plain text of Luke 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Luke/Chapter%208.html" rel="prev">&larr; Luke 8</a>

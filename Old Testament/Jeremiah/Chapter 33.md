@@ -51,8 +51,6 @@ description: "Jeremiah 33 in plain English: Again, God spoke to Jeremiah while h
 
 # Jeremiah 33
 
-<p class="chapter-intro">Jeremiah chapter 33 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 33 audio">
@@ -121,8 +119,6 @@ description: "Jeremiah 33 in plain English: Again, God spoke to Jeremiah while h
 <p class="verse" id="v26"><a class="verse-num" href="#v26" aria-label="Jeremiah 33:26">26</a> Then I will reject the descendants of Jacob and David my servant, so I won&#39;t choose any of his descendants to rule over the descendants of Abraham, Isaac, and Jacob. But I will bring back their captives and show them mercy.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 33:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/33.txt">Plain text of Jeremiah 33</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2032.html" rel="prev">&larr; Jeremiah 32</a>

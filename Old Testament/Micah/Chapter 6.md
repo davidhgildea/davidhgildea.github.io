@@ -51,8 +51,6 @@ description: "Micah 6 in plain English: Listen to what God says; stand up, argue
 
 # Micah 6
 
-<p class="chapter-intro">Micah chapter 6 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Micah 6 audio">
@@ -101,8 +99,6 @@ description: "Micah 6 in plain English: Listen to what God says; stand up, argue
 <p class="verse" id="v16"><a class="verse-num" href="#v16" aria-label="Micah 6:16">16</a> You follow Omri&#39;s laws and Ahab&#39;s family&#39;s deeds, and take their advice; so I will make you a wasteland, and your people will be mocked; therefore, you will suffer the shame of my people.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Micah 6:1, Simplified Bible (simplified.bible)</em>. <a href="/text/micah/6.txt">Plain text of Micah 6</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Micah/Chapter%205.html" rel="prev">&larr; Micah 5</a>

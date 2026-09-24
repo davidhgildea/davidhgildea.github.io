@@ -51,8 +51,6 @@ description: "Song of Solomon 6 in plain English: Where has your loved one gone,
 
 # Song of Solomon 6
 
-<p class="chapter-intro">Song of Solomon chapter 6 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Song of Solomon 6 audio">
@@ -95,8 +93,6 @@ description: "Song of Solomon 6 in plain English: Where has your loved one gone,
 <p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Song of Solomon 6:13">13</a> Come back, come back, O Shulamite; come back, come back, so we can see you. What will you see in the Shulamite? She is like two armies facing each other.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Song of Solomon 6:1, Simplified Bible (simplified.bible)</em>. <a href="/text/song-of-solomon/6.txt">Plain text of Song of Solomon 6</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Song%20of%20Solomon/Chapter%205.html" rel="prev">&larr; Song of Solomon 5</a>

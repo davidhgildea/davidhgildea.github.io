@@ -51,8 +51,6 @@ description: "John 12 in plain English: Six days before Passover, Jesus went to 
 
 # John 12
 
-<p class="chapter-intro">John chapter 12 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="John 12 audio">
@@ -169,8 +167,6 @@ description: "John 12 in plain English: Six days before Passover, Jesus went to 
 <p class="verse" id="v50"><a class="verse-num" href="#v50" aria-label="John 12:50">50</a> I know that God&#39;s command leads to eternal life. So, whatever I say is just as the Father told me to say.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>John 12:1, Simplified Bible (simplified.bible)</em>. <a href="/text/john/12.txt">Plain text of John 12</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/John/Chapter%2011.html" rel="prev">&larr; John 11</a>

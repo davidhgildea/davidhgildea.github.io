@@ -51,8 +51,6 @@ description: "Psalms 70 in plain English: Hurry, God, to save me; hurry to help 
 
 # Psalms 70
 
-<p class="chapter-intro">Psalms chapter 70 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 70 audio">
@@ -79,8 +77,6 @@ description: "Psalms 70 in plain English: Hurry, God, to save me; hurry to help 
 <p class="verse" id="v5"><a class="verse-num" href="#v5" aria-label="Psalms 70:5">5</a> I am poor and need help; hurry to me, God. You are my support and rescuer; God, do not delay.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 70:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/70.txt">Plain text of Psalms 70</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2069.html" rel="prev">&larr; Psalms 69</a>

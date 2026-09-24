@@ -51,8 +51,6 @@ description: "Hosea 5 in plain English: Listen, priests, pay attention, people o
 
 # Hosea 5
 
-<p class="chapter-intro">Hosea chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Hosea 5 audio">
@@ -99,8 +97,6 @@ description: "Hosea 5 in plain English: Listen, priests, pay attention, people o
 <p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="Hosea 5:15">15</a> I will go back to my place until they admit their wrong and look for me. When they are in trouble, they will search for me earnestly.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Hosea 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/hosea/5.txt">Plain text of Hosea 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Hosea/Chapter%204.html" rel="prev">&larr; Hosea 4</a>

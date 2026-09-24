@@ -51,8 +51,6 @@ description: "1 Chronicles 14 in plain English: Hiram, the king of Tyre, sent me
 
 # 1 Chronicles 14
 
-<p class="chapter-intro">1 Chronicles chapter 14 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Chronicles 14 audio">
@@ -103,8 +101,6 @@ description: "1 Chronicles 14 in plain English: Hiram, the king of Tyre, sent me
 <p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="1 Chronicles 14:17">17</a> David became famous in all the lands and God made all nations fear him.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Chronicles 14:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-chronicles/14.txt">Plain text of 1 Chronicles 14</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Chronicles/Chapter%2013.html" rel="prev">&larr; 1 Chronicles 13</a>

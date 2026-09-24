@@ -51,8 +51,6 @@ description: "Matthew 23 in plain English: Jesus spoke to the crowd and to his f
 
 # Matthew 23
 
-<p class="chapter-intro">Matthew chapter 23 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Matthew 23 audio">
@@ -147,8 +145,6 @@ description: "Matthew 23 in plain English: Jesus spoke to the crowd and to his f
 <p class="verse" id="v39"><a class="verse-num" href="#v39" aria-label="Matthew 23:39">39</a> I tell you, you will not see me again until you say, &quot;Blessed is he who comes in God&#39;s name.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Matthew 23:1, Simplified Bible (simplified.bible)</em>. <a href="/text/matthew/23.txt">Plain text of Matthew 23</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Matthew/Chapter%2022.html" rel="prev">&larr; Matthew 22</a>

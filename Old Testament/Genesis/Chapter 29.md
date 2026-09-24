@@ -51,8 +51,6 @@ description: "Genesis 29 in plain English: Jacob continued his travel and reache
 
 # Genesis 29
 
-<p class="chapter-intro">Genesis chapter 29 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 29 audio">
@@ -139,8 +137,6 @@ description: "Genesis 29 in plain English: Jacob continued his travel and reache
 <p class="verse" id="v35"><a class="verse-num" href="#v35" aria-label="Genesis 29:35">35</a> She became pregnant again and had a son. She said, &quot;Now I will praise God.&quot; So she named him Judah and stopped having children.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 29:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/29.txt">Plain text of Genesis 29</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%2028.html" rel="prev">&larr; Genesis 28</a>

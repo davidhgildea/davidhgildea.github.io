@@ -51,8 +51,6 @@ description: "1 Kings 20 in plain English: Benhadad, the king of Syria, brought 
 
 # 1 Kings 20
 
-<p class="chapter-intro">1 Kings chapter 20 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Kings 20 audio">
@@ -155,8 +153,6 @@ description: "1 Kings 20 in plain English: Benhadad, the king of Syria, brought 
 <p class="verse" id="v43"><a class="verse-num" href="#v43" aria-label="1 Kings 20:43">43</a> The king of Israel went home sad and upset, and arrived in Samaria.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Kings 20:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-kings/20.txt">Plain text of 1 Kings 20</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Kings/Chapter%2019.html" rel="prev">&larr; 1 Kings 19</a>

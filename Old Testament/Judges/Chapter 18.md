@@ -51,8 +51,6 @@ description: "Judges 18 in plain English: During that time, Israel had no king. 
 
 # Judges 18
 
-<p class="chapter-intro">Judges chapter 18 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Judges 18 audio">
@@ -131,8 +129,6 @@ description: "Judges 18 in plain English: During that time, Israel had no king. 
 <p class="verse" id="v31"><a class="verse-num" href="#v31" aria-label="Judges 18:31">31</a> They put up Micah&#39;s carved idol, which he had made, for as long as God&#39;s house was in Shiloh.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Judges 18:1, Simplified Bible (simplified.bible)</em>. <a href="/text/judges/18.txt">Plain text of Judges 18</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Judges/Chapter%2017.html" rel="prev">&larr; Judges 17</a>

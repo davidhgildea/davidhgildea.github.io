@@ -51,8 +51,6 @@ description: "Titus 3 in plain English: Remind them to follow rulers and authori
 
 # Titus 3
 
-<p class="chapter-intro">Titus chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Titus 3 audio">
@@ -99,8 +97,6 @@ description: "Titus 3 in plain English: Remind them to follow rulers and authori
 <p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="Titus 3:15">15</a> Everyone with me says hello to you. Say hi to those who love us because of our shared faith. May kindness be with all of you. Goodbye.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Titus 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/titus/3.txt">Plain text of Titus 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Titus/Chapter%202.html" rel="prev">&larr; Titus 2</a>

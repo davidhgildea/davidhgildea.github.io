@@ -51,8 +51,6 @@ description: "John 16 in plain English: I have told you these things so you won'
 
 # John 16
 
-<p class="chapter-intro">John chapter 16 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="John 16 audio">
@@ -135,8 +133,6 @@ description: "John 16 in plain English: I have told you these things so you won'
 <p class="verse" id="v33"><a class="verse-num" href="#v33" aria-label="John 16:33">33</a> I told you these things so you can have peace in me. You will face trouble in the world, but stay positive; I have beaten the world.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>John 16:1, Simplified Bible (simplified.bible)</em>. <a href="/text/john/16.txt">Plain text of John 16</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/John/Chapter%2015.html" rel="prev">&larr; John 15</a>

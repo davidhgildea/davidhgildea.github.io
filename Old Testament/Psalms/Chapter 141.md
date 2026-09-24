@@ -51,8 +51,6 @@ description: "Psalms 141 in plain English: God, I call to you: hurry to me; list
 
 # Psalms 141
 
-<p class="chapter-intro">Psalms chapter 141 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 141 audio">
@@ -89,8 +87,6 @@ description: "Psalms 141 in plain English: God, I call to you: hurry to me; list
 <p class="verse" id="v10"><a class="verse-num" href="#v10" aria-label="Psalms 141:10">10</a> Let the wicked get caught in their own traps, while I get away safely.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 141:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/141.txt">Plain text of Psalms 141</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%20140.html" rel="prev">&larr; Psalms 140</a>

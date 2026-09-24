@@ -51,8 +51,6 @@ description: "Ruth 4 in plain English: Boaz went to the town gate and sat down. 
 
 # Ruth 4
 
-<p class="chapter-intro">Ruth chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ruth 4 audio">
@@ -113,8 +111,6 @@ description: "Ruth 4 in plain English: Boaz went to the town gate and sat down. 
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Ruth 4:22">22</a> Obed had Jesse, and Jesse had David.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ruth 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ruth/4.txt">Plain text of Ruth 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ruth/Chapter%203.html" rel="prev">&larr; Ruth 3</a>

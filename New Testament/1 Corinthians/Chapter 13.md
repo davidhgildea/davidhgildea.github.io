@@ -51,8 +51,6 @@ description: "1 Corinthians 13 in plain English: If I speak in human and angel l
 
 # 1 Corinthians 13
 
-<p class="chapter-intro">1 Corinthians chapter 13 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Corinthians 13 audio">
@@ -95,8 +93,6 @@ description: "1 Corinthians 13 in plain English: If I speak in human and angel l
 <p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="1 Corinthians 13:13">13</a> Now faith, hope, and love remain, these three; but the most important of these is love.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Corinthians 13:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-corinthians/13.txt">Plain text of 1 Corinthians 13</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/1%20Corinthians/Chapter%2012.html" rel="prev">&larr; 1 Corinthians 12</a>

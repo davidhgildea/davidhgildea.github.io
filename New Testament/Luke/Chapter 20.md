@@ -51,8 +51,6 @@ description: "Luke 20 in plain English: One day, while he was teaching the peopl
 
 # Luke 20
 
-<p class="chapter-intro">Luke chapter 20 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Luke 20 audio">
@@ -163,8 +161,6 @@ description: "Luke 20 in plain English: One day, while he was teaching the peopl
 <p class="verse" id="v47"><a class="verse-num" href="#v47" aria-label="Luke 20:47">47</a> They cheat widows out of their homes and pretend to be pious by making long prayers. These people will be punished more severely.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Luke 20:1, Simplified Bible (simplified.bible)</em>. <a href="/text/luke/20.txt">Plain text of Luke 20</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Luke/Chapter%2019.html" rel="prev">&larr; Luke 19</a>

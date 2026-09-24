@@ -51,8 +51,6 @@ description: "1 Peter 2 in plain English: So put away all meanness, trickery, pr
 
 # 1 Peter 2
 
-<p class="chapter-intro">1 Peter chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Peter 2 audio">
@@ -119,8 +117,6 @@ description: "1 Peter 2 in plain English: So put away all meanness, trickery, pr
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="1 Peter 2:25">25</a> You were like lost sheep; but now you have come back to the Shepherd and Guardian of your souls.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Peter 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-peter/2.txt">Plain text of 1 Peter 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/1%20Peter/Chapter%201.html" rel="prev">&larr; 1 Peter 1</a>

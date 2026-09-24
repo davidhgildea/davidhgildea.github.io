@@ -51,8 +51,6 @@ description: "Nehemiah 2 in plain English: In the month of Nisan, during King Ar
 
 # Nehemiah 2
 
-<p class="chapter-intro">Nehemiah chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Nehemiah 2 audio">
@@ -109,8 +107,6 @@ description: "Nehemiah 2 in plain English: In the month of Nisan, during King Ar
 <p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="Nehemiah 2:20">20</a> I replied to them, &quot;The God of heaven will help us succeed; so we, His servants, will start building. But you have no share, no claim, or any history in Jerusalem.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Nehemiah 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/nehemiah/2.txt">Plain text of Nehemiah 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Nehemiah/Chapter%201.html" rel="prev">&larr; Nehemiah 1</a>

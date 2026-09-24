@@ -51,8 +51,6 @@ description: "Ezra 9 in plain English: After these events, the leaders approache
 
 # Ezra 9
 
-<p class="chapter-intro">Ezra chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezra 9 audio">
@@ -99,8 +97,6 @@ description: "Ezra 9 in plain English: After these events, the leaders approache
 <p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="Ezra 9:15">15</a> God of Israel, you are good: we are still here, safe today; we stand before you with our wrongs: we cannot face you because of them.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezra 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezra/9.txt">Plain text of Ezra 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezra/Chapter%208.html" rel="prev">&larr; Ezra 8</a>

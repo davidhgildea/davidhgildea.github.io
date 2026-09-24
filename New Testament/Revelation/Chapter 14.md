@@ -51,8 +51,6 @@ description: "Revelation 14 in plain English: I looked and saw a Lamb standing o
 
 # Revelation 14
 
-<p class="chapter-intro">Revelation chapter 14 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Revelation 14 audio">
@@ -109,8 +107,6 @@ description: "Revelation 14 in plain English: I looked and saw a Lamb standing o
 <p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="Revelation 14:20">20</a> People crushed the grapes outside the city, and blood flowed from it as high as horse&#39;s bridles, stretching for 200 miles.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Revelation 14:1, Simplified Bible (simplified.bible)</em>. <a href="/text/revelation/14.txt">Plain text of Revelation 14</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Revelation/Chapter%2013.html" rel="prev">&larr; Revelation 13</a>

@@ -51,8 +51,6 @@ description: "Haggai 2 in plain English: In the seventh month, on the twenty-fir
 
 # Haggai 2
 
-<p class="chapter-intro">Haggai chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Haggai 2 audio">
@@ -115,8 +113,6 @@ description: "Haggai 2 in plain English: In the seventh month, on the twenty-fir
 <p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Haggai 2:23">23</a> On that day, says God, I will choose you, Zerubbabel, my servant, the son of Shealtiel, says God, and I will make you like a seal ring, because I have chosen you, says God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Haggai 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/haggai/2.txt">Plain text of Haggai 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Haggai/Chapter%201.html" rel="prev">&larr; Haggai 1</a>

@@ -51,8 +51,6 @@ description: "Isaiah 47 in plain English: Come down and sit in the dirt, you pur
 
 # Isaiah 47
 
-<p class="chapter-intro">Isaiah chapter 47 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 47 audio">
@@ -99,8 +97,6 @@ description: "Isaiah 47 in plain English: Come down and sit in the dirt, you pur
 <p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="Isaiah 47:15">15</a> They that worked with you and traded with you since your youth will all go their own ways; no one will help you.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 47:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/47.txt">Plain text of Isaiah 47</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2046.html" rel="prev">&larr; Isaiah 46</a>

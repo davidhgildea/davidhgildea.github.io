@@ -51,8 +51,6 @@ description: "Judges 14 in plain English: Samson went to Timnath and saw a Phili
 
 # Judges 14
 
-<p class="chapter-intro">Judges chapter 14 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Judges 14 audio">
@@ -109,8 +107,6 @@ description: "Judges 14 in plain English: Samson went to Timnath and saw a Phili
 <p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="Judges 14:20">20</a> Samson&#39;s wife was given to the friend he had trusted.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Judges 14:1, Simplified Bible (simplified.bible)</em>. <a href="/text/judges/14.txt">Plain text of Judges 14</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Judges/Chapter%2013.html" rel="prev">&larr; Judges 13</a>

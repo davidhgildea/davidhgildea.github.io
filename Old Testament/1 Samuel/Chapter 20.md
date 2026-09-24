@@ -51,8 +51,6 @@ description: "1 Samuel 20 in plain English: David ran away from Naioth in Ramah,
 
 # 1 Samuel 20
 
-<p class="chapter-intro">1 Samuel chapter 20 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Samuel 20 audio">
@@ -153,8 +151,6 @@ description: "1 Samuel 20 in plain English: David ran away from Naioth in Ramah,
 <p class="verse" id="v42"><a class="verse-num" href="#v42" aria-label="1 Samuel 20:42">42</a> Jonathan told David, &quot;Go in peace, because we both promised in God&#39;s name, saying, &#39;God be between you and me, and between your descendants and my descendants forever.&#39;&quot; Then David left, and Jonathan went back to the city.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Samuel 20:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-samuel/20.txt">Plain text of 1 Samuel 20</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Samuel/Chapter%2019.html" rel="prev">&larr; 1 Samuel 19</a>

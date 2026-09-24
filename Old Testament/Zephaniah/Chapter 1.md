@@ -51,8 +51,6 @@ description: "Zephaniah 1 in plain English: God's message came to Zephaniah, Cus
 
 # Zephaniah 1
 
-<p class="chapter-intro">Zephaniah chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Zephaniah 1 audio">
@@ -105,8 +103,6 @@ description: "Zephaniah 1 in plain English: God's message came to Zephaniah, Cus
 <p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="Zephaniah 1:18">18</a> Their silver and gold won&#39;t save them when God is angry. The whole land will be consumed by the fire of his jealousy. He will quickly remove everyone living in the land.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Zephaniah 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/zephaniah/1.txt">Plain text of Zephaniah 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Habakkuk/Chapter%203.html" rel="prev">&larr; Habakkuk 3</a>

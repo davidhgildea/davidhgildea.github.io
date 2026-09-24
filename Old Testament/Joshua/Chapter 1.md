@@ -51,8 +51,6 @@ description: "Joshua 1 in plain English: After Moses, God's servant, died, God s
 
 # Joshua 1
 
-<p class="chapter-intro">Joshua chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Joshua 1 audio">
@@ -105,8 +103,6 @@ description: "Joshua 1 in plain English: After Moses, God's servant, died, God s
 <p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="Joshua 1:18">18</a> Anyone who disobeys your orders and doesn&#39;t listen to your words in everything you tell him must be put to death. Just be strong and brave.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Joshua 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/joshua/1.txt">Plain text of Joshua 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Deuteronomy/Chapter%2034.html" rel="prev">&larr; Deuteronomy 34</a>

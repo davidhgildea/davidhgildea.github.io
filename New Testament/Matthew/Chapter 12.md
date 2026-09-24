@@ -51,8 +51,6 @@ description: "Matthew 12 in plain English: One Sabbath, Jesus walked through the
 
 # Matthew 12
 
-<p class="chapter-intro">Matthew chapter 12 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Matthew 12 audio">
@@ -169,8 +167,6 @@ description: "Matthew 12 in plain English: One Sabbath, Jesus walked through the
 <p class="verse" id="v50"><a class="verse-num" href="#v50" aria-label="Matthew 12:50">50</a> Anyone who does what my Father in heaven wants is my brother, sister, and mother.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Matthew 12:1, Simplified Bible (simplified.bible)</em>. <a href="/text/matthew/12.txt">Plain text of Matthew 12</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Matthew/Chapter%2011.html" rel="prev">&larr; Matthew 11</a>

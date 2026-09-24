@@ -51,8 +51,6 @@ description: "Psalms 71 in plain English: In you, God, I place my trust: may I n
 
 # Psalms 71
 
-<p class="chapter-intro">Psalms chapter 71 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 71 audio">
@@ -117,8 +115,6 @@ description: "Psalms 71 in plain English: In you, God, I place my trust: may I n
 <p class="verse" id="v24"><a class="verse-num" href="#v24" aria-label="Psalms 71:24">24</a> My tongue will speak of your goodness all day long because those who want to harm me are confused and ashamed.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 71:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/71.txt">Plain text of Psalms 71</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2070.html" rel="prev">&larr; Psalms 70</a>

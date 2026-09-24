@@ -51,8 +51,6 @@ description: "Revelation 19 in plain English: After this, I heard many people in
 
 # Revelation 19
 
-<p class="chapter-intro">Revelation chapter 19 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Revelation 19 audio">
@@ -111,8 +109,6 @@ description: "Revelation 19 in plain English: After this, I heard many people in
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Revelation 19:21">21</a> The rest were killed by the sword of the rider on the horse, the sword that came from his mouth, and all the birds ate their fill of their bodies.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Revelation 19:1, Simplified Bible (simplified.bible)</em>. <a href="/text/revelation/19.txt">Plain text of Revelation 19</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Revelation/Chapter%2018.html" rel="prev">&larr; Revelation 18</a>

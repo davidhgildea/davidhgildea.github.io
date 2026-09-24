@@ -51,8 +51,6 @@ description: "1 Chronicles 28 in plain English: David gathered all the leaders o
 
 # 1 Chronicles 28
 
-<p class="chapter-intro">1 Chronicles chapter 28 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Chronicles 28 audio">
@@ -111,8 +109,6 @@ description: "1 Chronicles 28 in plain English: David gathered all the leaders o
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="1 Chronicles 28:21">21</a> Look, the groups of priests and Levites will be with you for all of God&#39;s house service. Every skilled man who is willing will be with you for any kind of work. The leaders and everyone else will fully follow your orders.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Chronicles 28:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-chronicles/28.txt">Plain text of 1 Chronicles 28</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Chronicles/Chapter%2027.html" rel="prev">&larr; 1 Chronicles 27</a>

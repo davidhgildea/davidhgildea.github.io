@@ -51,8 +51,6 @@ description: "Genesis 44 in plain English: He told his house manager, \"Put as m
 
 # Genesis 44
 
-<p class="chapter-intro">Genesis chapter 44 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 44 audio">
@@ -137,8 +135,6 @@ description: "Genesis 44 in plain English: He told his house manager, \"Put as m
 <p class="verse" id="v34"><a class="verse-num" href="#v34" aria-label="Genesis 44:34">34</a> How can I go back to my father if the boy is not with me? I couldn&#39;t bear to see the pain this would cause my father.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 44:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/44.txt">Plain text of Genesis 44</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%2043.html" rel="prev">&larr; Genesis 43</a>

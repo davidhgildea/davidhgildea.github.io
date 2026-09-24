@@ -51,8 +51,6 @@ description: "Daniel 8 in plain English: In the third year of King Belshazzar's 
 
 # Daniel 8
 
-<p class="chapter-intro">Daniel chapter 8 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Daniel 8 audio">
@@ -123,8 +121,6 @@ description: "Daniel 8 in plain English: In the third year of King Belshazzar's 
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="Daniel 8:27">27</a> I, Daniel, passed out and was sick for some days. Then I got up and went about the king&#39;s work. I was amazed by the vision, but nobody understood it.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Daniel 8:1, Simplified Bible (simplified.bible)</em>. <a href="/text/daniel/8.txt">Plain text of Daniel 8</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Daniel/Chapter%207.html" rel="prev">&larr; Daniel 7</a>

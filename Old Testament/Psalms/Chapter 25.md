@@ -51,8 +51,6 @@ description: "Psalms 25 in plain English: To you, God, I lift up my soul. My God
 
 # Psalms 25
 
-<p class="chapter-intro">Psalms chapter 25 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 25 audio">
@@ -113,8 +111,6 @@ description: "Psalms 25 in plain English: To you, God, I lift up my soul. My God
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Psalms 25:22">22</a> Save Israel, God, from all his problems.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 25:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/25.txt">Plain text of Psalms 25</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2024.html" rel="prev">&larr; Psalms 24</a>

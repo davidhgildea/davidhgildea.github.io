@@ -51,8 +51,6 @@ description: "Proverbs 8 in plain English: Doesn't wisdom call out? And understa
 
 # Proverbs 8
 
-<p class="chapter-intro">Proverbs chapter 8 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Proverbs 8 audio">
@@ -141,8 +139,6 @@ description: "Proverbs 8 in plain English: Doesn't wisdom call out? And understa
 <p class="verse" id="v36"><a class="verse-num" href="#v36" aria-label="Proverbs 8:36">36</a> Whoever sins against me hurts their own soul; all who hate me love death.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Proverbs 8:1, Simplified Bible (simplified.bible)</em>. <a href="/text/proverbs/8.txt">Plain text of Proverbs 8</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Proverbs/Chapter%207.html" rel="prev">&larr; Proverbs 7</a>

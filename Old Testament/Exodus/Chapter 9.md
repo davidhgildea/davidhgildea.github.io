@@ -51,8 +51,6 @@ description: "Exodus 9 in plain English: Then God told Moses, \"Go to Pharaoh an
 
 # Exodus 9
 
-<p class="chapter-intro">Exodus chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Exodus 9 audio">
@@ -139,8 +137,6 @@ description: "Exodus 9 in plain English: Then God told Moses, \"Go to Pharaoh an
 <p class="verse" id="v35"><a class="verse-num" href="#v35" aria-label="Exodus 9:35">35</a> Pharaoh&#39;s heart was stubborn, and he wouldn&#39;t let the Israelites go, just as God had said through Moses.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Exodus 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/exodus/9.txt">Plain text of Exodus 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Exodus/Chapter%208.html" rel="prev">&larr; Exodus 8</a>

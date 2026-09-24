@@ -51,8 +51,6 @@ description: "Job 32 in plain English: These three men stopped answering Job bec
 
 # Job 32
 
-<p class="chapter-intro">Job chapter 32 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Job 32 audio">
@@ -113,8 +111,6 @@ description: "Job 32 in plain English: These three men stopped answering Job bec
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Job 32:22">22</a> I don&#39;t use flattering titles; if I did, my Creator would quickly end my life.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Job 32:1, Simplified Bible (simplified.bible)</em>. <a href="/text/job/32.txt">Plain text of Job 32</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Job/Chapter%2031.html" rel="prev">&larr; Job 31</a>

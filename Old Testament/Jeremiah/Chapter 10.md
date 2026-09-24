@@ -51,8 +51,6 @@ description: "Jeremiah 10 in plain English: Listen to the message that God is gi
 
 # Jeremiah 10
 
-<p class="chapter-intro">Jeremiah chapter 10 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 10 audio">
@@ -119,8 +117,6 @@ description: "Jeremiah 10 in plain English: Listen to the message that God is gi
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Jeremiah 10:25">25</a> Release your anger on the nations that don&#39;t know you, and on the peoples who don&#39;t pray to you: for they have attacked Jacob, destroyed him, and left his home empty.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 10:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/10.txt">Plain text of Jeremiah 10</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%209.html" rel="prev">&larr; Jeremiah 9</a>

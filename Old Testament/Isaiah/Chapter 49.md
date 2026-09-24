@@ -51,8 +51,6 @@ description: "Isaiah 49 in plain English: Listen, islands, to me; pay attention,
 
 # Isaiah 49
 
-<p class="chapter-intro">Isaiah chapter 49 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 49 audio">
@@ -121,8 +119,6 @@ description: "Isaiah 49 in plain English: Listen, islands, to me; pay attention,
 <p class="verse" id="v26"><a class="verse-num" href="#v26" aria-label="Isaiah 49:26">26</a> I will make your oppressors eat their own flesh; they will be drunk on their own blood as if it were sweet wine. Then everyone will know that I, God, am your Savior and Redeemer, the mighty One of Jacob.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 49:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/49.txt">Plain text of Isaiah 49</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2048.html" rel="prev">&larr; Isaiah 48</a>

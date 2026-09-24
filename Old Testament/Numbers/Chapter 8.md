@@ -51,8 +51,6 @@ description: "Numbers 8 in plain English: God spoke to Moses, saying, Tell Aaron
 
 # Numbers 8
 
-<p class="chapter-intro">Numbers chapter 8 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Numbers 8 audio">
@@ -121,8 +119,6 @@ description: "Numbers 8 in plain English: God spoke to Moses, saying, Tell Aaron
 <p class="verse" id="v26"><a class="verse-num" href="#v26" aria-label="Numbers 8:26">26</a> They should help their brothers at the tent of meeting and carry out their duties, but they should not do the work. This is what you must require of the Levites regarding their responsibilities.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Numbers 8:1, Simplified Bible (simplified.bible)</em>. <a href="/text/numbers/8.txt">Plain text of Numbers 8</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Numbers/Chapter%207.html" rel="prev">&larr; Numbers 7</a>

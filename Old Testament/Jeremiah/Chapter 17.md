@@ -51,8 +51,6 @@ description: "Jeremiah 17 in plain English: Judah's sin is deeply engraved on th
 
 # Jeremiah 17
 
-<p class="chapter-intro">Jeremiah chapter 17 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 17 audio">
@@ -123,8 +121,6 @@ description: "Jeremiah 17 in plain English: Judah's sin is deeply engraved on th
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="Jeremiah 17:27">27</a> If you don&#39;t listen to me, to keep the Sabbath day holy, and not carry any load through Jerusalem&#39;s gates on the Sabbath; then I will start a fire in its gates that will destroy Jerusalem&#39;s buildings, and it won&#39;t be put out.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 17:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/17.txt">Plain text of Jeremiah 17</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2016.html" rel="prev">&larr; Jeremiah 16</a>

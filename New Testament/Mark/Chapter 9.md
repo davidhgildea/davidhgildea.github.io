@@ -51,8 +51,6 @@ description: "Mark 9 in plain English: He told them, \"Truly, I tell you, some s
 
 # Mark 9
 
-<p class="chapter-intro">Mark chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Mark 9 audio">
@@ -169,8 +167,6 @@ description: "Mark 9 in plain English: He told them, \"Truly, I tell you, some s
 <p class="verse" id="v50"><a class="verse-num" href="#v50" aria-label="Mark 9:50">50</a> Salt is good, but if the salt becomes tasteless, how can you make it salty again? Keep salt within you and live peacefully with each other.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Mark 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/mark/9.txt">Plain text of Mark 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Mark/Chapter%208.html" rel="prev">&larr; Mark 8</a>

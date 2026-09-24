@@ -51,8 +51,6 @@ description: "Psalms 24 in plain English: The earth belongs to God, and everythi
 
 # Psalms 24
 
-<p class="chapter-intro">Psalms chapter 24 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 24 audio">
@@ -89,8 +87,6 @@ description: "Psalms 24 in plain English: The earth belongs to God, and everythi
 <p class="verse" id="v10"><a class="verse-num" href="#v10" aria-label="Psalms 24:10">10</a> Who is this glorious king? God, the ruler of all, is the glorious king. Pause and think about this.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 24:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/24.txt">Plain text of Psalms 24</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2023.html" rel="prev">&larr; Psalms 23</a>

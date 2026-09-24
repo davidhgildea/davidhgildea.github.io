@@ -51,8 +51,6 @@ description: "Jeremiah 15 in plain English: God said to me, \"Even if Moses and 
 
 # Jeremiah 15
 
-<p class="chapter-intro">Jeremiah chapter 15 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 15 audio">
@@ -111,8 +109,6 @@ description: "Jeremiah 15 in plain English: God said to me, \"Even if Moses and 
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Jeremiah 15:21">21</a> I will save you from the wicked and rescue you from the terrible.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 15:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/15.txt">Plain text of Jeremiah 15</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2014.html" rel="prev">&larr; Jeremiah 14</a>

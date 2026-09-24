@@ -51,8 +51,6 @@ description: "Romans 11 in plain English: So I ask, has God rejected his people?
 
 # Romans 11
 
-<p class="chapter-intro">Romans chapter 11 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Romans 11 audio">
@@ -141,8 +139,6 @@ description: "Romans 11 in plain English: So I ask, has God rejected his people?
 <p class="verse" id="v36"><a class="verse-num" href="#v36" aria-label="Romans 11:36">36</a> Everything comes from God, exists by His power, and is intended for His glory. May God be praised forever. Amen.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Romans 11:1, Simplified Bible (simplified.bible)</em>. <a href="/text/romans/11.txt">Plain text of Romans 11</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Romans/Chapter%2010.html" rel="prev">&larr; Romans 10</a>

@@ -51,8 +51,6 @@ description: "Psalms 114 in plain English: When Israel left Egypt, Jacob's famil
 
 # Psalms 114
 
-<p class="chapter-intro">Psalms chapter 114 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 114 audio">
@@ -85,8 +83,6 @@ description: "Psalms 114 in plain English: When Israel left Egypt, Jacob's famil
 <p class="verse" id="v8"><a class="verse-num" href="#v8" aria-label="Psalms 114:8">8</a> God turned the rock into a pool of water, the flint into a flowing spring.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 114:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/114.txt">Plain text of Psalms 114</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%20113.html" rel="prev">&larr; Psalms 113</a>

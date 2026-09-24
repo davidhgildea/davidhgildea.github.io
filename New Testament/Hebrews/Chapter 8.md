@@ -51,8 +51,6 @@ description: "Hebrews 8 in plain English: Here's the main point of what we've sa
 
 # Hebrews 8
 
-<p class="chapter-intro">Hebrews chapter 8 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Hebrews 8 audio">
@@ -95,8 +93,6 @@ description: "Hebrews 8 in plain English: Here's the main point of what we've sa
 <p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Hebrews 8:13">13</a> By saying &quot;a new agreement,&quot; he has made the first one old. And what is getting old and wearing out will soon disappear.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Hebrews 8:1, Simplified Bible (simplified.bible)</em>. <a href="/text/hebrews/8.txt">Plain text of Hebrews 8</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Hebrews/Chapter%207.html" rel="prev">&larr; Hebrews 7</a>

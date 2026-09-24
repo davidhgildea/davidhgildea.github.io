@@ -51,8 +51,6 @@ description: "Zechariah 8 in plain English: God spoke to me once more, saying, G
 
 # Zechariah 8
 
-<p class="chapter-intro">Zechariah chapter 8 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Zechariah 8 audio">
@@ -115,8 +113,6 @@ description: "Zechariah 8 in plain English: God spoke to me once more, saying, G
 <p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Zechariah 8:23">23</a> God says, in those days, ten men from different nations and languages will grab the clothes of a Jewish man, saying, &quot;We want to go with you because we&#39;ve heard that God is with you.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Zechariah 8:1, Simplified Bible (simplified.bible)</em>. <a href="/text/zechariah/8.txt">Plain text of Zechariah 8</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Zechariah/Chapter%207.html" rel="prev">&larr; Zechariah 7</a>

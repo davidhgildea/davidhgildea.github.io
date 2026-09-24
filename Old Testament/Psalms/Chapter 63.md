@@ -51,8 +51,6 @@ description: "Psalms 63 in plain English: God, you are my God; I will look for y
 
 # Psalms 63
 
-<p class="chapter-intro">Psalms chapter 63 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 63 audio">
@@ -91,8 +89,6 @@ description: "Psalms 63 in plain English: God, you are my God; I will look for y
 <p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Psalms 63:11">11</a> The king will be happy in God; everyone who makes promises by him will be proud: but the mouths of liars will be shut.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 63:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/63.txt">Plain text of Psalms 63</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2062.html" rel="prev">&larr; Psalms 62</a>

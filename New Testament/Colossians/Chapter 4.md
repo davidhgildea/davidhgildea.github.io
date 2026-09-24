@@ -51,8 +51,6 @@ description: "Colossians 4 in plain English: Employers, treat your workers fairl
 
 # Colossians 4
 
-<p class="chapter-intro">Colossians chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Colossians 4 audio">
@@ -105,8 +103,6 @@ description: "Colossians 4 in plain English: Employers, treat your workers fairl
 <p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="Colossians 4:18">18</a> I, Paul, am writing this greeting with my own hand. Remember that I am in chains. May God&#39;s kindness be with you. Amen.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Colossians 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/colossians/4.txt">Plain text of Colossians 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Colossians/Chapter%203.html" rel="prev">&larr; Colossians 3</a>

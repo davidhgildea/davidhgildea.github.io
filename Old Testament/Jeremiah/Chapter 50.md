@@ -51,8 +51,6 @@ description: "Jeremiah 50 in plain English: God spoke against Babylon and the Ch
 
 # Jeremiah 50
 
-<p class="chapter-intro">Jeremiah chapter 50 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 50 audio">
@@ -161,8 +159,6 @@ description: "Jeremiah 50 in plain English: God spoke against Babylon and the Ch
 <p class="verse" id="v46"><a class="verse-num" href="#v46" aria-label="Jeremiah 50:46">46</a> When Babylon is captured, the earth shakes and nations hear the outcry.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 50:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/50.txt">Plain text of Jeremiah 50</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2049.html" rel="prev">&larr; Jeremiah 49</a>

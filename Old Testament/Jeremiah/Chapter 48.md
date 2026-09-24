@@ -51,8 +51,6 @@ description: "Jeremiah 48 in plain English: God says this about Moab: \"Trouble 
 
 # Jeremiah 48
 
-<p class="chapter-intro">Jeremiah chapter 48 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 48 audio">
@@ -163,8 +161,6 @@ description: "Jeremiah 48 in plain English: God says this about Moab: \"Trouble 
 <p class="verse" id="v47"><a class="verse-num" href="#v47" aria-label="Jeremiah 48:47">47</a> But I will restore Moab from captivity in the future, says God. This is God&#39;s judgment on Moab.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 48:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/48.txt">Plain text of Jeremiah 48</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2047.html" rel="prev">&larr; Jeremiah 47</a>

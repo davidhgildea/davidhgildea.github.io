@@ -51,8 +51,6 @@ description: "Jeremiah 52 in plain English: Zedekiah was 21 years old when he be
 
 # Jeremiah 52
 
-<p class="chapter-intro">Jeremiah chapter 52 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 52 audio">
@@ -137,8 +135,6 @@ description: "Jeremiah 52 in plain English: Zedekiah was 21 years old when he be
 <p class="verse" id="v34"><a class="verse-num" href="#v34" aria-label="Jeremiah 52:34">34</a> The king of Babylon provided him with daily food until he died, every day for the rest of his life.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 52:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/52.txt">Plain text of Jeremiah 52</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2051.html" rel="prev">&larr; Jeremiah 51</a>

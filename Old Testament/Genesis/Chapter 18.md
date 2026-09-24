@@ -51,8 +51,6 @@ description: "Genesis 18 in plain English: God appeared to him in the fields of 
 
 # Genesis 18
 
-<p class="chapter-intro">Genesis chapter 18 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 18 audio">
@@ -135,8 +133,6 @@ description: "Genesis 18 in plain English: God appeared to him in the fields of 
 <p class="verse" id="v33"><a class="verse-num" href="#v33" aria-label="Genesis 18:33">33</a> After talking with Abraham, God left, and Abraham went back to his place.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 18:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/18.txt">Plain text of Genesis 18</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%2017.html" rel="prev">&larr; Genesis 17</a>

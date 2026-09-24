@@ -51,8 +51,6 @@ description: "Matthew 22 in plain English: Jesus answered and told them another 
 
 # Matthew 22
 
-<p class="chapter-intro">Matthew chapter 22 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Matthew 22 audio">
@@ -161,8 +159,6 @@ description: "Matthew 22 in plain English: Jesus answered and told them another 
 <p class="verse" id="v46"><a class="verse-num" href="#v46" aria-label="Matthew 22:46">46</a> No one could reply to him at all, nor did anyone dare to ask him more questions from that day on.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Matthew 22:1, Simplified Bible (simplified.bible)</em>. <a href="/text/matthew/22.txt">Plain text of Matthew 22</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Matthew/Chapter%2021.html" rel="prev">&larr; Matthew 21</a>

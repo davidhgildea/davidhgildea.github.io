@@ -51,8 +51,6 @@ description: "Daniel 5 in plain English: King Belshazzar made a huge feast for a
 
 # Daniel 5
 
-<p class="chapter-intro">Daniel chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Daniel 5 audio">
@@ -131,8 +129,6 @@ description: "Daniel 5 in plain English: King Belshazzar made a huge feast for a
 <p class="verse" id="v31"><a class="verse-num" href="#v31" aria-label="Daniel 5:31">31</a> Darius from Media became the king at about 62 years old.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Daniel 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/daniel/5.txt">Plain text of Daniel 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Daniel/Chapter%204.html" rel="prev">&larr; Daniel 4</a>

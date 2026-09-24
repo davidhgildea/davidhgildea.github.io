@@ -51,8 +51,6 @@ description: "Job 13 in plain English: I have seen all this with my eyes; my ear
 
 # Job 13
 
-<p class="chapter-intro">Job chapter 13 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Job 13 audio">
@@ -125,8 +123,6 @@ description: "Job 13 in plain English: I have seen all this with my eyes; my ear
 <p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="Job 13:28">28</a> He decays like something rotten, like clothing eaten by moths.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Job 13:1, Simplified Bible (simplified.bible)</em>. <a href="/text/job/13.txt">Plain text of Job 13</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Job/Chapter%2012.html" rel="prev">&larr; Job 12</a>

@@ -51,8 +51,6 @@ description: "Ezekiel 39 in plain English: So, you human messenger, speak agains
 
 # Ezekiel 39
 
-<p class="chapter-intro">Ezekiel chapter 39 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 39 audio">
@@ -127,8 +125,6 @@ description: "Ezekiel 39 in plain English: So, you human messenger, speak agains
 <p class="verse" id="v29"><a class="verse-num" href="#v29" aria-label="Ezekiel 39:29">29</a> I will not hide my face from them anymore because I have given my spirit to the people of Israel, says God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 39:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/39.txt">Plain text of Ezekiel 39</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2038.html" rel="prev">&larr; Ezekiel 38</a>

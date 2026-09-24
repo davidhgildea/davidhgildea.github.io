@@ -51,8 +51,6 @@ description: "1 John 4 in plain English: Dear friends, do not believe all spirit
 
 # 1 John 4
 
-<p class="chapter-intro">1 John chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 John 4 audio">
@@ -111,8 +109,6 @@ description: "1 John 4 in plain English: Dear friends, do not believe all spirit
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="1 John 4:21">21</a> We have this rule from God: Anyone who loves God should love their brother too.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 John 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-john/4.txt">Plain text of 1 John 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/1%20John/Chapter%203.html" rel="prev">&larr; 1 John 3</a>

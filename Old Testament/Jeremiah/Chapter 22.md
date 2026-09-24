@@ -51,8 +51,6 @@ description: "Jeremiah 22 in plain English: God says, \"Go to the king of Judah'
 
 # Jeremiah 22
 
-<p class="chapter-intro">Jeremiah chapter 22 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 22 audio">
@@ -129,8 +127,6 @@ description: "Jeremiah 22 in plain English: God says, \"Go to the king of Judah'
 <p class="verse" id="v30"><a class="verse-num" href="#v30" aria-label="Jeremiah 22:30">30</a> God says, &quot;Mark this man as childless, a man who will not succeed in his lifetime: because none of his descendants will succeed, sitting on David&#39;s throne or ruling in Judah anymore.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 22:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/22.txt">Plain text of Jeremiah 22</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2021.html" rel="prev">&larr; Jeremiah 21</a>

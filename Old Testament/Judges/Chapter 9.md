@@ -51,8 +51,6 @@ description: "Judges 9 in plain English: Abimelech, Jerubbaal's son, went to She
 
 # Judges 9
 
-<p class="chapter-intro">Judges chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Judges 9 audio">
@@ -183,8 +181,6 @@ description: "Judges 9 in plain English: Abimelech, Jerubbaal's son, went to She
 <p class="verse" id="v57"><a class="verse-num" href="#v57" aria-label="Judges 9:57">57</a> God made the evil men of Shechem pay for their wrongs, and Jotham, Jerubbaal&#39;s son, cursed them.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Judges 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/judges/9.txt">Plain text of Judges 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Judges/Chapter%208.html" rel="prev">&larr; Judges 8</a>

@@ -51,8 +51,6 @@ description: "Psalms 56 in plain English: God, be kind to me because people want
 
 # Psalms 56
 
-<p class="chapter-intro">Psalms chapter 56 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 56 audio">
@@ -95,8 +93,6 @@ description: "Psalms 56 in plain English: God, be kind to me because people want
 <p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Psalms 56:13">13</a> You have saved my life from death; won&#39;t you keep my feet from tripping, so I can walk before God in the light where people live?</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 56:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/56.txt">Plain text of Psalms 56</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2055.html" rel="prev">&larr; Psalms 55</a>

@@ -51,8 +51,6 @@ description: "Isaiah 45 in plain English: God says to his chosen one, Cyrus, who
 
 # Isaiah 45
 
-<p class="chapter-intro">Isaiah chapter 45 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 45 audio">
@@ -119,8 +117,6 @@ description: "Isaiah 45 in plain English: God says to his chosen one, Cyrus, who
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Isaiah 45:25">25</a> All of Israel&#39;s descendants will be made right with God and will take pride in Him.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 45:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/45.txt">Plain text of Isaiah 45</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2044.html" rel="prev">&larr; Isaiah 44</a>

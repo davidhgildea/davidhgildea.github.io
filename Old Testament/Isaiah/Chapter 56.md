@@ -51,8 +51,6 @@ description: "Isaiah 56 in plain English: God says, \"Keep fair judgment, and do
 
 # Isaiah 56
 
-<p class="chapter-intro">Isaiah chapter 56 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 56 audio">
@@ -93,8 +91,6 @@ description: "Isaiah 56 in plain English: God says, \"Keep fair judgment, and do
 <p class="verse" id="v12"><a class="verse-num" href="#v12" aria-label="Isaiah 56:12">12</a> Come on, they say, let&#39;s get wine and get drunk on hard liquor; tomorrow will be like today, and even better.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 56:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/56.txt">Plain text of Isaiah 56</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2055.html" rel="prev">&larr; Isaiah 55</a>

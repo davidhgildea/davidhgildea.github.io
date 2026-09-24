@@ -51,8 +51,6 @@ description: "Joshua 9 in plain English: When all the kings near the Jordan Rive
 
 # Joshua 9
 
-<p class="chapter-intro">Joshua chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Joshua 9 audio">
@@ -123,8 +121,6 @@ description: "Joshua 9 in plain English: When all the kings near the Jordan Rive
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="Joshua 9:27">27</a> On that day, Joshua made them wood cutters and water carriers for the community and God&#39;s altar, a job they still do where he chooses.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Joshua 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/joshua/9.txt">Plain text of Joshua 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Joshua/Chapter%208.html" rel="prev">&larr; Joshua 8</a>

@@ -51,8 +51,6 @@ description: "2 Chronicles 6 in plain English: Then Solomon said, \"God has stat
 
 # 2 Chronicles 6
 
-<p class="chapter-intro">2 Chronicles chapter 6 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Chronicles 6 audio">
@@ -153,8 +151,6 @@ description: "2 Chronicles 6 in plain English: Then Solomon said, \"God has stat
 <p class="verse" id="v42"><a class="verse-num" href="#v42" aria-label="2 Chronicles 6:42">42</a> God, do not turn away from your chosen one; remember the kindness you showed to your servant David.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Chronicles 6:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-chronicles/6.txt">Plain text of 2 Chronicles 6</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Chronicles/Chapter%205.html" rel="prev">&larr; 2 Chronicles 5</a>

@@ -51,8 +51,6 @@ description: "Leviticus 18 in plain English: God spoke to Moses, saying, Tell th
 
 # Leviticus 18
 
-<p class="chapter-intro">Leviticus chapter 18 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Leviticus 18 audio">
@@ -129,8 +127,6 @@ description: "Leviticus 18 in plain English: God spoke to Moses, saying, Tell th
 <p class="verse" id="v30"><a class="verse-num" href="#v30" aria-label="Leviticus 18:30">30</a> So you must follow my rules and not do any of these disgusting things that were done before you, so you do not become unclean by them: I am God, your God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Leviticus 18:1, Simplified Bible (simplified.bible)</em>. <a href="/text/leviticus/18.txt">Plain text of Leviticus 18</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Leviticus/Chapter%2017.html" rel="prev">&larr; Leviticus 17</a>

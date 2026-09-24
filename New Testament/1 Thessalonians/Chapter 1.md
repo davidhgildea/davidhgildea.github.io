@@ -51,8 +51,6 @@ description: "1 Thessalonians 1 in plain English: Paul, Silvanus, and Timothy, t
 
 # 1 Thessalonians 1
 
-<p class="chapter-intro">1 Thessalonians chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Thessalonians 1 audio">
@@ -89,8 +87,6 @@ description: "1 Thessalonians 1 in plain English: Paul, Silvanus, and Timothy, t
 <p class="verse" id="v10"><a class="verse-num" href="#v10" aria-label="1 Thessalonians 1:10">10</a> To wait for his Son from heaven, whom God raised from the dead, Jesus who saves us from the coming anger.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Thessalonians 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-thessalonians/1.txt">Plain text of 1 Thessalonians 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Colossians/Chapter%204.html" rel="prev">&larr; Colossians 4</a>

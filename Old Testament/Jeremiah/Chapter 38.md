@@ -51,8 +51,6 @@ description: "Jeremiah 38 in plain English: Then Shephatiah, Mattan's son; Gedal
 
 # Jeremiah 38
 
-<p class="chapter-intro">Jeremiah chapter 38 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 38 audio">
@@ -125,8 +123,6 @@ description: "Jeremiah 38 in plain English: Then Shephatiah, Mattan's son; Gedal
 <p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="Jeremiah 38:28">28</a> Jeremiah stayed in the prison courtyard until the day Jerusalem was captured, and he was there when it happened.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 38:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/38.txt">Plain text of Jeremiah 38</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2037.html" rel="prev">&larr; Jeremiah 37</a>

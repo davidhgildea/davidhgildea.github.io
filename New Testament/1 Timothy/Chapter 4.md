@@ -51,8 +51,6 @@ description: "1 Timothy 4 in plain English: The Spirit clearly says that in late
 
 # 1 Timothy 4
 
-<p class="chapter-intro">1 Timothy chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Timothy 4 audio">
@@ -101,8 +99,6 @@ description: "1 Timothy 4 in plain English: The Spirit clearly says that in late
 <p class="verse" id="v16"><a class="verse-num" href="#v16" aria-label="1 Timothy 4:16">16</a> Be careful about how you live and what you teach; keep on doing these things. By doing so, you will save both yourself and those who listen to you.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Timothy 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-timothy/4.txt">Plain text of 1 Timothy 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/1%20Timothy/Chapter%203.html" rel="prev">&larr; 1 Timothy 3</a>

@@ -51,8 +51,6 @@ description: "Genesis 19 in plain English: Two angels came to Sodom in the eveni
 
 # Genesis 19
 
-<p class="chapter-intro">Genesis chapter 19 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 19 audio">
@@ -145,8 +143,6 @@ description: "Genesis 19 in plain English: Two angels came to Sodom in the eveni
 <p class="verse" id="v38"><a class="verse-num" href="#v38" aria-label="Genesis 19:38">38</a> The younger daughter also gave birth to a son and named him Benammi. He is the ancestor of the Ammonites.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 19:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/19.txt">Plain text of Genesis 19</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%2018.html" rel="prev">&larr; Genesis 18</a>

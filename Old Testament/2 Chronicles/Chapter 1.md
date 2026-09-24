@@ -51,8 +51,6 @@ description: "2 Chronicles 1 in plain English: Solomon, David's son, became stro
 
 # 2 Chronicles 1
 
-<p class="chapter-intro">2 Chronicles chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Chronicles 1 audio">
@@ -103,8 +101,6 @@ description: "2 Chronicles 1 in plain English: Solomon, David's son, became stro
 <p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="2 Chronicles 1:17">17</a> They brought a chariot from Egypt for six hundred silver coins, and a horse for one hundred and fifty coins: and in this way, they provided horses for all the Hittite and Syrian kings through their connections.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Chronicles 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-chronicles/1.txt">Plain text of 2 Chronicles 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Chronicles/Chapter%2029.html" rel="prev">&larr; 1 Chronicles 29</a>

@@ -51,8 +51,6 @@ description: "James 3 in plain English: My friends, don't all try to be teachers
 
 # James 3
 
-<p class="chapter-intro">James chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="James 3 audio">
@@ -105,8 +103,6 @@ description: "James 3 in plain English: My friends, don't all try to be teachers
 <p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="James 3:18">18</a> The good results of right living are planted in peace by those who work for peace.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>James 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/james/3.txt">Plain text of James 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/James/Chapter%202.html" rel="prev">&larr; James 2</a>

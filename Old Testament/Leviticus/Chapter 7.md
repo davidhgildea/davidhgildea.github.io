@@ -51,8 +51,6 @@ description: "Leviticus 7 in plain English: This is the rule for the guilt offer
 
 # Leviticus 7
 
-<p class="chapter-intro">Leviticus chapter 7 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Leviticus 7 audio">
@@ -145,8 +143,6 @@ description: "Leviticus 7 in plain English: This is the rule for the guilt offer
 <p class="verse" id="v38"><a class="verse-num" href="#v38" aria-label="Leviticus 7:38">38</a> God told Moses on Mount Sinai to command the Israelites to give their offerings to God when they were in the Sinai wilderness.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Leviticus 7:1, Simplified Bible (simplified.bible)</em>. <a href="/text/leviticus/7.txt">Plain text of Leviticus 7</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Leviticus/Chapter%206.html" rel="prev">&larr; Leviticus 6</a>

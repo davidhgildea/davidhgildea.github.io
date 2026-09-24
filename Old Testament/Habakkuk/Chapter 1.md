@@ -51,8 +51,6 @@ description: "Habakkuk 1 in plain English: The message that the prophet Habakkuk
 
 # Habakkuk 1
 
-<p class="chapter-intro">Habakkuk chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Habakkuk 1 audio">
@@ -103,8 +101,6 @@ description: "Habakkuk 1 in plain English: The message that the prophet Habakkuk
 <p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="Habakkuk 1:17">17</a> Will they then keep emptying their net, never stopping the killing of nations?</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Habakkuk 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/habakkuk/1.txt">Plain text of Habakkuk 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Nahum/Chapter%203.html" rel="prev">&larr; Nahum 3</a>

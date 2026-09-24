@@ -51,8 +51,6 @@ description: "Nehemiah 3 in plain English: Eliashib, the high priest, got up wit
 
 # Nehemiah 3
 
-<p class="chapter-intro">Nehemiah chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Nehemiah 3 audio">
@@ -133,8 +131,6 @@ description: "Nehemiah 3 in plain English: Eliashib, the high priest, got up wit
 <p class="verse" id="v32"><a class="verse-num" href="#v32" aria-label="Nehemiah 3:32">32</a> The goldsmiths and merchants fixed the area from the corner to the Sheep Gate.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Nehemiah 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/nehemiah/3.txt">Plain text of Nehemiah 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Nehemiah/Chapter%202.html" rel="prev">&larr; Nehemiah 2</a>

@@ -51,8 +51,6 @@ description: "Jeremiah 30 in plain English: God gave a message to Jeremiah, sayi
 
 # Jeremiah 30
 
-<p class="chapter-intro">Jeremiah chapter 30 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 30 audio">
@@ -117,8 +115,6 @@ description: "Jeremiah 30 in plain English: God gave a message to Jeremiah, sayi
 <p class="verse" id="v24"><a class="verse-num" href="#v24" aria-label="Jeremiah 30:24">24</a> God&#39;s intense anger will not stop until he has finished his work and carried out the plans of his heart. In the future, you will think about this.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 30:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/30.txt">Plain text of Jeremiah 30</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2029.html" rel="prev">&larr; Jeremiah 29</a>

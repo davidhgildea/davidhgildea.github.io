@@ -51,8 +51,6 @@ description: "Isaiah 15 in plain English: Moab's heavy problem. Because at night
 
 # Isaiah 15
 
-<p class="chapter-intro">Isaiah chapter 15 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 15 audio">
@@ -87,8 +85,6 @@ description: "Isaiah 15 in plain English: Moab's heavy problem. Because at night
 <p class="verse" id="v9"><a class="verse-num" href="#v9" aria-label="Isaiah 15:9">9</a> The waters of Dimon will be filled with blood because I will send more troubles to Dimon, lions to attack those from Moab who escape, and those who are left in the land.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 15:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/15.txt">Plain text of Isaiah 15</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2014.html" rel="prev">&larr; Isaiah 14</a>

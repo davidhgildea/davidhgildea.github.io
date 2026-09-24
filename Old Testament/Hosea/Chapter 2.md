@@ -51,8 +51,6 @@ description: "Hosea 2 in plain English: Tell your brothers, 'My People,' and you
 
 # Hosea 2
 
-<p class="chapter-intro">Hosea chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Hosea 2 audio">
@@ -115,8 +113,6 @@ description: "Hosea 2 in plain English: Tell your brothers, 'My People,' and you
 <p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Hosea 2:23">23</a> I will plant her for myself in the land; I will show love to those who were not loved; and I will tell those who were not my people, &#39;You are my people,&#39; and they will say, &#39;You are my God.&#39;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Hosea 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/hosea/2.txt">Plain text of Hosea 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Hosea/Chapter%201.html" rel="prev">&larr; Hosea 1</a>

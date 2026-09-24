@@ -51,8 +51,6 @@ description: "Galatians 5 in plain English: Stay strong in the freedom that Chri
 
 # Galatians 5
 
-<p class="chapter-intro">Galatians chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Galatians 5 audio">
@@ -121,8 +119,6 @@ description: "Galatians 5 in plain English: Stay strong in the freedom that Chri
 <p class="verse" id="v26"><a class="verse-num" href="#v26" aria-label="Galatians 5:26">26</a> Let&#39;s not seek empty praise, causing each other trouble or being jealous of each other.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Galatians 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/galatians/5.txt">Plain text of Galatians 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Galatians/Chapter%204.html" rel="prev">&larr; Galatians 4</a>

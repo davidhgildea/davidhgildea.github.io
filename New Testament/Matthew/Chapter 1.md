@@ -51,8 +51,6 @@ description: "Matthew 1 in plain English: This book lists Jesus Christ's ancesto
 
 # Matthew 1
 
-<p class="chapter-intro">Matthew chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Matthew 1 audio">
@@ -119,8 +117,6 @@ description: "Matthew 1 in plain English: This book lists Jesus Christ's ancesto
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Matthew 1:25">25</a> He did not have marital relations with her until she gave birth to her first son; and he named him Jesus.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Matthew 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/matthew/1.txt">Plain text of Matthew 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Malachi/Chapter%204.html" rel="prev">&larr; Malachi 4</a>

@@ -51,8 +51,6 @@ description: "Numbers 13 in plain English: God spoke to Moses, saying, Send peop
 
 # Numbers 13
 
-<p class="chapter-intro">Numbers chapter 13 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Numbers 13 audio">
@@ -135,8 +133,6 @@ description: "Numbers 13 in plain English: God spoke to Moses, saying, Send peop
 <p class="verse" id="v33"><a class="verse-num" href="#v33" aria-label="Numbers 13:33">33</a> We saw giants there, Anak&#39;s descendants, who were from the giants. We felt like grasshoppers to ourselves, and that&#39;s how we seemed to them.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Numbers 13:1, Simplified Bible (simplified.bible)</em>. <a href="/text/numbers/13.txt">Plain text of Numbers 13</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Numbers/Chapter%2012.html" rel="prev">&larr; Numbers 12</a>

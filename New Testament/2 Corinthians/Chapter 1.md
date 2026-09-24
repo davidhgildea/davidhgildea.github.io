@@ -51,8 +51,6 @@ description: "2 Corinthians 1 in plain English: Paul, a messenger of Jesus Chris
 
 # 2 Corinthians 1
 
-<p class="chapter-intro">2 Corinthians chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Corinthians 1 audio">
@@ -117,8 +115,6 @@ description: "2 Corinthians 1 in plain English: Paul, a messenger of Jesus Chris
 <p class="verse" id="v24"><a class="verse-num" href="#v24" aria-label="2 Corinthians 1:24">24</a> We don&#39;t control your faith, but help bring you joy: you stand strong because of faith.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Corinthians 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-corinthians/1.txt">Plain text of 2 Corinthians 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/1%20Corinthians/Chapter%2016.html" rel="prev">&larr; 1 Corinthians 16</a>

@@ -51,8 +51,6 @@ description: "Jeremiah 37 in plain English: King Zedekiah, Josiah's son, became 
 
 # Jeremiah 37
 
-<p class="chapter-intro">Jeremiah chapter 37 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 37 audio">
@@ -111,8 +109,6 @@ description: "Jeremiah 37 in plain English: King Zedekiah, Josiah's son, became 
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Jeremiah 37:21">21</a> King Zedekiah ordered that Jeremiah be put in the prison yard, and that he get a piece of bread every day from the baker&#39;s area until all the city&#39;s bread was gone. So Jeremiah stayed in the prison yard.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 37:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/37.txt">Plain text of Jeremiah 37</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2036.html" rel="prev">&larr; Jeremiah 36</a>

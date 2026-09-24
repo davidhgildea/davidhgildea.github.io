@@ -51,8 +51,6 @@ description: "Luke 1 in plain English: Many people have tried to write down the 
 
 # Luke 1
 
-<p class="chapter-intro">Luke chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Luke 1 audio">
@@ -229,8 +227,6 @@ description: "Luke 1 in plain English: Many people have tried to write down the 
 <p class="verse" id="v80"><a class="verse-num" href="#v80" aria-label="Luke 1:80">80</a> The child grew up, became strong in spirit, and lived in the deserts until the time came to show himself to Israel.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Luke 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/luke/1.txt">Plain text of Luke 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Mark/Chapter%2016.html" rel="prev">&larr; Mark 16</a>

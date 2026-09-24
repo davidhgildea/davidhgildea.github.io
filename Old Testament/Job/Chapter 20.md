@@ -51,8 +51,6 @@ description: "Job 20 in plain English: Zophar from Naamath spoke and said, So my
 
 # Job 20
 
-<p class="chapter-intro">Job chapter 20 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Job 20 audio">
@@ -127,8 +125,6 @@ description: "Job 20 in plain English: Zophar from Naamath spoke and said, So my
 <p class="verse" id="v29"><a class="verse-num" href="#v29" aria-label="Job 20:29">29</a> This is what a bad person gets from God, the share given to him by God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Job 20:1, Simplified Bible (simplified.bible)</em>. <a href="/text/job/20.txt">Plain text of Job 20</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Job/Chapter%2019.html" rel="prev">&larr; Job 19</a>

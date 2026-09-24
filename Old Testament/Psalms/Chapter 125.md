@@ -51,8 +51,6 @@ description: "Psalms 125 in plain English: Those who trust in God will be like M
 
 # Psalms 125
 
-<p class="chapter-intro">Psalms chapter 125 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 125 audio">
@@ -79,8 +77,6 @@ description: "Psalms 125 in plain English: Those who trust in God will be like M
 <p class="verse" id="v5"><a class="verse-num" href="#v5" aria-label="Psalms 125:5">5</a> Those who choose wrong paths, God will guide with the wrongdoers, but peace will be with Israel.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 125:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/125.txt">Plain text of Psalms 125</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%20124.html" rel="prev">&larr; Psalms 124</a>

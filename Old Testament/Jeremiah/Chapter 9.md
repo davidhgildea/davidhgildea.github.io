@@ -51,8 +51,6 @@ description: "Jeremiah 9 in plain English: I wish my head were full of water, an
 
 # Jeremiah 9
 
-<p class="chapter-intro">Jeremiah chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 9 audio">
@@ -121,8 +119,6 @@ description: "Jeremiah 9 in plain English: I wish my head were full of water, an
 <p class="verse" id="v26"><a class="verse-num" href="#v26" aria-label="Jeremiah 9:26">26</a> Egypt, Judah, Edom, Ammon&#39;s children, Moab, and everyone from faraway places living in the desert: all these nations are not circumcised, and all Israel&#39;s people are not circumcised in heart.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/9.txt">Plain text of Jeremiah 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%208.html" rel="prev">&larr; Jeremiah 8</a>

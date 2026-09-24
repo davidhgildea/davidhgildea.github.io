@@ -51,8 +51,6 @@ description: "Isaiah 11 in plain English: A branch will grow from the stump of J
 
 # Isaiah 11
 
-<p class="chapter-intro">Isaiah chapter 11 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 11 audio">
@@ -101,8 +99,6 @@ description: "Isaiah 11 in plain English: A branch will grow from the stump of J
 <p class="verse" id="v16"><a class="verse-num" href="#v16" aria-label="Isaiah 11:16">16</a> A road will be made for the survivors of his people left in Assyria, just like the one for Israel when they left Egypt.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 11:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/11.txt">Plain text of Isaiah 11</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2010.html" rel="prev">&larr; Isaiah 10</a>

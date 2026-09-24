@@ -51,8 +51,6 @@ description: "Isaiah 18 in plain English: Trouble comes to the land with many wi
 
 # Isaiah 18
 
-<p class="chapter-intro">Isaiah chapter 18 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 18 audio">
@@ -83,8 +81,6 @@ description: "Isaiah 18 in plain English: Trouble comes to the land with many wi
 <p class="verse" id="v7"><a class="verse-num" href="#v7" aria-label="Isaiah 18:7">7</a> At that time, a gift will be given to God from a scattered and stripped people, and from a nation always feared; a country measured and crushed, whose land rivers have ruined, to where God lives, Mount Zion.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 18:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/18.txt">Plain text of Isaiah 18</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2017.html" rel="prev">&larr; Isaiah 17</a>

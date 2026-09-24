@@ -51,8 +51,6 @@ description: "Mark 1 in plain English: The start of the good news about Jesus Ch
 
 # Mark 1
 
-<p class="chapter-intro">Mark chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Mark 1 audio">
@@ -159,8 +157,6 @@ description: "Mark 1 in plain English: The start of the good news about Jesus Ch
 <p class="verse" id="v45"><a class="verse-num" href="#v45" aria-label="Mark 1:45">45</a> He left and started to spread the news widely, so much that Jesus couldn&#39;t go into the town publicly but stayed in remote areas. And people came to him from everywhere.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Mark 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/mark/1.txt">Plain text of Mark 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Matthew/Chapter%2028.html" rel="prev">&larr; Matthew 28</a>

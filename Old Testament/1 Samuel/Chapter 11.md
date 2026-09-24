@@ -51,8 +51,6 @@ description: "1 Samuel 11 in plain English: Then Nahash the Ammonite arrived and
 
 # 1 Samuel 11
 
-<p class="chapter-intro">1 Samuel chapter 11 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Samuel 11 audio">
@@ -99,8 +97,6 @@ description: "1 Samuel 11 in plain English: Then Nahash the Ammonite arrived and
 <p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="1 Samuel 11:15">15</a> All the people went to Gilgal, and there they made Saul king before God. They offered peace sacrifices to God in Gilgal, and Saul and all the Israelite men were very happy.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Samuel 11:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-samuel/11.txt">Plain text of 1 Samuel 11</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Samuel/Chapter%2010.html" rel="prev">&larr; 1 Samuel 10</a>

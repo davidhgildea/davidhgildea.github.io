@@ -51,8 +51,6 @@ description: "Leviticus 9 in plain English: On the eighth day, Moses called Aaro
 
 # Leviticus 9
 
-<p class="chapter-intro">Leviticus chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Leviticus 9 audio">
@@ -117,8 +115,6 @@ description: "Leviticus 9 in plain English: On the eighth day, Moses called Aaro
 <p class="verse" id="v24"><a class="verse-num" href="#v24" aria-label="Leviticus 9:24">24</a> Fire came from God and burned up the offering and the fat on the altar. When the people saw this, they cheered and fell to the ground with their faces down.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Leviticus 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/leviticus/9.txt">Plain text of Leviticus 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Leviticus/Chapter%208.html" rel="prev">&larr; Leviticus 8</a>

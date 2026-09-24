@@ -51,8 +51,6 @@ description: "Romans 5 in plain English: Because we are made right with God by f
 
 # Romans 5
 
-<p class="chapter-intro">Romans chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Romans 5 audio">
@@ -111,8 +109,6 @@ description: "Romans 5 in plain English: Because we are made right with God by f
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Romans 5:21">21</a> Just as sin ruled leading to death, so grace also might rule through being right, leading to eternal life, because of Jesus Christ our Lord.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Romans 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/romans/5.txt">Plain text of Romans 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Romans/Chapter%204.html" rel="prev">&larr; Romans 4</a>

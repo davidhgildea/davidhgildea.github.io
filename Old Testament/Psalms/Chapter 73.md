@@ -51,8 +51,6 @@ description: "Psalms 73 in plain English: God is truly good to Israel and to tho
 
 # Psalms 73
 
-<p class="chapter-intro">Psalms chapter 73 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 73 audio">
@@ -125,8 +123,6 @@ description: "Psalms 73 in plain English: God is truly good to Israel and to tho
 <p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="Psalms 73:28">28</a> It is good for me to get close to God. I trust in God so I can tell about all your deeds.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 73:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/73.txt">Plain text of Psalms 73</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2072.html" rel="prev">&larr; Psalms 72</a>

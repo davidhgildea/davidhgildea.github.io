@@ -51,8 +51,6 @@ description: "Jeremiah 51 in plain English: God says, \"Look, I will send a dest
 
 # Jeremiah 51
 
-<p class="chapter-intro">Jeremiah chapter 51 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 51 audio">
@@ -197,8 +195,6 @@ description: "Jeremiah 51 in plain English: God says, \"Look, I will send a dest
 <p class="verse" id="v64"><a class="verse-num" href="#v64" aria-label="Jeremiah 51:64">64</a> You will say, &quot;Babylon will fall and not rise again because of the disaster I will cause: and people will be tired.&quot; These are Jeremiah&#39;s words.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 51:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/51.txt">Plain text of Jeremiah 51</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2050.html" rel="prev">&larr; Jeremiah 50</a>

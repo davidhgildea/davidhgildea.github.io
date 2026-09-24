@@ -51,8 +51,6 @@ description: "Psalms 16 in plain English: Keep me safe, God, because I trust in 
 
 # Psalms 16
 
-<p class="chapter-intro">Psalms chapter 16 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 16 audio">
@@ -91,8 +89,6 @@ description: "Psalms 16 in plain English: Keep me safe, God, because I trust in 
 <p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Psalms 16:11">11</a> You will show me the way to life: being with you is complete happiness; at your side, there are joys that never end.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 16:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/16.txt">Plain text of Psalms 16</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2015.html" rel="prev">&larr; Psalms 15</a>

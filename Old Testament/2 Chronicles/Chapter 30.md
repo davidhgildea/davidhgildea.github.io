@@ -51,8 +51,6 @@ description: "2 Chronicles 30 in plain English: Hezekiah sent messages to all of
 
 # 2 Chronicles 30
 
-<p class="chapter-intro">2 Chronicles chapter 30 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Chronicles 30 audio">
@@ -123,8 +121,6 @@ description: "2 Chronicles 30 in plain English: Hezekiah sent messages to all of
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="2 Chronicles 30:27">27</a> The Levite priests stood up, blessed the people, and their voices were heard; their prayer reached God&#39;s holy home in heaven.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Chronicles 30:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-chronicles/30.txt">Plain text of 2 Chronicles 30</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Chronicles/Chapter%2029.html" rel="prev">&larr; 2 Chronicles 29</a>

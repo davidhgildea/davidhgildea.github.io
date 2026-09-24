@@ -51,8 +51,6 @@ description: "Exodus 13 in plain English: God spoke to Moses, saying, Set apart 
 
 # Exodus 13
 
-<p class="chapter-intro">Exodus chapter 13 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Exodus 13 audio">
@@ -113,8 +111,6 @@ description: "Exodus 13 in plain English: God spoke to Moses, saying, Set apart 
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Exodus 13:22">22</a> He did not remove the cloud pillar by day or the fire pillar by night from in front of the people.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Exodus 13:1, Simplified Bible (simplified.bible)</em>. <a href="/text/exodus/13.txt">Plain text of Exodus 13</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Exodus/Chapter%2012.html" rel="prev">&larr; Exodus 12</a>

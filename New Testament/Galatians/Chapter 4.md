@@ -51,8 +51,6 @@ description: "Galatians 4 in plain English: I tell you, an heir is no different 
 
 # Galatians 4
 
-<p class="chapter-intro">Galatians chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Galatians 4 audio">
@@ -131,8 +129,6 @@ description: "Galatians 4 in plain English: I tell you, an heir is no different 
 <p class="verse" id="v31"><a class="verse-num" href="#v31" aria-label="Galatians 4:31">31</a> So, friends, we are not the children of a slave woman, but of the free woman.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Galatians 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/galatians/4.txt">Plain text of Galatians 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Galatians/Chapter%203.html" rel="prev">&larr; Galatians 3</a>

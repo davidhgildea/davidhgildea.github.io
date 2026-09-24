@@ -51,8 +51,6 @@ description: "John 14 in plain English: Don't be worried in your heart; you trus
 
 # John 14
 
-<p class="chapter-intro">John chapter 14 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="John 14 audio">
@@ -131,8 +129,6 @@ description: "John 14 in plain English: Don't be worried in your heart; you trus
 <p class="verse" id="v31"><a class="verse-num" href="#v31" aria-label="John 14:31">31</a> I want the world to know I love God; I follow His commands. Let&#39;s get up and go.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>John 14:1, Simplified Bible (simplified.bible)</em>. <a href="/text/john/14.txt">Plain text of John 14</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/John/Chapter%2013.html" rel="prev">&larr; John 13</a>

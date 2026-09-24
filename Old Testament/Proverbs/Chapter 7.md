@@ -51,8 +51,6 @@ description: "Proverbs 7 in plain English: My son, remember my words and keep my
 
 # Proverbs 7
 
-<p class="chapter-intro">Proverbs chapter 7 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Proverbs 7 audio">
@@ -123,8 +121,6 @@ description: "Proverbs 7 in plain English: My son, remember my words and keep my
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="Proverbs 7:27">27</a> Her house is the path to destruction, leading down to the rooms of death.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Proverbs 7:1, Simplified Bible (simplified.bible)</em>. <a href="/text/proverbs/7.txt">Plain text of Proverbs 7</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Proverbs/Chapter%206.html" rel="prev">&larr; Proverbs 6</a>

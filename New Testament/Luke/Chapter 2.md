@@ -51,8 +51,6 @@ description: "Luke 2 in plain English: At that time, Caesar Augustus ordered tha
 
 # Luke 2
 
-<p class="chapter-intro">Luke chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Luke 2 audio">
@@ -173,8 +171,6 @@ description: "Luke 2 in plain English: At that time, Caesar Augustus ordered tha
 <p class="verse" id="v52"><a class="verse-num" href="#v52" aria-label="Luke 2:52">52</a> Jesus grew wiser and taller, and became liked by both God and people.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Luke 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/luke/2.txt">Plain text of Luke 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Luke/Chapter%201.html" rel="prev">&larr; Luke 1</a>

@@ -51,8 +51,6 @@ description: "1 Samuel 30 in plain English: When David and his men arrived at Zi
 
 # 1 Samuel 30
 
-<p class="chapter-intro">1 Samuel chapter 30 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Samuel 30 audio">
@@ -131,8 +129,6 @@ description: "1 Samuel 30 in plain English: When David and his men arrived at Zi
 <p class="verse" id="v31"><a class="verse-num" href="#v31" aria-label="1 Samuel 30:31">31</a> To those in Hebron and all the places where David and his men used to visit.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Samuel 30:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-samuel/30.txt">Plain text of 1 Samuel 30</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Samuel/Chapter%2029.html" rel="prev">&larr; 1 Samuel 29</a>

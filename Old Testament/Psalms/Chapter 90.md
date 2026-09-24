@@ -51,8 +51,6 @@ description: "Psalms 90 in plain English: God, you have been our home through al
 
 # Psalms 90
 
-<p class="chapter-intro">Psalms chapter 90 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 90 audio">
@@ -103,8 +101,6 @@ description: "Psalms 90 in plain English: God, you have been our home through al
 <p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="Psalms 90:17">17</a> May God&#39;s beauty be with us: make the work of our hands strong; yes, make our work strong.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 90:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/90.txt">Plain text of Psalms 90</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2089.html" rel="prev">&larr; Psalms 89</a>

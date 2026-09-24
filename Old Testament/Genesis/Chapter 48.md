@@ -51,8 +51,6 @@ description: "Genesis 48 in plain English: After these events, someone informed 
 
 # Genesis 48
 
-<p class="chapter-intro">Genesis chapter 48 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 48 audio">
@@ -113,8 +111,6 @@ description: "Genesis 48 in plain English: After these events, someone informed 
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Genesis 48:22">22</a> I have also given you an extra share beyond your brothers, which I took from the Amorite using my sword and bow.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 48:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/48.txt">Plain text of Genesis 48</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%2047.html" rel="prev">&larr; Genesis 47</a>

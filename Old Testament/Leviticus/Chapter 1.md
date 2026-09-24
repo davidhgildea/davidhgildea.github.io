@@ -51,8 +51,6 @@ description: "Leviticus 1 in plain English: God called to Moses and spoke to him
 
 # Leviticus 1
 
-<p class="chapter-intro">Leviticus chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Leviticus 1 audio">
@@ -103,8 +101,6 @@ description: "Leviticus 1 in plain English: God called to Moses and spoke to him
 <p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="Leviticus 1:17">17</a> He should split it to its wings, but not cut it completely. The priest will burn it on the altar with wood on the fire. It is a burnt offering, a fire sacrifice, that smells good to God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Leviticus 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/leviticus/1.txt">Plain text of Leviticus 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Exodus/Chapter%2040.html" rel="prev">&larr; Exodus 40</a>

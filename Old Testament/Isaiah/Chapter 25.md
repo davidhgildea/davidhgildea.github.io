@@ -51,8 +51,6 @@ description: "Isaiah 25 in plain English: God, you are my God; I will lift you u
 
 # Isaiah 25
 
-<p class="chapter-intro">Isaiah chapter 25 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 25 audio">
@@ -93,8 +91,6 @@ description: "Isaiah 25 in plain English: God, you are my God; I will lift you u
 <p class="verse" id="v12"><a class="verse-num" href="#v12" aria-label="Isaiah 25:12">12</a> God will tear down the strong fortress in your high walls, flatten and reduce it to dust.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 25:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/25.txt">Plain text of Isaiah 25</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2024.html" rel="prev">&larr; Isaiah 24</a>

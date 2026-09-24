@@ -51,8 +51,6 @@ description: "Revelation 17 in plain English: One of the seven angels, who had t
 
 # Revelation 17
 
-<p class="chapter-intro">Revelation chapter 17 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Revelation 17 audio">
@@ -105,8 +103,6 @@ description: "Revelation 17 in plain English: One of the seven angels, who had t
 <p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="Revelation 17:18">18</a> The woman you saw represents the big city that has power over the world&#39;s rulers.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Revelation 17:1, Simplified Bible (simplified.bible)</em>. <a href="/text/revelation/17.txt">Plain text of Revelation 17</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Revelation/Chapter%2016.html" rel="prev">&larr; Revelation 16</a>

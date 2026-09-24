@@ -51,8 +51,6 @@ description: "Psalms 108 in plain English: God, my heart is steady; I will sing 
 
 # Psalms 108
 
-<p class="chapter-intro">Psalms chapter 108 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 108 audio">
@@ -95,8 +93,6 @@ description: "Psalms 108 in plain English: God, my heart is steady; I will sing 
 <p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Psalms 108:13">13</a> With God&#39;s help, we will be brave; He will defeat our enemies.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 108:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/108.txt">Plain text of Psalms 108</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%20107.html" rel="prev">&larr; Psalms 107</a>

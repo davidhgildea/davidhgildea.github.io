@@ -51,8 +51,6 @@ description: "Ecclesiastes 8 in plain English: Who is as wise as that person? An
 
 # Ecclesiastes 8
 
-<p class="chapter-intro">Ecclesiastes chapter 8 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ecclesiastes 8 audio">
@@ -103,8 +101,6 @@ description: "Ecclesiastes 8 in plain English: Who is as wise as that person? An
 <p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="Ecclesiastes 8:17">17</a> I saw everything God has done, and we can&#39;t fully understand all that happens on earth. Even if we work hard to search for it, we won&#39;t find it. And even if a wise person thinks they can know it, they won&#39;t be able to discover it.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ecclesiastes 8:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ecclesiastes/8.txt">Plain text of Ecclesiastes 8</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ecclesiastes/Chapter%207.html" rel="prev">&larr; Ecclesiastes 7</a>

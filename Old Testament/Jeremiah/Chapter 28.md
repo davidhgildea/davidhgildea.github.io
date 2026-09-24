@@ -51,8 +51,6 @@ description: "Jeremiah 28 in plain English: That year, when Zedekiah started rul
 
 # Jeremiah 28
 
-<p class="chapter-intro">Jeremiah chapter 28 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 28 audio">
@@ -103,8 +101,6 @@ description: "Jeremiah 28 in plain English: That year, when Zedekiah started rul
 <p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="Jeremiah 28:17">17</a> The prophet Hananiah died that year in the seventh month.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 28:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/28.txt">Plain text of Jeremiah 28</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2027.html" rel="prev">&larr; Jeremiah 27</a>

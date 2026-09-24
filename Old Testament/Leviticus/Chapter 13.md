@@ -51,8 +51,6 @@ description: "Leviticus 13 in plain English: God spoke to Moses and Aaron, sayin
 
 # Leviticus 13
 
-<p class="chapter-intro">Leviticus chapter 13 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Leviticus 13 audio">
@@ -187,8 +185,6 @@ description: "Leviticus 13 in plain English: God spoke to Moses and Aaron, sayin
 <p class="verse" id="v59"><a class="verse-num" href="#v59" aria-label="Leviticus 13:59">59</a> This is the rule for a disease like leprosy in clothes made of wool or linen, whether in the threads or in anything made of skin, to say if it is clean or not clean.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Leviticus 13:1, Simplified Bible (simplified.bible)</em>. <a href="/text/leviticus/13.txt">Plain text of Leviticus 13</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Leviticus/Chapter%2012.html" rel="prev">&larr; Leviticus 12</a>

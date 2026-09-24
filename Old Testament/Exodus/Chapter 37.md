@@ -51,8 +51,6 @@ description: "Exodus 37 in plain English: Bezaleel made the ark from acacia wood
 
 # Exodus 37
 
-<p class="chapter-intro">Exodus chapter 37 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Exodus 37 audio">
@@ -127,8 +125,6 @@ description: "Exodus 37 in plain English: Bezaleel made the ark from acacia wood
 <p class="verse" id="v29"><a class="verse-num" href="#v29" aria-label="Exodus 37:29">29</a> He made the sacred oil for anointing and the pure, sweet-smelling incense, as a perfumer would.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Exodus 37:1, Simplified Bible (simplified.bible)</em>. <a href="/text/exodus/37.txt">Plain text of Exodus 37</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Exodus/Chapter%2036.html" rel="prev">&larr; Exodus 36</a>

@@ -51,8 +51,6 @@ description: "Daniel 11 in plain English: Also, in the first year of Darius the 
 
 # Daniel 11
 
-<p class="chapter-intro">Daniel chapter 11 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Daniel 11 audio">
@@ -159,8 +157,6 @@ description: "Daniel 11 in plain English: Also, in the first year of Darius the 
 <p class="verse" id="v45"><a class="verse-num" href="#v45" aria-label="Daniel 11:45">45</a> He will set up his royal tents between the seas at the beautiful holy mountain; but he will meet his end, and no one will help him.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Daniel 11:1, Simplified Bible (simplified.bible)</em>. <a href="/text/daniel/11.txt">Plain text of Daniel 11</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Daniel/Chapter%2010.html" rel="prev">&larr; Daniel 10</a>

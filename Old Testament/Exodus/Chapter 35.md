@@ -51,8 +51,6 @@ description: "Exodus 35 in plain English: Moses brought all the Israelites toget
 
 # Exodus 35
 
-<p class="chapter-intro">Exodus chapter 35 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Exodus 35 audio">
@@ -139,8 +137,6 @@ description: "Exodus 35 in plain English: Moses brought all the Israelites toget
 <p class="verse" id="v35"><a class="verse-num" href="#v35" aria-label="Exodus 35:35">35</a> He has given them skilled hearts to do every kind of work: engraving, expert crafting, and embroidering with blue, purple, scarlet thread and fine linen, and weaving. They can do any job and create intricate designs.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Exodus 35:1, Simplified Bible (simplified.bible)</em>. <a href="/text/exodus/35.txt">Plain text of Exodus 35</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Exodus/Chapter%2034.html" rel="prev">&larr; Exodus 34</a>

@@ -51,8 +51,6 @@ description: "Acts 11 in plain English: The apostles and believers in Judea hear
 
 # Acts 11
 
-<p class="chapter-intro">Acts chapter 11 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Acts 11 audio">
@@ -129,8 +127,6 @@ description: "Acts 11 in plain English: The apostles and believers in Judea hear
 <p class="verse" id="v30"><a class="verse-num" href="#v30" aria-label="Acts 11:30">30</a> They did this and sent it to the leaders through Barnabas and Saul.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Acts 11:1, Simplified Bible (simplified.bible)</em>. <a href="/text/acts/11.txt">Plain text of Acts 11</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Acts/Chapter%2010.html" rel="prev">&larr; Acts 10</a>

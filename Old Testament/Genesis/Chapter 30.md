@@ -51,8 +51,6 @@ description: "Genesis 30 in plain English: When Rachel saw she had no children f
 
 # Genesis 30
 
-<p class="chapter-intro">Genesis chapter 30 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 30 audio">
@@ -155,8 +153,6 @@ description: "Genesis 30 in plain English: When Rachel saw she had no children f
 <p class="verse" id="v43"><a class="verse-num" href="#v43" aria-label="Genesis 30:43">43</a> The man became very rich, with many cattle, female and male servants, camels, and donkeys.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 30:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/30.txt">Plain text of Genesis 30</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%2029.html" rel="prev">&larr; Genesis 29</a>

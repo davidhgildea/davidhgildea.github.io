@@ -51,8 +51,6 @@ description: "Philippians 1 in plain English: Paul and Timothy, who serve Jesus 
 
 # Philippians 1
 
-<p class="chapter-intro">Philippians chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Philippians 1 audio">
@@ -129,8 +127,6 @@ description: "Philippians 1 in plain English: Paul and Timothy, who serve Jesus 
 <p class="verse" id="v30"><a class="verse-num" href="#v30" aria-label="Philippians 1:30">30</a> You are facing the same struggle that you saw I had, and now you hear that I still have.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Philippians 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/philippians/1.txt">Plain text of Philippians 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Ephesians/Chapter%206.html" rel="prev">&larr; Ephesians 6</a>

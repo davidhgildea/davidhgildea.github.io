@@ -51,8 +51,6 @@ description: "Judges 11 in plain English: Jephthah from Gilead was a brave warri
 
 # Judges 11
 
-<p class="chapter-intro">Judges chapter 11 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Judges 11 audio">
@@ -149,8 +147,6 @@ description: "Judges 11 in plain English: Jephthah from Gilead was a brave warri
 <p class="verse" id="v40"><a class="verse-num" href="#v40" aria-label="Judges 11:40">40</a> Every year, the women of Israel would mourn for Jephthah the Gileadite&#39;s daughter for four days.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Judges 11:1, Simplified Bible (simplified.bible)</em>. <a href="/text/judges/11.txt">Plain text of Judges 11</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Judges/Chapter%2010.html" rel="prev">&larr; Judges 10</a>

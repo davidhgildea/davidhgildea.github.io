@@ -51,8 +51,6 @@ description: "Jeremiah 43 in plain English: When Jeremiah finished telling the p
 
 # Jeremiah 43
 
-<p class="chapter-intro">Jeremiah chapter 43 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 43 audio">
@@ -95,8 +93,6 @@ description: "Jeremiah 43 in plain English: When Jeremiah finished telling the p
 <p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Jeremiah 43:13">13</a> He will also destroy the statues in Bethshemesh in Egypt; he will burn down the Egyptian temples.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 43:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/43.txt">Plain text of Jeremiah 43</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2042.html" rel="prev">&larr; Jeremiah 42</a>

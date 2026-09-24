@@ -51,8 +51,6 @@ description: "John 2 in plain English: On the third day, there was a wedding in 
 
 # John 2
 
-<p class="chapter-intro">John chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="John 2 audio">
@@ -119,8 +117,6 @@ description: "John 2 in plain English: On the third day, there was a wedding in 
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="John 2:25">25</a> He didn&#39;t need anyone to tell him about people because he knew what was in everyone.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>John 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/john/2.txt">Plain text of John 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/John/Chapter%201.html" rel="prev">&larr; John 1</a>

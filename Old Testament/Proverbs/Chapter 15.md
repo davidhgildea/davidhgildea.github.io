@@ -51,8 +51,6 @@ description: "Proverbs 15 in plain English: A gentle reply calms anger, but hars
 
 # Proverbs 15
 
-<p class="chapter-intro">Proverbs chapter 15 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Proverbs 15 audio">
@@ -135,8 +133,6 @@ description: "Proverbs 15 in plain English: A gentle reply calms anger, but hars
 <p class="verse" id="v33"><a class="verse-num" href="#v33" aria-label="Proverbs 15:33">33</a> Respecting God teaches wisdom; before getting honor, you must be humble.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Proverbs 15:1, Simplified Bible (simplified.bible)</em>. <a href="/text/proverbs/15.txt">Plain text of Proverbs 15</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Proverbs/Chapter%2014.html" rel="prev">&larr; Proverbs 14</a>

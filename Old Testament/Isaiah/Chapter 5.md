@@ -51,8 +51,6 @@ description: "Isaiah 5 in plain English: I will sing a song for my loved one abo
 
 # Isaiah 5
 
-<p class="chapter-intro">Isaiah chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 5 audio">
@@ -129,8 +127,6 @@ description: "Isaiah 5 in plain English: I will sing a song for my loved one abo
 <p class="verse" id="v30"><a class="verse-num" href="#v30" aria-label="Isaiah 5:30">30</a> On that day, they will shout at them like the sea&#39;s roar. If someone looks at the land, they will see darkness and sadness, and even the sky above will be dark.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/5.txt">Plain text of Isaiah 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%204.html" rel="prev">&larr; Isaiah 4</a>

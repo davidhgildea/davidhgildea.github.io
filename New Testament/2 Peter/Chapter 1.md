@@ -51,8 +51,6 @@ description: "2 Peter 1 in plain English: Simon Peter, a servant and apostle of 
 
 # 2 Peter 1
 
-<p class="chapter-intro">2 Peter chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Peter 1 audio">
@@ -111,8 +109,6 @@ description: "2 Peter 1 in plain English: Simon Peter, a servant and apostle of 
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="2 Peter 1:21">21</a> The prophecy did not come long ago by human will, but holy men spoke from God as they were inspired by the Holy Spirit.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Peter 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-peter/1.txt">Plain text of 2 Peter 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/1%20Peter/Chapter%205.html" rel="prev">&larr; 1 Peter 5</a>

@@ -51,8 +51,6 @@ description: "Job 8 in plain English: Bildad the Shuhite replied, saying, How lo
 
 # Job 8
 
-<p class="chapter-intro">Job chapter 8 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Job 8 audio">
@@ -113,8 +111,6 @@ description: "Job 8 in plain English: Bildad the Shuhite replied, saying, How lo
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Job 8:22">22</a> Those who hate you will be covered with shame; the home of the evil will become nothing.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Job 8:1, Simplified Bible (simplified.bible)</em>. <a href="/text/job/8.txt">Plain text of Job 8</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Job/Chapter%207.html" rel="prev">&larr; Job 7</a>

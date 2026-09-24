@@ -51,8 +51,6 @@ description: "Song of Solomon 8 in plain English: I wish you were like my brothe
 
 # Song of Solomon 8
 
-<p class="chapter-intro">Song of Solomon chapter 8 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Song of Solomon 8 audio">
@@ -97,8 +95,6 @@ description: "Song of Solomon 8 in plain English: I wish you were like my brothe
 <p class="verse" id="v14"><a class="verse-num" href="#v14" aria-label="Song of Solomon 8:14">14</a> Hurry, my loved one, and be like a deer or a young stag on the spice-covered hills.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Song of Solomon 8:1, Simplified Bible (simplified.bible)</em>. <a href="/text/song-of-solomon/8.txt">Plain text of Song of Solomon 8</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Song%20of%20Solomon/Chapter%207.html" rel="prev">&larr; Song of Solomon 7</a>

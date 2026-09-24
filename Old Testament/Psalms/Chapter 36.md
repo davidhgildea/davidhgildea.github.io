@@ -51,8 +51,6 @@ description: "Psalms 36 in plain English: The bad person's wrongdoing tells me d
 
 # Psalms 36
 
-<p class="chapter-intro">Psalms chapter 36 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 36 audio">
@@ -93,8 +91,6 @@ description: "Psalms 36 in plain English: The bad person's wrongdoing tells me d
 <p class="verse" id="v12"><a class="verse-num" href="#v12" aria-label="Psalms 36:12">12</a> The evil doers have fallen; they are pushed down and can&#39;t get back up.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 36:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/36.txt">Plain text of Psalms 36</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2035.html" rel="prev">&larr; Psalms 35</a>

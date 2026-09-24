@@ -51,8 +51,6 @@ description: "Deuteronomy 6 in plain English: Here are the rules, laws, and deci
 
 # Deuteronomy 6
 
-<p class="chapter-intro">Deuteronomy chapter 6 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Deuteronomy 6 audio">
@@ -119,8 +117,6 @@ description: "Deuteronomy 6 in plain English: Here are the rules, laws, and deci
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Deuteronomy 6:25">25</a> We will be doing what is right if we carefully follow all these commands from God, just as he has told us to do.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Deuteronomy 6:1, Simplified Bible (simplified.bible)</em>. <a href="/text/deuteronomy/6.txt">Plain text of Deuteronomy 6</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Deuteronomy/Chapter%205.html" rel="prev">&larr; Deuteronomy 5</a>

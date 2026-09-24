@@ -51,8 +51,6 @@ description: "1 Kings 11 in plain English: King Solomon loved many foreign women
 
 # 1 Kings 11
 
-<p class="chapter-intro">1 Kings chapter 11 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Kings 11 audio">
@@ -155,8 +153,6 @@ description: "1 Kings 11 in plain English: King Solomon loved many foreign women
 <p class="verse" id="v43"><a class="verse-num" href="#v43" aria-label="1 Kings 11:43">43</a> Solomon died and was buried in his father David&#39;s city, and his son Rehoboam became king after him.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Kings 11:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-kings/11.txt">Plain text of 1 Kings 11</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Kings/Chapter%2010.html" rel="prev">&larr; 1 Kings 10</a>

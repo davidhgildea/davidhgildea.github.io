@@ -51,8 +51,6 @@ description: "Joshua 23 in plain English: Long after God gave Israel peace from 
 
 # Joshua 23
 
-<p class="chapter-intro">Joshua chapter 23 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Joshua 23 audio">
@@ -101,8 +99,6 @@ description: "Joshua 23 in plain English: Long after God gave Israel peace from 
 <p class="verse" id="v16"><a class="verse-num" href="#v16" aria-label="Joshua 23:16">16</a> When you break God&#39;s agreement that he gave you, and follow and worship other gods, God will get very angry with you, and you will soon be destroyed and taken away from the good land he gave you.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Joshua 23:1, Simplified Bible (simplified.bible)</em>. <a href="/text/joshua/23.txt">Plain text of Joshua 23</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Joshua/Chapter%2022.html" rel="prev">&larr; Joshua 22</a>

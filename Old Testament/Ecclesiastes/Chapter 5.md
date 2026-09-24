@@ -51,8 +51,6 @@ description: "Ecclesiastes 5 in plain English: Be careful when you enter God's h
 
 # Ecclesiastes 5
 
-<p class="chapter-intro">Ecclesiastes chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ecclesiastes 5 audio">
@@ -109,8 +107,6 @@ description: "Ecclesiastes 5 in plain English: Be careful when you enter God's h
 <p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="Ecclesiastes 5:20">20</a> He won&#39;t think much about his life&#39;s days, because God responds to him with joy in his heart.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ecclesiastes 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ecclesiastes/5.txt">Plain text of Ecclesiastes 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ecclesiastes/Chapter%204.html" rel="prev">&larr; Ecclesiastes 4</a>

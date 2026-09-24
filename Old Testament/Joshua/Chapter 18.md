@@ -51,8 +51,6 @@ description: "Joshua 18 in plain English: The whole group of Israel's people gat
 
 # Joshua 18
 
-<p class="chapter-intro">Joshua chapter 18 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Joshua 18 audio">
@@ -125,8 +123,6 @@ description: "Joshua 18 in plain English: The whole group of Israel's people gat
 <p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="Joshua 18:28">28</a> Zelah, Eleph, Jebusi (which is Jerusalem), Gibeath, and Kirjath are fourteen cities with their villages. This land is what the families of Benjamin&#39;s descendants received as their share.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Joshua 18:1, Simplified Bible (simplified.bible)</em>. <a href="/text/joshua/18.txt">Plain text of Joshua 18</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Joshua/Chapter%2017.html" rel="prev">&larr; Joshua 17</a>

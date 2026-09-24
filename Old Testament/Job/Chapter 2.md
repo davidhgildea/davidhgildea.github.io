@@ -51,8 +51,6 @@ description: "Job 2 in plain English: Once more, a time came when God's children
 
 # Job 2
 
-<p class="chapter-intro">Job chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Job 2 audio">
@@ -95,8 +93,6 @@ description: "Job 2 in plain English: Once more, a time came when God's children
 <p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Job 2:13">13</a> They sat with him on the ground for seven days and nights without speaking because they saw his sorrow was very deep.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Job 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/job/2.txt">Plain text of Job 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Job/Chapter%201.html" rel="prev">&larr; Job 1</a>

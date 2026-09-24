@@ -51,8 +51,6 @@ description: "Isaiah 55 in plain English: Everyone who is thirsty, come to the w
 
 # Isaiah 55
 
-<p class="chapter-intro">Isaiah chapter 55 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 55 audio">
@@ -95,8 +93,6 @@ description: "Isaiah 55 in plain English: Everyone who is thirsty, come to the w
 <p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Isaiah 55:13">13</a> Where there were thorns, the fir tree will grow, and where there were briers, the myrtle tree will grow. This will bring honor to God, a lasting sign that will not be destroyed.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 55:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/55.txt">Plain text of Isaiah 55</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2054.html" rel="prev">&larr; Isaiah 54</a>

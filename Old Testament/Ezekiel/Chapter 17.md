@@ -51,8 +51,6 @@ description: "Ezekiel 17 in plain English: God spoke to me, saying, Human, tell 
 
 # Ezekiel 17
 
-<p class="chapter-intro">Ezekiel chapter 17 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 17 audio">
@@ -117,8 +115,6 @@ description: "Ezekiel 17 in plain English: God spoke to me, saying, Human, tell 
 <p class="verse" id="v24"><a class="verse-num" href="#v24" aria-label="Ezekiel 17:24">24</a> All the trees in the land will know that I, God, have made the tall tree fall, raised the small tree, dried up the green tree, and made the dry tree grow. I, God, have said it and made it happen.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 17:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/17.txt">Plain text of Ezekiel 17</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2016.html" rel="prev">&larr; Ezekiel 16</a>

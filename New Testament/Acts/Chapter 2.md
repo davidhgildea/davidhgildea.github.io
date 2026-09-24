@@ -51,8 +51,6 @@ description: "Acts 2 in plain English: When Pentecost Day arrived, they were all
 
 # Acts 2
 
-<p class="chapter-intro">Acts chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Acts 2 audio">
@@ -163,8 +161,6 @@ description: "Acts 2 in plain English: When Pentecost Day arrived, they were all
 <p class="verse" id="v47"><a class="verse-num" href="#v47" aria-label="Acts 2:47">47</a> Praising God and being liked by everyone. And God added to the group every day those who would be saved.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Acts 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/acts/2.txt">Plain text of Acts 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Acts/Chapter%201.html" rel="prev">&larr; Acts 1</a>

@@ -51,8 +51,6 @@ description: "Jeremiah 16 in plain English: God's message came to me, saying, Do
 
 # Jeremiah 16
 
-<p class="chapter-intro">Jeremiah chapter 16 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jeremiah 16 audio">
@@ -111,8 +109,6 @@ description: "Jeremiah 16 in plain English: God's message came to me, saying, Do
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Jeremiah 16:21">21</a> So, I will let them see who I am this time, let them know my power and strength; and they will understand that my name is God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jeremiah 16:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jeremiah/16.txt">Plain text of Jeremiah 16</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jeremiah/Chapter%2015.html" rel="prev">&larr; Jeremiah 15</a>

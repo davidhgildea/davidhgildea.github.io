@@ -51,8 +51,6 @@ description: "Matthew 8 in plain English: When he came down from the mountain, m
 
 # Matthew 8
 
-<p class="chapter-intro">Matthew chapter 8 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Matthew 8 audio">
@@ -137,8 +135,6 @@ description: "Matthew 8 in plain English: When he came down from the mountain, m
 <p class="verse" id="v34"><a class="verse-num" href="#v34" aria-label="Matthew 8:34">34</a> Look, everyone from the city came to see Jesus; and when they saw him, they asked him to leave their area.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Matthew 8:1, Simplified Bible (simplified.bible)</em>. <a href="/text/matthew/8.txt">Plain text of Matthew 8</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Matthew/Chapter%207.html" rel="prev">&larr; Matthew 7</a>

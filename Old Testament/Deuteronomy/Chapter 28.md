@@ -51,8 +51,6 @@ description: "Deuteronomy 28 in plain English: If you carefully listen to God an
 
 # Deuteronomy 28
 
-<p class="chapter-intro">Deuteronomy chapter 28 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Deuteronomy 28 audio">
@@ -205,8 +203,6 @@ description: "Deuteronomy 28 in plain English: If you carefully listen to God an
 <p class="verse" id="v68"><a class="verse-num" href="#v68" aria-label="Deuteronomy 28:68">68</a> God will take you back to Egypt in ships, by the path I told you you&#39;d never see again. There, you will be sold to your enemies as slaves, both men and women, but no one will buy you.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Deuteronomy 28:1, Simplified Bible (simplified.bible)</em>. <a href="/text/deuteronomy/28.txt">Plain text of Deuteronomy 28</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Deuteronomy/Chapter%2027.html" rel="prev">&larr; Deuteronomy 27</a>

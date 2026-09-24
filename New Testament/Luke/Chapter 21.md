@@ -51,8 +51,6 @@ description: "Luke 21 in plain English: He looked up and saw the wealthy people 
 
 # Luke 21
 
-<p class="chapter-intro">Luke chapter 21 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Luke 21 audio">
@@ -145,8 +143,6 @@ description: "Luke 21 in plain English: He looked up and saw the wealthy people 
 <p class="verse" id="v38"><a class="verse-num" href="#v38" aria-label="Luke 21:38">38</a> All the people came early in the morning to the temple to hear him.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Luke 21:1, Simplified Bible (simplified.bible)</em>. <a href="/text/luke/21.txt">Plain text of Luke 21</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Luke/Chapter%2020.html" rel="prev">&larr; Luke 20</a>

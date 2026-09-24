@@ -51,8 +51,6 @@ description: "Leviticus 20 in plain English: God spoke to Moses, saying, Tell th
 
 # Leviticus 20
 
-<p class="chapter-intro">Leviticus chapter 20 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Leviticus 20 audio">
@@ -123,8 +121,6 @@ description: "Leviticus 20 in plain English: God spoke to Moses, saying, Tell th
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="Leviticus 20:27">27</a> Anyone, man or woman, who consults with spirits or is a wizard, must be put to death; they will be stoned, and they are responsible for their own death.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Leviticus 20:1, Simplified Bible (simplified.bible)</em>. <a href="/text/leviticus/20.txt">Plain text of Leviticus 20</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Leviticus/Chapter%2019.html" rel="prev">&larr; Leviticus 19</a>

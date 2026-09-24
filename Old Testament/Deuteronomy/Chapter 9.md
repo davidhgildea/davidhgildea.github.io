@@ -51,8 +51,6 @@ description: "Deuteronomy 9 in plain English: Listen, Israel: Today you will cro
 
 # Deuteronomy 9
 
-<p class="chapter-intro">Deuteronomy chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Deuteronomy 9 audio">
@@ -127,8 +125,6 @@ description: "Deuteronomy 9 in plain English: Listen, Israel: Today you will cro
 <p class="verse" id="v29"><a class="verse-num" href="#v29" aria-label="Deuteronomy 9:29">29</a> They are your people and your heritage, whom you brought out with your great power and your outstretched arm.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Deuteronomy 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/deuteronomy/9.txt">Plain text of Deuteronomy 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Deuteronomy/Chapter%208.html" rel="prev">&larr; Deuteronomy 8</a>

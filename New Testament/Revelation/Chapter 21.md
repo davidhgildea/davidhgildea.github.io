@@ -51,8 +51,6 @@ description: "Revelation 21 in plain English: I saw a new sky and a new land bec
 
 # Revelation 21
 
-<p class="chapter-intro">Revelation chapter 21 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Revelation 21 audio">
@@ -123,8 +121,6 @@ description: "Revelation 21 in plain English: I saw a new sky and a new land bec
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="Revelation 21:27">27</a> Nothing unclean, no one who does disgusting things or tells lies will enter it, only those whose names are in the Lamb&#39;s book of life.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Revelation 21:1, Simplified Bible (simplified.bible)</em>. <a href="/text/revelation/21.txt">Plain text of Revelation 21</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Revelation/Chapter%2020.html" rel="prev">&larr; Revelation 20</a>

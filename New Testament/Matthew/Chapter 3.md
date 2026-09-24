@@ -51,8 +51,6 @@ description: "Matthew 3 in plain English: In those days, John the Baptist came, 
 
 # Matthew 3
 
-<p class="chapter-intro">Matthew chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Matthew 3 audio">
@@ -103,8 +101,6 @@ description: "Matthew 3 in plain English: In those days, John the Baptist came, 
 <p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="Matthew 3:17">17</a> A voice from heaven said, &quot;This is my dear Son, who makes me very happy.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Matthew 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/matthew/3.txt">Plain text of Matthew 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Matthew/Chapter%202.html" rel="prev">&larr; Matthew 2</a>

@@ -51,8 +51,6 @@ description: "Exodus 40 in plain English: God spoke to Moses, saying, On the fir
 
 # Exodus 40
 
-<p class="chapter-intro">Exodus chapter 40 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Exodus 40 audio">
@@ -145,8 +143,6 @@ description: "Exodus 40 in plain English: God spoke to Moses, saying, On the fir
 <p class="verse" id="v38"><a class="verse-num" href="#v38" aria-label="Exodus 40:38">38</a> God&#39;s cloud was over the tent during the day, and at night, there was fire in all the Israelites&#39; view during their travels.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Exodus 40:1, Simplified Bible (simplified.bible)</em>. <a href="/text/exodus/40.txt">Plain text of Exodus 40</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Exodus/Chapter%2039.html" rel="prev">&larr; Exodus 39</a>

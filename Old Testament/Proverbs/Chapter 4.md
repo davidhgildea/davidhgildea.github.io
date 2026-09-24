@@ -51,8 +51,6 @@ description: "Proverbs 4 in plain English: Listen, children, to a father's teach
 
 # Proverbs 4
 
-<p class="chapter-intro">Proverbs chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Proverbs 4 audio">
@@ -123,8 +121,6 @@ description: "Proverbs 4 in plain English: Listen, children, to a father's teach
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="Proverbs 4:27">27</a> Do not turn right or left: keep away from evil.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Proverbs 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/proverbs/4.txt">Plain text of Proverbs 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Proverbs/Chapter%203.html" rel="prev">&larr; Proverbs 3</a>

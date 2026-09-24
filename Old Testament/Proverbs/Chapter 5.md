@@ -51,8 +51,6 @@ description: "Proverbs 5 in plain English: My son, listen to my wisdom, and pay 
 
 # Proverbs 5
 
-<p class="chapter-intro">Proverbs chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Proverbs 5 audio">
@@ -115,8 +113,6 @@ description: "Proverbs 5 in plain English: My son, listen to my wisdom, and pay 
 <p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Proverbs 5:23">23</a> He will die for lack of teaching, and because of his great foolishness, he will lose his way.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Proverbs 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/proverbs/5.txt">Plain text of Proverbs 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Proverbs/Chapter%204.html" rel="prev">&larr; Proverbs 4</a>

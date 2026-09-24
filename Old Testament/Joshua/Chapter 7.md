@@ -51,8 +51,6 @@ description: "Joshua 7 in plain English: The Israelites did wrong with the curse
 
 # Joshua 7
 
-<p class="chapter-intro">Joshua chapter 7 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Joshua 7 audio">
@@ -121,8 +119,6 @@ description: "Joshua 7 in plain English: The Israelites did wrong with the curse
 <p class="verse" id="v26"><a class="verse-num" href="#v26" aria-label="Joshua 7:26">26</a> They put a big pile of stones over him, which is still there today. So God stopped being so angry. That&#39;s why they named the place the Valley of Trouble, a name it still has today.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Joshua 7:1, Simplified Bible (simplified.bible)</em>. <a href="/text/joshua/7.txt">Plain text of Joshua 7</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Joshua/Chapter%206.html" rel="prev">&larr; Joshua 6</a>

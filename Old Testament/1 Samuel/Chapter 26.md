@@ -51,8 +51,6 @@ description: "1 Samuel 26 in plain English: The Ziphites went to Saul in Gibeah 
 
 # 1 Samuel 26
 
-<p class="chapter-intro">1 Samuel chapter 26 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Samuel 26 audio">
@@ -119,8 +117,6 @@ description: "1 Samuel 26 in plain English: The Ziphites went to Saul in Gibeah 
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="1 Samuel 26:25">25</a> Saul said to David, &quot;God bless you, my son David. You will do great things and succeed.&quot; Then David left and Saul went back to his home.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Samuel 26:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-samuel/26.txt">Plain text of 1 Samuel 26</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Samuel/Chapter%2025.html" rel="prev">&larr; 1 Samuel 25</a>

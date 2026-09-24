@@ -51,8 +51,6 @@ description: "Isaiah 63 in plain English: Who is this coming from Edom, with col
 
 # Isaiah 63
 
-<p class="chapter-intro">Isaiah chapter 63 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 63 audio">
@@ -107,8 +105,6 @@ description: "Isaiah 63 in plain English: Who is this coming from Edom, with col
 <p class="verse" id="v19"><a class="verse-num" href="#v19" aria-label="Isaiah 63:19">19</a> We belong to you; you never ruled over them; they were not called by your name.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 63:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/63.txt">Plain text of Isaiah 63</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2062.html" rel="prev">&larr; Isaiah 62</a>

@@ -51,8 +51,6 @@ description: "Deuteronomy 31 in plain English: Moses went and said these things 
 
 # Deuteronomy 31
 
-<p class="chapter-intro">Deuteronomy chapter 31 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Deuteronomy 31 audio">
@@ -129,8 +127,6 @@ description: "Deuteronomy 31 in plain English: Moses went and said these things 
 <p class="verse" id="v30"><a class="verse-num" href="#v30" aria-label="Deuteronomy 31:30">30</a> Moses spoke to all the Israelites the words of this song until it was finished.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Deuteronomy 31:1, Simplified Bible (simplified.bible)</em>. <a href="/text/deuteronomy/31.txt">Plain text of Deuteronomy 31</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Deuteronomy/Chapter%2030.html" rel="prev">&larr; Deuteronomy 30</a>

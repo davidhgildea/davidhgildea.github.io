@@ -51,8 +51,6 @@ description: "Acts 6 in plain English: During that time, as the number of follow
 
 # Acts 6
 
-<p class="chapter-intro">Acts chapter 6 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Acts 6 audio">
@@ -99,8 +97,6 @@ description: "Acts 6 in plain English: During that time, as the number of follow
 <p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="Acts 6:15">15</a> Everyone in the council stared at him and saw his face shining like an angel&#39;s.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Acts 6:1, Simplified Bible (simplified.bible)</em>. <a href="/text/acts/6.txt">Plain text of Acts 6</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Acts/Chapter%205.html" rel="prev">&larr; Acts 5</a>

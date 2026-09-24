@@ -51,8 +51,6 @@ description: "Ezekiel 46 in plain English: God says: The gate of the inner yard 
 
 # Ezekiel 46
 
-<p class="chapter-intro">Ezekiel chapter 46 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 46 audio">
@@ -117,8 +115,6 @@ description: "Ezekiel 46 in plain English: God says: The gate of the inner yard 
 <p class="verse" id="v24"><a class="verse-num" href="#v24" aria-label="Ezekiel 46:24">24</a> He told me, &quot;These are the kitchens where the temple workers will cook the people&#39;s sacrifices.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 46:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/46.txt">Plain text of Ezekiel 46</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2045.html" rel="prev">&larr; Ezekiel 45</a>

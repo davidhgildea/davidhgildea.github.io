@@ -51,8 +51,6 @@ description: "Romans 9 in plain English: I speak the truth in Christ, I am not l
 
 # Romans 9
 
-<p class="chapter-intro">Romans chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Romans 9 audio">
@@ -135,8 +133,6 @@ description: "Romans 9 in plain English: I speak the truth in Christ, I am not l
 <p class="verse" id="v33"><a class="verse-num" href="#v33" aria-label="Romans 9:33">33</a> It is written, &quot;Look, I put in Zion a stone that makes people fall, and a rock that makes them trip: but anyone who trusts in him will not feel shame.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Romans 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/romans/9.txt">Plain text of Romans 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Romans/Chapter%208.html" rel="prev">&larr; Romans 8</a>

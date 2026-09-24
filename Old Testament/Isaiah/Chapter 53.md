@@ -51,8 +51,6 @@ description: "Isaiah 53 in plain English: Who has believed what we said? And to 
 
 # Isaiah 53
 
-<p class="chapter-intro">Isaiah chapter 53 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 53 audio">
@@ -93,8 +91,6 @@ description: "Isaiah 53 in plain English: Who has believed what we said? And to 
 <p class="verse" id="v12"><a class="verse-num" href="#v12" aria-label="Isaiah 53:12">12</a> So I will give him a share with the great, and he will share the winnings with the mighty, because he gave his life to death: he was counted with the wrongdoers; he took on many people&#39;s sins and spoke up for the wrongdoers.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 53:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/53.txt">Plain text of Isaiah 53</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2052.html" rel="prev">&larr; Isaiah 52</a>

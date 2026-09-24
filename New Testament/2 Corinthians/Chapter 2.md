@@ -51,8 +51,6 @@ description: "2 Corinthians 2 in plain English: I decided not to visit you again
 
 # 2 Corinthians 2
 
-<p class="chapter-intro">2 Corinthians chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Corinthians 2 audio">
@@ -103,8 +101,6 @@ description: "2 Corinthians 2 in plain English: I decided not to visit you again
 <p class="verse" id="v17"><a class="verse-num" href="#v17" aria-label="2 Corinthians 2:17">17</a> We are not like some who misuse God&#39;s words. We speak with honesty, as from God and in God&#39;s presence, we speak in Christ.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Corinthians 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-corinthians/2.txt">Plain text of 2 Corinthians 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/2%20Corinthians/Chapter%201.html" rel="prev">&larr; 2 Corinthians 1</a>

@@ -51,8 +51,6 @@ description: "1 Peter 3 in plain English: Wives, respect your husbands so that e
 
 # 1 Peter 3
 
-<p class="chapter-intro">1 Peter chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Peter 3 audio">
@@ -113,8 +111,6 @@ description: "1 Peter 3 in plain English: Wives, respect your husbands so that e
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="1 Peter 3:22">22</a> He has gone to heaven and sits at God&#39;s right side, with angels, authorities, and powers under his control.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Peter 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-peter/3.txt">Plain text of 1 Peter 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/1%20Peter/Chapter%202.html" rel="prev">&larr; 1 Peter 2</a>

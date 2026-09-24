@@ -51,8 +51,6 @@ description: "Ezra 2 in plain English: These are the children from the province 
 
 # Ezra 2
 
-<p class="chapter-intro">Ezra chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezra 2 audio">
@@ -209,8 +207,6 @@ description: "Ezra 2 in plain English: These are the children from the province 
 <p class="verse" id="v70"><a class="verse-num" href="#v70" aria-label="Ezra 2:70">70</a> The priests, the Levites, some of the people, the singers, the gatekeepers, and the temple servants lived in their towns, and all the people of Israel lived in their towns.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezra 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezra/2.txt">Plain text of Ezra 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezra/Chapter%201.html" rel="prev">&larr; Ezra 1</a>

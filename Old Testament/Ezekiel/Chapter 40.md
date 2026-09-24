@@ -51,8 +51,6 @@ description: "Ezekiel 40 in plain English: In the twenty-fifth year of our capti
 
 # Ezekiel 40
 
-<p class="chapter-intro">Ezekiel chapter 40 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 40 audio">
@@ -167,8 +165,6 @@ description: "Ezekiel 40 in plain English: In the twenty-fifth year of our capti
 <p class="verse" id="v49"><a class="verse-num" href="#v49" aria-label="Ezekiel 40:49">49</a> The porch was 20 units long and 11 units wide, and he led me up the stairs to it. There were columns by the entrance, one on each side.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 40:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/40.txt">Plain text of Ezekiel 40</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2039.html" rel="prev">&larr; Ezekiel 39</a>

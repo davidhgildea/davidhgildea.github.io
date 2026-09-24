@@ -51,8 +51,6 @@ description: "Numbers 6 in plain English: God spoke to Moses, saying, Tell the p
 
 # Numbers 6
 
-<p class="chapter-intro">Numbers chapter 6 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Numbers 6 audio">
@@ -123,8 +121,6 @@ description: "Numbers 6 in plain English: God spoke to Moses, saying, Tell the p
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="Numbers 6:27">27</a> They will give my name to the Israelites, and I will bless them.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Numbers 6:1, Simplified Bible (simplified.bible)</em>. <a href="/text/numbers/6.txt">Plain text of Numbers 6</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Numbers/Chapter%205.html" rel="prev">&larr; Numbers 5</a>

@@ -51,8 +51,6 @@ description: "Isaiah 27 in plain English: On that day, God with His fierce, migh
 
 # Isaiah 27
 
-<p class="chapter-intro">Isaiah chapter 27 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 27 audio">
@@ -95,8 +93,6 @@ description: "Isaiah 27 in plain English: On that day, God with His fierce, migh
 <p class="verse" id="v13"><a class="verse-num" href="#v13" aria-label="Isaiah 27:13">13</a> On that day, a loud trumpet will sound, and those about to die in Assyria, along with the exiles in Egypt, will return and worship God on the holy mountain in Jerusalem.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 27:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/27.txt">Plain text of Isaiah 27</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2026.html" rel="prev">&larr; Isaiah 26</a>

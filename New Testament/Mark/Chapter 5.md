@@ -51,8 +51,6 @@ description: "Mark 5 in plain English: They crossed the sea and reached the land
 
 # Mark 5
 
-<p class="chapter-intro">Mark chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Mark 5 audio">
@@ -155,8 +153,6 @@ description: "Mark 5 in plain English: They crossed the sea and reached the land
 <p class="verse" id="v43"><a class="verse-num" href="#v43" aria-label="Mark 5:43">43</a> He strictly told them to keep it secret and ordered that they give her something to eat.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Mark 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/mark/5.txt">Plain text of Mark 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Mark/Chapter%204.html" rel="prev">&larr; Mark 4</a>

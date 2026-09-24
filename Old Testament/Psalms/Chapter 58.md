@@ -51,8 +51,6 @@ description: "Psalms 58 in plain English: Are you really talking fair, group of 
 
 # Psalms 58
 
-<p class="chapter-intro">Psalms chapter 58 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 58 audio">
@@ -91,8 +89,6 @@ description: "Psalms 58 in plain English: Are you really talking fair, group of 
 <p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Psalms 58:11">11</a> A person will say, &quot;Surely there is a reward for good people; truly, God is the one who judges on earth.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 58:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/58.txt">Plain text of Psalms 58</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2057.html" rel="prev">&larr; Psalms 57</a>

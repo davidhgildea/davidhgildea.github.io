@@ -51,8 +51,6 @@ description: "John 6 in plain English: After this, Jesus crossed the Sea of Gali
 
 # John 6
 
-<p class="chapter-intro">John chapter 6 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="John 6 audio">
@@ -211,8 +209,6 @@ description: "John 6 in plain English: After this, Jesus crossed the Sea of Gali
 <p class="verse" id="v71"><a class="verse-num" href="#v71" aria-label="John 6:71">71</a> He spoke about Judas Iscariot, Simon&#39;s son because he was the one who would betray him, even though he was one of the twelve.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>John 6:1, Simplified Bible (simplified.bible)</em>. <a href="/text/john/6.txt">Plain text of John 6</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/John/Chapter%205.html" rel="prev">&larr; John 5</a>

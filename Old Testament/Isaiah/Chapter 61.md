@@ -51,8 +51,6 @@ description: "Isaiah 61 in plain English: God's Spirit is with me; for God has c
 
 # Isaiah 61
 
-<p class="chapter-intro">Isaiah chapter 61 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 61 audio">
@@ -91,8 +89,6 @@ description: "Isaiah 61 in plain English: God's Spirit is with me; for God has c
 <p class="verse" id="v11"><a class="verse-num" href="#v11" aria-label="Isaiah 61:11">11</a> Just like the earth produces its sprouts and a garden makes its planted seeds grow, God will make fairness and praise blossom in front of all countries.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 61:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/61.txt">Plain text of Isaiah 61</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2060.html" rel="prev">&larr; Isaiah 60</a>

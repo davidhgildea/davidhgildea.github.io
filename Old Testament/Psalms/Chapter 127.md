@@ -51,8 +51,6 @@ description: "Psalms 127 in plain English: Unless God builds the house, those wh
 
 # Psalms 127
 
-<p class="chapter-intro">Psalms chapter 127 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 127 audio">
@@ -79,8 +77,6 @@ description: "Psalms 127 in plain English: Unless God builds the house, those wh
 <p class="verse" id="v5"><a class="verse-num" href="#v5" aria-label="Psalms 127:5">5</a> A happy person has many children. They won&#39;t be embarrassed but will talk to their enemies confidently.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 127:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/127.txt">Plain text of Psalms 127</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%20126.html" rel="prev">&larr; Psalms 126</a>

@@ -51,8 +51,6 @@ description: "Ezekiel 44 in plain English: Then he led me back to the outer sanc
 
 # Ezekiel 44
 
-<p class="chapter-intro">Ezekiel chapter 44 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 44 audio">
@@ -131,8 +129,6 @@ description: "Ezekiel 44 in plain English: Then he led me back to the outer sanc
 <p class="verse" id="v31"><a class="verse-num" href="#v31" aria-label="Ezekiel 44:31">31</a> The priests must not eat anything that has died on its own or been killed by other animals, whether it&#39;s a bird or another kind of animal.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 44:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/44.txt">Plain text of Ezekiel 44</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2043.html" rel="prev">&larr; Ezekiel 43</a>

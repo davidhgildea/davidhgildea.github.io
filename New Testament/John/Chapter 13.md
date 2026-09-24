@@ -51,8 +51,6 @@ description: "John 13 in plain English: Before the Passover feast, when Jesus re
 
 # John 13
 
-<p class="chapter-intro">John chapter 13 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="John 13 audio">
@@ -145,8 +143,6 @@ description: "John 13 in plain English: Before the Passover feast, when Jesus re
 <p class="verse" id="v38"><a class="verse-num" href="#v38" aria-label="John 13:38">38</a> Jesus replied, &quot;Are you ready to give up your life for me? Truly, I tell you, before the rooster crows, you will deny me three times.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>John 13:1, Simplified Bible (simplified.bible)</em>. <a href="/text/john/13.txt">Plain text of John 13</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/John/Chapter%2012.html" rel="prev">&larr; John 12</a>

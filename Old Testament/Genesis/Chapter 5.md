@@ -51,8 +51,6 @@ description: "Genesis 5 in plain English: This book lists Adam's descendants. On
 
 # Genesis 5
 
-<p class="chapter-intro">Genesis chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 5 audio">
@@ -133,8 +131,6 @@ description: "Genesis 5 in plain English: This book lists Adam's descendants. On
 <p class="verse" id="v32"><a class="verse-num" href="#v32" aria-label="Genesis 5:32">32</a> Noah was 500 years old when he had his sons Shem, Ham, and Japheth.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/5.txt">Plain text of Genesis 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%204.html" rel="prev">&larr; Genesis 4</a>

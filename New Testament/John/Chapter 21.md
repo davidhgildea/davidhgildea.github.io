@@ -51,8 +51,6 @@ description: "John 21 in plain English: After these events, Jesus appeared again
 
 # John 21
 
-<p class="chapter-intro">John chapter 21 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="John 21 audio">
@@ -119,8 +117,6 @@ description: "John 21 in plain English: After these events, Jesus appeared again
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="John 21:25">25</a> Jesus did many other things too. If someone wrote them all down, I think the whole world couldn&#39;t hold all the books that would be written. Amen.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>John 21:1, Simplified Bible (simplified.bible)</em>. <a href="/text/john/21.txt">Plain text of John 21</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/John/Chapter%2020.html" rel="prev">&larr; John 20</a>

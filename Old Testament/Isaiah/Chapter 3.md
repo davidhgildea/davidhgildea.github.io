@@ -51,8 +51,6 @@ description: "Isaiah 3 in plain English: Look, God will remove from Jerusalem an
 
 # Isaiah 3
 
-<p class="chapter-intro">Isaiah chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 3 audio">
@@ -121,8 +119,6 @@ description: "Isaiah 3 in plain English: Look, God will remove from Jerusalem an
 <p class="verse" id="v26"><a class="verse-num" href="#v26" aria-label="Isaiah 3:26">26</a> Her gates will cry and grieve; and she, being empty, will sit on the ground.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/3.txt">Plain text of Isaiah 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%202.html" rel="prev">&larr; Isaiah 2</a>

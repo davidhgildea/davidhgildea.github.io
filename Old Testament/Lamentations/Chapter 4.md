@@ -51,8 +51,6 @@ description: "Lamentations 4 in plain English: The gold has lost its shine! The 
 
 # Lamentations 4
 
-<p class="chapter-intro">Lamentations chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Lamentations 4 audio">
@@ -113,8 +111,6 @@ description: "Lamentations 4 in plain English: The gold has lost its shine! The 
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Lamentations 4:22">22</a> Your punishment is finished, daughter of Zion; you won&#39;t be taken away anymore: but he will punish your sins, daughter of Edom; he will expose your wrongs.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Lamentations 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/lamentations/4.txt">Plain text of Lamentations 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Lamentations/Chapter%203.html" rel="prev">&larr; Lamentations 3</a>

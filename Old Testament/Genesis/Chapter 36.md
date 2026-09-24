@@ -51,8 +51,6 @@ description: "Genesis 36 in plain English: These are the descendants of Esau, al
 
 # Genesis 36
 
-<p class="chapter-intro">Genesis chapter 36 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Genesis 36 audio">
@@ -155,8 +153,6 @@ description: "Genesis 36 in plain English: These are the descendants of Esau, al
 <p class="verse" id="v43"><a class="verse-num" href="#v43" aria-label="Genesis 36:43">43</a> Chief Magdiel, chief Iram: these are the chiefs of Edom, living in the land they own: he is Esau, the ancestor of the Edomites.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Genesis 36:1, Simplified Bible (simplified.bible)</em>. <a href="/text/genesis/36.txt">Plain text of Genesis 36</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Genesis/Chapter%2035.html" rel="prev">&larr; Genesis 35</a>

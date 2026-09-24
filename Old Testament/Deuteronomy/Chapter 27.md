@@ -51,8 +51,6 @@ description: "Deuteronomy 27 in plain English: Moses and the leaders of Israel t
 
 # Deuteronomy 27
 
-<p class="chapter-intro">Deuteronomy chapter 27 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Deuteronomy 27 audio">
@@ -121,8 +119,6 @@ description: "Deuteronomy 27 in plain English: Moses and the leaders of Israel t
 <p class="verse" id="v26"><a class="verse-num" href="#v26" aria-label="Deuteronomy 27:26">26</a> Let the person who does not follow all the rules of these laws be cursed. And everyone will agree by saying, &quot;Amen.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Deuteronomy 27:1, Simplified Bible (simplified.bible)</em>. <a href="/text/deuteronomy/27.txt">Plain text of Deuteronomy 27</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Deuteronomy/Chapter%2026.html" rel="prev">&larr; Deuteronomy 26</a>

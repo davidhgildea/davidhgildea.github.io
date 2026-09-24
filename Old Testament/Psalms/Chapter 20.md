@@ -51,8 +51,6 @@ description: "Psalms 20 in plain English: God hears you in times of trouble; may
 
 # Psalms 20
 
-<p class="chapter-intro">Psalms chapter 20 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 20 audio">
@@ -87,8 +85,6 @@ description: "Psalms 20 in plain English: God hears you in times of trouble; may
 <p class="verse" id="v9"><a class="verse-num" href="#v9" aria-label="Psalms 20:9">9</a> Save us, God: may the king listen to us when we call.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 20:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/20.txt">Plain text of Psalms 20</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2019.html" rel="prev">&larr; Psalms 19</a>

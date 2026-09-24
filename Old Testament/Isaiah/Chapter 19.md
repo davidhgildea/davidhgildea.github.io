@@ -51,8 +51,6 @@ description: "Isaiah 19 in plain English: Egypt's trouble. Look, God rides on a 
 
 # Isaiah 19
 
-<p class="chapter-intro">Isaiah chapter 19 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 19 audio">
@@ -119,8 +117,6 @@ description: "Isaiah 19 in plain English: Egypt's trouble. Look, God rides on a 
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Isaiah 19:25">25</a> God will bless them, saying, &quot;Egypt, my people, will be blessed, Assyria, my creation, and Israel, my inheritance.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 19:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/19.txt">Plain text of Isaiah 19</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2018.html" rel="prev">&larr; Isaiah 18</a>

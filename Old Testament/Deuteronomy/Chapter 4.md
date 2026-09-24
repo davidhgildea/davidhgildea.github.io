@@ -51,8 +51,6 @@ description: "Deuteronomy 4 in plain English: Listen, Israel, to the rules and d
 
 # Deuteronomy 4
 
-<p class="chapter-intro">Deuteronomy chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Deuteronomy 4 audio">
@@ -167,8 +165,6 @@ description: "Deuteronomy 4 in plain English: Listen, Israel, to the rules and d
 <p class="verse" id="v49"><a class="verse-num" href="#v49" aria-label="Deuteronomy 4:49">49</a> The entire flat land east of the Jordan River up to the Dead Sea, at the foot of Mount Pisgah.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Deuteronomy 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/deuteronomy/4.txt">Plain text of Deuteronomy 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Deuteronomy/Chapter%203.html" rel="prev">&larr; Deuteronomy 3</a>

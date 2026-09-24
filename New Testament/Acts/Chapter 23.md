@@ -51,8 +51,6 @@ description: "Acts 23 in plain English: Paul looked intently at the council and 
 
 # Acts 23
 
-<p class="chapter-intro">Acts chapter 23 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Acts 23 audio">
@@ -139,8 +137,6 @@ description: "Acts 23 in plain English: Paul looked intently at the council and 
 <p class="verse" id="v35"><a class="verse-num" href="#v35" aria-label="Acts 23:35">35</a> I will listen to you, he said, when your accusers arrive. And he ordered him to be held in Herod&#39;s court.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Acts 23:1, Simplified Bible (simplified.bible)</em>. <a href="/text/acts/23.txt">Plain text of Acts 23</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Acts/Chapter%2022.html" rel="prev">&larr; Acts 22</a>

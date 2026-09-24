@@ -51,8 +51,6 @@ description: "Luke 12 in plain English: While a huge crowd was gathering and peo
 
 # Luke 12
 
-<p class="chapter-intro">Luke chapter 12 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Luke 12 audio">
@@ -187,8 +185,6 @@ description: "Luke 12 in plain English: While a huge crowd was gathering and peo
 <p class="verse" id="v59"><a class="verse-num" href="#v59" aria-label="Luke 12:59">59</a> I tell you, you will not leave there until you have paid the very last penny.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Luke 12:1, Simplified Bible (simplified.bible)</em>. <a href="/text/luke/12.txt">Plain text of Luke 12</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Luke/Chapter%2011.html" rel="prev">&larr; Luke 11</a>

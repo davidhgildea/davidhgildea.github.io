@@ -51,8 +51,6 @@ description: "Matthew 10 in plain English: When he gathered his twelve followers
 
 # Matthew 10
 
-<p class="chapter-intro">Matthew chapter 10 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Matthew 10 audio">
@@ -153,8 +151,6 @@ description: "Matthew 10 in plain English: When he gathered his twelve followers
 <p class="verse" id="v42"><a class="verse-num" href="#v42" aria-label="Matthew 10:42">42</a> Anyone who gives even a cup of cold water to one of these little ones because they are my follower will truly not lose their reward.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Matthew 10:1, Simplified Bible (simplified.bible)</em>. <a href="/text/matthew/10.txt">Plain text of Matthew 10</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Matthew/Chapter%209.html" rel="prev">&larr; Matthew 9</a>

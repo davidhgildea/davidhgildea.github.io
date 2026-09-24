@@ -51,8 +51,6 @@ description: "Matthew 5 in plain English: Seeing the crowds, he went up on a mou
 
 # Matthew 5
 
-<p class="chapter-intro">Matthew chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Matthew 5 audio">
@@ -165,8 +163,6 @@ description: "Matthew 5 in plain English: Seeing the crowds, he went up on a mou
 <p class="verse" id="v48"><a class="verse-num" href="#v48" aria-label="Matthew 5:48">48</a> Be perfect, just as your Father in heaven is perfect.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Matthew 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/matthew/5.txt">Plain text of Matthew 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Matthew/Chapter%204.html" rel="prev">&larr; Matthew 4</a>

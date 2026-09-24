@@ -51,8 +51,6 @@ description: "Ezekiel 48 in plain English: Here are the names of the tribes. Sta
 
 # Ezekiel 48
 
-<p class="chapter-intro">Ezekiel chapter 48 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 48 audio">
@@ -139,8 +137,6 @@ description: "Ezekiel 48 in plain English: Here are the names of the tribes. Sta
 <p class="verse" id="v35"><a class="verse-num" href="#v35" aria-label="Ezekiel 48:35">35</a> The city was 18,000 units around, and from that day on it will be called &quot;God is there.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 48:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/48.txt">Plain text of Ezekiel 48</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2047.html" rel="prev">&larr; Ezekiel 47</a>

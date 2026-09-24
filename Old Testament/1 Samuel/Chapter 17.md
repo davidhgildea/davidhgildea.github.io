@@ -51,8 +51,6 @@ description: "1 Samuel 17 in plain English: The Philistines brought their armies
 
 # 1 Samuel 17
 
-<p class="chapter-intro">1 Samuel chapter 17 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Samuel 17 audio">
@@ -185,8 +183,6 @@ description: "1 Samuel 17 in plain English: The Philistines brought their armies
 <p class="verse" id="v58"><a class="verse-num" href="#v58" aria-label="1 Samuel 17:58">58</a> Saul asked him, &quot;Who is your father, young man?&quot; And David replied, &quot;I am the son of your servant Jesse from Bethlehem.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Samuel 17:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-samuel/17.txt">Plain text of 1 Samuel 17</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/1%20Samuel/Chapter%2016.html" rel="prev">&larr; 1 Samuel 16</a>

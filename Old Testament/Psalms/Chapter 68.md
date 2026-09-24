@@ -51,8 +51,6 @@ description: "Psalms 68 in plain English: May God stand up, may his enemies scat
 
 # Psalms 68
 
-<p class="chapter-intro">Psalms chapter 68 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 68 audio">
@@ -139,8 +137,6 @@ description: "Psalms 68 in plain English: May God stand up, may his enemies scat
 <p class="verse" id="v35"><a class="verse-num" href="#v35" aria-label="Psalms 68:35">35</a> God, you are awesome from your holy places. The God of Israel gives strength and power to his people. God is blessed.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 68:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/68.txt">Plain text of Psalms 68</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2067.html" rel="prev">&larr; Psalms 67</a>

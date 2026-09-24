@@ -51,8 +51,6 @@ description: "Judges 2 in plain English: An angel of God came from Gilgal to Boc
 
 # Judges 2
 
-<p class="chapter-intro">Judges chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Judges 2 audio">
@@ -115,8 +113,6 @@ description: "Judges 2 in plain English: An angel of God came from Gilgal to Boc
 <p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Judges 2:23">23</a> So God did not quickly remove those nations, nor did he hand them over to Joshua.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Judges 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/judges/2.txt">Plain text of Judges 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Judges/Chapter%201.html" rel="prev">&larr; Judges 1</a>

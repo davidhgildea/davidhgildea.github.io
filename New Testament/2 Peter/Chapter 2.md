@@ -51,8 +51,6 @@ description: "2 Peter 2 in plain English: But there were fake prophets among the
 
 # 2 Peter 2
 
-<p class="chapter-intro">2 Peter chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Peter 2 audio">
@@ -113,8 +111,6 @@ description: "2 Peter 2 in plain English: But there were fake prophets among the
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="2 Peter 2:22">22</a> What happened to them is just like the true saying, &quot;A dog goes back to its vomit,&quot; and, &quot;A washed pig returns to roll in the mud.&quot;</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Peter 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-peter/2.txt">Plain text of 2 Peter 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/2%20Peter/Chapter%201.html" rel="prev">&larr; 2 Peter 1</a>

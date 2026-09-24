@@ -51,8 +51,6 @@ description: "Revelation 16 in plain English: I heard a loud voice from the temp
 
 # Revelation 16
 
-<p class="chapter-intro">Revelation chapter 16 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Revelation 16 audio">
@@ -111,8 +109,6 @@ description: "Revelation 16 in plain English: I heard a loud voice from the temp
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Revelation 16:21">21</a> Large hailstones fell from the sky on people, each weighing as much as a talent; and people cursed God because of the terrible hailstorm.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Revelation 16:1, Simplified Bible (simplified.bible)</em>. <a href="/text/revelation/16.txt">Plain text of Revelation 16</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Revelation/Chapter%2015.html" rel="prev">&larr; Revelation 15</a>

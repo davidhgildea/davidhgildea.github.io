@@ -51,8 +51,6 @@ description: "Luke 24 in plain English: On the first day of the week, very early
 
 # Luke 24
 
-<p class="chapter-intro">Luke chapter 24 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Luke 24 audio">
@@ -175,8 +173,6 @@ description: "Luke 24 in plain English: On the first day of the week, very early
 <p class="verse" id="v53"><a class="verse-num" href="#v53" aria-label="Luke 24:53">53</a> They were always in the temple, praising and thanking God. Amen.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Luke 24:1, Simplified Bible (simplified.bible)</em>. <a href="/text/luke/24.txt">Plain text of Luke 24</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Luke/Chapter%2023.html" rel="prev">&larr; Luke 23</a>

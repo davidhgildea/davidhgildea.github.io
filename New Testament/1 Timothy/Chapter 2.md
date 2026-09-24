@@ -51,8 +51,6 @@ description: "1 Timothy 2 in plain English: I encourage, then, that above all, r
 
 # 1 Timothy 2
 
-<p class="chapter-intro">1 Timothy chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="1 Timothy 2 audio">
@@ -99,8 +97,6 @@ description: "1 Timothy 2 in plain English: I encourage, then, that above all, r
 <p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="1 Timothy 2:15">15</a> She will be saved through having children, if they keep their faith, love, and holiness with good sense.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>1 Timothy 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/1-timothy/2.txt">Plain text of 1 Timothy 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/1%20Timothy/Chapter%201.html" rel="prev">&larr; 1 Timothy 1</a>

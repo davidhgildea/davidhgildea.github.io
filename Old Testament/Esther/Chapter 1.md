@@ -51,8 +51,6 @@ description: "Esther 1 in plain English: During the time of King Ahasuerus, who 
 
 # Esther 1
 
-<p class="chapter-intro">Esther chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Esther 1 audio">
@@ -113,8 +111,6 @@ description: "Esther 1 in plain English: During the time of King Ahasuerus, who 
 <p class="verse" id="v22"><a class="verse-num" href="#v22" aria-label="Esther 1:22">22</a> He sent letters to all the king&#39;s provinces, to each province in its own script, and to every people in their own language, so that every man should be in charge of his own house, and it should be announced in the language of each people.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Esther 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/esther/1.txt">Plain text of Esther 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Nehemiah/Chapter%2013.html" rel="prev">&larr; Nehemiah 13</a>

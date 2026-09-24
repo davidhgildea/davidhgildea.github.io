@@ -51,8 +51,6 @@ description: "Malachi 4 in plain English: Look, the day is coming, it will burn 
 
 # Malachi 4
 
-<p class="chapter-intro">Malachi chapter 4 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Malachi 4 audio">
@@ -81,8 +79,6 @@ description: "Malachi 4 in plain English: Look, the day is coming, it will burn 
 <p class="verse" id="v6"><a class="verse-num" href="#v6" aria-label="Malachi 4:6">6</a> He will make fathers&#39; hearts close to their children and children&#39;s hearts close to their fathers, so I won&#39;t come and punish the earth with a curse.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Malachi 4:1, Simplified Bible (simplified.bible)</em>. <a href="/text/malachi/4.txt">Plain text of Malachi 4</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Malachi/Chapter%203.html" rel="prev">&larr; Malachi 3</a>

@@ -51,8 +51,6 @@ description: "Matthew 2 in plain English: When Jesus was born in Bethlehem of Ju
 
 # Matthew 2
 
-<p class="chapter-intro">Matthew chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Matthew 2 audio">
@@ -115,8 +113,6 @@ description: "Matthew 2 in plain English: When Jesus was born in Bethlehem of Ju
 <p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="Matthew 2:23">23</a> He came and lived in a city named Nazareth so that what the prophets said would come true: He will be called a Nazarene.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Matthew 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/matthew/2.txt">Plain text of Matthew 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Matthew/Chapter%201.html" rel="prev">&larr; Matthew 1</a>

@@ -51,8 +51,6 @@ description: "Zechariah 14 in plain English: Look, God's day is coming, and your
 
 # Zechariah 14
 
-<p class="chapter-intro">Zechariah chapter 14 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Zechariah 14 audio">
@@ -111,8 +109,6 @@ description: "Zechariah 14 in plain English: Look, God's day is coming, and your
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Zechariah 14:21">21</a> Yes, every pot in Jerusalem and Judah will be sacred to God. Everyone who offers a sacrifice will come and use them to boil their offerings. On that day, there will be no Canaanites in God&#39;s house.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Zechariah 14:1, Simplified Bible (simplified.bible)</em>. <a href="/text/zechariah/14.txt">Plain text of Zechariah 14</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Zechariah/Chapter%2013.html" rel="prev">&larr; Zechariah 13</a>

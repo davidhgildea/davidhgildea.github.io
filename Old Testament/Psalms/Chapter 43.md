@@ -51,8 +51,6 @@ description: "Psalms 43 in plain English: God, judge me and fight for me against
 
 # Psalms 43
 
-<p class="chapter-intro">Psalms chapter 43 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 43 audio">
@@ -79,8 +77,6 @@ description: "Psalms 43 in plain English: God, judge me and fight for me against
 <p class="verse" id="v5"><a class="verse-num" href="#v5" aria-label="Psalms 43:5">5</a> Why are you sad, my soul? And why are you troubled inside me? Put your hope in God: for I will still praise him, who makes me well, and is my God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 43:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/43.txt">Plain text of Psalms 43</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2042.html" rel="prev">&larr; Psalms 42</a>

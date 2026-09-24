@@ -51,8 +51,6 @@ description: "Ezekiel 1 in plain English: In the thirtieth year, on the fifth da
 
 # Ezekiel 1
 
-<p class="chapter-intro">Ezekiel chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 1 audio">
@@ -125,8 +123,6 @@ description: "Ezekiel 1 in plain English: In the thirtieth year, on the fifth da
 <p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="Ezekiel 1:28">28</a> Like a rainbow in the clouds on a rainy day, so was the shining light around it. That was what the glory of God looked like. When I saw it, I fell on my face, and I heard someone speaking.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/1.txt">Plain text of Ezekiel 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Lamentations/Chapter%205.html" rel="prev">&larr; Lamentations 5</a>

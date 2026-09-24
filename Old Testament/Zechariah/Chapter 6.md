@@ -51,8 +51,6 @@ description: "Zechariah 6 in plain English: I turned, looked up, and saw four ch
 
 # Zechariah 6
 
-<p class="chapter-intro">Zechariah chapter 6 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Zechariah 6 audio">
@@ -99,8 +97,6 @@ description: "Zechariah 6 in plain English: I turned, looked up, and saw four ch
 <p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="Zechariah 6:15">15</a> People from far away will come and build God&#39;s temple, and you will realize that God has sent me to you. This will happen if you carefully listen to and obey God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Zechariah 6:1, Simplified Bible (simplified.bible)</em>. <a href="/text/zechariah/6.txt">Plain text of Zechariah 6</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Zechariah/Chapter%205.html" rel="prev">&larr; Zechariah 5</a>

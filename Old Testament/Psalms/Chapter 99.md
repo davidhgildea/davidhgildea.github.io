@@ -51,8 +51,6 @@ description: "Psalms 99 in plain English: God rules; let the people shake with f
 
 # Psalms 99
 
-<p class="chapter-intro">Psalms chapter 99 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 99 audio">
@@ -87,8 +85,6 @@ description: "Psalms 99 in plain English: God rules; let the people shake with f
 <p class="verse" id="v9"><a class="verse-num" href="#v9" aria-label="Psalms 99:9">9</a> Praise God, our God, and bow down on his sacred mountain; for God, our God, is pure.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 99:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/99.txt">Plain text of Psalms 99</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2098.html" rel="prev">&larr; Psalms 98</a>

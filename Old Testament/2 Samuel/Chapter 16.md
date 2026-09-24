@@ -51,8 +51,6 @@ description: "2 Samuel 16 in plain English: When David had just gone over the hi
 
 # 2 Samuel 16
 
-<p class="chapter-intro">2 Samuel chapter 16 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Samuel 16 audio">
@@ -115,8 +113,6 @@ description: "2 Samuel 16 in plain English: When David had just gone over the hi
 <p class="verse" id="v23"><a class="verse-num" href="#v23" aria-label="2 Samuel 16:23">23</a> Ahithophel&#39;s advice back then was so good, it was like asking God directly. Both David and Absalom valued all of Ahithophel&#39;s advice.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Samuel 16:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-samuel/16.txt">Plain text of 2 Samuel 16</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Samuel/Chapter%2015.html" rel="prev">&larr; 2 Samuel 15</a>

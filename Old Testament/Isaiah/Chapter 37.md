@@ -51,8 +51,6 @@ description: "Isaiah 37 in plain English: When King Hezekiah heard this, he tore
 
 # Isaiah 37
 
-<p class="chapter-intro">Isaiah chapter 37 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 37 audio">
@@ -145,8 +143,6 @@ description: "Isaiah 37 in plain English: When King Hezekiah heard this, he tore
 <p class="verse" id="v38"><a class="verse-num" href="#v38" aria-label="Isaiah 37:38">38</a> While he was praying in Nisroch&#39;s temple, his sons Adrammelech and Sharezer killed him with a sword and then ran away to Armenia. After that, his son Esarhaddon became the new king.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 37:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/37.txt">Plain text of Isaiah 37</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2036.html" rel="prev">&larr; Isaiah 36</a>

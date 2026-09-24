@@ -51,8 +51,6 @@ description: "2 Kings 22 in plain English: Josiah became king when he was eight 
 
 # 2 Kings 22
 
-<p class="chapter-intro">2 Kings chapter 22 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Kings 22 audio">
@@ -109,8 +107,6 @@ description: "2 Kings 22 in plain English: Josiah became king when he was eight 
 <p class="verse" id="v20"><a class="verse-num" href="#v20" aria-label="2 Kings 22:20">20</a> See, I will bring you to your ancestors, and you will go to your grave in peace; your eyes won&#39;t see all the bad things I will cause in this place. They told the king this message.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Kings 22:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-kings/22.txt">Plain text of 2 Kings 22</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Kings/Chapter%2021.html" rel="prev">&larr; 2 Kings 21</a>

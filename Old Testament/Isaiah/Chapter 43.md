@@ -51,8 +51,6 @@ description: "Isaiah 43 in plain English: But now, God who made you, Jacob, and 
 
 # Isaiah 43
 
-<p class="chapter-intro">Isaiah chapter 43 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 43 audio">
@@ -125,8 +123,6 @@ description: "Isaiah 43 in plain English: But now, God who made you, Jacob, and 
 <p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="Isaiah 43:28">28</a> So I have disgraced the sacred leaders, and let Jacob be cursed, and Israel be insulted.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 43:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/43.txt">Plain text of Isaiah 43</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2042.html" rel="prev">&larr; Isaiah 42</a>

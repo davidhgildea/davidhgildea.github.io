@@ -51,8 +51,6 @@ description: "Leviticus 15 in plain English: God spoke to Moses and Aaron, sayin
 
 # Leviticus 15
 
-<p class="chapter-intro">Leviticus chapter 15 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Leviticus 15 audio">
@@ -135,8 +133,6 @@ description: "Leviticus 15 in plain English: God spoke to Moses and Aaron, sayin
 <p class="verse" id="v33"><a class="verse-num" href="#v33" aria-label="Leviticus 15:33">33</a> About a woman during her menstrual cycle, and anyone with a discharge, whether male or female, and anyone who has sexual contact with someone who is unclean.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Leviticus 15:1, Simplified Bible (simplified.bible)</em>. <a href="/text/leviticus/15.txt">Plain text of Leviticus 15</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Leviticus/Chapter%2014.html" rel="prev">&larr; Leviticus 14</a>

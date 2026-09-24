@@ -51,8 +51,6 @@ description: "Isaiah 59 in plain English: Look, God's hand is not too short to s
 
 # Isaiah 59
 
-<p class="chapter-intro">Isaiah chapter 59 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Isaiah 59 audio">
@@ -111,8 +109,6 @@ description: "Isaiah 59 in plain English: Look, God's hand is not too short to s
 <p class="verse" id="v21"><a class="verse-num" href="#v21" aria-label="Isaiah 59:21">21</a> I promise you this, says God: My Spirit with you and the words I&#39;ve given you will always be on your lips and on the lips of your children and grandchildren, now and forever, says God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Isaiah 59:1, Simplified Bible (simplified.bible)</em>. <a href="/text/isaiah/59.txt">Plain text of Isaiah 59</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Isaiah/Chapter%2058.html" rel="prev">&larr; Isaiah 58</a>

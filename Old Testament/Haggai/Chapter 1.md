@@ -51,8 +51,6 @@ description: "Haggai 1 in plain English: In Darius's second year as king, on the
 
 # Haggai 1
 
-<p class="chapter-intro">Haggai chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Haggai 1 audio">
@@ -99,8 +97,6 @@ description: "Haggai 1 in plain English: In Darius's second year as king, on the
 <p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="Haggai 1:15">15</a> On the twenty-fourth day of the sixth month, in King Darius&#39;s second year.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Haggai 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/haggai/1.txt">Plain text of Haggai 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Zephaniah/Chapter%203.html" rel="prev">&larr; Zephaniah 3</a>

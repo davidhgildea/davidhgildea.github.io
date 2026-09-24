@@ -51,8 +51,6 @@ description: "Titus 1 in plain English: Paul, a servant of God and an apostle of
 
 # Titus 1
 
-<p class="chapter-intro">Titus chapter 1 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Titus 1 audio">
@@ -101,8 +99,6 @@ description: "Titus 1 in plain English: Paul, a servant of God and an apostle of
 <p class="verse" id="v16"><a class="verse-num" href="#v16" aria-label="Titus 1:16">16</a> They claim to know God, but their actions deny Him, being hateful, disobedient, and useless for any good work.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Titus 1:1, Simplified Bible (simplified.bible)</em>. <a href="/text/titus/1.txt">Plain text of Titus 1</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/2%20Timothy/Chapter%204.html" rel="prev">&larr; 2 Timothy 4</a>

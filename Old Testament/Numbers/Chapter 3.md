@@ -51,8 +51,6 @@ description: "Numbers 3 in plain English: These are also the family records of A
 
 # Numbers 3
 
-<p class="chapter-intro">Numbers chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Numbers 3 audio">
@@ -171,8 +169,6 @@ description: "Numbers 3 in plain English: These are also the family records of A
 <p class="verse" id="v51"><a class="verse-num" href="#v51" aria-label="Numbers 3:51">51</a> Moses gave the redemption money to Aaron and his sons, as God had directed, following God&#39;s instructions to Moses.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Numbers 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/numbers/3.txt">Plain text of Numbers 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Numbers/Chapter%202.html" rel="prev">&larr; Numbers 2</a>

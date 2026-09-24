@@ -51,8 +51,6 @@ description: "Jonah 3 in plain English: God spoke to Jonah again, saying, Get up
 
 # Jonah 3
 
-<p class="chapter-intro">Jonah chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Jonah 3 audio">
@@ -89,8 +87,6 @@ description: "Jonah 3 in plain English: God spoke to Jonah again, saying, Get up
 <p class="verse" id="v10"><a class="verse-num" href="#v10" aria-label="Jonah 3:10">10</a> God saw what they did, that they stopped doing evil, so he changed his mind about the punishment he had planned to give them, and he didn&#39;t do it.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Jonah 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/jonah/3.txt">Plain text of Jonah 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Jonah/Chapter%202.html" rel="prev">&larr; Jonah 2</a>

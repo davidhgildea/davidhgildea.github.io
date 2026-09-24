@@ -51,8 +51,6 @@ description: "Luke 14 in plain English: As he entered a leading Pharisee's home 
 
 # Luke 14
 
-<p class="chapter-intro">Luke chapter 14 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Luke 14 audio">
@@ -139,8 +137,6 @@ description: "Luke 14 in plain English: As he entered a leading Pharisee's home 
 <p class="verse" id="v35"><a class="verse-num" href="#v35" aria-label="Luke 14:35">35</a> It&#39;s not good for the soil or the manure pile; it&#39;s just thrown away. If someone can listen, they should listen.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Luke 14:1, Simplified Bible (simplified.bible)</em>. <a href="/text/luke/14.txt">Plain text of Luke 14</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Luke/Chapter%2013.html" rel="prev">&larr; Luke 13</a>

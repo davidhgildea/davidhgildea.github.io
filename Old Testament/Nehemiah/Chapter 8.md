@@ -51,8 +51,6 @@ description: "Nehemiah 8 in plain English: All the people came together as one i
 
 # Nehemiah 8
 
-<p class="chapter-intro">Nehemiah chapter 8 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Nehemiah 8 audio">
@@ -105,8 +103,6 @@ description: "Nehemiah 8 in plain English: All the people came together as one i
 <p class="verse" id="v18"><a class="verse-num" href="#v18" aria-label="Nehemiah 8:18">18</a> Every day from the start to the end, he read from God&#39;s book of laws. They celebrated for seven days, and on the eighth day, they held a special gathering as was the custom.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Nehemiah 8:1, Simplified Bible (simplified.bible)</em>. <a href="/text/nehemiah/8.txt">Plain text of Nehemiah 8</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Nehemiah/Chapter%207.html" rel="prev">&larr; Nehemiah 7</a>

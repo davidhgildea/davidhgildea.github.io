@@ -51,8 +51,6 @@ description: "Zechariah 3 in plain English: He showed me Joshua the high priest 
 
 # Zechariah 3
 
-<p class="chapter-intro">Zechariah chapter 3 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Zechariah 3 audio">
@@ -89,8 +87,6 @@ description: "Zechariah 3 in plain English: He showed me Joshua the high priest 
 <p class="verse" id="v10"><a class="verse-num" href="#v10" aria-label="Zechariah 3:10">10</a> On that day, says God, everyone will invite their neighbor to sit together under the vine and the fig tree.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Zechariah 3:1, Simplified Bible (simplified.bible)</em>. <a href="/text/zechariah/3.txt">Plain text of Zechariah 3</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Zechariah/Chapter%202.html" rel="prev">&larr; Zechariah 2</a>

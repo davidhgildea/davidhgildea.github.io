@@ -51,8 +51,6 @@ description: "Ezekiel 45 in plain English: Also, when you divide the land to inh
 
 # Ezekiel 45
 
-<p class="chapter-intro">Ezekiel chapter 45 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 45 audio">
@@ -119,8 +117,6 @@ description: "Ezekiel 45 in plain English: Also, when you divide the land to inh
 <p class="verse" id="v25"><a class="verse-num" href="#v25" aria-label="Ezekiel 45:25">25</a> On the fifteenth day of the seventh month, he must do the same things during the seven-day festival, just like for the sin offering, burnt offering, grain offering, and oil.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 45:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/45.txt">Plain text of Ezekiel 45</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2044.html" rel="prev">&larr; Ezekiel 44</a>

@@ -51,8 +51,6 @@ description: "Daniel 9 in plain English: In the first year of Darius, son of Aha
 
 # Daniel 9
 
-<p class="chapter-intro">Daniel chapter 9 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Daniel 9 audio">
@@ -123,8 +121,6 @@ description: "Daniel 9 in plain English: In the first year of Darius, son of Aha
 <p class="verse" id="v27"><a class="verse-num" href="#v27" aria-label="Daniel 9:27">27</a> He will make a strong agreement with many people for one week. In the middle of the week, he will stop the offerings and sacrifices. Because of widespread wicked acts, he will leave the place empty until the end that is decided pours out on the ruined city.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Daniel 9:1, Simplified Bible (simplified.bible)</em>. <a href="/text/daniel/9.txt">Plain text of Daniel 9</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Daniel/Chapter%208.html" rel="prev">&larr; Daniel 8</a>

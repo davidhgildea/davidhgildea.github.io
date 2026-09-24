@@ -51,8 +51,6 @@ description: "Psalms 48 in plain English: God is great, and deserves high praise
 
 # Psalms 48
 
-<p class="chapter-intro">Psalms chapter 48 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Psalms 48 audio">
@@ -97,8 +95,6 @@ description: "Psalms 48 in plain English: God is great, and deserves high praise
 <p class="verse" id="v14"><a class="verse-num" href="#v14" aria-label="Psalms 48:14">14</a> This God is our God forever: He will guide us until we die.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Psalms 48:1, Simplified Bible (simplified.bible)</em>. <a href="/text/psalms/48.txt">Plain text of Psalms 48</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Psalms/Chapter%2047.html" rel="prev">&larr; Psalms 47</a>

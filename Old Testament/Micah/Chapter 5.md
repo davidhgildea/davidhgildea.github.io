@@ -51,8 +51,6 @@ description: "Micah 5 in plain English: Get ready for battle, people of the city
 
 # Micah 5
 
-<p class="chapter-intro">Micah chapter 5 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Micah 5 audio">
@@ -99,8 +97,6 @@ description: "Micah 5 in plain English: Get ready for battle, people of the city
 <p class="verse" id="v15"><a class="verse-num" href="#v15" aria-label="Micah 5:15">15</a> I will carry out punishment with angry fury on the nations, the likes of which they have never heard.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Micah 5:1, Simplified Bible (simplified.bible)</em>. <a href="/text/micah/5.txt">Plain text of Micah 5</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Micah/Chapter%204.html" rel="prev">&larr; Micah 4</a>

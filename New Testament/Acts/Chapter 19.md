@@ -51,8 +51,6 @@ description: "Acts 19 in plain English: While Apollos was in Corinth, Paul trave
 
 # Acts 19
 
-<p class="chapter-intro">Acts chapter 19 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Acts 19 audio">
@@ -151,8 +149,6 @@ description: "Acts 19 in plain English: While Apollos was in Corinth, Paul trave
 <p class="verse" id="v41"><a class="verse-num" href="#v41" aria-label="Acts 19:41">41</a> After saying this, he sent the people away.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Acts 19:1, Simplified Bible (simplified.bible)</em>. <a href="/text/acts/19.txt">Plain text of Acts 19</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Acts/Chapter%2018.html" rel="prev">&larr; Acts 18</a>

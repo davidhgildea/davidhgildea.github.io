@@ -51,8 +51,6 @@ description: "Daniel 2 in plain English: In the second year of Nebuchadnezzar's 
 
 # Daniel 2
 
-<p class="chapter-intro">Daniel chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Daniel 2 audio">
@@ -167,8 +165,6 @@ description: "Daniel 2 in plain English: In the second year of Nebuchadnezzar's 
 <p class="verse" id="v49"><a class="verse-num" href="#v49" aria-label="Daniel 2:49">49</a> Daniel asked the king, and he put Shadrach, Meshach, and Abednego in charge of the tasks in Babylon. But Daniel stayed working at the king&#39;s entrance.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Daniel 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/daniel/2.txt">Plain text of Daniel 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Daniel/Chapter%201.html" rel="prev">&larr; Daniel 1</a>

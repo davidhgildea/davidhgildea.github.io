@@ -51,8 +51,6 @@ description: "Deuteronomy 25 in plain English: If people have a dispute and go t
 
 # Deuteronomy 25
 
-<p class="chapter-intro">Deuteronomy chapter 25 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Deuteronomy 25 audio">
@@ -107,8 +105,6 @@ description: "Deuteronomy 25 in plain English: If people have a dispute and go t
 <p class="verse" id="v19"><a class="verse-num" href="#v19" aria-label="Deuteronomy 25:19">19</a> So when God has given you peace from all your enemies around, in the land God gives you to own, you must erase all memory of Amalek from under the sky; do not forget this.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Deuteronomy 25:1, Simplified Bible (simplified.bible)</em>. <a href="/text/deuteronomy/25.txt">Plain text of Deuteronomy 25</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Deuteronomy/Chapter%2024.html" rel="prev">&larr; Deuteronomy 24</a>

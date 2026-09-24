@@ -51,8 +51,6 @@ description: "Proverbs 17 in plain English: It is better to have a little with p
 
 # Proverbs 17
 
-<p class="chapter-intro">Proverbs chapter 17 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Proverbs 17 audio">
@@ -125,8 +123,6 @@ description: "Proverbs 17 in plain English: It is better to have a little with p
 <p class="verse" id="v28"><a class="verse-num" href="#v28" aria-label="Proverbs 17:28">28</a> Even a fool seems wise if they stay silent, and a person who keeps their mouth shut is thought to be smart.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Proverbs 17:1, Simplified Bible (simplified.bible)</em>. <a href="/text/proverbs/17.txt">Plain text of Proverbs 17</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Proverbs/Chapter%2016.html" rel="prev">&larr; Proverbs 16</a>

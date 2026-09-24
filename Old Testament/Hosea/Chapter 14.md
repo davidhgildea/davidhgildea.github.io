@@ -51,8 +51,6 @@ description: "Hosea 14 in plain English: Israel, come back to God, for you have 
 
 # Hosea 14
 
-<p class="chapter-intro">Hosea chapter 14 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Hosea 14 audio">
@@ -87,8 +85,6 @@ description: "Hosea 14 in plain English: Israel, come back to God, for you have 
 <p class="verse" id="v9"><a class="verse-num" href="#v9" aria-label="Hosea 14:9">9</a> Who is wise to understand these things? Who is smart to know them? God&#39;s ways are right, and the good will follow them, but the wrongdoers will stumble in them.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Hosea 14:1, Simplified Bible (simplified.bible)</em>. <a href="/text/hosea/14.txt">Plain text of Hosea 14</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Hosea/Chapter%2013.html" rel="prev">&larr; Hosea 13</a>

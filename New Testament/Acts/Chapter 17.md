@@ -51,8 +51,6 @@ description: "Acts 17 in plain English: After they traveled through Amphipolis a
 
 # Acts 17
 
-<p class="chapter-intro">Acts chapter 17 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Acts 17 audio">
@@ -137,8 +135,6 @@ description: "Acts 17 in plain English: After they traveled through Amphipolis a
 <p class="verse" id="v34"><a class="verse-num" href="#v34" aria-label="Acts 17:34">34</a> However, some men stuck with him and believed. Among them was Dionysius the Areopagite, a woman named Damaris, and others with them.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Acts 17:1, Simplified Bible (simplified.bible)</em>. <a href="/text/acts/17.txt">Plain text of Acts 17</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/New%20Testament/Acts/Chapter%2016.html" rel="prev">&larr; Acts 16</a>

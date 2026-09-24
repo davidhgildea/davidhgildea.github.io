@@ -51,8 +51,6 @@ description: "Ezekiel 22 in plain English: Also, God's message came to me, sayin
 
 # Ezekiel 22
 
-<p class="chapter-intro">Ezekiel chapter 22 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Ezekiel 22 audio">
@@ -131,8 +129,6 @@ description: "Ezekiel 22 in plain English: Also, God's message came to me, sayin
 <p class="verse" id="v31"><a class="verse-num" href="#v31" aria-label="Ezekiel 22:31">31</a> So I showed them my anger and destroyed them with the fire of my fury. I have given them what they deserved for their actions, says God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Ezekiel 22:1, Simplified Bible (simplified.bible)</em>. <a href="/text/ezekiel/22.txt">Plain text of Ezekiel 22</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Ezekiel/Chapter%2021.html" rel="prev">&larr; Ezekiel 21</a>

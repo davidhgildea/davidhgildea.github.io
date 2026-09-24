@@ -51,8 +51,6 @@ description: "Leviticus 2 in plain English: When someone wants to give a grain o
 
 # Leviticus 2
 
-<p class="chapter-intro">Leviticus chapter 2 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="Leviticus 2 audio">
@@ -101,8 +99,6 @@ description: "Leviticus 2 in plain English: When someone wants to give a grain o
 <p class="verse" id="v16"><a class="verse-num" href="#v16" aria-label="Leviticus 2:16">16</a> The priest will burn some of the crushed grain and some of the oil, along with all the incense, as a reminder. This is a fire offering to God.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>Leviticus 2:1, Simplified Bible (simplified.bible)</em>. <a href="/text/leviticus/2.txt">Plain text of Leviticus 2</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/Leviticus/Chapter%201.html" rel="prev">&larr; Leviticus 1</a>

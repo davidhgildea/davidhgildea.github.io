@@ -51,8 +51,6 @@ description: "2 Kings 25 in plain English: In the ninth year of his rule, in the
 
 # 2 Kings 25
 
-<p class="chapter-intro">2 Kings chapter 25 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
-
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />
   <audio controls preload="none" title="2 Kings 25 audio">
@@ -129,8 +127,6 @@ description: "2 Kings 25 in plain English: In the ninth year of his rule, in the
 <p class="verse" id="v30"><a class="verse-num" href="#v30" aria-label="2 Kings 25:30">30</a> The king gave him a regular daily amount for every day of his life.</p>
 
 <hr>
-
-<p class="chapter-cite">Cite as: <em>2 Kings 25:1, Simplified Bible (simplified.bible)</em>. <a href="/text/2-kings/25.txt">Plain text of 2 Kings 25</a>.</p>
 
 <nav class="chapter-nav" aria-label="Previous and next chapter">
   <a class="chapter-prev" href="/Old%20Testament/2%20Kings/Chapter%2024.html" rel="prev">&larr; 2 Kings 24</a>
