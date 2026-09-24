@@ -9,7 +9,7 @@ description: "The Simplified Bible: the whole Bible in plain, easy English, simp
 
 <p style="text-align: center; font-size: 1.2em;">The whole Bible in plain, easy English</p>
 
-The **Simplified Bible** is the complete Bible, Old and New Testaments, in simple modern English, based on the **King James Version (KJV)**. Every chapter can be read and listened to free online, with an illustration for each chapter.
+The **Simplified Bible** is the complete Bible, Old and New Testaments, in simple modern English. Every chapter can be read and listened to free online, with an illustration for each chapter.
 
 It keeps the KJV's books, chapters and verse numbers, so any Bible reference works here too.
 
