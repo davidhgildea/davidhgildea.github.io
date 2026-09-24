@@ -14,16 +14,85 @@
 - Chapter page: https://simplified.bible/{Testament}/{Book}/Chapter%20{n}.html
   - {Testament} is "Old%20Testament" or "New%20Testament"; spaces in book names are %20, e.g. "1%20Corinthians".
 - Single verse: add #v{verse}, e.g. https://simplified.bible/New%20Testament/John/Chapter%203.html#v16
-- Book page (chapter list): https://simplified.bible/{Testament}/{Book}/
+- Plain text of one chapter (one verse per line, "Book chapter:verse text"): https://simplified.bible/text/{book}/{n}.txt, where {book} is the book name in lower case with hyphens, e.g. https://simplified.bible/text/1-corinthians/13.txt
 
-## Plain text (one verse per line: "Book chapter:verse text")
+## Complete text
 
-- One chapter: https://simplified.bible/text/{book}/{n}.txt, where {book} is the book name in lower case with hyphens, e.g. https://simplified.bible/text/john/3.txt or https://simplified.bible/text/1-corinthians/13.txt
-- Complete Bible: https://simplified.bible/text/simplified-bible.txt
+- [Complete Simplified Bible, plain text](https://simplified.bible/llms-full.txt): every verse of all 66 books, one verse per line
 
-## Key pages
+## Old Testament
+
+- [Genesis](https://simplified.bible/Old%20Testament/Genesis/): 50 chapters. Chapters: https://simplified.bible/Old%20Testament/Genesis/Chapter%20{n}.html; plain text: https://simplified.bible/text/genesis/{n}.txt (n = 1-50)
+- [Exodus](https://simplified.bible/Old%20Testament/Exodus/): 40 chapters. Chapters: https://simplified.bible/Old%20Testament/Exodus/Chapter%20{n}.html; plain text: https://simplified.bible/text/exodus/{n}.txt (n = 1-40)
+- [Leviticus](https://simplified.bible/Old%20Testament/Leviticus/): 27 chapters. Chapters: https://simplified.bible/Old%20Testament/Leviticus/Chapter%20{n}.html; plain text: https://simplified.bible/text/leviticus/{n}.txt (n = 1-27)
+- [Numbers](https://simplified.bible/Old%20Testament/Numbers/): 36 chapters. Chapters: https://simplified.bible/Old%20Testament/Numbers/Chapter%20{n}.html; plain text: https://simplified.bible/text/numbers/{n}.txt (n = 1-36)
+- [Deuteronomy](https://simplified.bible/Old%20Testament/Deuteronomy/): 34 chapters. Chapters: https://simplified.bible/Old%20Testament/Deuteronomy/Chapter%20{n}.html; plain text: https://simplified.bible/text/deuteronomy/{n}.txt (n = 1-34)
+- [Joshua](https://simplified.bible/Old%20Testament/Joshua/): 24 chapters. Chapters: https://simplified.bible/Old%20Testament/Joshua/Chapter%20{n}.html; plain text: https://simplified.bible/text/joshua/{n}.txt (n = 1-24)
+- [Judges](https://simplified.bible/Old%20Testament/Judges/): 21 chapters. Chapters: https://simplified.bible/Old%20Testament/Judges/Chapter%20{n}.html; plain text: https://simplified.bible/text/judges/{n}.txt (n = 1-21)
+- [Ruth](https://simplified.bible/Old%20Testament/Ruth/): 4 chapters. Chapters: https://simplified.bible/Old%20Testament/Ruth/Chapter%20{n}.html; plain text: https://simplified.bible/text/ruth/{n}.txt (n = 1-4)
+- [1 Samuel](https://simplified.bible/Old%20Testament/1%20Samuel/): 31 chapters. Chapters: https://simplified.bible/Old%20Testament/1%20Samuel/Chapter%20{n}.html; plain text: https://simplified.bible/text/1-samuel/{n}.txt (n = 1-31)
+- [2 Samuel](https://simplified.bible/Old%20Testament/2%20Samuel/): 24 chapters. Chapters: https://simplified.bible/Old%20Testament/2%20Samuel/Chapter%20{n}.html; plain text: https://simplified.bible/text/2-samuel/{n}.txt (n = 1-24)
+- [1 Kings](https://simplified.bible/Old%20Testament/1%20Kings/): 22 chapters. Chapters: https://simplified.bible/Old%20Testament/1%20Kings/Chapter%20{n}.html; plain text: https://simplified.bible/text/1-kings/{n}.txt (n = 1-22)
+- [2 Kings](https://simplified.bible/Old%20Testament/2%20Kings/): 25 chapters. Chapters: https://simplified.bible/Old%20Testament/2%20Kings/Chapter%20{n}.html; plain text: https://simplified.bible/text/2-kings/{n}.txt (n = 1-25)
+- [1 Chronicles](https://simplified.bible/Old%20Testament/1%20Chronicles/): 29 chapters. Chapters: https://simplified.bible/Old%20Testament/1%20Chronicles/Chapter%20{n}.html; plain text: https://simplified.bible/text/1-chronicles/{n}.txt (n = 1-29)
+- [2 Chronicles](https://simplified.bible/Old%20Testament/2%20Chronicles/): 36 chapters. Chapters: https://simplified.bible/Old%20Testament/2%20Chronicles/Chapter%20{n}.html; plain text: https://simplified.bible/text/2-chronicles/{n}.txt (n = 1-36)
+- [Ezra](https://simplified.bible/Old%20Testament/Ezra/): 10 chapters. Chapters: https://simplified.bible/Old%20Testament/Ezra/Chapter%20{n}.html; plain text: https://simplified.bible/text/ezra/{n}.txt (n = 1-10)
+- [Nehemiah](https://simplified.bible/Old%20Testament/Nehemiah/): 13 chapters. Chapters: https://simplified.bible/Old%20Testament/Nehemiah/Chapter%20{n}.html; plain text: https://simplified.bible/text/nehemiah/{n}.txt (n = 1-13)
+- [Esther](https://simplified.bible/Old%20Testament/Esther/): 10 chapters. Chapters: https://simplified.bible/Old%20Testament/Esther/Chapter%20{n}.html; plain text: https://simplified.bible/text/esther/{n}.txt (n = 1-10)
+- [Job](https://simplified.bible/Old%20Testament/Job/): 42 chapters. Chapters: https://simplified.bible/Old%20Testament/Job/Chapter%20{n}.html; plain text: https://simplified.bible/text/job/{n}.txt (n = 1-42)
+- [Psalms](https://simplified.bible/Old%20Testament/Psalms/): 150 chapters. Chapters: https://simplified.bible/Old%20Testament/Psalms/Chapter%20{n}.html; plain text: https://simplified.bible/text/psalms/{n}.txt (n = 1-150)
+- [Proverbs](https://simplified.bible/Old%20Testament/Proverbs/): 31 chapters. Chapters: https://simplified.bible/Old%20Testament/Proverbs/Chapter%20{n}.html; plain text: https://simplified.bible/text/proverbs/{n}.txt (n = 1-31)
+- [Ecclesiastes](https://simplified.bible/Old%20Testament/Ecclesiastes/): 12 chapters. Chapters: https://simplified.bible/Old%20Testament/Ecclesiastes/Chapter%20{n}.html; plain text: https://simplified.bible/text/ecclesiastes/{n}.txt (n = 1-12)
+- [Song of Solomon](https://simplified.bible/Old%20Testament/Song%20of%20Solomon/): 8 chapters. Chapters: https://simplified.bible/Old%20Testament/Song%20of%20Solomon/Chapter%20{n}.html; plain text: https://simplified.bible/text/song-of-solomon/{n}.txt (n = 1-8)
+- [Isaiah](https://simplified.bible/Old%20Testament/Isaiah/): 66 chapters. Chapters: https://simplified.bible/Old%20Testament/Isaiah/Chapter%20{n}.html; plain text: https://simplified.bible/text/isaiah/{n}.txt (n = 1-66)
+- [Jeremiah](https://simplified.bible/Old%20Testament/Jeremiah/): 52 chapters. Chapters: https://simplified.bible/Old%20Testament/Jeremiah/Chapter%20{n}.html; plain text: https://simplified.bible/text/jeremiah/{n}.txt (n = 1-52)
+- [Lamentations](https://simplified.bible/Old%20Testament/Lamentations/): 5 chapters. Chapters: https://simplified.bible/Old%20Testament/Lamentations/Chapter%20{n}.html; plain text: https://simplified.bible/text/lamentations/{n}.txt (n = 1-5)
+- [Ezekiel](https://simplified.bible/Old%20Testament/Ezekiel/): 48 chapters. Chapters: https://simplified.bible/Old%20Testament/Ezekiel/Chapter%20{n}.html; plain text: https://simplified.bible/text/ezekiel/{n}.txt (n = 1-48)
+- [Daniel](https://simplified.bible/Old%20Testament/Daniel/): 12 chapters. Chapters: https://simplified.bible/Old%20Testament/Daniel/Chapter%20{n}.html; plain text: https://simplified.bible/text/daniel/{n}.txt (n = 1-12)
+- [Hosea](https://simplified.bible/Old%20Testament/Hosea/): 14 chapters. Chapters: https://simplified.bible/Old%20Testament/Hosea/Chapter%20{n}.html; plain text: https://simplified.bible/text/hosea/{n}.txt (n = 1-14)
+- [Joel](https://simplified.bible/Old%20Testament/Joel/): 3 chapters. Chapters: https://simplified.bible/Old%20Testament/Joel/Chapter%20{n}.html; plain text: https://simplified.bible/text/joel/{n}.txt (n = 1-3)
+- [Amos](https://simplified.bible/Old%20Testament/Amos/): 9 chapters. Chapters: https://simplified.bible/Old%20Testament/Amos/Chapter%20{n}.html; plain text: https://simplified.bible/text/amos/{n}.txt (n = 1-9)
+- [Obadiah](https://simplified.bible/Old%20Testament/Obadiah/): 1 chapter. Chapters: https://simplified.bible/Old%20Testament/Obadiah/Chapter%20{n}.html; plain text: https://simplified.bible/text/obadiah/{n}.txt (n = 1)
+- [Jonah](https://simplified.bible/Old%20Testament/Jonah/): 4 chapters. Chapters: https://simplified.bible/Old%20Testament/Jonah/Chapter%20{n}.html; plain text: https://simplified.bible/text/jonah/{n}.txt (n = 1-4)
+- [Micah](https://simplified.bible/Old%20Testament/Micah/): 7 chapters. Chapters: https://simplified.bible/Old%20Testament/Micah/Chapter%20{n}.html; plain text: https://simplified.bible/text/micah/{n}.txt (n = 1-7)
+- [Nahum](https://simplified.bible/Old%20Testament/Nahum/): 3 chapters. Chapters: https://simplified.bible/Old%20Testament/Nahum/Chapter%20{n}.html; plain text: https://simplified.bible/text/nahum/{n}.txt (n = 1-3)
+- [Habakkuk](https://simplified.bible/Old%20Testament/Habakkuk/): 3 chapters. Chapters: https://simplified.bible/Old%20Testament/Habakkuk/Chapter%20{n}.html; plain text: https://simplified.bible/text/habakkuk/{n}.txt (n = 1-3)
+- [Zephaniah](https://simplified.bible/Old%20Testament/Zephaniah/): 3 chapters. Chapters: https://simplified.bible/Old%20Testament/Zephaniah/Chapter%20{n}.html; plain text: https://simplified.bible/text/zephaniah/{n}.txt (n = 1-3)
+- [Haggai](https://simplified.bible/Old%20Testament/Haggai/): 2 chapters. Chapters: https://simplified.bible/Old%20Testament/Haggai/Chapter%20{n}.html; plain text: https://simplified.bible/text/haggai/{n}.txt (n = 1-2)
+- [Zechariah](https://simplified.bible/Old%20Testament/Zechariah/): 14 chapters. Chapters: https://simplified.bible/Old%20Testament/Zechariah/Chapter%20{n}.html; plain text: https://simplified.bible/text/zechariah/{n}.txt (n = 1-14)
+- [Malachi](https://simplified.bible/Old%20Testament/Malachi/): 4 chapters. Chapters: https://simplified.bible/Old%20Testament/Malachi/Chapter%20{n}.html; plain text: https://simplified.bible/text/malachi/{n}.txt (n = 1-4)
+
+## New Testament
+
+- [Matthew](https://simplified.bible/New%20Testament/Matthew/): 28 chapters. Chapters: https://simplified.bible/New%20Testament/Matthew/Chapter%20{n}.html; plain text: https://simplified.bible/text/matthew/{n}.txt (n = 1-28)
+- [Mark](https://simplified.bible/New%20Testament/Mark/): 16 chapters. Chapters: https://simplified.bible/New%20Testament/Mark/Chapter%20{n}.html; plain text: https://simplified.bible/text/mark/{n}.txt (n = 1-16)
+- [Luke](https://simplified.bible/New%20Testament/Luke/): 24 chapters. Chapters: https://simplified.bible/New%20Testament/Luke/Chapter%20{n}.html; plain text: https://simplified.bible/text/luke/{n}.txt (n = 1-24)
+- [John](https://simplified.bible/New%20Testament/John/): 21 chapters. Chapters: https://simplified.bible/New%20Testament/John/Chapter%20{n}.html; plain text: https://simplified.bible/text/john/{n}.txt (n = 1-21)
+- [Acts](https://simplified.bible/New%20Testament/Acts/): 28 chapters. Chapters: https://simplified.bible/New%20Testament/Acts/Chapter%20{n}.html; plain text: https://simplified.bible/text/acts/{n}.txt (n = 1-28)
+- [Romans](https://simplified.bible/New%20Testament/Romans/): 16 chapters. Chapters: https://simplified.bible/New%20Testament/Romans/Chapter%20{n}.html; plain text: https://simplified.bible/text/romans/{n}.txt (n = 1-16)
+- [1 Corinthians](https://simplified.bible/New%20Testament/1%20Corinthians/): 16 chapters. Chapters: https://simplified.bible/New%20Testament/1%20Corinthians/Chapter%20{n}.html; plain text: https://simplified.bible/text/1-corinthians/{n}.txt (n = 1-16)
+- [2 Corinthians](https://simplified.bible/New%20Testament/2%20Corinthians/): 13 chapters. Chapters: https://simplified.bible/New%20Testament/2%20Corinthians/Chapter%20{n}.html; plain text: https://simplified.bible/text/2-corinthians/{n}.txt (n = 1-13)
+- [Galatians](https://simplified.bible/New%20Testament/Galatians/): 6 chapters. Chapters: https://simplified.bible/New%20Testament/Galatians/Chapter%20{n}.html; plain text: https://simplified.bible/text/galatians/{n}.txt (n = 1-6)
+- [Ephesians](https://simplified.bible/New%20Testament/Ephesians/): 6 chapters. Chapters: https://simplified.bible/New%20Testament/Ephesians/Chapter%20{n}.html; plain text: https://simplified.bible/text/ephesians/{n}.txt (n = 1-6)
+- [Philippians](https://simplified.bible/New%20Testament/Philippians/): 4 chapters. Chapters: https://simplified.bible/New%20Testament/Philippians/Chapter%20{n}.html; plain text: https://simplified.bible/text/philippians/{n}.txt (n = 1-4)
+- [Colossians](https://simplified.bible/New%20Testament/Colossians/): 4 chapters. Chapters: https://simplified.bible/New%20Testament/Colossians/Chapter%20{n}.html; plain text: https://simplified.bible/text/colossians/{n}.txt (n = 1-4)
+- [1 Thessalonians](https://simplified.bible/New%20Testament/1%20Thessalonians/): 5 chapters. Chapters: https://simplified.bible/New%20Testament/1%20Thessalonians/Chapter%20{n}.html; plain text: https://simplified.bible/text/1-thessalonians/{n}.txt (n = 1-5)
+- [2 Thessalonians](https://simplified.bible/New%20Testament/2%20Thessalonians/): 3 chapters. Chapters: https://simplified.bible/New%20Testament/2%20Thessalonians/Chapter%20{n}.html; plain text: https://simplified.bible/text/2-thessalonians/{n}.txt (n = 1-3)
+- [1 Timothy](https://simplified.bible/New%20Testament/1%20Timothy/): 6 chapters. Chapters: https://simplified.bible/New%20Testament/1%20Timothy/Chapter%20{n}.html; plain text: https://simplified.bible/text/1-timothy/{n}.txt (n = 1-6)
+- [2 Timothy](https://simplified.bible/New%20Testament/2%20Timothy/): 4 chapters. Chapters: https://simplified.bible/New%20Testament/2%20Timothy/Chapter%20{n}.html; plain text: https://simplified.bible/text/2-timothy/{n}.txt (n = 1-4)
+- [Titus](https://simplified.bible/New%20Testament/Titus/): 3 chapters. Chapters: https://simplified.bible/New%20Testament/Titus/Chapter%20{n}.html; plain text: https://simplified.bible/text/titus/{n}.txt (n = 1-3)
+- [Philemon](https://simplified.bible/New%20Testament/Philemon/): 1 chapter. Chapters: https://simplified.bible/New%20Testament/Philemon/Chapter%20{n}.html; plain text: https://simplified.bible/text/philemon/{n}.txt (n = 1)
+- [Hebrews](https://simplified.bible/New%20Testament/Hebrews/): 13 chapters. Chapters: https://simplified.bible/New%20Testament/Hebrews/Chapter%20{n}.html; plain text: https://simplified.bible/text/hebrews/{n}.txt (n = 1-13)
+- [James](https://simplified.bible/New%20Testament/James/): 5 chapters. Chapters: https://simplified.bible/New%20Testament/James/Chapter%20{n}.html; plain text: https://simplified.bible/text/james/{n}.txt (n = 1-5)
+- [1 Peter](https://simplified.bible/New%20Testament/1%20Peter/): 5 chapters. Chapters: https://simplified.bible/New%20Testament/1%20Peter/Chapter%20{n}.html; plain text: https://simplified.bible/text/1-peter/{n}.txt (n = 1-5)
+- [2 Peter](https://simplified.bible/New%20Testament/2%20Peter/): 3 chapters. Chapters: https://simplified.bible/New%20Testament/2%20Peter/Chapter%20{n}.html; plain text: https://simplified.bible/text/2-peter/{n}.txt (n = 1-3)
+- [1 John](https://simplified.bible/New%20Testament/1%20John/): 5 chapters. Chapters: https://simplified.bible/New%20Testament/1%20John/Chapter%20{n}.html; plain text: https://simplified.bible/text/1-john/{n}.txt (n = 1-5)
+- [2 John](https://simplified.bible/New%20Testament/2%20John/): 1 chapter. Chapters: https://simplified.bible/New%20Testament/2%20John/Chapter%20{n}.html; plain text: https://simplified.bible/text/2-john/{n}.txt (n = 1)
+- [3 John](https://simplified.bible/New%20Testament/3%20John/): 1 chapter. Chapters: https://simplified.bible/New%20Testament/3%20John/Chapter%20{n}.html; plain text: https://simplified.bible/text/3-john/{n}.txt (n = 1)
+- [Jude](https://simplified.bible/New%20Testament/Jude/): 1 chapter. Chapters: https://simplified.bible/New%20Testament/Jude/Chapter%20{n}.html; plain text: https://simplified.bible/text/jude/{n}.txt (n = 1)
+- [Revelation](https://simplified.bible/New%20Testament/Revelation/): 22 chapters. Chapters: https://simplified.bible/New%20Testament/Revelation/Chapter%20{n}.html; plain text: https://simplified.bible/text/revelation/{n}.txt (n = 1-22)
+
+## Other pages
 
 - [About the Simplified Bible](https://simplified.bible/about/): what it is, usage terms and citation
-- [Old Testament](https://simplified.bible/Old%20Testament/)
-- [New Testament](https://simplified.bible/New%20Testament/)
-- [Sitemap](https://simplified.bible/sitemap.xml)
+- [Sitemap](https://simplified.bible/sitemap.xml): every page, including all 1,189 chapters
