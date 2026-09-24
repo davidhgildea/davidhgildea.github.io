@@ -73,7 +73,7 @@ description: "Joshua 14 in plain English: These are the lands the Israelite peop
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Joshua/500/14.jpg" alt="Illustration for Joshua 14" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Joshua/500/14.jpg" alt="Illustration for Joshua 14" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Joshua 14</figcaption>
 </figure>
 </div>

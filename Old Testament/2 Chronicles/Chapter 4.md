@@ -73,7 +73,7 @@ description: "2 Chronicles 4 in plain English: He also made a brass altar, 20 cu
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/2%20Chronicles/500/4.jpg" alt="Illustration for 2 Chronicles 4" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/2%20Chronicles/500/4.jpg" alt="Illustration for 2 Chronicles 4" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">2 Chronicles 4</figcaption>
 </figure>
 </div>

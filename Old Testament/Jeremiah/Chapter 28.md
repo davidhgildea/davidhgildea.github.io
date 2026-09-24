@@ -73,7 +73,7 @@ description: "Jeremiah 28 in plain English: That year, when Zedekiah started rul
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Jeremiah/500/28.jpg" alt="Illustration for Jeremiah 28" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Jeremiah/500/28.jpg" alt="Illustration for Jeremiah 28" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Jeremiah 28</figcaption>
 </figure>
 </div>

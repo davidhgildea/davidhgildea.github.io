@@ -73,7 +73,7 @@ description: "Exodus 16 in plain English: They left Elim, and all the Israelites
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Exodus/500/16.jpg" alt="Illustration for Exodus 16" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Exodus/500/16.jpg" alt="Illustration for Exodus 16" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Exodus 16</figcaption>
 </figure>
 </div>

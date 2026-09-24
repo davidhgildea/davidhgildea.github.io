@@ -73,7 +73,7 @@ description: "Galatians 4 in plain English: I tell you, an heir is no different 
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Galatians/500/4.jpg" alt="Illustration for Galatians 4" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Galatians/500/4.jpg" alt="Illustration for Galatians 4" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Galatians 4</figcaption>
 </figure>
 </div>

@@ -73,7 +73,7 @@ description: "Job 24 in plain English: Why, if God knows all time, do those who 
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Job/500/24.jpg" alt="Illustration for Job 24" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Job/500/24.jpg" alt="Illustration for Job 24" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Job 24</figcaption>
 </figure>
 </div>

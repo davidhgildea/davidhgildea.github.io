@@ -73,7 +73,7 @@ description: "Job 40 in plain English: God replied to Job, saying, Can a person 
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Job/500/40.jpg" alt="Illustration for Job 40" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Job/500/40.jpg" alt="Illustration for Job 40" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Job 40</figcaption>
 </figure>
 </div>

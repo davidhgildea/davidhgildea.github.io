@@ -73,7 +73,7 @@ description: "1 Kings 3 in plain English: Solomon formed an alliance with Pharao
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/1%20Kings/500/3.jpg" alt="Illustration for 1 Kings 3" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/1%20Kings/500/3.jpg" alt="Illustration for 1 Kings 3" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">1 Kings 3</figcaption>
 </figure>
 </div>

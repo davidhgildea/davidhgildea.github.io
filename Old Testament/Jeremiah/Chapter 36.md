@@ -73,7 +73,7 @@ description: "Jeremiah 36 in plain English: In the fourth year of King Jehoiakim
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Jeremiah/500/36.jpg" alt="Illustration for Jeremiah 36" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Jeremiah/500/36.jpg" alt="Illustration for Jeremiah 36" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Jeremiah 36</figcaption>
 </figure>
 </div>

@@ -73,7 +73,7 @@ description: "Deuteronomy 32 in plain English: Listen, heavens, and I will talk;
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Deuteronomy/500/32.jpg" alt="Illustration for Deuteronomy 32" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Deuteronomy/500/32.jpg" alt="Illustration for Deuteronomy 32" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Deuteronomy 32</figcaption>
 </figure>
 </div>

@@ -73,7 +73,7 @@ description: "Isaiah 63 in plain English: Who is this coming from Edom, with col
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Isaiah/500/63.jpg" alt="Illustration for Isaiah 63" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Isaiah/500/63.jpg" alt="Illustration for Isaiah 63" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Isaiah 63</figcaption>
 </figure>
 </div>

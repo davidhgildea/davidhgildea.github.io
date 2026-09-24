@@ -73,7 +73,7 @@ description: "Psalms 37 in plain English: Don't worry about wrongdoers, and don'
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/37.jpg" alt="Illustration for Psalms 37" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/37.jpg" alt="Illustration for Psalms 37" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 37</figcaption>
 </figure>
 </div>

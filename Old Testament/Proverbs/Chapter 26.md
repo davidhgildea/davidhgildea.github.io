@@ -73,7 +73,7 @@ description: "Proverbs 26 in plain English: Like snow in summer and rain during 
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Proverbs/500/26.jpg" alt="Illustration for Proverbs 26" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Proverbs/500/26.jpg" alt="Illustration for Proverbs 26" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Proverbs 26</figcaption>
 </figure>
 </div>

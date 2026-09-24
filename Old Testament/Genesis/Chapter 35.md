@@ -73,7 +73,7 @@ description: "Genesis 35 in plain English: God told Jacob, \"Get up and go to Be
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Genesis/500/35.jpg" alt="Illustration for Genesis 35" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Genesis/500/35.jpg" alt="Illustration for Genesis 35" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Genesis 35</figcaption>
 </figure>
 </div>

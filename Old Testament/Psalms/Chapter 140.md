@@ -73,7 +73,7 @@ description: "Psalms 140 in plain English: Save me, God, from the bad person; pr
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/140.jpg" alt="Illustration for Psalms 140" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/140.jpg" alt="Illustration for Psalms 140" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 140</figcaption>
 </figure>
 </div>

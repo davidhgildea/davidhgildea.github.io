@@ -73,7 +73,7 @@ description: "2 Samuel 1 in plain English: After Saul died and David came back f
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/2%20Samuel/500/1.jpg" alt="Illustration for 2 Samuel 1" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/2%20Samuel/500/1.jpg" alt="Illustration for 2 Samuel 1" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">2 Samuel 1</figcaption>
 </figure>
 </div>

@@ -73,7 +73,7 @@ description: "Isaiah 37 in plain English: When King Hezekiah heard this, he tore
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Isaiah/500/37.jpg" alt="Illustration for Isaiah 37" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Isaiah/500/37.jpg" alt="Illustration for Isaiah 37" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Isaiah 37</figcaption>
 </figure>
 </div>

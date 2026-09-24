@@ -73,7 +73,7 @@ description: "Ruth 1 in plain English: During the time when judges led, a famine
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Ruth/500/1.jpg" alt="Illustration for Ruth 1" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Ruth/500/1.jpg" alt="Illustration for Ruth 1" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Ruth 1</figcaption>
 </figure>
 </div>

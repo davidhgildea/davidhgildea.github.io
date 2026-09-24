@@ -73,7 +73,7 @@ description: "Daniel 8 in plain English: In the third year of King Belshazzar's 
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Daniel/500/8.jpg" alt="Illustration for Daniel 8" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Daniel/500/8.jpg" alt="Illustration for Daniel 8" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Daniel 8</figcaption>
 </figure>
 </div>

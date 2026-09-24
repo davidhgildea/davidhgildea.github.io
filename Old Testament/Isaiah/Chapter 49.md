@@ -73,7 +73,7 @@ description: "Isaiah 49 in plain English: Listen, islands, to me; pay attention,
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Isaiah/500/49.jpg" alt="Illustration for Isaiah 49" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Isaiah/500/49.jpg" alt="Illustration for Isaiah 49" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Isaiah 49</figcaption>
 </figure>
 </div>

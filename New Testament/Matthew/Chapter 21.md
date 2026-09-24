@@ -73,7 +73,7 @@ description: "Matthew 21 in plain English: When they got close to Jerusalem and 
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Matthew/500/21.jpg" alt="Illustration for Matthew 21" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Matthew/500/21.jpg" alt="Illustration for Matthew 21" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Matthew 21</figcaption>
 </figure>
 </div>

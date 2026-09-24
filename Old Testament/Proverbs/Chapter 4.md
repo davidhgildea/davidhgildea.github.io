@@ -73,7 +73,7 @@ description: "Proverbs 4 in plain English: Listen, children, to a father's teach
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Proverbs/500/4.jpg" alt="Illustration for Proverbs 4" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Proverbs/500/4.jpg" alt="Illustration for Proverbs 4" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Proverbs 4</figcaption>
 </figure>
 </div>

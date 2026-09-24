@@ -73,7 +73,7 @@ description: "Psalms 70 in plain English: Hurry, God, to save me; hurry to help 
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/70.jpg" alt="Illustration for Psalms 70" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/70.jpg" alt="Illustration for Psalms 70" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 70</figcaption>
 </figure>
 </div>

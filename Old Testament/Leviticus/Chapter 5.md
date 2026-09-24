@@ -73,7 +73,7 @@ description: "Leviticus 5 in plain English: If a person sins, hears someone swea
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Leviticus/500/5.jpg" alt="Illustration for Leviticus 5" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Leviticus/500/5.jpg" alt="Illustration for Leviticus 5" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Leviticus 5</figcaption>
 </figure>
 </div>

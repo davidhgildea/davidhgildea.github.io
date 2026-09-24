@@ -73,7 +73,7 @@ description: "Romans 10 in plain English: Friends, I deeply wish and pray to God
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Romans/500/10.jpg" alt="Illustration for Romans 10" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Romans/500/10.jpg" alt="Illustration for Romans 10" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Romans 10</figcaption>
 </figure>
 </div>

@@ -73,7 +73,7 @@ description: "Ruth 3 in plain English: Then Naomi, her mother-in-law, said to he
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Ruth/500/3.jpg" alt="Illustration for Ruth 3" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Ruth/500/3.jpg" alt="Illustration for Ruth 3" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Ruth 3</figcaption>
 </figure>
 </div>

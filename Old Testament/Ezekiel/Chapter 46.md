@@ -73,7 +73,7 @@ description: "Ezekiel 46 in plain English: God says: The gate of the inner yard 
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Ezekiel/500/46.jpg" alt="Illustration for Ezekiel 46" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Ezekiel/500/46.jpg" alt="Illustration for Ezekiel 46" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Ezekiel 46</figcaption>
 </figure>
 </div>

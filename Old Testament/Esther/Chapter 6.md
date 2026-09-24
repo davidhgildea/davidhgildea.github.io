@@ -73,7 +73,7 @@ description: "Esther 6 in plain English: That night the king could not sleep, so
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Esther/500/6.jpg" alt="Illustration for Esther 6" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Esther/500/6.jpg" alt="Illustration for Esther 6" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Esther 6</figcaption>
 </figure>
 </div>

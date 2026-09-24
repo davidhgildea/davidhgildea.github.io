@@ -73,7 +73,7 @@ description: "Deuteronomy 13 in plain English: If a prophet or someone who dream
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Deuteronomy/500/13.jpg" alt="Illustration for Deuteronomy 13" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Deuteronomy/500/13.jpg" alt="Illustration for Deuteronomy 13" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Deuteronomy 13</figcaption>
 </figure>
 </div>

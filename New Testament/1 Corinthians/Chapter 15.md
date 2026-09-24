@@ -73,7 +73,7 @@ description: "1 Corinthians 15 in plain English: Friends, I tell you the good ne
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/1%20Corinthians/500/15.jpg" alt="Illustration for 1 Corinthians 15" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/1%20Corinthians/500/15.jpg" alt="Illustration for 1 Corinthians 15" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">1 Corinthians 15</figcaption>
 </figure>
 </div>

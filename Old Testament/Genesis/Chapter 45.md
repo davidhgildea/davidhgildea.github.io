@@ -73,7 +73,7 @@ description: "Genesis 45 in plain English: Joseph could not hold back in front o
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Genesis/500/45.jpg" alt="Illustration for Genesis 45" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Genesis/500/45.jpg" alt="Illustration for Genesis 45" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Genesis 45</figcaption>
 </figure>
 </div>

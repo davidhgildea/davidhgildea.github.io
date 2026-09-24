@@ -73,7 +73,7 @@ description: "Ezekiel 26 in plain English: In the eleventh year, on the first da
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Ezekiel/500/26.jpg" alt="Illustration for Ezekiel 26" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Ezekiel/500/26.jpg" alt="Illustration for Ezekiel 26" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Ezekiel 26</figcaption>
 </figure>
 </div>

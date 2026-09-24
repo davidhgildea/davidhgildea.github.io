@@ -73,7 +73,7 @@ description: "Isaiah 33 in plain English: How terrible for you who destroy other
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Isaiah/500/33.jpg" alt="Illustration for Isaiah 33" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Isaiah/500/33.jpg" alt="Illustration for Isaiah 33" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Isaiah 33</figcaption>
 </figure>
 </div>

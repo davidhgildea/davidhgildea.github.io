@@ -73,7 +73,7 @@ description: "Luke 3 in plain English: In the fifteenth year when Tiberius Caesa
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Luke/500/3.jpg" alt="Illustration for Luke 3" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Luke/500/3.jpg" alt="Illustration for Luke 3" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Luke 3</figcaption>
 </figure>
 </div>

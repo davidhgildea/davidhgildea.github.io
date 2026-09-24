@@ -73,7 +73,7 @@ description: "Acts 28 in plain English: After they were safe, they learned that 
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Acts/500/28.jpg" alt="Illustration for Acts 28" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Acts/500/28.jpg" alt="Illustration for Acts 28" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Acts 28</figcaption>
 </figure>
 </div>

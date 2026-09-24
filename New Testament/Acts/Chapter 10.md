@@ -73,7 +73,7 @@ description: "Acts 10 in plain English: In Caesarea there was a man named Cornel
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Acts/500/10.jpg" alt="Illustration for Acts 10" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Acts/500/10.jpg" alt="Illustration for Acts 10" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Acts 10</figcaption>
 </figure>
 </div>

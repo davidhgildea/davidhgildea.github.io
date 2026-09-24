@@ -73,7 +73,7 @@ description: "Exodus 15 in plain English: Moses and the Israelites sang this son
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Exodus/500/15.jpg" alt="Illustration for Exodus 15" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Exodus/500/15.jpg" alt="Illustration for Exodus 15" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Exodus 15</figcaption>
 </figure>
 </div>

@@ -73,7 +73,7 @@ description: "Exodus 7 in plain English: God said to Moses, \"Look, I have made 
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Exodus/500/7.jpg" alt="Illustration for Exodus 7" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Exodus/500/7.jpg" alt="Illustration for Exodus 7" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Exodus 7</figcaption>
 </figure>
 </div>

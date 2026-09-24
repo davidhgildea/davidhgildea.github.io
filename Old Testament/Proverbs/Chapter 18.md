@@ -73,7 +73,7 @@ description: "Proverbs 18 in plain English: A person with strong desires sets th
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Proverbs/500/18.jpg" alt="Illustration for Proverbs 18" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Proverbs/500/18.jpg" alt="Illustration for Proverbs 18" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Proverbs 18</figcaption>
 </figure>
 </div>

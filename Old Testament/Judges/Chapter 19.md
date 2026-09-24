@@ -73,7 +73,7 @@ description: "Judges 19 in plain English: During that time, when Israel had no k
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Judges/500/19.jpg" alt="Illustration for Judges 19" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Judges/500/19.jpg" alt="Illustration for Judges 19" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Judges 19</figcaption>
 </figure>
 </div>

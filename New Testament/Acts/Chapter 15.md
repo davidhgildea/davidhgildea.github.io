@@ -73,7 +73,7 @@ description: "Acts 15 in plain English: Some men from Judaea came and told the b
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Acts/500/15.jpg" alt="Illustration for Acts 15" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Acts/500/15.jpg" alt="Illustration for Acts 15" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Acts 15</figcaption>
 </figure>
 </div>

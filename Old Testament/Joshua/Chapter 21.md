@@ -73,7 +73,7 @@ description: "Joshua 21 in plain English: The leaders of the Levite families app
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Joshua/500/21.jpg" alt="Illustration for Joshua 21" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Joshua/500/21.jpg" alt="Illustration for Joshua 21" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Joshua 21</figcaption>
 </figure>
 </div>

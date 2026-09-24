@@ -73,7 +73,7 @@ description: "Psalms 103 in plain English: Praise God, O my soul, and everything
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/103.jpg" alt="Illustration for Psalms 103" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/103.jpg" alt="Illustration for Psalms 103" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 103</figcaption>
 </figure>
 </div>

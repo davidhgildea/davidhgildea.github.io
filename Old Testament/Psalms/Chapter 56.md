@@ -73,7 +73,7 @@ description: "Psalms 56 in plain English: God, be kind to me because people want
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/56.jpg" alt="Illustration for Psalms 56" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/56.jpg" alt="Illustration for Psalms 56" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 56</figcaption>
 </figure>
 </div>

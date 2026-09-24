@@ -73,7 +73,7 @@ description: "Job 36 in plain English: Elihu continued and spoke, Let me speak a
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Job/500/36.jpg" alt="Illustration for Job 36" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Job/500/36.jpg" alt="Illustration for Job 36" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Job 36</figcaption>
 </figure>
 </div>

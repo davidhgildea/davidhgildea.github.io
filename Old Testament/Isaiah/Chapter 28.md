@@ -73,7 +73,7 @@ description: "Isaiah 28 in plain English: Trouble is coming for the proud crown,
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Isaiah/500/28.jpg" alt="Illustration for Isaiah 28" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Isaiah/500/28.jpg" alt="Illustration for Isaiah 28" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Isaiah 28</figcaption>
 </figure>
 </div>

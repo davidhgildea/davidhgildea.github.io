@@ -73,7 +73,7 @@ description: "Deuteronomy 22 in plain English: If you see your brother's ox or s
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Deuteronomy/500/22.jpg" alt="Illustration for Deuteronomy 22" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Deuteronomy/500/22.jpg" alt="Illustration for Deuteronomy 22" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Deuteronomy 22</figcaption>
 </figure>
 </div>

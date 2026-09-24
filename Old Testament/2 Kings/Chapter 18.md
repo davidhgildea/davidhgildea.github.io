@@ -73,7 +73,7 @@ description: "2 Kings 18 in plain English: In the third year of Hoshea, son of E
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/2%20Kings/500/18.jpg" alt="Illustration for 2 Kings 18" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/2%20Kings/500/18.jpg" alt="Illustration for 2 Kings 18" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">2 Kings 18</figcaption>
 </figure>
 </div>

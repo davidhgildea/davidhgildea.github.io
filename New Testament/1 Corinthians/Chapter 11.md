@@ -73,7 +73,7 @@ description: "1 Corinthians 11 in plain English: Follow me, just as I follow Chr
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/1%20Corinthians/500/11.jpg" alt="Illustration for 1 Corinthians 11" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/1%20Corinthians/500/11.jpg" alt="Illustration for 1 Corinthians 11" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">1 Corinthians 11</figcaption>
 </figure>
 </div>

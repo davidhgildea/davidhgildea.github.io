@@ -73,7 +73,7 @@ description: "Deuteronomy 31 in plain English: Moses went and said these things 
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Deuteronomy/500/31.jpg" alt="Illustration for Deuteronomy 31" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Deuteronomy/500/31.jpg" alt="Illustration for Deuteronomy 31" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Deuteronomy 31</figcaption>
 </figure>
 </div>

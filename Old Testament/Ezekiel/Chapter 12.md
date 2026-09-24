@@ -73,7 +73,7 @@ description: "Ezekiel 12 in plain English: God's message came to me, saying, Hum
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Ezekiel/500/12.jpg" alt="Illustration for Ezekiel 12" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Ezekiel/500/12.jpg" alt="Illustration for Ezekiel 12" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Ezekiel 12</figcaption>
 </figure>
 </div>

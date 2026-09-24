@@ -73,7 +73,7 @@ description: "Joshua 24 in plain English: Joshua brought all the Israelite tribe
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Joshua/500/24.jpg" alt="Illustration for Joshua 24" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Joshua/500/24.jpg" alt="Illustration for Joshua 24" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Joshua 24</figcaption>
 </figure>
 </div>

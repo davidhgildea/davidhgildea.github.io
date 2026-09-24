@@ -73,7 +73,7 @@ description: "Joshua 13 in plain English: Joshua was old with many years; and Go
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Joshua/500/13.jpg" alt="Illustration for Joshua 13" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Joshua/500/13.jpg" alt="Illustration for Joshua 13" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Joshua 13</figcaption>
 </figure>
 </div>

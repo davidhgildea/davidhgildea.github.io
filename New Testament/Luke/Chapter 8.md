@@ -73,7 +73,7 @@ description: "Luke 8 in plain English: After that, he traveled to every city and
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Luke/500/8.jpg" alt="Illustration for Luke 8" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Luke/500/8.jpg" alt="Illustration for Luke 8" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Luke 8</figcaption>
 </figure>
 </div>

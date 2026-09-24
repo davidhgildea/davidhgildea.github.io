@@ -73,7 +73,7 @@ description: "Leviticus 27 in plain English: God spoke to Moses, saying, Tell th
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Leviticus/500/27.jpg" alt="Illustration for Leviticus 27" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Leviticus/500/27.jpg" alt="Illustration for Leviticus 27" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Leviticus 27</figcaption>
 </figure>
 </div>

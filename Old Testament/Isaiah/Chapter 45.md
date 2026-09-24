@@ -73,7 +73,7 @@ description: "Isaiah 45 in plain English: God says to his chosen one, Cyrus, who
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Isaiah/500/45.jpg" alt="Illustration for Isaiah 45" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Isaiah/500/45.jpg" alt="Illustration for Isaiah 45" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Isaiah 45</figcaption>
 </figure>
 </div>

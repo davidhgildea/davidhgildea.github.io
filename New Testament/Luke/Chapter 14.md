@@ -73,7 +73,7 @@ description: "Luke 14 in plain English: As he entered a leading Pharisee's home 
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Luke/500/14.jpg" alt="Illustration for Luke 14" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Luke/500/14.jpg" alt="Illustration for Luke 14" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Luke 14</figcaption>
 </figure>
 </div>

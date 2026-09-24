@@ -73,7 +73,7 @@ description: "Psalms 52 in plain English: Why do you brag about your evil deeds,
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/52.jpg" alt="Illustration for Psalms 52" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/52.jpg" alt="Illustration for Psalms 52" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 52</figcaption>
 </figure>
 </div>

@@ -73,7 +73,7 @@ description: "Jeremiah 52 in plain English: Zedekiah was 21 years old when he be
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Jeremiah/500/52.jpg" alt="Illustration for Jeremiah 52" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Jeremiah/500/52.jpg" alt="Illustration for Jeremiah 52" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Jeremiah 52</figcaption>
 </figure>
 </div>

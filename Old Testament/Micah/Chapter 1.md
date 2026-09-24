@@ -73,7 +73,7 @@ description: "Micah 1 in plain English: God's message that came to Micah of Mora
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Micah/500/1.jpg" alt="Illustration for Micah 1" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Micah/500/1.jpg" alt="Illustration for Micah 1" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Micah 1</figcaption>
 </figure>
 </div>

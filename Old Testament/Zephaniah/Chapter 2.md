@@ -73,7 +73,7 @@ description: "Zephaniah 2 in plain English: Come together, yes, come together, u
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Zephaniah/500/2.jpg" alt="Illustration for Zephaniah 2" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Zephaniah/500/2.jpg" alt="Illustration for Zephaniah 2" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Zephaniah 2</figcaption>
 </figure>
 </div>

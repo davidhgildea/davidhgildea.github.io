@@ -73,7 +73,7 @@ description: "Exodus 21 in plain English: Here are the rules that you should giv
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Exodus/500/21.jpg" alt="Illustration for Exodus 21" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Exodus/500/21.jpg" alt="Illustration for Exodus 21" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Exodus 21</figcaption>
 </figure>
 </div>

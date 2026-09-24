@@ -73,7 +73,7 @@ description: "Matthew 25 in plain English: Then the kingdom of heaven will be li
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Matthew/500/25.jpg" alt="Illustration for Matthew 25" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Matthew/500/25.jpg" alt="Illustration for Matthew 25" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Matthew 25</figcaption>
 </figure>
 </div>

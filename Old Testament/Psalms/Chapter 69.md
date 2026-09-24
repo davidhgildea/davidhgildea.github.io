@@ -73,7 +73,7 @@ description: "Psalms 69 in plain English: Help me, God; the waters have come up 
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/69.jpg" alt="Illustration for Psalms 69" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/69.jpg" alt="Illustration for Psalms 69" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 69</figcaption>
 </figure>
 </div>

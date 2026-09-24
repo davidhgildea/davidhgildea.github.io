@@ -73,7 +73,7 @@ description: "Jeremiah 18 in plain English: The message that came to Jeremiah fr
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Jeremiah/500/18.jpg" alt="Illustration for Jeremiah 18" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Jeremiah/500/18.jpg" alt="Illustration for Jeremiah 18" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Jeremiah 18</figcaption>
 </figure>
 </div>

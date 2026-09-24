@@ -73,7 +73,7 @@ description: "Jeremiah 27 in plain English: At the start of Jehoiakim's rule, Jo
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Jeremiah/500/27.jpg" alt="Illustration for Jeremiah 27" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Jeremiah/500/27.jpg" alt="Illustration for Jeremiah 27" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Jeremiah 27</figcaption>
 </figure>
 </div>

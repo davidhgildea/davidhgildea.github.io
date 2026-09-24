@@ -73,7 +73,7 @@ description: "2 Chronicles 35 in plain English: Josiah celebrated Passover for G
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/2%20Chronicles/500/35.jpg" alt="Illustration for 2 Chronicles 35" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/2%20Chronicles/500/35.jpg" alt="Illustration for 2 Chronicles 35" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">2 Chronicles 35</figcaption>
 </figure>
 </div>

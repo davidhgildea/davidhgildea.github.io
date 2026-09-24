@@ -73,7 +73,7 @@ description: "Psalms 100 in plain English: Make a happy sound for God, all you p
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/100.jpg" alt="Illustration for Psalms 100" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/100.jpg" alt="Illustration for Psalms 100" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 100</figcaption>
 </figure>
 </div>

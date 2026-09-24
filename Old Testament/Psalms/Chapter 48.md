@@ -73,7 +73,7 @@ description: "Psalms 48 in plain English: God is great, and deserves high praise
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/48.jpg" alt="Illustration for Psalms 48" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/48.jpg" alt="Illustration for Psalms 48" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 48</figcaption>
 </figure>
 </div>

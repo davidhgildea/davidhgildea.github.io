@@ -73,7 +73,7 @@ description: "Psalms 82 in plain English: God stands in the gathering of the pow
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/82.jpg" alt="Illustration for Psalms 82" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/82.jpg" alt="Illustration for Psalms 82" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 82</figcaption>
 </figure>
 </div>

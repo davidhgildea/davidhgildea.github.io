@@ -73,7 +73,7 @@ description: "Isaiah 16 in plain English: Send a lamb to the land's leader, from
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Isaiah/500/16.jpg" alt="Illustration for Isaiah 16" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Isaiah/500/16.jpg" alt="Illustration for Isaiah 16" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Isaiah 16</figcaption>
 </figure>
 </div>

@@ -73,7 +73,7 @@ description: "Jeremiah 41 in plain English: In the seventh month, Ishmael son of
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Jeremiah/500/41.jpg" alt="Illustration for Jeremiah 41" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Jeremiah/500/41.jpg" alt="Illustration for Jeremiah 41" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Jeremiah 41</figcaption>
 </figure>
 </div>

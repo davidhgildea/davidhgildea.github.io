@@ -73,7 +73,7 @@ description: "Genesis 33 in plain English: Jacob looked and saw Esau coming with
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Genesis/500/33.jpg" alt="Illustration for Genesis 33" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Genesis/500/33.jpg" alt="Illustration for Genesis 33" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Genesis 33</figcaption>
 </figure>
 </div>

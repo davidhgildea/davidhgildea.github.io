@@ -73,7 +73,7 @@ description: "Psalms 116 in plain English: I love God, because he has heard my v
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/116.jpg" alt="Illustration for Psalms 116" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/116.jpg" alt="Illustration for Psalms 116" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 116</figcaption>
 </figure>
 </div>

@@ -73,7 +73,7 @@ description: "Galatians 3 in plain English: Silly Galatians, who tricked you int
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Galatians/500/3.jpg" alt="Illustration for Galatians 3" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Galatians/500/3.jpg" alt="Illustration for Galatians 3" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Galatians 3</figcaption>
 </figure>
 </div>

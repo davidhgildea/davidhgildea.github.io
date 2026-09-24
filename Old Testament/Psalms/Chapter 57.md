@@ -73,7 +73,7 @@ description: "Psalms 57 in plain English: Have mercy on me, God, have mercy on m
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/57.jpg" alt="Illustration for Psalms 57" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/57.jpg" alt="Illustration for Psalms 57" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 57</figcaption>
 </figure>
 </div>

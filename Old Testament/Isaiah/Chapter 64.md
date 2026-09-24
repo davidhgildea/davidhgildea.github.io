@@ -73,7 +73,7 @@ description: "Isaiah 64 in plain English: I wish you would tear open the skies a
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Isaiah/500/64.jpg" alt="Illustration for Isaiah 64" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Isaiah/500/64.jpg" alt="Illustration for Isaiah 64" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Isaiah 64</figcaption>
 </figure>
 </div>

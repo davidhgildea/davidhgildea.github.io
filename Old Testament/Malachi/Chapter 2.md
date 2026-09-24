@@ -73,7 +73,7 @@ description: "Malachi 2 in plain English: And now, priests, this order is for yo
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Malachi/500/2.jpg" alt="Illustration for Malachi 2" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Malachi/500/2.jpg" alt="Illustration for Malachi 2" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Malachi 2</figcaption>
 </figure>
 </div>

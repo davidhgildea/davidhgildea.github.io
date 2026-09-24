@@ -73,7 +73,7 @@ description: "Psalms 10 in plain English: Why do you stand far away, God? Why do
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/10.jpg" alt="Illustration for Psalms 10" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/10.jpg" alt="Illustration for Psalms 10" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 10</figcaption>
 </figure>
 </div>

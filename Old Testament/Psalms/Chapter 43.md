@@ -73,7 +73,7 @@ description: "Psalms 43 in plain English: God, judge me and fight for me against
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/43.jpg" alt="Illustration for Psalms 43" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/43.jpg" alt="Illustration for Psalms 43" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 43</figcaption>
 </figure>
 </div>

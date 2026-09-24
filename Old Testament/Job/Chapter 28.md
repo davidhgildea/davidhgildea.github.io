@@ -73,7 +73,7 @@ description: "Job 28 in plain English: Surely there is a source for silver and a
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Job/500/28.jpg" alt="Illustration for Job 28" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Job/500/28.jpg" alt="Illustration for Job 28" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Job 28</figcaption>
 </figure>
 </div>

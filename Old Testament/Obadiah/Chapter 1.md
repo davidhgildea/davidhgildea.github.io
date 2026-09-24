@@ -73,7 +73,7 @@ description: "Obadiah 1 in plain English: Obadiah's vision. This is what God say
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Obadiah/500/1.jpg" alt="Illustration for Obadiah 1" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Obadiah/500/1.jpg" alt="Illustration for Obadiah 1" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Obadiah 1</figcaption>
 </figure>
 </div>

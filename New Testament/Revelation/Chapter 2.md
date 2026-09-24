@@ -73,7 +73,7 @@ description: "Revelation 2 in plain English: Write to the messenger of the Ephes
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Revelation/500/2.jpg" alt="Illustration for Revelation 2" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Revelation/500/2.jpg" alt="Illustration for Revelation 2" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Revelation 2</figcaption>
 </figure>
 </div>

@@ -73,7 +73,7 @@ description: "Isaiah 29 in plain English: Sadness to Ariel, the city where David
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Isaiah/500/29.jpg" alt="Illustration for Isaiah 29" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Isaiah/500/29.jpg" alt="Illustration for Isaiah 29" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Isaiah 29</figcaption>
 </figure>
 </div>

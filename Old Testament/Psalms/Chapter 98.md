@@ -73,7 +73,7 @@ description: "Psalms 98 in plain English: Sing to God a new song; for he has don
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/98.jpg" alt="Illustration for Psalms 98" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/98.jpg" alt="Illustration for Psalms 98" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 98</figcaption>
 </figure>
 </div>

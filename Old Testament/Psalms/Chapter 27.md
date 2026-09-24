@@ -73,7 +73,7 @@ description: "Psalms 27 in plain English: God is my light and my rescue; who sho
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/27.jpg" alt="Illustration for Psalms 27" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/27.jpg" alt="Illustration for Psalms 27" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 27</figcaption>
 </figure>
 </div>

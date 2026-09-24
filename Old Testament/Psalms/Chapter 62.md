@@ -73,7 +73,7 @@ description: "Psalms 62 in plain English: My soul truly waits for God; my rescue
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/62.jpg" alt="Illustration for Psalms 62" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/62.jpg" alt="Illustration for Psalms 62" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 62</figcaption>
 </figure>
 </div>

@@ -73,7 +73,7 @@ description: "Isaiah 3 in plain English: Look, God will remove from Jerusalem an
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Isaiah/500/3.jpg" alt="Illustration for Isaiah 3" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Isaiah/500/3.jpg" alt="Illustration for Isaiah 3" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Isaiah 3</figcaption>
 </figure>
 </div>

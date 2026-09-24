@@ -1,0 +1,9 @@
+<script>
+  // When a page is opened at a verse link (e.g. #v16), scroll to it again once
+  // images and fonts have loaded, so content above can't push the verse out of view.
+  window.addEventListener('load', function () {
+    if (!location.hash) return;
+    var target = document.getElementById(decodeURIComponent(location.hash.slice(1)));
+    if (target) target.scrollIntoView();
+  });
+</script>

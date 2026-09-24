@@ -73,7 +73,7 @@ description: "1 Chronicles 1 in plain English: Adam, Seth, Enosh. Kenan, Mahalal
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/1%20Chronicles/500/1.jpg" alt="Illustration for 1 Chronicles 1" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/1%20Chronicles/500/1.jpg" alt="Illustration for 1 Chronicles 1" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">1 Chronicles 1</figcaption>
 </figure>
 </div>

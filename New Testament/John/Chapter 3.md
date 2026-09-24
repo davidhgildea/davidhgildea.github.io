@@ -73,7 +73,7 @@ description: "John 3 in plain English: A Pharisee named Nicodemus was a Jewish l
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/John/500/3.jpg" alt="Illustration for John 3" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/John/500/3.jpg" alt="Illustration for John 3" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">John 3</figcaption>
 </figure>
 </div>

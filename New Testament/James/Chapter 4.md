@@ -73,7 +73,7 @@ description: "James 4 in plain English: Where do your wars and battles with each
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/James/500/4.jpg" alt="Illustration for James 4" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/James/500/4.jpg" alt="Illustration for James 4" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">James 4</figcaption>
 </figure>
 </div>

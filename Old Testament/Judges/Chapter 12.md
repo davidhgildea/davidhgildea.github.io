@@ -73,7 +73,7 @@ description: "Judges 12 in plain English: The men of Ephraim came together, went
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Judges/500/12.jpg" alt="Illustration for Judges 12" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Judges/500/12.jpg" alt="Illustration for Judges 12" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Judges 12</figcaption>
 </figure>
 </div>

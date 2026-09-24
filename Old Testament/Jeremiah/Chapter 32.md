@@ -73,7 +73,7 @@ description: "Jeremiah 32 in plain English: The message that came to Jeremiah fr
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Jeremiah/500/32.jpg" alt="Illustration for Jeremiah 32" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Jeremiah/500/32.jpg" alt="Illustration for Jeremiah 32" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Jeremiah 32</figcaption>
 </figure>
 </div>

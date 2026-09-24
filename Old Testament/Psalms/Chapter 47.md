@@ -73,7 +73,7 @@ description: "Psalms 47 in plain English: Clap your hands, everyone; shout to Go
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/47.jpg" alt="Illustration for Psalms 47" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/47.jpg" alt="Illustration for Psalms 47" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 47</figcaption>
 </figure>
 </div>

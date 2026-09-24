@@ -73,7 +73,7 @@ description: "Isaiah 26 in plain English: On that day, this song will be sung in
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Isaiah/500/26.jpg" alt="Illustration for Isaiah 26" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Isaiah/500/26.jpg" alt="Illustration for Isaiah 26" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Isaiah 26</figcaption>
 </figure>
 </div>

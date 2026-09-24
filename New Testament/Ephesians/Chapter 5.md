@@ -73,7 +73,7 @@ description: "Ephesians 5 in plain English: So be like God, as beloved children.
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Ephesians/500/5.jpg" alt="Illustration for Ephesians 5" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Ephesians/500/5.jpg" alt="Illustration for Ephesians 5" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Ephesians 5</figcaption>
 </figure>
 </div>

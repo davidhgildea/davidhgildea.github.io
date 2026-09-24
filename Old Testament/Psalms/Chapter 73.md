@@ -73,7 +73,7 @@ description: "Psalms 73 in plain English: God is truly good to Israel and to tho
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/73.jpg" alt="Illustration for Psalms 73" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/73.jpg" alt="Illustration for Psalms 73" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 73</figcaption>
 </figure>
 </div>

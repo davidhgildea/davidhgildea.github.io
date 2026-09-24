@@ -73,7 +73,7 @@ description: "Psalms 54 in plain English: God, save me because of your name and 
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/54.jpg" alt="Illustration for Psalms 54" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/54.jpg" alt="Illustration for Psalms 54" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 54</figcaption>
 </figure>
 </div>

@@ -73,7 +73,7 @@ description: "Luke 22 in plain English: The time for the Feast of Unleavened Bre
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Luke/500/22.jpg" alt="Illustration for Luke 22" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Luke/500/22.jpg" alt="Illustration for Luke 22" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Luke 22</figcaption>
 </figure>
 </div>

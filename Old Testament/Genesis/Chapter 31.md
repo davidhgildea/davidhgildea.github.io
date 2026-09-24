@@ -73,7 +73,7 @@ description: "Genesis 31 in plain English: He heard Laban's sons say, \"Jacob ha
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Genesis/500/31.jpg" alt="Illustration for Genesis 31" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Genesis/500/31.jpg" alt="Illustration for Genesis 31" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Genesis 31</figcaption>
 </figure>
 </div>

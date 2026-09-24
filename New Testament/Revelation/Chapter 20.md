@@ -73,7 +73,7 @@ description: "Revelation 20 in plain English: I saw an angel come down from heav
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Revelation/500/20.jpg" alt="Illustration for Revelation 20" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Revelation/500/20.jpg" alt="Illustration for Revelation 20" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Revelation 20</figcaption>
 </figure>
 </div>

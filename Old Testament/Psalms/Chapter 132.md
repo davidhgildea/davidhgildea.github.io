@@ -73,7 +73,7 @@ description: "Psalms 132 in plain English: God, remember David and all his hards
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/132.jpg" alt="Illustration for Psalms 132" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/132.jpg" alt="Illustration for Psalms 132" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 132</figcaption>
 </figure>
 </div>

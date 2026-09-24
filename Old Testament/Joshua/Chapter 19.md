@@ -73,7 +73,7 @@ description: "Joshua 19 in plain English: The second choice was for the tribe of
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Joshua/500/19.jpg" alt="Illustration for Joshua 19" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Joshua/500/19.jpg" alt="Illustration for Joshua 19" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Joshua 19</figcaption>
 </figure>
 </div>

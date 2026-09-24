@@ -73,7 +73,7 @@ description: "Genesis 40 in plain English: After these events, the Egyptian king
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Genesis/500/40.jpg" alt="Illustration for Genesis 40" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Genesis/500/40.jpg" alt="Illustration for Genesis 40" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Genesis 40</figcaption>
 </figure>
 </div>

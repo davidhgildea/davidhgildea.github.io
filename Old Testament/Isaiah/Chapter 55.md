@@ -73,7 +73,7 @@ description: "Isaiah 55 in plain English: Everyone who is thirsty, come to the w
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Isaiah/500/55.jpg" alt="Illustration for Isaiah 55" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Isaiah/500/55.jpg" alt="Illustration for Isaiah 55" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Isaiah 55</figcaption>
 </figure>
 </div>

@@ -73,7 +73,7 @@ description: "Judges 15 in plain English: After some time, during wheat harvest,
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Judges/500/15.jpg" alt="Illustration for Judges 15" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Judges/500/15.jpg" alt="Illustration for Judges 15" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Judges 15</figcaption>
 </figure>
 </div>

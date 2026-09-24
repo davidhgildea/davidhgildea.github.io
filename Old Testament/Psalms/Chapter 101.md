@@ -73,7 +73,7 @@ description: "Psalms 101 in plain English: I will sing about love and fairness t
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/101.jpg" alt="Illustration for Psalms 101" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/101.jpg" alt="Illustration for Psalms 101" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 101</figcaption>
 </figure>
 </div>

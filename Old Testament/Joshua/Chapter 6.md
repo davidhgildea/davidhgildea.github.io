@@ -73,7 +73,7 @@ description: "Joshua 6 in plain English: Jericho was tightly closed because of t
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Joshua/500/6.jpg" alt="Illustration for Joshua 6" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Joshua/500/6.jpg" alt="Illustration for Joshua 6" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Joshua 6</figcaption>
 </figure>
 </div>

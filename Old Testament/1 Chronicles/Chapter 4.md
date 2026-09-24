@@ -73,7 +73,7 @@ description: "1 Chronicles 4 in plain English: Judah's sons were: Pharez, Hezron
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/1%20Chronicles/500/4.jpg" alt="Illustration for 1 Chronicles 4" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/1%20Chronicles/500/4.jpg" alt="Illustration for 1 Chronicles 4" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">1 Chronicles 4</figcaption>
 </figure>
 </div>

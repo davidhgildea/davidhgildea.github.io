@@ -73,7 +73,7 @@ description: "Proverbs 29 in plain English: Anyone who keeps making the same mis
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Proverbs/500/29.jpg" alt="Illustration for Proverbs 29" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Proverbs/500/29.jpg" alt="Illustration for Proverbs 29" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Proverbs 29</figcaption>
 </figure>
 </div>

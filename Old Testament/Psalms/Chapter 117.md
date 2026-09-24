@@ -73,7 +73,7 @@ description: "Psalms 117 in plain English: Praise God, all nations; praise Him, 
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/117.jpg" alt="Illustration for Psalms 117" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/117.jpg" alt="Illustration for Psalms 117" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 117</figcaption>
 </figure>
 </div>

@@ -73,7 +73,7 @@ description: "Exodus 8 in plain English: God spoke to Moses, \"Go to the Pharaoh
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Exodus/500/8.jpg" alt="Illustration for Exodus 8" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Exodus/500/8.jpg" alt="Illustration for Exodus 8" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Exodus 8</figcaption>
 </figure>
 </div>

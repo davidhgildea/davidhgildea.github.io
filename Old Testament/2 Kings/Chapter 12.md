@@ -73,7 +73,7 @@ description: "2 Kings 12 in plain English: Jehoash became king in the seventh ye
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/2%20Kings/500/12.jpg" alt="Illustration for 2 Kings 12" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/2%20Kings/500/12.jpg" alt="Illustration for 2 Kings 12" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">2 Kings 12</figcaption>
 </figure>
 </div>

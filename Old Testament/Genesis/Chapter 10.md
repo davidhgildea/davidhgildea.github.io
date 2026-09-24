@@ -73,7 +73,7 @@ description: "Genesis 10 in plain English: Here are the family lines of Noah's s
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Genesis/500/10.jpg" alt="Illustration for Genesis 10" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Genesis/500/10.jpg" alt="Illustration for Genesis 10" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Genesis 10</figcaption>
 </figure>
 </div>

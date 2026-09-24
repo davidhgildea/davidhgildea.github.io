@@ -73,7 +73,7 @@ description: "Exodus 22 in plain English: If someone steals a cow or a sheep, an
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Exodus/500/22.jpg" alt="Illustration for Exodus 22" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Exodus/500/22.jpg" alt="Illustration for Exodus 22" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Exodus 22</figcaption>
 </figure>
 </div>

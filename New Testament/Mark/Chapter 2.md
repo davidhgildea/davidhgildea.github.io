@@ -73,7 +73,7 @@ description: "Mark 2 in plain English: He went back to Capernaum after a few day
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Mark/500/2.jpg" alt="Illustration for Mark 2" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Mark/500/2.jpg" alt="Illustration for Mark 2" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Mark 2</figcaption>
 </figure>
 </div>

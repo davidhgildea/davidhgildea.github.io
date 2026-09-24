@@ -73,7 +73,7 @@ description: "Psalms 108 in plain English: God, my heart is steady; I will sing 
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/108.jpg" alt="Illustration for Psalms 108" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/108.jpg" alt="Illustration for Psalms 108" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 108</figcaption>
 </figure>
 </div>

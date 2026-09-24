@@ -73,7 +73,7 @@ description: "Genesis 4 in plain English: Adam was intimate with his wife Eve; s
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Genesis/500/4.jpg" alt="Illustration for Genesis 4" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Genesis/500/4.jpg" alt="Illustration for Genesis 4" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Genesis 4</figcaption>
 </figure>
 </div>

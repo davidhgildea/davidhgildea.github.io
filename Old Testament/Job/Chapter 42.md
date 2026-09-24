@@ -73,7 +73,7 @@ description: "Job 42 in plain English: Then Job replied to God, saying, I know y
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Job/500/42.jpg" alt="Illustration for Job 42" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Job/500/42.jpg" alt="Illustration for Job 42" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Job 42</figcaption>
 </figure>
 </div>

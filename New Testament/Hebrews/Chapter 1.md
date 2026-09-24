@@ -73,7 +73,7 @@ description: "Hebrews 1 in plain English: God spoke to our ancestors through the
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Hebrews/500/1.jpg" alt="Illustration for Hebrews 1" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Hebrews/500/1.jpg" alt="Illustration for Hebrews 1" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Hebrews 1</figcaption>
 </figure>
 </div>

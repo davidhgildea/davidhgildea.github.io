@@ -73,7 +73,7 @@ description: "Proverbs 6 in plain English: My son, if you promise to pay for you
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Proverbs/500/6.jpg" alt="Illustration for Proverbs 6" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Proverbs/500/6.jpg" alt="Illustration for Proverbs 6" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Proverbs 6</figcaption>
 </figure>
 </div>

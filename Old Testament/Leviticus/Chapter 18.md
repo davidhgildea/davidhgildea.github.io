@@ -73,7 +73,7 @@ description: "Leviticus 18 in plain English: God spoke to Moses, saying, Tell th
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Leviticus/500/18.jpg" alt="Illustration for Leviticus 18" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Leviticus/500/18.jpg" alt="Illustration for Leviticus 18" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Leviticus 18</figcaption>
 </figure>
 </div>

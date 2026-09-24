@@ -73,7 +73,7 @@ description: "Leviticus 11 in plain English: God spoke to Moses and Aaron, telli
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Leviticus/500/11.jpg" alt="Illustration for Leviticus 11" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Leviticus/500/11.jpg" alt="Illustration for Leviticus 11" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Leviticus 11</figcaption>
 </figure>
 </div>

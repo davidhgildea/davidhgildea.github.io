@@ -73,7 +73,7 @@ description: "2 Peter 2 in plain English: But there were fake prophets among the
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/2%20Peter/500/2.jpg" alt="Illustration for 2 Peter 2" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/2%20Peter/500/2.jpg" alt="Illustration for 2 Peter 2" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">2 Peter 2</figcaption>
 </figure>
 </div>

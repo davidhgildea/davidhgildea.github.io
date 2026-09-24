@@ -73,7 +73,7 @@ description: "Psalms 150 in plain English: Praise God. Praise him in his holy pl
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/150.jpg" alt="Illustration for Psalms 150" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/150.jpg" alt="Illustration for Psalms 150" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 150</figcaption>
 </figure>
 </div>

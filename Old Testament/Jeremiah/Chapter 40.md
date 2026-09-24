@@ -73,7 +73,7 @@ description: "Jeremiah 40 in plain English: God gave a message to Jeremiah after
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Jeremiah/500/40.jpg" alt="Illustration for Jeremiah 40" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Jeremiah/500/40.jpg" alt="Illustration for Jeremiah 40" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Jeremiah 40</figcaption>
 </figure>
 </div>

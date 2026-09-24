@@ -73,7 +73,7 @@ description: "Ezekiel 17 in plain English: God spoke to me, saying, Human, tell 
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Ezekiel/500/17.jpg" alt="Illustration for Ezekiel 17" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Ezekiel/500/17.jpg" alt="Illustration for Ezekiel 17" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Ezekiel 17</figcaption>
 </figure>
 </div>

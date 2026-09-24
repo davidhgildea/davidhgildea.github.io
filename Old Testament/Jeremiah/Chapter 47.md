@@ -73,7 +73,7 @@ description: "Jeremiah 47 in plain English: God's message came to Jeremiah the p
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Jeremiah/500/47.jpg" alt="Illustration for Jeremiah 47" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Jeremiah/500/47.jpg" alt="Illustration for Jeremiah 47" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Jeremiah 47</figcaption>
 </figure>
 </div>

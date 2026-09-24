@@ -73,7 +73,7 @@ description: "Revelation 18 in plain English: After this I saw another angel com
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Revelation/500/18.jpg" alt="Illustration for Revelation 18" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Revelation/500/18.jpg" alt="Illustration for Revelation 18" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Revelation 18</figcaption>
 </figure>
 </div>

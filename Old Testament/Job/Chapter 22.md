@@ -73,7 +73,7 @@ description: "Job 22 in plain English: Then Eliphaz from Teman replied, Can a pe
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Job/500/22.jpg" alt="Illustration for Job 22" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Job/500/22.jpg" alt="Illustration for Job 22" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Job 22</figcaption>
 </figure>
 </div>

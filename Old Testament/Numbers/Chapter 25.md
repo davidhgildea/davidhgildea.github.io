@@ -73,7 +73,7 @@ description: "Numbers 25 in plain English: Israel stayed in Shittim, and the peo
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Numbers/500/25.jpg" alt="Illustration for Numbers 25" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Numbers/500/25.jpg" alt="Illustration for Numbers 25" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Numbers 25</figcaption>
 </figure>
 </div>

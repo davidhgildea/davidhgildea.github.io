@@ -73,7 +73,7 @@ description: "Colossians 1 in plain English: Paul, sent by Jesus Christ because 
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Colossians/500/1.jpg" alt="Illustration for Colossians 1" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Colossians/500/1.jpg" alt="Illustration for Colossians 1" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Colossians 1</figcaption>
 </figure>
 </div>

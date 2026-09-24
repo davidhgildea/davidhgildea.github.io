@@ -73,7 +73,7 @@ description: "Jeremiah 15 in plain English: God said to me, \"Even if Moses and 
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Jeremiah/500/15.jpg" alt="Illustration for Jeremiah 15" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Jeremiah/500/15.jpg" alt="Illustration for Jeremiah 15" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Jeremiah 15</figcaption>
 </figure>
 </div>

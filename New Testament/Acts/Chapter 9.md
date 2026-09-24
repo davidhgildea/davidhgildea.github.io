@@ -73,7 +73,7 @@ description: "Acts 9 in plain English: Saul, still making threats and wanting to
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Acts/500/9.jpg" alt="Illustration for Acts 9" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Acts/500/9.jpg" alt="Illustration for Acts 9" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Acts 9</figcaption>
 </figure>
 </div>

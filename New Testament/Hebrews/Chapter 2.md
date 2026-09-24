@@ -73,7 +73,7 @@ description: "Hebrews 2 in plain English: So we should pay careful attention to 
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Hebrews/500/2.jpg" alt="Illustration for Hebrews 2" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Hebrews/500/2.jpg" alt="Illustration for Hebrews 2" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Hebrews 2</figcaption>
 </figure>
 </div>

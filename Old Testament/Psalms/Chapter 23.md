@@ -73,7 +73,7 @@ description: "Psalms 23 in plain English: God is my shepherd; I will not lack an
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/23.jpg" alt="Illustration for Psalms 23" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/23.jpg" alt="Illustration for Psalms 23" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 23</figcaption>
 </figure>
 </div>

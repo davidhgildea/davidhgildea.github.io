@@ -73,7 +73,7 @@ description: "Joshua 20 in plain English: God also spoke to Joshua, saying, Tell
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Joshua/500/20.jpg" alt="Illustration for Joshua 20" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Joshua/500/20.jpg" alt="Illustration for Joshua 20" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Joshua 20</figcaption>
 </figure>
 </div>

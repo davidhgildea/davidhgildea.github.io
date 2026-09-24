@@ -73,7 +73,7 @@ description: "Romans 14 in plain English: Welcome those who are weak in faith, b
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Romans/500/14.jpg" alt="Illustration for Romans 14" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Romans/500/14.jpg" alt="Illustration for Romans 14" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Romans 14</figcaption>
 </figure>
 </div>

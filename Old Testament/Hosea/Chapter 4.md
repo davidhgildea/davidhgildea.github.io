@@ -73,7 +73,7 @@ description: "Hosea 4 in plain English: Listen to God's message, people of Israe
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Hosea/500/4.jpg" alt="Illustration for Hosea 4" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Hosea/500/4.jpg" alt="Illustration for Hosea 4" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Hosea 4</figcaption>
 </figure>
 </div>

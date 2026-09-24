@@ -73,7 +73,7 @@ description: "Ezekiel 19 in plain English: Make a sad song for Israel's leaders.
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Ezekiel/500/19.jpg" alt="Illustration for Ezekiel 19" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Ezekiel/500/19.jpg" alt="Illustration for Ezekiel 19" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Ezekiel 19</figcaption>
 </figure>
 </div>

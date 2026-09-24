@@ -73,7 +73,7 @@ description: "Psalms 121 in plain English: I will look up to the hills, where my
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/121.jpg" alt="Illustration for Psalms 121" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/121.jpg" alt="Illustration for Psalms 121" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 121</figcaption>
 </figure>
 </div>

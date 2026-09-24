@@ -73,7 +73,7 @@ description: "Deuteronomy 23 in plain English: Anyone with damaged testicles or 
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Deuteronomy/500/23.jpg" alt="Illustration for Deuteronomy 23" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Deuteronomy/500/23.jpg" alt="Illustration for Deuteronomy 23" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Deuteronomy 23</figcaption>
 </figure>
 </div>

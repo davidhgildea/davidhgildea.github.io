@@ -73,7 +73,7 @@ description: "Genesis 37 in plain English: Jacob lived in the land where his fat
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Genesis/500/37.jpg" alt="Illustration for Genesis 37" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Genesis/500/37.jpg" alt="Illustration for Genesis 37" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Genesis 37</figcaption>
 </figure>
 </div>

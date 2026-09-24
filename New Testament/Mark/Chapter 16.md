@@ -73,7 +73,7 @@ description: "Mark 16 in plain English: After the Sabbath ended, Mary Magdalene,
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Mark/500/16.jpg" alt="Illustration for Mark 16" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Mark/500/16.jpg" alt="Illustration for Mark 16" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Mark 16</figcaption>
 </figure>
 </div>

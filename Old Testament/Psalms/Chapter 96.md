@@ -73,7 +73,7 @@ description: "Psalms 96 in plain English: Sing a new song to God; let everyone o
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/96.jpg" alt="Illustration for Psalms 96" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/96.jpg" alt="Illustration for Psalms 96" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 96</figcaption>
 </figure>
 </div>

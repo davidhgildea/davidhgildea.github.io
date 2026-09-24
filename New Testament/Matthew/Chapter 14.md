@@ -73,7 +73,7 @@ description: "Matthew 14 in plain English: At that time, Herod the ruler heard a
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Matthew/500/14.jpg" alt="Illustration for Matthew 14" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Matthew/500/14.jpg" alt="Illustration for Matthew 14" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Matthew 14</figcaption>
 </figure>
 </div>

@@ -73,7 +73,7 @@ description: "Isaiah 31 in plain English: Pity those who look to Egypt for help,
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Isaiah/500/31.jpg" alt="Illustration for Isaiah 31" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Isaiah/500/31.jpg" alt="Illustration for Isaiah 31" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Isaiah 31</figcaption>
 </figure>
 </div>

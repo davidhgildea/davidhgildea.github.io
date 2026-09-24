@@ -73,7 +73,7 @@ description: "Job 34 in plain English: Elihu replied and said, Listen to me, you
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Job/500/34.jpg" alt="Illustration for Job 34" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Job/500/34.jpg" alt="Illustration for Job 34" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Job 34</figcaption>
 </figure>
 </div>

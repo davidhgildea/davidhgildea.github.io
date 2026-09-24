@@ -73,7 +73,7 @@ description: "Jeremiah 25 in plain English: God's message came to Jeremiah about
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Jeremiah/500/25.jpg" alt="Illustration for Jeremiah 25" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Jeremiah/500/25.jpg" alt="Illustration for Jeremiah 25" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Jeremiah 25</figcaption>
 </figure>
 </div>

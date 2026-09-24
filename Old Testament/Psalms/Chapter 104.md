@@ -73,7 +73,7 @@ description: "Psalms 104 in plain English: Praise God, my soul. O my God, you ar
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/104.jpg" alt="Illustration for Psalms 104" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/104.jpg" alt="Illustration for Psalms 104" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 104</figcaption>
 </figure>
 </div>

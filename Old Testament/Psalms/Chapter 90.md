@@ -73,7 +73,7 @@ description: "Psalms 90 in plain English: God, you have been our home through al
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/90.jpg" alt="Illustration for Psalms 90" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/90.jpg" alt="Illustration for Psalms 90" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 90</figcaption>
 </figure>
 </div>

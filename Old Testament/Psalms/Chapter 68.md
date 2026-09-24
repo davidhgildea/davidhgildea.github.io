@@ -73,7 +73,7 @@ description: "Psalms 68 in plain English: May God stand up, may his enemies scat
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/68.jpg" alt="Illustration for Psalms 68" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/68.jpg" alt="Illustration for Psalms 68" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 68</figcaption>
 </figure>
 </div>

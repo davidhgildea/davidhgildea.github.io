@@ -73,7 +73,7 @@ description: "Genesis 16 in plain English: Sarai, Abram's wife, had no children.
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Genesis/500/16.jpg" alt="Illustration for Genesis 16" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Genesis/500/16.jpg" alt="Illustration for Genesis 16" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Genesis 16</figcaption>
 </figure>
 </div>

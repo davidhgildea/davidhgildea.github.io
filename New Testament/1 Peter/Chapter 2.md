@@ -73,7 +73,7 @@ description: "1 Peter 2 in plain English: So put away all meanness, trickery, pr
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/1%20Peter/500/2.jpg" alt="Illustration for 1 Peter 2" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/1%20Peter/500/2.jpg" alt="Illustration for 1 Peter 2" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">1 Peter 2</figcaption>
 </figure>
 </div>

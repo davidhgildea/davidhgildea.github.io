@@ -73,7 +73,7 @@ description: "Proverbs 27 in plain English: Don't brag about tomorrow; you don't
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Proverbs/500/27.jpg" alt="Illustration for Proverbs 27" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Proverbs/500/27.jpg" alt="Illustration for Proverbs 27" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Proverbs 27</figcaption>
 </figure>
 </div>

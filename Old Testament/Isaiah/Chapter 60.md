@@ -73,7 +73,7 @@ description: "Isaiah 60 in plain English: Get up and shine, because your light h
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Isaiah/500/60.jpg" alt="Illustration for Isaiah 60" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Isaiah/500/60.jpg" alt="Illustration for Isaiah 60" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Isaiah 60</figcaption>
 </figure>
 </div>

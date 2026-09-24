@@ -73,7 +73,7 @@ description: "Mark 6 in plain English: He left that place, went to his hometown,
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Mark/500/6.jpg" alt="Illustration for Mark 6" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Mark/500/6.jpg" alt="Illustration for Mark 6" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Mark 6</figcaption>
 </figure>
 </div>

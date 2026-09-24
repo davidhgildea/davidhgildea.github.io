@@ -73,7 +73,7 @@ description: "John 21 in plain English: After these events, Jesus appeared again
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/John/500/21.jpg" alt="Illustration for John 21" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/John/500/21.jpg" alt="Illustration for John 21" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">John 21</figcaption>
 </figure>
 </div>

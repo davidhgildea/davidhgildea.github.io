@@ -73,7 +73,7 @@ description: "1 Chronicles 9 in plain English: All the people of Israel were lis
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/1%20Chronicles/500/9.jpg" alt="Illustration for 1 Chronicles 9" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/1%20Chronicles/500/9.jpg" alt="Illustration for 1 Chronicles 9" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">1 Chronicles 9</figcaption>
 </figure>
 </div>

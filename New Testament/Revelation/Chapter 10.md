@@ -73,7 +73,7 @@ description: "Revelation 10 in plain English: I saw another powerful angel come 
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Revelation/500/10.jpg" alt="Illustration for Revelation 10" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Revelation/500/10.jpg" alt="Illustration for Revelation 10" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Revelation 10</figcaption>
 </figure>
 </div>

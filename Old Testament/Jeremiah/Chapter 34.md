@@ -73,7 +73,7 @@ description: "Jeremiah 34 in plain English: God gave a message to Jeremiah when 
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Jeremiah/500/34.jpg" alt="Illustration for Jeremiah 34" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Jeremiah/500/34.jpg" alt="Illustration for Jeremiah 34" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Jeremiah 34</figcaption>
 </figure>
 </div>

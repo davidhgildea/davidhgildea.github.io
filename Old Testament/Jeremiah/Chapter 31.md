@@ -73,7 +73,7 @@ description: "Jeremiah 31 in plain English: At that time, says God, I will be th
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Jeremiah/500/31.jpg" alt="Illustration for Jeremiah 31" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Jeremiah/500/31.jpg" alt="Illustration for Jeremiah 31" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Jeremiah 31</figcaption>
 </figure>
 </div>

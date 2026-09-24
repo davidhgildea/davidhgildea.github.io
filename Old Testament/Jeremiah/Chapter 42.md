@@ -73,7 +73,7 @@ description: "Jeremiah 42 in plain English: Then all the army leaders, Johanan s
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Jeremiah/500/42.jpg" alt="Illustration for Jeremiah 42" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Jeremiah/500/42.jpg" alt="Illustration for Jeremiah 42" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Jeremiah 42</figcaption>
 </figure>
 </div>

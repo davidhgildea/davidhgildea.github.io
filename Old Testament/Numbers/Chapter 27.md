@@ -73,7 +73,7 @@ description: "Numbers 27 in plain English: Zelophehad's daughters came to Moses.
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Numbers/500/27.jpg" alt="Illustration for Numbers 27" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Numbers/500/27.jpg" alt="Illustration for Numbers 27" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Numbers 27</figcaption>
 </figure>
 </div>

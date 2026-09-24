@@ -73,7 +73,7 @@ description: "Psalms 46 in plain English: God is our safe place and power, alway
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/46.jpg" alt="Illustration for Psalms 46" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/46.jpg" alt="Illustration for Psalms 46" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 46</figcaption>
 </figure>
 </div>

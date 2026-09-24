@@ -73,7 +73,7 @@ description: "Luke 4 in plain English: Jesus, filled with the Holy Spirit, came 
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Luke/500/4.jpg" alt="Illustration for Luke 4" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Luke/500/4.jpg" alt="Illustration for Luke 4" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Luke 4</figcaption>
 </figure>
 </div>

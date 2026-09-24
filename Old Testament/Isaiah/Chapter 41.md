@@ -73,7 +73,7 @@ description: "Isaiah 41 in plain English: Stay quiet before me, islands; and let
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Isaiah/500/41.jpg" alt="Illustration for Isaiah 41" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Isaiah/500/41.jpg" alt="Illustration for Isaiah 41" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Isaiah 41</figcaption>
 </figure>
 </div>

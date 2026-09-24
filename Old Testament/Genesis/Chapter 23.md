@@ -73,7 +73,7 @@ description: "Genesis 23 in plain English: Sarah lived to be 127 years old. Sara
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Genesis/500/23.jpg" alt="Illustration for Genesis 23" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Genesis/500/23.jpg" alt="Illustration for Genesis 23" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Genesis 23</figcaption>
 </figure>
 </div>

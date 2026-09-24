@@ -73,7 +73,7 @@ description: "Deuteronomy 17 in plain English: Do not offer to God any bull or s
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Deuteronomy/500/17.jpg" alt="Illustration for Deuteronomy 17" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Deuteronomy/500/17.jpg" alt="Illustration for Deuteronomy 17" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Deuteronomy 17</figcaption>
 </figure>
 </div>

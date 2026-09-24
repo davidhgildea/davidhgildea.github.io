@@ -73,7 +73,7 @@ description: "Exodus 39 in plain English: They made special cloths in blue, purp
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Exodus/500/39.jpg" alt="Illustration for Exodus 39" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Exodus/500/39.jpg" alt="Illustration for Exodus 39" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Exodus 39</figcaption>
 </figure>
 </div>

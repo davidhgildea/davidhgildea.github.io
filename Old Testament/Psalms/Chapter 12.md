@@ -73,7 +73,7 @@ description: "Psalms 12 in plain English: Help, God; for good people are gone; t
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/12.jpg" alt="Illustration for Psalms 12" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/12.jpg" alt="Illustration for Psalms 12" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 12</figcaption>
 </figure>
 </div>

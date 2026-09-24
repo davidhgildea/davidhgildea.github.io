@@ -73,7 +73,7 @@ description: "2 Corinthians 4 in plain English: Because we are given this servic
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/2%20Corinthians/500/4.jpg" alt="Illustration for 2 Corinthians 4" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/2%20Corinthians/500/4.jpg" alt="Illustration for 2 Corinthians 4" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">2 Corinthians 4</figcaption>
 </figure>
 </div>

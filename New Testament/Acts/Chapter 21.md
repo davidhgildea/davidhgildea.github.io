@@ -73,7 +73,7 @@ description: "Acts 21 in plain English: After we had left them and set sail, we 
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Acts/500/21.jpg" alt="Illustration for Acts 21" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Acts/500/21.jpg" alt="Illustration for Acts 21" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Acts 21</figcaption>
 </figure>
 </div>

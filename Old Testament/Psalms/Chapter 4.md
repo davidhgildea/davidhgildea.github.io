@@ -73,7 +73,7 @@ description: "Psalms 4 in plain English: Listen to me when I call, God who makes
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/4.jpg" alt="Illustration for Psalms 4" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/4.jpg" alt="Illustration for Psalms 4" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 4</figcaption>
 </figure>
 </div>

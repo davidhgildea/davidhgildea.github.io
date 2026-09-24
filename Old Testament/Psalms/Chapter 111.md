@@ -73,7 +73,7 @@ description: "Psalms 111 in plain English: Praise God. I will praise God with al
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/111.jpg" alt="Illustration for Psalms 111" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/111.jpg" alt="Illustration for Psalms 111" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 111</figcaption>
 </figure>
 </div>

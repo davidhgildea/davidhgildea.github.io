@@ -73,7 +73,7 @@ description: "Deuteronomy 19 in plain English: When God has destroyed the nation
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Deuteronomy/500/19.jpg" alt="Illustration for Deuteronomy 19" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Deuteronomy/500/19.jpg" alt="Illustration for Deuteronomy 19" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Deuteronomy 19</figcaption>
 </figure>
 </div>

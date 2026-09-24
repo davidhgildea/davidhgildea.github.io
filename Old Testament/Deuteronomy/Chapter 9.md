@@ -73,7 +73,7 @@ description: "Deuteronomy 9 in plain English: Listen, Israel: Today you will cro
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Deuteronomy/500/9.jpg" alt="Illustration for Deuteronomy 9" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Deuteronomy/500/9.jpg" alt="Illustration for Deuteronomy 9" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Deuteronomy 9</figcaption>
 </figure>
 </div>

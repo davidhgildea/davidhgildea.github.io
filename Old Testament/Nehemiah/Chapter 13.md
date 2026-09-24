@@ -73,7 +73,7 @@ description: "Nehemiah 13 in plain English: On that day, they read from the book
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Nehemiah/500/13.jpg" alt="Illustration for Nehemiah 13" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Nehemiah/500/13.jpg" alt="Illustration for Nehemiah 13" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Nehemiah 13</figcaption>
 </figure>
 </div>

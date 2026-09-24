@@ -73,7 +73,7 @@ description: "Psalms 81 in plain English: Sing loudly to God, our strength; make
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/81.jpg" alt="Illustration for Psalms 81" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/81.jpg" alt="Illustration for Psalms 81" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 81</figcaption>
 </figure>
 </div>

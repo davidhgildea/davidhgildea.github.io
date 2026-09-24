@@ -73,7 +73,7 @@ description: "Psalms 63 in plain English: God, you are my God; I will look for y
 
 <div style="text-align: left; clear: both;">
 <figure style="float: right; width: 50%; margin-left: 10%; text-align: center;">
-    <img src="/assets/Image/Psalms/500/63.jpg" alt="Illustration for Psalms 63" style="width: 100%; height: auto;" loading="lazy" />
+    <img src="/assets/Image/Psalms/500/63.jpg" alt="Illustration for Psalms 63" width="500" height="500" style="width: 100%; height: auto;" />
     <figcaption style="font-size: 14px;">Psalms 63</figcaption>
 </figure>
 </div>
