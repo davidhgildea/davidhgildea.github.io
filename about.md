@@ -32,7 +32,3 @@ Every chapter has its own page, and every verse has its own link. Add `#v` and t
 ### Plain text
 
 Each chapter is also available as plain text, one verse per line, for example [/text/john/3.txt](/text/john/3.txt). The complete Bible is available as a single file: [/text/simplified-bible.txt](/text/simplified-bible.txt). A summary for AI tools is at [/llms.txt](/llms.txt).
-
-## The Simplified Bible app
-
-The Simplified Bible is also available as an app for iPhone and Android, with the same text, audio and illustrations, for reading offline.
