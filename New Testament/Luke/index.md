@@ -5,12 +5,12 @@ has_children: true
 has_toc: false
 nav_order: 42
 layout: default
-description: "Luke in the Simplified Bible, a plain-English version of the King James Version (KJV). 24 chapters, with audio."
+description: "Luke in the Simplified Bible, a simplified English version of the Holy Bible. 24 chapters, with audio."
 ---
 
 # Luke
 
-Luke in the [Simplified Bible](/about/), a plain-English version of the King James Version (KJV). It has 24 chapters.
+Luke in the [Simplified Bible](/about/), a simplified English version of the Holy Bible. It has 24 chapters.
 
 ## Chapters
 

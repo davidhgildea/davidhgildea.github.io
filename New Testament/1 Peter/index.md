@@ -5,12 +5,12 @@ has_children: true
 has_toc: false
 nav_order: 60
 layout: default
-description: "1 Peter in the Simplified Bible, a plain-English version of the King James Version (KJV). 5 chapters, with audio."
+description: "1 Peter in the Simplified Bible, a simplified English version of the Holy Bible. 5 chapters, with audio."
 ---
 
 # 1 Peter
 
-1 Peter in the [Simplified Bible](/about/), a plain-English version of the King James Version (KJV). It has 5 chapters.
+1 Peter in the [Simplified Bible](/about/), a simplified English version of the Holy Bible. It has 5 chapters.
 
 ## Chapters
 

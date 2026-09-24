@@ -5,12 +5,12 @@ has_children: true
 has_toc: false
 nav_order: 14
 layout: default
-description: "2 Chronicles in the Simplified Bible, a plain-English version of the King James Version (KJV). 36 chapters, with audio."
+description: "2 Chronicles in the Simplified Bible, a simplified English version of the Holy Bible. 36 chapters, with audio."
 ---
 
 # 2 Chronicles
 
-2 Chronicles in the [Simplified Bible](/about/), a plain-English version of the King James Version (KJV). It has 36 chapters.
+2 Chronicles in the [Simplified Bible](/about/), a simplified English version of the Holy Bible. It has 36 chapters.
 
 ## Chapters
 

@@ -5,12 +5,12 @@ has_children: true
 has_toc: false
 nav_order: 66
 layout: default
-description: "Revelation in the Simplified Bible, a plain-English version of the King James Version (KJV). 22 chapters, with audio."
+description: "Revelation in the Simplified Bible, a simplified English version of the Holy Bible. 22 chapters, with audio."
 ---
 
 # Revelation
 
-Revelation in the [Simplified Bible](/about/), a plain-English version of the King James Version (KJV). It has 22 chapters.
+Revelation in the [Simplified Bible](/about/), a simplified English version of the Holy Bible. It has 22 chapters.
 
 ## Chapters
 

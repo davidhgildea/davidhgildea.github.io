@@ -5,12 +5,12 @@ has_children: true
 has_toc: false
 nav_order: 25
 layout: default
-description: "Lamentations in the Simplified Bible, a plain-English version of the King James Version (KJV). 5 chapters, with audio."
+description: "Lamentations in the Simplified Bible, a simplified English version of the Holy Bible. 5 chapters, with audio."
 ---
 
 # Lamentations
 
-Lamentations in the [Simplified Bible](/about/), a plain-English version of the King James Version (KJV). It has 5 chapters.
+Lamentations in the [Simplified Bible](/about/), a simplified English version of the Holy Bible. It has 5 chapters.
 
 ## Chapters
 

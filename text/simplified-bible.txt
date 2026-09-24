@@ -1,5 +1,5 @@
 Simplified Bible (simplified.bible)
-The complete Simplified Bible, a plain-English version of the King James Version (KJV).
+The complete Simplified Bible, a simplified English version of the Holy Bible.
 Usage terms: https://simplified.bible/about/#quoting
 
 Genesis 1:1 At the start, God made the sky and the earth.

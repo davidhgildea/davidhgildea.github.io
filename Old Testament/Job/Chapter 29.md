@@ -26,18 +26,8 @@ description: "Job 29 in plain English: Job kept on speaking in his story, and sa
       "@type": "Book",
       "name": "Simplified Bible",
       "url": "https://simplified.bible/",
-      "inLanguage": "en",
-      "isBasedOn": {
-        "@type": "Book",
-        "name": "King James Version",
-        "alternateName": "KJV"
-      }
+      "inLanguage": "en"
     }
-  },
-  "isBasedOn": {
-    "@type": "Book",
-    "name": "King James Version",
-    "alternateName": "KJV"
   },
   "publisher": {
     "@type": "Organization",
@@ -61,7 +51,7 @@ description: "Job 29 in plain English: Job kept on speaking in his story, and sa
 
 # Job 29
 
-<p class="chapter-intro">Job chapter 29 from the <a href="/about/">Simplified Bible</a>, a plain-English version of the King James Version (KJV).</p>
+<p class="chapter-intro">Job chapter 29 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
 
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />

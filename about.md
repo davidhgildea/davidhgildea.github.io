@@ -3,12 +3,12 @@ layout: default
 title: About
 nav_order: 90
 permalink: /about/
-description: "About the Simplified Bible: the whole Bible in plain, easy English, based on the King James Version (KJV). How to use it and how to cite it."
+description: "About the Simplified Bible: a simplified English version of the Holy Bible. How to use it and how to cite it."
 ---
 
 # About the Simplified Bible
 
-The **Simplified Bible** is the whole Bible, all 66 books of the Old and New Testaments, in plain, easy English. It is based on the **King James Version (KJV)** and keeps the KJV's books, chapters and verse numbers. Every chapter has audio narration and an illustration.
+The **Simplified Bible** is the whole Bible, all 66 books of the Old and New Testaments, in plain, easy English. It is a simplified English version of the Holy Bible and uses the standard books, chapters and verse numbers. Every chapter has audio narration and an illustration.
 
 ## Using the Simplified Bible
 {: #quoting }

@@ -5,12 +5,12 @@ has_children: true
 has_toc: false
 nav_order: 41
 layout: default
-description: "Mark in the Simplified Bible, a plain-English version of the King James Version (KJV). 16 chapters, with audio."
+description: "Mark in the Simplified Bible, a simplified English version of the Holy Bible. 16 chapters, with audio."
 ---
 
 # Mark
 
-Mark in the [Simplified Bible](/about/), a plain-English version of the King James Version (KJV). It has 16 chapters.
+Mark in the [Simplified Bible](/about/), a simplified English version of the Holy Bible. It has 16 chapters.
 
 ## Chapters
 

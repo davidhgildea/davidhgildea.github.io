@@ -5,12 +5,12 @@ has_children: true
 has_toc: false
 nav_order: 55
 layout: default
-description: "2 Timothy in the Simplified Bible, a plain-English version of the King James Version (KJV). 4 chapters, with audio."
+description: "2 Timothy in the Simplified Bible, a simplified English version of the Holy Bible. 4 chapters, with audio."
 ---
 
 # 2 Timothy
 
-2 Timothy in the [Simplified Bible](/about/), a plain-English version of the King James Version (KJV). It has 4 chapters.
+2 Timothy in the [Simplified Bible](/about/), a simplified English version of the Holy Bible. It has 4 chapters.
 
 ## Chapters
 

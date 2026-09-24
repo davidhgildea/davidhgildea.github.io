@@ -26,18 +26,8 @@ description: "John 20 in plain English: Mary Magdalene came to the tomb early on
       "@type": "Book",
       "name": "Simplified Bible",
       "url": "https://simplified.bible/",
-      "inLanguage": "en",
-      "isBasedOn": {
-        "@type": "Book",
-        "name": "King James Version",
-        "alternateName": "KJV"
-      }
+      "inLanguage": "en"
     }
-  },
-  "isBasedOn": {
-    "@type": "Book",
-    "name": "King James Version",
-    "alternateName": "KJV"
   },
   "publisher": {
     "@type": "Organization",
@@ -61,7 +51,7 @@ description: "John 20 in plain English: Mary Magdalene came to the tomb early on
 
 # John 20
 
-<p class="chapter-intro">John chapter 20 from the <a href="/about/">Simplified Bible</a>, a plain-English version of the King James Version (KJV).</p>
+<p class="chapter-intro">John chapter 20 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
 
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />

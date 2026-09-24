@@ -5,12 +5,12 @@ has_children: true
 has_toc: false
 nav_order: 3
 layout: default
-description: "Leviticus in the Simplified Bible, a plain-English version of the King James Version (KJV). 27 chapters, with audio."
+description: "Leviticus in the Simplified Bible, a simplified English version of the Holy Bible. 27 chapters, with audio."
 ---
 
 # Leviticus
 
-Leviticus in the [Simplified Bible](/about/), a plain-English version of the King James Version (KJV). It has 27 chapters.
+Leviticus in the [Simplified Bible](/about/), a simplified English version of the Holy Bible. It has 27 chapters.
 
 ## Chapters
 

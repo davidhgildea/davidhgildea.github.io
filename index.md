@@ -2,7 +2,7 @@
 title: Home
 nav_order: 1
 layout: home
-description: "The Simplified Bible: the whole Bible in plain, easy English, simplified from the King James Version (KJV). Read and listen free online, chapter by chapter."
+description: "The Simplified Bible: a simplified English version of the Holy Bible. Read and listen free online, chapter by chapter."
 ---
 
 <h1 style="text-align: center;">Simplified Bible</h1>
@@ -11,7 +11,7 @@ description: "The Simplified Bible: the whole Bible in plain, easy English, simp
 
 The **Simplified Bible** is the complete Bible, Old and New Testaments, in simple modern English. Every chapter can be read and listened to free online, with an illustration for each chapter.
 
-It keeps the KJV's books, chapters and verse numbers, so any Bible reference works here too.
+It uses the standard books, chapters and verse numbers, so any Bible reference works here too.
 
 ## Start reading
 

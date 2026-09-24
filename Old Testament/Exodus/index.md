@@ -5,12 +5,12 @@ has_children: true
 has_toc: false
 nav_order: 2
 layout: default
-description: "Exodus in the Simplified Bible, a plain-English version of the King James Version (KJV). 40 chapters, with audio."
+description: "Exodus in the Simplified Bible, a simplified English version of the Holy Bible. 40 chapters, with audio."
 ---
 
 # Exodus
 
-Exodus in the [Simplified Bible](/about/), a plain-English version of the King James Version (KJV). It has 40 chapters.
+Exodus in the [Simplified Bible](/about/), a simplified English version of the Holy Bible. It has 40 chapters.
 
 ## Chapters
 

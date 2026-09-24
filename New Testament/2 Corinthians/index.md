@@ -5,12 +5,12 @@ has_children: true
 has_toc: false
 nav_order: 47
 layout: default
-description: "2 Corinthians in the Simplified Bible, a plain-English version of the King James Version (KJV). 13 chapters, with audio."
+description: "2 Corinthians in the Simplified Bible, a simplified English version of the Holy Bible. 13 chapters, with audio."
 ---
 
 # 2 Corinthians
 
-2 Corinthians in the [Simplified Bible](/about/), a plain-English version of the King James Version (KJV). It has 13 chapters.
+2 Corinthians in the [Simplified Bible](/about/), a simplified English version of the Holy Bible. It has 13 chapters.
 
 ## Chapters
 

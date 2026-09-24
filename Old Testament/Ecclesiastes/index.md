@@ -5,12 +5,12 @@ has_children: true
 has_toc: false
 nav_order: 21
 layout: default
-description: "Ecclesiastes in the Simplified Bible, a plain-English version of the King James Version (KJV). 12 chapters, with audio."
+description: "Ecclesiastes in the Simplified Bible, a simplified English version of the Holy Bible. 12 chapters, with audio."
 ---
 
 # Ecclesiastes
 
-Ecclesiastes in the [Simplified Bible](/about/), a plain-English version of the King James Version (KJV). It has 12 chapters.
+Ecclesiastes in the [Simplified Bible](/about/), a simplified English version of the Holy Bible. It has 12 chapters.
 
 ## Chapters
 

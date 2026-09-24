@@ -5,12 +5,12 @@ has_children: true
 has_toc: false
 nav_order: 16
 layout: default
-description: "Nehemiah in the Simplified Bible, a plain-English version of the King James Version (KJV). 13 chapters, with audio."
+description: "Nehemiah in the Simplified Bible, a simplified English version of the Holy Bible. 13 chapters, with audio."
 ---
 
 # Nehemiah
 
-Nehemiah in the [Simplified Bible](/about/), a plain-English version of the King James Version (KJV). It has 13 chapters.
+Nehemiah in the [Simplified Bible](/about/), a simplified English version of the Holy Bible. It has 13 chapters.
 
 ## Chapters
 

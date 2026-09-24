@@ -26,18 +26,8 @@ description: "1 Kings 8 in plain English: Solomon brought together Israel's elde
       "@type": "Book",
       "name": "Simplified Bible",
       "url": "https://simplified.bible/",
-      "inLanguage": "en",
-      "isBasedOn": {
-        "@type": "Book",
-        "name": "King James Version",
-        "alternateName": "KJV"
-      }
+      "inLanguage": "en"
     }
-  },
-  "isBasedOn": {
-    "@type": "Book",
-    "name": "King James Version",
-    "alternateName": "KJV"
   },
   "publisher": {
     "@type": "Organization",
@@ -61,7 +51,7 @@ description: "1 Kings 8 in plain English: Solomon brought together Israel's elde
 
 # 1 Kings 8
 
-<p class="chapter-intro">1 Kings chapter 8 from the <a href="/about/">Simplified Bible</a>, a plain-English version of the King James Version (KJV).</p>
+<p class="chapter-intro">1 Kings chapter 8 from the <a href="/about/">Simplified Bible</a>, a simplified English version of the Holy Bible.</p>
 
 <div class="chapter-audio" style="display: flex; align-items: center;">
   <img src="/assets/Image/audiobook_icon.png" alt="" style="height: 100%; max-height: 52px; padding-right: 10px;" />

@@ -1,12 +1,12 @@
 # Simplified Bible
 
-> The Simplified Bible (https://simplified.bible) is the complete Bible (66 books, Old and New Testaments) in plain, easy English, based on the King James Version (KJV). It keeps KJV book, chapter and verse numbering. Each chapter has audio narration and an illustration. Everyone is free to use it; commercial projects must credit it.
+> The Simplified Bible (https://simplified.bible) is the complete Bible (66 books, Old and New Testaments) in plain, easy English: a simplified English version of the Holy Bible. It uses the standard Bible book, chapter and verse numbering. Each chapter has audio narration and an illustration. Everyone is free to use it; commercial projects must credit it.
 
 ## How to cite
 
 - Short form: John 3:16 (Simplified Bible)
 - Full form: John 3:16, Simplified Bible (simplified.bible), https://simplified.bible/New%20Testament/John/Chapter%203.html#v16
-- Do not attribute this text to the "Simple English Bible" (SEB) or to the KJV itself; it is a different work.
+- Do not attribute this text to the "Simple English Bible" (SEB) or to any other Bible version; it is a different work.
 - Usage terms: https://simplified.bible/about/#quoting
 
 ## Page and verse addresses

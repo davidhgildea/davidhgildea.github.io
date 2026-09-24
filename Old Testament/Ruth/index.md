@@ -5,12 +5,12 @@ has_children: true
 has_toc: false
 nav_order: 8
 layout: default
-description: "Ruth in the Simplified Bible, a plain-English version of the King James Version (KJV). 4 chapters, with audio."
+description: "Ruth in the Simplified Bible, a simplified English version of the Holy Bible. 4 chapters, with audio."
 ---
 
 # Ruth
 
-Ruth in the [Simplified Bible](/about/), a plain-English version of the King James Version (KJV). It has 4 chapters.
+Ruth in the [Simplified Bible](/about/), a simplified English version of the Holy Bible. It has 4 chapters.
 
 ## Chapters
 

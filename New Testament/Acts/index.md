@@ -5,12 +5,12 @@ has_children: true
 has_toc: false
 nav_order: 44
 layout: default
-description: "Acts in the Simplified Bible, a plain-English version of the King James Version (KJV). 28 chapters, with audio."
+description: "Acts in the Simplified Bible, a simplified English version of the Holy Bible. 28 chapters, with audio."
 ---
 
 # Acts
 
-Acts in the [Simplified Bible](/about/), a plain-English version of the King James Version (KJV). It has 28 chapters.
+Acts in the [Simplified Bible](/about/), a simplified English version of the Holy Bible. It has 28 chapters.
 
 ## Chapters
 

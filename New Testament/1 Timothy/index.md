@@ -5,12 +5,12 @@ has_children: true
 has_toc: false
 nav_order: 54
 layout: default
-description: "1 Timothy in the Simplified Bible, a plain-English version of the King James Version (KJV). 6 chapters, with audio."
+description: "1 Timothy in the Simplified Bible, a simplified English version of the Holy Bible. 6 chapters, with audio."
 ---
 
 # 1 Timothy
 
-1 Timothy in the [Simplified Bible](/about/), a plain-English version of the King James Version (KJV). It has 6 chapters.
+1 Timothy in the [Simplified Bible](/about/), a simplified English version of the Holy Bible. It has 6 chapters.
 
 ## Chapters
 

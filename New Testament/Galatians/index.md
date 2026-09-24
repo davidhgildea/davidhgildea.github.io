@@ -5,12 +5,12 @@ has_children: true
 has_toc: false
 nav_order: 48
 layout: default
-description: "Galatians in the Simplified Bible, a plain-English version of the King James Version (KJV). 6 chapters, with audio."
+description: "Galatians in the Simplified Bible, a simplified English version of the Holy Bible. 6 chapters, with audio."
 ---
 
 # Galatians
 
-Galatians in the [Simplified Bible](/about/), a plain-English version of the King James Version (KJV). It has 6 chapters.
+Galatians in the [Simplified Bible](/about/), a simplified English version of the Holy Bible. It has 6 chapters.
 
 ## Chapters
 

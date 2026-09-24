@@ -5,12 +5,12 @@ has_children: true
 has_toc: false
 nav_order: 11
 layout: default
-description: "1 Kings in the Simplified Bible, a plain-English version of the King James Version (KJV). 22 chapters, with audio."
+description: "1 Kings in the Simplified Bible, a simplified English version of the Holy Bible. 22 chapters, with audio."
 ---
 
 # 1 Kings
 
-1 Kings in the [Simplified Bible](/about/), a plain-English version of the King James Version (KJV). It has 22 chapters.
+1 Kings in the [Simplified Bible](/about/), a simplified English version of the Holy Bible. It has 22 chapters.
 
 ## Chapters
 

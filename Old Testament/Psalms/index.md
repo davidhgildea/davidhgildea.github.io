@@ -5,12 +5,12 @@ has_children: true
 has_toc: false
 nav_order: 19
 layout: default
-description: "Psalms in the Simplified Bible, a plain-English version of the King James Version (KJV). 150 chapters, with audio."
+description: "Psalms in the Simplified Bible, a simplified English version of the Holy Bible. 150 chapters, with audio."
 ---
 
 # Psalms
 
-Psalms in the [Simplified Bible](/about/), a plain-English version of the King James Version (KJV). It has 150 chapters.
+Psalms in the [Simplified Bible](/about/), a simplified English version of the Holy Bible. It has 150 chapters.
 
 ## Chapters
 

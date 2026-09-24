@@ -5,12 +5,12 @@ has_children: true
 has_toc: false
 nav_order: 18
 layout: default
-description: "Job in the Simplified Bible, a plain-English version of the King James Version (KJV). 42 chapters, with audio."
+description: "Job in the Simplified Bible, a simplified English version of the Holy Bible. 42 chapters, with audio."
 ---
 
 # Job
 
-Job in the [Simplified Bible](/about/), a plain-English version of the King James Version (KJV). It has 42 chapters.
+Job in the [Simplified Bible](/about/), a simplified English version of the Holy Bible. It has 42 chapters.
 
 ## Chapters
 

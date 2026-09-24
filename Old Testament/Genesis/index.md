@@ -5,12 +5,12 @@ has_children: true
 has_toc: false
 nav_order: 1
 layout: default
-description: "Genesis in the Simplified Bible, a plain-English version of the King James Version (KJV). 50 chapters, with audio."
+description: "Genesis in the Simplified Bible, a simplified English version of the Holy Bible. 50 chapters, with audio."
 ---
 
 # Genesis
 
-Genesis in the [Simplified Bible](/about/), a plain-English version of the King James Version (KJV). It has 50 chapters.
+Genesis in the [Simplified Bible](/about/), a simplified English version of the Holy Bible. It has 50 chapters.
 
 ## Chapters
 

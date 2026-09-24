@@ -5,12 +5,12 @@ has_children: true
 has_toc: false
 nav_order: 13
 layout: default
-description: "1 Chronicles in the Simplified Bible, a plain-English version of the King James Version (KJV). 29 chapters, with audio."
+description: "1 Chronicles in the Simplified Bible, a simplified English version of the Holy Bible. 29 chapters, with audio."
 ---
 
 # 1 Chronicles
 
-1 Chronicles in the [Simplified Bible](/about/), a plain-English version of the King James Version (KJV). It has 29 chapters.
+1 Chronicles in the [Simplified Bible](/about/), a simplified English version of the Holy Bible. It has 29 chapters.
 
 ## Chapters
 

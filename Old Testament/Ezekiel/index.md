@@ -5,12 +5,12 @@ has_children: true
 has_toc: false
 nav_order: 26
 layout: default
-description: "Ezekiel in the Simplified Bible, a plain-English version of the King James Version (KJV). 48 chapters, with audio."
+description: "Ezekiel in the Simplified Bible, a simplified English version of the Holy Bible. 48 chapters, with audio."
 ---
 
 # Ezekiel
 
-Ezekiel in the [Simplified Bible](/about/), a plain-English version of the King James Version (KJV). It has 48 chapters.
+Ezekiel in the [Simplified Bible](/about/), a simplified English version of the Holy Bible. It has 48 chapters.
 
 ## Chapters
 
